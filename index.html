@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="เว็บสำรองสำหรับค้นหาข้อมูลจาก karemairodnare public dataset">
+  <title>ค้นหาข้อมูล — Karemairodnare Archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap nav">
+      <a class="brand" href="./" aria-label="หน้าแรก">
+        <span class="brand-mark">ค</span>
+        <span><strong>คลังข้อมูลสำรอง</strong><small>Karemairodnare Archive</small></span>
+      </a>
+      <nav>
+        <a href="#search">ค้นหา</a>
+        <a href="api/v1/records.json">JSON</a>
+        <a href="https://github.com/momoyuki/karemairodnare-archive">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap hero-inner">
+        <div class="eyebrow">PUBLIC DATA MIRROR</div>
+        <h1>ค้นหาข้อมูลจากคลังสำรอง</h1>
+        <p>สำเนาข้อมูลสาธารณะที่เก็บไว้บน GitHub เพื่อให้ยังค้นหาและตรวจสอบย้อนหลังได้ แม้บริการต้นทางไม่พร้อมใช้งาน</p>
+        <div class="hero-meta">
+          <span id="recordCount">กำลังโหลดข้อมูล…</span>
+          <span id="backupTime"></span>
+        </div>
+      </div>
+    </section>
+
+    <section id="search" class="wrap search-panel">
+      <div class="searchbox">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg>
+        <input id="q" type="search" placeholder="ค้นหาชื่อ บุคคล หน่วยงาน จังหวัด อำเภอ หรือข้อความอื่น…" autocomplete="off">
+        <button id="clearSearch" class="clear" aria-label="ล้างคำค้น">×</button>
+      </div>
+
+      <div class="filters">
+        <label>จังหวัด<select id="province"><option value="">ทั้งหมด</option></select></label>
+        <label>อำเภอ<select id="district"><option value="">ทั้งหมด</option></select></label>
+        <label>หน่วยงาน<select id="agency"><option value="">ทั้งหมด</option></select></label>
+        <button id="reset" class="btn-secondary">ล้างตัวกรอง</button>
+      </div>
+
+      <div class="result-head">
+        <div><strong id="resultCount">0</strong> รายการ</div>
+        <label class="page-size">แสดง <select id="pageSize"><option>25</option><option selected>50</option><option>100</option></select> รายการ/หน้า</label>
+      </div>
+
+      <div id="status" class="status">กำลังโหลดข้อมูลสำรอง…</div>
+      <div id="results" class="results" aria-live="polite"></div>
+      <div id="pagination" class="pagination"></div>
+    </section>
+  </main>
+
+  <dialog id="detailDialog">
+    <div class="dialog-head">
+      <div><div class="eyebrow">RECORD DETAIL</div><h2 id="detailTitle">รายละเอียด</h2></div>
+      <button id="closeDialog" aria-label="ปิด">×</button>
+    </div>
+    <div id="detailBody" class="detail-body"></div>
+  </dialog>
+
+  <footer>
+    <div class="wrap">Archive สำรองจากแหล่งข้อมูลสาธารณะ • ไม่ใช่เว็บไซต์ต้นทาง • <a href="https://github.com/momoyuki/karemairodnare-archive">ดู source และประวัติ snapshot</a></div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
