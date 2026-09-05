@@ -1,46 +1,47 @@
 # karemairodnare-archive
 
-Backup/mirror ของชุดข้อมูลและ API จาก `https://260816-karemairodnare.vercel.app` พร้อมหน้าเว็บสำรองสำหรับค้นหาข้อมูลโดยไม่ต้องพึ่ง API ต้นทาง
+Community mirror/frontend สำหรับ Karemairodnare public API พร้อมระบบ snapshot สำรอง
 
-## เว็บไซต์สำรอง
+## เว็บไซต์
 
-เมื่อเปิด GitHub Pages แล้ว เว็บไซต์จะอยู่ที่:
+https://momoyuki.github.io/karemairodnare-archive/
 
-`https://momoyuki.github.io/karemairodnare-archive/`
+หน้าเว็บใช้ API ต้นทางเป็นแหล่งข้อมูลหลัก:
 
-หน้าเว็บอ่าน `api/v1/records.json` จาก snapshot ใน repository โดยตรง รองรับการค้นหาทุกข้อความ, กรองจังหวัด/อำเภอ/หน่วยงาน, pagination และดูรายละเอียด record
+`https://260816-karemairodnare.vercel.app/api/v1/records.json`
 
-## ข้อมูลที่สำรอง
+เมื่อเปิดหน้าเว็บ browser จะเรียก API ต้นทางโดยตรง จึงเห็นข้อมูลปัจจุบันโดยไม่ต้องรอ GitHub Actions backup หาก API ต้นทางเรียกไม่ได้ frontend จะลองใช้ `api/v1/records.json` จาก snapshot ใน repository แทนอัตโนมัติ
 
-โครงสร้าง API ถูก mirror ไว้ใกล้เคียงต้นทาง เช่น:
+รองรับ full-text search, กรองจังหวัด/อำเภอ/หน่วยงาน, pagination และดูรายละเอียด record
 
-- `/api/v1/records.json`
-- `/api/v1/provinces.json`
-- `/api/v1/provinces/{slug}.json`
-- `/api/v1/districts.json`
-- `/api/v1/districts/{slug}.json`
-- `/api/v1/agencies.json`
-- `/api/v1/agencies/{slug}.json`
-- `/api/v1/meta.json`
-- `/api/v1/index.json`
-- `/api/v1/openapi.json`
+## Architecture
 
-## Automatic backup
+```text
+Browser
+  |
+  +--> upstream public API (primary)
+  |      https://260816-karemairodnare.vercel.app/api/v1/records.json
+  |
+  +--> local snapshot (fallback)
+         ./api/v1/records.json
+```
 
-GitHub Actions รัน `scripts/backup.py` ทุกวันเพื่อดึง snapshot ใหม่ แล้ว commit เฉพาะเมื่อข้อมูลเปลี่ยน พร้อม `backup-manifest.json` และ SHA-256 checksum สำหรับตรวจสอบไฟล์
+GitHub Pages ใช้สำหรับ host frontend เท่านั้น จึงไม่จำเป็นต้องดาวน์โหลด dataset ใหม่ทุกครั้งที่ deploy
 
-สามารถรันเองได้จาก **Actions → Backup API → Run workflow** หรือในเครื่อง:
+## Snapshot backup
+
+`scripts/backup.py` และ workflow `Backup API` ยังเก็บไว้สำหรับ disaster recovery โดยสามารถสร้าง snapshot ของ public API ลงใน `api/v1/` ได้
+
+สามารถรันเองได้จาก **Actions → Backup API → Run workflow** หรือ:
 
 ```bash
 python scripts/backup.py
 ```
 
-## Deploy website
+## Deploy
 
-Workflow `Deploy archive website` จะ deploy หน้าเว็บไป GitHub Pages เมื่อ branch `main` เปลี่ยนแปลง หาก repository ยังไม่เคยเปิด Pages ให้เข้า **Settings → Pages → Build and deployment → Source** แล้วเลือก **GitHub Actions** หนึ่งครั้ง
+Workflow `Deploy mirror website` deploy frontend ไป GitHub Pages ทุกครั้งที่ branch `main` เปลี่ยนแปลง
 
-## ต้นทางและข้อจำกัด
+## ข้อมูลและข้อจำกัด
 
-- Website/API: `https://260816-karemairodnare.vercel.app/api`
-- โปรเจกต์นี้เป็น archive/mirror สำรอง ไม่ใช่เว็บไซต์หรือผู้ดูแลข้อมูลต้นทาง
-- ข้อมูลต้นทางมาจากแหล่งเผยแพร่สาธารณะและอาจมีข้อจำกัดด้านความถูกต้อง ควรตรวจ `sources` และ metadata ของข้อมูลก่อนนำไปอ้างอิง
+โปรเจกต์นี้เป็น community frontend/mirror ไม่ใช่เว็บไซต์หรือผู้ดูแลข้อมูลต้นทาง ข้อมูลที่แสดงมาจากชุดข้อมูลสาธารณะของต้นทาง และไม่ควรถูกตีความว่าเป็นการยืนยันสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่เหมือนกันอาจหมายถึงคนละบุคคล ควรตรวจสอบ `sources`, metadata และเอกสารอ้างอิงของแต่ละรายการก่อนนำข้อมูลไปใช้
