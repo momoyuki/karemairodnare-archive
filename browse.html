@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Browse Karemairodnare public dataset by province district and agency">
+  <title>เรียกดูตามพื้นที่ — แกไม่รอดแน่ Community Mirror</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar"><div class="wrap nav"><a class="brand" href="./"><span class="brand-mark">ก</span><span><strong>แกไม่รอดแน่</strong><small>Community mirror / API frontend</small></span></a><nav><a href="./">ค้นหา</a><a href="browse.html">เรียกดู</a><a href="https://github.com/momoyuki/karemairodnare-archive">GitHub</a></nav></div></header>
+<main>
+<section class="hero hero-compact"><div class="wrap hero-inner"><div class="eyebrow">BROWSE DATASET</div><h1 id="browseTitle">เรียกดูตามจังหวัด</h1><p id="browseSubtitle">เลือกจังหวัดเพื่อไล่ดู อำเภอ → หน่วยงาน → รายการ</p><div class="hero-meta"><span id="recordCount">กำลังโหลดข้อมูล…</span><span id="sourceBadge"></span></div></div></section>
+<section class="wrap search-panel browse-panel">
+  <aside class="notice"><strong>หมายเหตุ</strong><span>การปรากฏชื่อในชุดข้อมูลไม่ใช่คำพิพากษาหรือการยืนยันความผิด ควรตรวจสอบเอกสารต้นทางก่อนนำข้อมูลไปอ้างอิง</span></aside>
+  <nav id="breadcrumbs" class="breadcrumbs"><a href="browse.html">ทุกจังหวัด</a></nav>
+  <div id="browseTools" class="browse-tools"><input id="browseSearch" type="search" placeholder="กรองรายการในหน้านี้…" autocomplete="off"></div>
+  <div id="browseStatus" class="status">กำลังโหลด…</div>
+  <div id="browseGrid" class="browse-grid"></div>
+  <div id="recordList" class="results"></div>
+</section>
+</main>
+<footer><div class="wrap">Community mirror/frontend ที่ใช้ public API ของต้นทาง • <a href="./">กลับหน้าค้นหา</a></div></footer>
+<script src="browse.js" defer></script>
+</body></html>
