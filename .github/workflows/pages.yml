@@ -24,6 +24,34 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Fetch current dataset for website
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p api/v1
+          curl --fail --show-error --silent --location --retry 3 \
+            "https://260816-karemairodnare.vercel.app/api/v1/records.json" \
+            -o api/v1/records.json
+          curl --fail --show-error --silent --location --retry 3 \
+            "https://260816-karemairodnare.vercel.app/api/v1/meta.json" \
+            -o api/v1/meta.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path('api/v1/records.json')
+          data = json.loads(p.read_text(encoding='utf-8'))
+          if isinstance(data, list):
+              count = len(data)
+          elif isinstance(data, dict):
+              rows = next((data.get(k) for k in ('records','data','items','results') if isinstance(data.get(k), list)), [])
+              count = len(rows)
+          else:
+              count = 0
+          if count == 0:
+              raise SystemExit('records.json downloaded but contains no records')
+          print(f'Dataset ready: {count} records')
+          PY
+
       - name: Configure and enable Pages
         uses: actions/configure-pages@v5
         with:
