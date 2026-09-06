@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.เป้า",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-เป้า",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เป้า",
+      "district": "ตระการพืชผล",
+      "id": "2f27b5ee178b393c419d2d23",
+      "maskedId": "334xxxxxx0946",
+      "name": "ชํานาญ ไชยศร",
+      "province": "อุบลราชธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B9%8D%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%8D-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เป้า",
+      "district": "ตระการพืชผล",
+      "id": "8ef565fe0d30a37eef54770f",
+      "maskedId": "110xxxxxx9982",
+      "name": "สุนีย์ หัดนอก",
+      "province": "อุบลราชธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

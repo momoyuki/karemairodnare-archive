@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตำบลบ่อพลับ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลบ่อพลับ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลบ่อพลับ",
+      "district": "เมืองนครปฐม",
+      "id": "cb78f6358d7ebceb152e05dd",
+      "maskedId": "170xxxxxx8582",
+      "name": "ยุวดี เอี่ยมคุ่ย",
+      "province": "นครปฐม",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%84%E0%B8%B8%E0%B9%88%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ่อพลับ",
+      "district": "เมืองนครปฐม",
+      "id": "db5699e6378f3df9cc1a23d7",
+      "maskedId": "170xxxxxx4695",
+      "name": "ศศิธร รีเงิน",
+      "province": "นครปฐม",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

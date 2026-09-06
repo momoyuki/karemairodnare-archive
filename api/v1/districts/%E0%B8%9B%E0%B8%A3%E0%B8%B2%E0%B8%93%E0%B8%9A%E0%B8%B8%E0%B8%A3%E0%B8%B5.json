@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "ปราณบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ปราณบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลปากน้ําปราณ",
+      "district": "ปราณบุรี",
+      "id": "e29dce885b4b59c69e1f412b",
+      "maskedId": "176xxxxxx4445",
+      "name": "ขวัญดาว นกแก้ว",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%94%E0%B8%B2%E0%B8%A7-%E0%B8%99%E0%B8%81%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปราณบุรี",
+      "district": "ปราณบุรี",
+      "id": "6dad18d4e171eabf584ba1d1",
+      "maskedId": "177xxxxxx8036",
+      "name": "พรพิมล กลิ่นหอม",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปากน้ําปราณ",
+      "district": "ปราณบุรี",
+      "id": "9971388c008795b942124d8c",
+      "maskedId": "172xxxxxx0288",
+      "name": "วิศรุต รัตนะ",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B8%E0%B8%95-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปากน้ําปราณ",
+      "district": "ปราณบุรี",
+      "id": "6b6178cdaac555085df12e3c",
+      "maskedId": "176xxxxxx5134",
+      "name": "สุชานรี นกแก้ว",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B5-%E0%B8%99%E0%B8%81%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

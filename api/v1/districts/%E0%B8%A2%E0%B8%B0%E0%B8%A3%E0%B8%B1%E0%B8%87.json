@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "count": 11,
+    "kind": "district",
+    "name": "ยะรัง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ยะรัง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วัด",
+      "district": "ยะรัง",
+      "id": "80ef314a988190b08a81957d",
+      "maskedId": "395xxxxxx0887",
+      "name": "ชารีฟ สาและ",
+      "province": "ปัตตานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%9F-%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระโด",
+      "district": "ยะรัง",
+      "id": "068bb36795932bbb790e3df6",
+      "maskedId": "194xxxxxx7254",
+      "name": "นิอัลวานีย์ เจ๊ะแว",
+      "province": "ปัตตานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B9%81%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาตูม",
+      "district": "ยะรัง",
+      "id": "cdfc779e5c2a59493a59854d",
+      "maskedId": "395xxxxxx6637",
+      "name": "นูรอัยนีย์ แดสามัญ",
+      "province": "ปัตตานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%94%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เมาะมาวี",
+      "district": "ยะรัง",
+      "id": "a45418a2f8201c1655624b6c",
+      "maskedId": "194xxxxxx3680",
+      "name": "ฟาซียะ สะมาโระ",
+      "province": "ปัตตานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%B0-%E0%B8%AA%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาตูม",
+      "district": "ยะรัง",
+      "id": "f91b57d5ff9eba8351151eb2",
+      "maskedId": "194xxxxxx9176",
+      "name": "ฟาอีซะ สะเยาะ",
+      "province": "ปัตตานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B8%8B%E0%B8%B0-%E0%B8%AA%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะนอ",
+      "district": "ยะรัง",
+      "id": "358e1895780a7cb529dfb4ab",
+      "maskedId": "394xxxxxx1710",
+      "name": "มูฮัมหมัดนัซรี สะมาแอ",
+      "province": "ปัตตานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B9%E0%B8%AE%E0%B8%B1%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%8B%E0%B8%A3%E0%B8%B5-%E0%B8%AA%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระโด",
+      "district": "ยะรัง",
+      "id": "84e5b9b0050549dc85559089",
+      "maskedId": "195xxxxxx9038",
+      "name": "วรรัตน์ สองแก้ว",
+      "province": "ปัตตานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระโด",
+      "district": "ยะรัง",
+      "id": "25f4abe953d2e327e5d0a919",
+      "maskedId": "194xxxxxx5069",
+      "name": "สูรียา เจ๊ะยอ",
+      "province": "ปัตตานี",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B8%A2%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ระแว้ง",
+      "district": "ยะรัง",
+      "id": "caeddaf7d277e3f003a6d71f",
+      "maskedId": "194xxxxxx1702",
+      "name": "อาริฟ มูซอ",
+      "province": "ปัตตานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%9F-%E0%B8%A1%E0%B8%B9%E0%B8%8B%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปิตูมุดี",
+      "district": "ยะรัง",
+      "id": "666f35e6c4ab9e31293db692",
+      "maskedId": "195xxxxxx8383",
+      "name": "อาหมัด เด็งระกีนา",
+      "province": "ปัตตานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94-%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B5%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองใหม่",
+      "district": "ยะรัง",
+      "id": "ba5870fe3ad3531f9d219097",
+      "maskedId": "594xxxxxx6051",
+      "name": "อาหามะปิกรี กาหลง",
+      "province": "ปัตตานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%B0%E0%B8%9B%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%B5-%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ในเตา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ในเตา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ในเตา",
+      "district": "ห้วยยอด",
+      "id": "281c5541a0e2e1ac3be3ca66",
+      "maskedId": "396xxxxxx3482",
+      "name": "กาสือเร๊าะ สบูดิง",
+      "province": "ตรัง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B9%8A%E0%B8%B2%E0%B8%B0-%E0%B8%AA%E0%B8%9A%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ในเตา",
+      "district": "ห้วยยอด",
+      "id": "5cca8250fbc83145c49cbb04",
+      "maskedId": "194xxxxxx4728",
+      "name": "นูรีซัน เต็มโมะ",
+      "province": "ตรัง",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B8%99-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%82%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ในเตา",
+      "district": "ห้วยยอด",
+      "id": "0e9f10d0dfc741fce8aa4749",
+      "maskedId": "193xxxxxx2513",
+      "name": "สุดารัตน์ รักษ์จุล",
+      "province": "ตรัง",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%88%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

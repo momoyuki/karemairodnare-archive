@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "agency",
+    "name": "อบต.กะเปอร์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-กะเปอร์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "50e441de16b97c688710751e",
+      "maskedId": "194xxxxxx8076",
+      "name": "กุลสินี หนิเสะ",
+      "province": "ระนอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%AB%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%AA%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "2790b3f7cd7c141d4a2bfac5",
+      "maskedId": "181xxxxxx7431",
+      "name": "ฉวีวรรณ นภากุล",
+      "province": "ระนอง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%A7%E0%B8%B5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "be849f5e3a500c7ebfefbc8e",
+      "maskedId": "191xxxxxx7614",
+      "name": "ณภัทร หลีหมาด",
+      "province": "ระนอง",
+      "scoreChange": 70,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "5d07c822abe87101d5a7486c",
+      "maskedId": "193xxxxxx6181",
+      "name": "นิตยา เกื้อรักษ์",
+      "province": "ระนอง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "0586cb7e8caaaee7d0c6ed7f",
+      "maskedId": "170xxxxxx2516",
+      "name": "ปิยะวัฒน์ อินทนพ",
+      "province": "ระนอง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "8ad731d6666dc3a70e368115",
+      "maskedId": "180xxxxxx9814",
+      "name": "พิราวัลย์ จ่าทอง",
+      "province": "ระนอง",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "726eafc6d5223441594899c6",
+      "maskedId": "186xxxxxx0092",
+      "name": "ศโรชา อ้อยทอง",
+      "province": "ระนอง",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B9%82%E0%B8%A3%E0%B8%8A%E0%B8%B2-%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

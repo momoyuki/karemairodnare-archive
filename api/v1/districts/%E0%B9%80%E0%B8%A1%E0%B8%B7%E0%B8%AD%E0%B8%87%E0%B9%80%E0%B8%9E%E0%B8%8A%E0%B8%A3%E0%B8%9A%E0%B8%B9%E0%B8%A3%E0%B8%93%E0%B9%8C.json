@@ -1,0 +1,354 @@
+{
+  "_meta": {
+    "count": 20,
+    "kind": "district",
+    "name": "เมืองเพชรบูรณ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองเพชรบูรณ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ห้วยใหญ่",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "1df33dcaf5b7e3d9fcdc69e6",
+      "maskedId": "119xxxxxx1913",
+      "name": "ชนินทร์ ใจเพชร",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "5dc118053108c95122906f1b",
+      "maskedId": "154xxxxxx5000",
+      "name": "ชลธิศ ใจประเทือง",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%A8-%E0%B9%83%E0%B8%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าพล",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "d30af4c4b7c1595ed4b0776a",
+      "maskedId": "142xxxxxx3751",
+      "name": "ณัฐธิดา บุญพา",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9E%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "11a477b323c99fe5cecc18da",
+      "maskedId": "110xxxxxx2288",
+      "name": "ณัฐพงศ์ ชยุตราพันธุ์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%8A%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "3c86823b3ce6ebddd69960db",
+      "maskedId": "165xxxxxx0823",
+      "name": "ธนายุทธ ตันตุลา",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "bd21cb862da633f2712e78d2",
+      "maskedId": "110xxxxxx4673",
+      "name": "ธีรนัย ขัติยะวงศ์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%82%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "0381c89c3c0629146553b147",
+      "maskedId": "147xxxxxx2674",
+      "name": "ธีรยุทธ ม่วงลอด",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%A5%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "a6f602a050209a2254862b4c",
+      "maskedId": "367xxxxxx8797",
+      "name": "บุญส่ง แม่พันดุง",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B9%88%E0%B8%87-%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพล",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "794fb3c7bc32fc22796af918",
+      "maskedId": "142xxxxxx6013",
+      "name": "ปริญญา ไกยรัตน์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%84%E0%B8%81%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "1b5f34e9afd89840fcfb6bab",
+      "maskedId": "167xxxxxx4601",
+      "name": "ปัณณธร วรปัสสุ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B8%98%E0%B8%A3-%E0%B8%A7%E0%B8%A3%E0%B8%9B%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นายม",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "f40a20243fcf711dd6b7e68b",
+      "maskedId": "142xxxxxx5032",
+      "name": "พงษ์สุพัฒน์ พัทธะนะสัย",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B0%E0%B8%99%E0%B8%B0%E0%B8%AA%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชอนไพร",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "9d756bb3f4a645e8ad2f03d7",
+      "maskedId": "118xxxxxx9027",
+      "name": "พจนา ค้ําชู",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%84%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%8A%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "9fdddcfbe69e1ac352c0b386",
+      "maskedId": "167xxxxxx7288",
+      "name": "พรนภา เสาดี",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดงมูลเหล็ก",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "9dbd24781b2b7b57db9d23cb",
+      "maskedId": "119xxxxxx4990",
+      "name": "พิทยา จันทร์เหม",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "fe8322d9b31ae177ef1e28c3",
+      "maskedId": "167xxxxxx5533",
+      "name": "พิสิฐ เทียนแก้ว",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%90-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "6ec386f627969fc6e1492446",
+      "maskedId": "340xxxxxx2354",
+      "name": "อภินันท์ เกิ่งขุนทด",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "6ec3eed88c8530e722b3cb07",
+      "maskedId": "167xxxxxx0317",
+      "name": "อาคม มาปราบ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%84%E0%B8%A1-%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "6aa28afeb92bb634041f135b",
+      "maskedId": "167xxxxxx1636",
+      "name": "เจษฎา เฉลิมบุญ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "f6ff31e783c758c674820d31",
+      "maskedId": "167xxxxxx3616",
+      "name": "เพชรพิจิตร ยมจันทร์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B8%A2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยสะแก",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "06b87696b5752060dcb211b6",
+      "maskedId": "154xxxxxx7421",
+      "name": "โสภณัฐ วาดสูงเนิน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

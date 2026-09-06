@@ -1,0 +1,235 @@
+{
+  "_meta": {
+    "count": 13,
+    "kind": "district",
+    "name": "ปะนาเระ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ปะนาเระ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านนอก",
+      "district": "ปะนาเระ",
+      "id": "f5d878b141157c7db93e9772",
+      "maskedId": "194xxxxxx2558",
+      "name": "จินตนา นวลคํา",
+      "province": "ปัตตานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "3b9265fccace745d24c34b09",
+      "maskedId": "195xxxxxx9943",
+      "name": "จุฑาภรณ์ สุวรรณชาติ",
+      "province": "ปัตตานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "b1cbb16a8f40fce5b4ee3f0d",
+      "maskedId": "143xxxxxx8197",
+      "name": "ณัฏฐิดา ศรีพรหมทัศน์",
+      "province": "ปัตตานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "25c17bd74479ed653dc16fb0",
+      "maskedId": "195xxxxxx9365",
+      "name": "นราธิป เพ็ชรรัตน์ทอง",
+      "province": "ปัตตานี",
+      "scoreChange": 70,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "f5509b834284413c7945695b",
+      "maskedId": "194xxxxxx4795",
+      "name": "นูรมัน อูแม",
+      "province": "ปัตตานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%A1%E0%B8%B1%E0%B8%99-%E0%B8%AD%E0%B8%B9%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ดอน",
+      "district": "ปะนาเระ",
+      "id": "3733f447bbae6c5c8c487cb9",
+      "maskedId": "194xxxxxx7475",
+      "name": "พารีดะ เจ๊ะมะ",
+      "province": "ปัตตานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B0-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "7465ba2f8e0069b8ce7f7169",
+      "maskedId": "193xxxxxx2163",
+      "name": "ภานุวัฒน์ ขาวสุด",
+      "province": "ปัตตานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%94",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านนอก",
+      "district": "ปะนาเระ",
+      "id": "b5460515cb5821ac151d7104",
+      "maskedId": "196xxxxxx8780",
+      "name": "มะไฟโร บลูกาลาเต๊ะ",
+      "province": "ปัตตานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B0%E0%B9%84%E0%B8%9F%E0%B9%82%E0%B8%A3-%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "84a02fe8a5ed45987ab32056",
+      "maskedId": "167xxxxxx6081",
+      "name": "สิรินทรา เสาดี",
+      "province": "ปัตตานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "f5fd78f0f65384c17bb3ccb9",
+      "maskedId": "396xxxxxx3024",
+      "name": "สุรีนา อูเซ็ง",
+      "province": "ปัตตานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B2-%E0%B8%AD%E0%B8%B9%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านน้ำบ่อ",
+      "district": "ปะนาเระ",
+      "id": "16444e8ef6d6fc573b2eb38e",
+      "maskedId": "394xxxxxx8341",
+      "name": "อัสนี แวหามะ",
+      "province": "ปัตตานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%AA%E0%B8%99%E0%B8%B5-%E0%B9%81%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "898f6487e222f49d94ce8dd9",
+      "maskedId": "141xxxxxx9658",
+      "name": "เนตรนภา ศรีหริ่ง",
+      "province": "ปัตตานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ควน",
+      "district": "ปะนาเระ",
+      "id": "b593805df9d61fe674fa5edb",
+      "maskedId": "110xxxxxx1255",
+      "name": "ไซยฟุดดีน กูนิง",
+      "province": "ปัตตานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%8B%E0%B8%A2%E0%B8%9F%E0%B8%B8%E0%B8%94%E0%B8%94%E0%B8%B5%E0%B8%99-%E0%B8%81%E0%B8%B9%E0%B8%99%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "province",
+    "name": "อำนาจเจริญ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อำนาจเจริญ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นาหว้า",
+      "district": "ปทุมราชวงศา",
+      "id": "942a28089bc970c62ad43bcb",
+      "maskedId": "190xxxxxx5161",
+      "name": "กฤชนรรฐ ประสมพงศ์",
+      "province": "อำนาจเจริญ",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "26_อำนาจเจริญ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%8A%E0%B8%99%E0%B8%A3%E0%B8%A3%E0%B8%90-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบจ.อํานาจเจริญ",
+      "district": "เมืองอำนาจเจริญ",
+      "id": "3c70e18edfd28e6c5952a3b8",
+      "maskedId": "140xxxxxx1581",
+      "name": "ธนินี คุณแรง",
+      "province": "อำนาจเจริญ",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "26_อำนาจเจริญ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A3%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาหว้า",
+      "district": "ปทุมราชวงศา",
+      "id": "e9a1b855c2aa8bb17eaa03e3",
+      "maskedId": "196xxxxxx3067",
+      "name": "พรเพ็ญ ขุนทวี",
+      "province": "อำนาจเจริญ",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "26_อำนาจเจริญ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

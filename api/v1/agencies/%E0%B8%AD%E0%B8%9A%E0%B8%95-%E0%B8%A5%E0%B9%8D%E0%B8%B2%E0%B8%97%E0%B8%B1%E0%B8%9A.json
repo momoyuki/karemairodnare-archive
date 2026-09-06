@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ลําทับ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ลําทับ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ลําทับ",
+      "district": "ลำทับ",
+      "id": "cfd475c3aee6bf38b0ae8cb9",
+      "maskedId": "193xxxxxx1301",
+      "name": "ชนิตตา คงใหม่",
+      "province": "กระบี่",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลําทับ",
+      "district": "ลำทับ",
+      "id": "04cd2554073e27dd3f473e59",
+      "maskedId": "193xxxxxx9885",
+      "name": "พิมพ์พิศา วงศ์สิงห์",
+      "province": "กระบี่",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลําทับ",
+      "district": "ลำทับ",
+      "id": "87eef1b9004c8ac49a8748d5",
+      "maskedId": "180xxxxxx7836",
+      "name": "สุทธิ์สุดา รอดบัวทอง",
+      "province": "กระบี่",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

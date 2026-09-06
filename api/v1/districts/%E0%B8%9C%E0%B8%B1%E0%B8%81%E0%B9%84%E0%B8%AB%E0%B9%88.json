@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "ผักไห่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ผักไห่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ท่าดินแดง",
+      "district": "ผักไห่",
+      "id": "9fcdf3f896c81f416c10b613",
+      "maskedId": "110xxxxxx4421",
+      "name": "กาญจนาพร ศิลารังษี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 8,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A9%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแค",
+      "district": "ผักไห่",
+      "id": "e76749984d356253cc6f7d91",
+      "maskedId": "119xxxxxx4718",
+      "name": "ณัฐวดี จันคํา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลาดชิด",
+      "district": "ผักไห่",
+      "id": "48450382e898fd27813f9dd1",
+      "maskedId": "193xxxxxx2867",
+      "name": "พิรุฬห์ลักษณ์ นวนมุสิด",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%AC%E0%B8%AB%E0%B9%8C%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หน้าโคก",
+      "district": "ผักไห่",
+      "id": "8368aeceeff81a8b1ebe61cb",
+      "maskedId": "170xxxxxx1365",
+      "name": "วทัญญา ศรธนู",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%97%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%98%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

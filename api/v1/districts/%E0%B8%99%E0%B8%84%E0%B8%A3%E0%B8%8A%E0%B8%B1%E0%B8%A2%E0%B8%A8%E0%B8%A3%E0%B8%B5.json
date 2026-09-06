@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "นครชัยศรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นครชัยศรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ดอนแฝก",
+      "district": "นครชัยศรี",
+      "id": "1964f6b6f9467bde17343513",
+      "maskedId": "173xxxxxx2887",
+      "name": "ณัชช์ชญาพร แก้วประชา",
+      "province": "นครปฐม",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B9%8C%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนครชัยศรี",
+      "district": "นครชัยศรี",
+      "id": "1a014104beba69867c0a23d5",
+      "maskedId": "152xxxxxx6601",
+      "name": "ทักษ์ดนัย โชติ",
+      "province": "นครปฐม",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกพระเจดีย์",
+      "district": "นครชัยศรี",
+      "id": "0cbaedd818d6730a6a2ca521",
+      "maskedId": "170xxxxxx2413",
+      "name": "ธาริกา โรจน์พวง",
+      "province": "นครปฐม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%9E%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลศีรษะทอง",
+      "district": "นครชัยศรี",
+      "id": "97cd3fb4b0a5fd98cf30f30a",
+      "maskedId": "173xxxxxx6642",
+      "name": "ธิดารัตน์ เด่นจารุกูล",
+      "province": "นครปฐม",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B9%88%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แหลมบัว",
+      "district": "นครชัยศรี",
+      "id": "b3d0a0488d387d27f6c36a4d",
+      "maskedId": "174xxxxxx8837",
+      "name": "ภัทรฉัตร ม่วงนา",
+      "province": "นครปฐม",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกพระเจดีย์",
+      "district": "นครชัยศรี",
+      "id": "29d93daf77cd0aad7107e2bc",
+      "maskedId": "110xxxxxx6530",
+      "name": "รัตน์ฤดี บุณยรัตผลิน",
+      "province": "นครปฐม",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B8%9A%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แหลมบัว",
+      "district": "นครชัยศรี",
+      "id": "971ed19c6ad4f5a95398bf28",
+      "maskedId": "395xxxxxx0474",
+      "name": "ลัขนา วารี",
+      "province": "นครปฐม",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%82%E0%B8%99%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แหลมบัว",
+      "district": "นครชัยศรี",
+      "id": "574ad0a4c7fcc033bf3c401f",
+      "maskedId": "176xxxxxx2792",
+      "name": "วรรณพร โพธิ์ทอง",
+      "province": "นครปฐม",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9E%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วัดแค",
+      "district": "นครชัยศรี",
+      "id": "0348ef61160a7c87a8c5e571",
+      "maskedId": "171xxxxxx9342",
+      "name": "สกุณา พงษ์ศิริ",
+      "province": "นครปฐม",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%93%E0%B8%B2-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

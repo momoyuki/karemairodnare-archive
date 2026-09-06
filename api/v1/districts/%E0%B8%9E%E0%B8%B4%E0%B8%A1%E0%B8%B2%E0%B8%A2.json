@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "พิมาย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พิมาย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ในเมือง",
+      "district": "พิมาย",
+      "id": "e9df94c5513a2e4b0d00f2c6",
+      "maskedId": "131xxxxxx8306",
+      "name": "กฤตเมธ เจือทอง",
+      "province": "นครราชสีมา",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B9%80%E0%B8%A1%E0%B8%98-%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.โบสถ์",
+      "district": "พิมาย",
+      "id": "9c710421506273651f86f4f7",
+      "maskedId": "134xxxxxx0646",
+      "name": "ก้องภพ กุศลคุณ",
+      "province": "นครราชสีมา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%9E-%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โบสถ์",
+      "district": "พิมาย",
+      "id": "29f7e9fdae0851c7c6647ffc",
+      "maskedId": "146xxxxxx2450",
+      "name": "รัตนาภรณ์ กุลเกลี้ยง",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชีวาน",
+      "district": "พิมาย",
+      "id": "887a271272bffc20c4314444",
+      "maskedId": "130xxxxxx9845",
+      "name": "วัชระ กระฉอดนอก",
+      "province": "นครราชสีมา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B0-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%89%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สัมฤทธิ์",
+      "district": "พิมาย",
+      "id": "31e184ce1baa9587d7f47aa8",
+      "maskedId": "140xxxxxx1878",
+      "name": "วันเฉลิม แพงดาน",
+      "province": "นครราชสีมา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1-%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โบสถ์",
+      "district": "พิมาย",
+      "id": "a004bb50c39b61167a5a66b9",
+      "maskedId": "144xxxxxx0133",
+      "name": "วีรดา ศรีมะโรง",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%B0%E0%B9%82%E0%B8%A3%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระชอน",
+      "district": "พิมาย",
+      "id": "a748e87e57f0111b95466ad2",
+      "maskedId": "144xxxxxx8473",
+      "name": "สุวนันท์ แก้วอาสา",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดงใหญ่",
+      "district": "พิมาย",
+      "id": "80cd2b8dac30cb49ef5440c7",
+      "maskedId": "131xxxxxx4054",
+      "name": "อโนเชาว์ ชาติไธสง",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%8C-%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.วังตะเคียน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-วังตะเคียน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังตะเคียน",
+      "district": "กบินทร์บุรี",
+      "id": "bdb5efd22e57d03fb31ac160",
+      "maskedId": "133xxxxxx5318",
+      "name": "ธีรโชติ ทองใบ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%9A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังตะเคียน",
+      "district": "กบินทร์บุรี",
+      "id": "5ed114b417930aca1b7cbd12",
+      "maskedId": "126xxxxxx6452",
+      "name": "บุศรินทร์ ครองกิจการ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังตะเคียน",
+      "district": "กบินทร์บุรี",
+      "id": "724541f49c2224bbedaee135",
+      "maskedId": "125xxxxxx2961",
+      "name": "ปัทมา พันธ์ขุนทด",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%97%E0%B8%A1%E0%B8%B2-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%94",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังตะเคียน",
+      "district": "กบินทร์บุรี",
+      "id": "11ef5f071f54b5bad8e456bf",
+      "maskedId": "133xxxxxx5130",
+      "name": "พรทิพย์ พิมศร",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังตะเคียน",
+      "district": "กบินทร์บุรี",
+      "id": "276a82590279451e43efc07d",
+      "maskedId": "112xxxxxx9061",
+      "name": "วัฒนา เพชรด้วง",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "บ้านหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บ้านหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านฟ้า",
+      "district": "บ้านหลวง",
+      "id": "9f32dcc696060158dcb6f67e",
+      "maskedId": "153xxxxxx6272",
+      "name": "มานิตา สิทธิวัง",
+      "province": "น่าน",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "43_น่าน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านพี้",
+      "district": "บ้านหลวง",
+      "id": "e61912e4bee02c31a4bb8b91",
+      "maskedId": "110xxxxxx3082",
+      "name": "เบญญาภา ธนากมลรักษา",
+      "province": "น่าน",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "43_น่าน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

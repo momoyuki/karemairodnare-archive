@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "เทศบาลตําบลจ.ป.ร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลจ-ป-ร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลจ.ป.ร",
+      "district": "กระบุรี",
+      "id": "d3f8791df06c3d87eb033d5a",
+      "maskedId": "186xxxxxx3553",
+      "name": "จักรพงษ์ ใสสุชล",
+      "province": "ระนอง",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%83%E0%B8%AA%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลจ.ป.ร",
+      "district": "กระบุรี",
+      "id": "c1b8e2d1c2362776e7c17af0",
+      "maskedId": "186xxxxxx0797",
+      "name": "ธนาภรณ์ โคนาสร",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B2%E0%B8%AA%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลจ.ป.ร",
+      "district": "กระบุรี",
+      "id": "f4f22d01fb8bb72a119742e2",
+      "maskedId": "170xxxxxx9601",
+      "name": "วรพร นุชสมบูรณ์",
+      "province": "ระนอง",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลจ.ป.ร",
+      "district": "กระบุรี",
+      "id": "51955768a546caeacb84a7e4",
+      "maskedId": "186xxxxxx0010",
+      "name": "สรัลรัตน์ มิ่งแก้ว",
+      "province": "ระนอง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%B1%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลจ.ป.ร",
+      "district": "กระบุรี",
+      "id": "6e48ad9491ee23e4a738764e",
+      "maskedId": "186xxxxxx8836",
+      "name": "เพ็ญนภา สังข์แก้ว",
+      "province": "ระนอง",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

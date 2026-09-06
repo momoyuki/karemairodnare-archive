@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "ปากพะยูน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ปากพะยูน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลอ่าวพะยูน",
+      "district": "ปากพะยูน",
+      "id": "d947aefe7da5c3ee5ffe6054",
+      "maskedId": "190xxxxxx5254",
+      "name": "ฉัตรแก้ว ทองศรี",
+      "province": "พัทลุง",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ฝาละมี",
+      "district": "ปากพะยูน",
+      "id": "1d7171db7734ad53630672ae",
+      "maskedId": "196xxxxxx8984",
+      "name": "ธนวัฒน์ ปราบปัญจะ",
+      "province": "พัทลุง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกาะนางคํา",
+      "district": "ปากพะยูน",
+      "id": "706d4c1eece57b3f9485a904",
+      "maskedId": "594xxxxxx3260",
+      "name": "ธนัฐสิน รัตนคํา",
+      "province": "พัทลุง",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%B4%E0%B8%99-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ่าวพะยูน",
+      "district": "ปากพะยูน",
+      "id": "bd65b217262f704a7acd6336",
+      "maskedId": "194xxxxxx4597",
+      "name": "มารียา สาวี",
+      "province": "พัทลุง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกาะนางคํา",
+      "district": "ปากพะยูน",
+      "id": "f7d37a6a27952109d51394d4",
+      "maskedId": "190xxxxxx3803",
+      "name": "อภิญญา ขันทะสามล",
+      "province": "พัทลุง",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกาะหมาก",
+      "district": "ปากพะยูน",
+      "id": "8080d672d76c8414c471410e",
+      "maskedId": "190xxxxxx4568",
+      "name": "อาภาสิริ แสงศรีคํา",
+      "province": "พัทลุง",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลดอนประดู่",
+      "district": "ปากพะยูน",
+      "id": "2822ede17cd3f5594670ccb3",
+      "maskedId": "196xxxxxx4469",
+      "name": "ฮาฟีซ่า อูมา",
+      "province": "พัทลุง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B2%E0%B8%9F%E0%B8%B5%E0%B8%8B%E0%B9%88%E0%B8%B2-%E0%B8%AD%E0%B8%B9%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บาราเฮาะ",
+      "district": "ปากพะยูน",
+      "id": "506ad4d45f51aa6bc5327396",
+      "maskedId": "196xxxxxx8984",
+      "name": "แวมาหะมะนอร์ บรรณารักษ์",
+      "province": "พัทลุง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%A7%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B0%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

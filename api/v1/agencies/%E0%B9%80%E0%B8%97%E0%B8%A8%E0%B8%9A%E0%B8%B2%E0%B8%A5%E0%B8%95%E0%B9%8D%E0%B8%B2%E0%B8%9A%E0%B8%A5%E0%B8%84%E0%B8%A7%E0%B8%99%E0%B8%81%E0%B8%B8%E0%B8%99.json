@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตําบลควนกุน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลควนกุน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลควนกุน",
+      "district": "สิเกา",
+      "id": "6b7b33cb05e11a8a41a6e7b0",
+      "maskedId": "194xxxxxx8490",
+      "name": "อัสมัช พรมดี",
+      "province": "ตรัง",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%8A-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลควนกุน",
+      "district": "สิเกา",
+      "id": "66adf599818125ec876f8011",
+      "maskedId": "194xxxxxx1241",
+      "name": "อาธิษา แก้วทอน",
+      "province": "ตรัง",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%97%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

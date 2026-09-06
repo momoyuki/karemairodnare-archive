@@ -1,0 +1,235 @@
+{
+  "_meta": {
+    "count": 13,
+    "kind": "district",
+    "name": "ดอนสัก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ดอนสัก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองปากแพรก",
+      "district": "ดอนสัก",
+      "id": "3247909853aff4e0cf8b9e52",
+      "maskedId": "186xxxxxx2859",
+      "name": "กมลชนก ยุวัฒนะ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%A2%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ชลคราม",
+      "district": "ดอนสัก",
+      "id": "7694c267c56df8acce4a25e0",
+      "maskedId": "180xxxxxx1105",
+      "name": "ครองขวัญ จินตรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนสัก",
+      "district": "ดอนสัก",
+      "id": "477e48d7a58711d0b5c709a2",
+      "maskedId": "180xxxxxx3555",
+      "name": "จันทิมา มีเดช",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชลคราม",
+      "district": "ดอนสัก",
+      "id": "23c005c40219e1d59752ea9b",
+      "maskedId": "193xxxxxx1080",
+      "name": "จุรารัตน์ ชูทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชลคราม",
+      "district": "ดอนสัก",
+      "id": "4a90e39c8f66ab9030014c99",
+      "maskedId": "133xxxxxx1758",
+      "name": "ฐรินดา พรชัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนสัก",
+      "district": "ดอนสัก",
+      "id": "b1ab71c0e24f7a3727df19e0",
+      "maskedId": "180xxxxxx1300",
+      "name": "ณัฎฐา กลับทับลังค์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนสัก",
+      "district": "ดอนสัก",
+      "id": "cb0bc30d51a8f9b724f489c4",
+      "maskedId": "186xxxxxx0338",
+      "name": "ณัฐณิชา กลับ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปากแพรก",
+      "district": "ดอนสัก",
+      "id": "b7b3fa9298b6a947730f533f",
+      "maskedId": "284xxxxxx3445",
+      "name": "ติณห์นภัส ปานสังข์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%B4%E0%B8%93%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดอนสัก",
+      "district": "ดอนสัก",
+      "id": "df781c1720922ee78fbaa817",
+      "maskedId": "186xxxxxx1510",
+      "name": "พิพัฒน์ คงนวล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปากแพรก",
+      "district": "ดอนสัก",
+      "id": "8d0a49c46e6367691d5626bf",
+      "maskedId": "380xxxxxx5096",
+      "name": "มาลี ลีหล้าน้อย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B5-%E0%B8%A5%E0%B8%B5%E0%B8%AB%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนสัก",
+      "district": "ดอนสัก",
+      "id": "bc93f3d4819f302d0e4d9555",
+      "maskedId": "145xxxxxx6503",
+      "name": "สุพัตรา จอมคําศรี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนสัก",
+      "district": "ดอนสัก",
+      "id": "1bd43e5bb9212984bcf6407d",
+      "maskedId": "191xxxxxx8427",
+      "name": "หัตยา มรรคาเขต",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนสัก",
+      "district": "ดอนสัก",
+      "id": "8da42a8a0354ab3b08499924",
+      "maskedId": "184xxxxxx6691",
+      "name": "อลิสา คงสุทธิ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

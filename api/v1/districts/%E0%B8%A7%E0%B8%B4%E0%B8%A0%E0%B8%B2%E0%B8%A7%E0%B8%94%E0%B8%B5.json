@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "วิภาวดี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "วิภาวดี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตะกุกใต้",
+      "district": "วิภาวดี",
+      "id": "372276d6f0c1184b8e749a3a",
+      "maskedId": "184xxxxxx8492",
+      "name": "จตุรพร สิทธิชู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกใต้",
+      "district": "วิภาวดี",
+      "id": "2917a7d006fd6bbc6382960f",
+      "maskedId": "190xxxxxx1370",
+      "name": "ธิญาดา ด้วงเอียด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกใต้",
+      "district": "วิภาวดี",
+      "id": "70e6780cbe41cf3f217226eb",
+      "maskedId": "193xxxxxx6160",
+      "name": "นิศากร ชูปาน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%8A%E0%B8%B9%E0%B8%9B%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "837c215d8c7457ec5bb6e1f0",
+      "maskedId": "186xxxxxx5954",
+      "name": "พงศ์อมร สุขบันเทิง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "18299183e28933d302b7e9c8",
+      "maskedId": "193xxxxxx8661",
+      "name": "ภูริตา ไชยพันธ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "00b76b71bb7b16cc43be0ef2",
+      "maskedId": "284xxxxxx5266",
+      "name": "รัชฎาภรณ์ ภิรมย์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8E%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "e04fe6d9acb0b102a5322bef",
+      "maskedId": "193xxxxxx8778",
+      "name": "ลักขณา พรหมสกุล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%93%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "c586b61c7929f28cb9e5afea",
+      "maskedId": "186xxxxxx0564",
+      "name": "ศศิพิมพ์ รัตนพิทย์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "9f0819d50e389df27a6bdc6f",
+      "maskedId": "195xxxxxx6246",
+      "name": "อัฟฮัม วาแม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%9F%E0%B8%AE%E0%B8%B1%E0%B8%A1-%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

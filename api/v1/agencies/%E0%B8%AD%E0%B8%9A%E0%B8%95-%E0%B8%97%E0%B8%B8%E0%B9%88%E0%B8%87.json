@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ทุ่ง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ทุ่ง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ทุ่ง",
+      "district": "ไชยา",
+      "id": "7b3c92e4972853c009d92d11",
+      "maskedId": "193xxxxxx6991",
+      "name": "ธนพร อ่อนรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A3-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่ง",
+      "district": "ไชยา",
+      "id": "bf5f48ed132e6b4316731097",
+      "maskedId": "186xxxxxx0191",
+      "name": "นันทชัย ไหมพรหม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

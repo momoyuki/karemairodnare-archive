@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "ท่าหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ท่าหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แก่งผักกูด",
+      "district": "ท่าหลวง",
+      "id": "027ecdb1645fa308080af0c4",
+      "maskedId": "116xxxxxx7142",
+      "name": "กมลวรรณ ทิพสุทธิ์",
+      "province": "ลพบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองผักแว่น",
+      "district": "ท่าหลวง",
+      "id": "046927b3f271b0155e74e539",
+      "maskedId": "112xxxxxx4302",
+      "name": "ณภสรณ์ เกิดสีดี",
+      "province": "ลพบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าหลวง",
+      "district": "ท่าหลวง",
+      "id": "dd27fb7375a02c93e53deb59",
+      "maskedId": "116xxxxxx0214",
+      "name": "ธนกฤต ปั้นแจ้ง",
+      "province": "ลพบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองผักแว่น",
+      "district": "ท่าหลวง",
+      "id": "ce7a244247434b22f80f5c87",
+      "maskedId": "412xxxxxx8898",
+      "name": "ภัทราภรณ์ ชัยชนะมงคล",
+      "province": "ลพบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองผักแว่น",
+      "district": "ท่าหลวง",
+      "id": "fb9e72875d71a93a1cefad02",
+      "maskedId": "112xxxxxx9291",
+      "name": "วิมลสิริ สุดประเสริฐ",
+      "province": "ลพบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

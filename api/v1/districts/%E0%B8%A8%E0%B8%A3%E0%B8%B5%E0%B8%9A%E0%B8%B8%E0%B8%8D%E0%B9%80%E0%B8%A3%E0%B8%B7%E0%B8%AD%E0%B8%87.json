@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "ศรีบุญเรือง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ศรีบุญเรือง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นากอก",
+      "district": "ศรีบุญเรือง",
+      "id": "d1c92c8c4d48bb5f7c6ba63e",
+      "maskedId": "141xxxxxx0766",
+      "name": "จิณห์จุฑา เสนาไชย",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%93%E0%B8%AB%E0%B9%8C%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เมืองใหม่",
+      "district": "ศรีบุญเรือง",
+      "id": "d73cf7cd4df3776edbe94fe7",
+      "maskedId": "139xxxxxx1612",
+      "name": "ชนะชล สุขสงคราม",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%8A%E0%B8%A5-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นากอก",
+      "district": "ศรีบุญเรือง",
+      "id": "93c8ce77bad42c39cbdf8768",
+      "maskedId": "146xxxxxx6930",
+      "name": "ธีรพงษ์ ภูมิพานิชย์",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นากอก",
+      "district": "ศรีบุญเรือง",
+      "id": "3fd975c41314b61d79dc8ccc",
+      "maskedId": "143xxxxxx4350",
+      "name": "นราธร ธาตุทอง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%98%E0%B8%A3-%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลจอมทอง",
+      "district": "ศรีบุญเรือง",
+      "id": "baeb0d90d4a9d1b0a8346201",
+      "maskedId": "132xxxxxx5977",
+      "name": "ปัณฑารีย์ คงโนนกอก",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลโนนสูงเปลือย",
+      "district": "ศรีบุญเรือง",
+      "id": "b26fc230627c416f9aea4c68",
+      "maskedId": "342xxxxxx9071",
+      "name": "สุทธิกมล เรือนทอง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%A1%E0%B8%A5-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เมืองใหม่",
+      "district": "ศรีบุญเรือง",
+      "id": "28c050a6e783a49ade27db27",
+      "maskedId": "141xxxxxx2335",
+      "name": "เจนนิสา ปัญจะสีลา",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%B0%E0%B8%AA%E0%B8%B5%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นากอก",
+      "district": "ศรีบุญเรือง",
+      "id": "3d77d3217503f8d33d116258",
+      "maskedId": "141xxxxxx9951",
+      "name": "โพชฌงค์ วงคำภา",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%9E%E0%B8%8A%E0%B8%8C%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B8%B3%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

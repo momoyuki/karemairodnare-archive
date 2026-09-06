@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.โคกปีบ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-โคกปีบ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โคกปีบ",
+      "district": "ศรีมโหสถ",
+      "id": "346bd1c089f2826241cd1df9",
+      "maskedId": "126xxxxxx9937",
+      "name": "กาญจนา ธารี",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกปีบ",
+      "district": "ศรีมโหสถ",
+      "id": "9bba5ca455127ff9942b8486",
+      "maskedId": "125xxxxxx0567",
+      "name": "ณิชมน วรรักษ์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 68,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%A1%E0%B8%99-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

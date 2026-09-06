@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "agency",
+    "name": "อบจ.นนทบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบจ-นนทบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.นนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "e1497a3254d490c37b86042f",
+      "maskedId": "113xxxxxx7950",
+      "name": "จิรภาส ลาภโชติไพศาล",
+      "province": "นนทบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%AA-%E0%B8%A5%E0%B8%B2%E0%B8%A0%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B9%84%E0%B8%9E%E0%B8%A8%E0%B8%B2%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "07960105042006091acb2264",
+      "maskedId": "160xxxxxx7828",
+      "name": "ทิชาพงศ์ ตันสมรส",
+      "province": "นนทบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "2712f17e8f850d0c24a95530",
+      "maskedId": "133xxxxxx3330",
+      "name": "ธมลวรรณ มังษะชาติ",
+      "province": "นนทบุรี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%A9%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "20c0a3579a13e892ac01a473",
+      "maskedId": "119xxxxxx1578",
+      "name": "บริสุทธิ์ พึ่งจิตร์",
+      "province": "นนทบุรี",
+      "scoreChange": 8,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%9E%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "ae9514bde926cd5bc6947109",
+      "maskedId": "115xxxxxx8471",
+      "name": "วันทนีย์ ศรีอำไพ",
+      "province": "นนทบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B3%E0%B9%84%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "cea08b495824784041a47cd4",
+      "maskedId": "536xxxxxx3436",
+      "name": "ษมาพร พงษ์อุดม",
+      "province": "นนทบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A9%E0%B8%A1%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "54799fe715036cd5a2f2108c",
+      "maskedId": "110xxxxxx0603",
+      "name": "สรวิศ จงกลณี",
+      "province": "นนทบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%A8-%E0%B8%88%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "a6ac1d4755a9ab41ccd77a8b",
+      "maskedId": "162xxxxxx5131",
+      "name": "สารัตน์ โพธิ์ขอม",
+      "province": "นนทบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "2dd4f0b43dff77a4070796c6",
+      "maskedId": "130xxxxxx6344",
+      "name": "สุกัญนิกา สรแสง",
+      "province": "นนทบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%AA%E0%B8%A3%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "63161938c5b7fd7ff1b98462",
+      "maskedId": "312xxxxxx0819",
+      "name": "อัศวิน เอมศรีกุล",
+      "province": "นนทบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99-%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

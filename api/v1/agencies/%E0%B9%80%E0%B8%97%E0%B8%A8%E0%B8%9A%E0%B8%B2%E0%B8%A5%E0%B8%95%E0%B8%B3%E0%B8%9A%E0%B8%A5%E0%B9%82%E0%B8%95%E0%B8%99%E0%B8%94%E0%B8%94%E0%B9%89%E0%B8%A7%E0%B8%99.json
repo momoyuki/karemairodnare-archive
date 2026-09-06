@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตำบลโตนดด้วน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลโตนดด้วน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลโตนดด้วน",
+      "district": "ควนขนุน",
+      "id": "1dcb86cb466f3a76115723bb",
+      "maskedId": "193xxxxxx5670",
+      "name": "จุฬาลักษณ์ อินทรเพชร",
+      "province": "พัทลุง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลโตนดด้วน",
+      "district": "ควนขนุน",
+      "id": "ba3e323702bb372e8e71d677",
+      "maskedId": "196xxxxxx5989",
+      "name": "ธนนนท์ จันทร์แท้",
+      "province": "พัทลุง",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%97%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

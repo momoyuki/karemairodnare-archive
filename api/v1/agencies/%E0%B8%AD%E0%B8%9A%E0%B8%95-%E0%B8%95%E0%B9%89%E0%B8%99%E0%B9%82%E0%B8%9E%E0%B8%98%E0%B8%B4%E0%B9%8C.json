@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ต้นโพธิ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ต้นโพธิ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ต้นโพธิ์",
+      "district": "เมืองสิงห์บุรี",
+      "id": "6241f769d016e183b4160fa3",
+      "maskedId": "172xxxxxx6101",
+      "name": "รุจิรา ยอดฉัตร",
+      "province": "สิงห์บุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ต้นโพธิ์",
+      "district": "เมืองสิงห์บุรี",
+      "id": "b44e219036c430194874e716",
+      "maskedId": "114xxxxxx0873",
+      "name": "สิริยากร จิตรีงาม",
+      "province": "สิงห์บุรี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

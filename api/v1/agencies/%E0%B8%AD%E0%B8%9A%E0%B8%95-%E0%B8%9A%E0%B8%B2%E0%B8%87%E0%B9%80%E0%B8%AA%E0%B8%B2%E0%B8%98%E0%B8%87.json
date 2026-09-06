@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.บางเสาธง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางเสาธง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางเสาธง",
+      "district": "บางเสาธง",
+      "id": "5d2519afe70b518ac9bd58a2",
+      "maskedId": "110xxxxxx7146",
+      "name": "ปณิฏฐา แดงสิน",
+      "province": "สมุทรปราการ",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%8F%E0%B8%90%E0%B8%B2-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเสาธง",
+      "district": "บางเสาธง",
+      "id": "5b1fb9aa35718c061377f545",
+      "maskedId": "330xxxxxx5775",
+      "name": "วทัญญู ประทุมรัตน์",
+      "province": "สมุทรปราการ",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%97%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B9-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเสาธง",
+      "district": "บางเสาธง",
+      "id": "fdb8fd46c634785f8e58a19f",
+      "maskedId": "110xxxxxx6480",
+      "name": "วีรภัทร กิมยงค์",
+      "province": "สมุทรปราการ",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%81%E0%B8%B4%E0%B8%A1%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "_meta": {
+    "count": 39,
+    "kind": "province",
+    "name": "นครศรีธรรมราช",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นครศรีธรรมราช",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองปากพูน",
+      "district": "เมืองนครศรีธรรมราช",
+      "id": "a0d3529062c4800c2b2564b2",
+      "maskedId": "190xxxxxx6020",
+      "name": "กฎกติกา ชนะสิทธิ์",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สี่ขีด",
+      "district": "สิชล",
+      "id": "18348dc3597e6a2fd9f518a8",
+      "maskedId": "180xxxxxx4689",
+      "name": "กนกพล นุกูลกิจ",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%9E%E0%B8%A5-%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%B9%E0%B8%A5%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กรุงหยัน",
+      "district": "ทุ่งใหญ่",
+      "id": "30b8fe0e507d3428787a2866",
+      "maskedId": "393xxxxxx7971",
+      "name": "กมลพร เสถียร",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%AA%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ่าวขนอม",
+      "district": "ขนอม",
+      "id": "6b72aa00eac762d267874a48",
+      "maskedId": "192xxxxxx2554",
+      "name": "กันยารัตน์ นุ้ยเอียด",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทยบุรี",
+      "district": "ท่าศาลา",
+      "id": "3a217d7f7dbfa126010643f4",
+      "maskedId": "180xxxxxx9873",
+      "name": "กัลยรัตน์ ยางแก้ว",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A2%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากพนังฝั่งตะวันออก",
+      "district": "ปากพนัง",
+      "id": "471586ae6da6b7d53a4fa007",
+      "maskedId": "180xxxxxx4373",
+      "name": "กิตติพันธุ์ ตันสุริยวงศ์",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C-%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาเหรง",
+      "district": "นบพิตำ",
+      "id": "fe25e85a8be34babde1a0e6f",
+      "maskedId": "180xxxxxx1381",
+      "name": "ก่อกุศล มีนุ่น",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5-%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยปริก",
+      "district": "ฉวาง",
+      "id": "55a600178143ebf8e34fb96a",
+      "maskedId": "193xxxxxx4841",
+      "name": "จักรกฤษณ์ วังช่วย",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ่าวขนอม",
+      "district": "ขนอม",
+      "id": "840c622f6e066bbfff368682",
+      "maskedId": "120xxxxxx5697",
+      "name": "จันทกานต์ มณีโชติ",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินตก",
+      "district": "ร่อนพิบูลย์",
+      "id": "f08b2b7e304ba9cbe809b48e",
+      "maskedId": "193xxxxxx1618",
+      "name": "ชนธีร์ จันแดง",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ควนชะลิก",
+      "district": "หัวไทร",
+      "id": "fc69273d446efa9f8b2c938c",
+      "maskedId": "193xxxxxx0272",
+      "name": "ฐิฑิตยา ย้อยด้วง",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%91%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ร่อนพิบูลย์",
+      "district": "ร่อนพิบูลย์",
+      "id": "dfeabbcb1ad4a35512210aae",
+      "maskedId": "184xxxxxx5638",
+      "name": "ณัฐพล แซ่ตั้น",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ช้างกลาง",
+      "district": "ช้างกลาง",
+      "id": "a1be8e5b4b587cadbd56272e",
+      "maskedId": "193xxxxxx1641",
+      "name": "ณัฐวุฒิ เอียดทองใหม่",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาทราย",
+      "district": "เมืองนครศรีธรรมราช",
+      "id": "d076ac8bce02e25cdcad9f00",
+      "maskedId": "192xxxxxx6005",
+      "name": "ถิรวัฒน์ ฉิมแสง",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%96%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ร่อนพิบูลย์",
+      "district": "ร่อนพิบูลย์",
+      "id": "acad9ddeb77f0a38e2bf4a31",
+      "maskedId": "191xxxxxx1641",
+      "name": "ทิวาพร มูสิกพันธ์",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A1%E0%B8%B9%E0%B8%AA%E0%B8%B4%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นครศรีธรรมราช",
+      "district": "เมืองนครศรีธรรมราช",
+      "id": "632602f00533dae9c16b64dd",
+      "maskedId": "184xxxxxx6675",
+      "name": "นทีพัฒน์ สกุลพันธ์",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังอ่าง",
+      "district": "ชะอวด",
+      "id": "1d2e4a996d3fac1c12a68e43",
+      "maskedId": "196xxxxxx0358",
+      "name": "นนทนันท์ จันทร์แท้",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%97%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไสหมาก",
+      "district": "เชียรใหญ่",
+      "id": "7bb9dffd6842b7a087af1037",
+      "maskedId": "193xxxxxx9082",
+      "name": "บุษยมาส ลายทิพย์",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B8%A1%E0%B8%B2%E0%B8%AA-%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ่าวขนอม",
+      "district": "ขนอม",
+      "id": "1d01ef8cc9be12bd7112d53c",
+      "maskedId": "191xxxxxx2673",
+      "name": "ปิยะภรณ์ นพภาศรี",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%99%E0%B8%9E%E0%B8%A0%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาทราย",
+      "district": "เมืองนครศรีธรรมราช",
+      "id": "6254da73aeff4dfdd2caa754",
+      "maskedId": "190xxxxxx1770",
+      "name": "พฤเดช โกสินทร์",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A4%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลการะเกด",
+      "district": "เชียรใหญ่",
+      "id": "dd430e6c33c6d7b54ba0797a",
+      "maskedId": "180xxxxxx7627",
+      "name": "พละศักดิ์ คนธรักษ์",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%84%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางจาก",
+      "district": "เมืองนครศรีธรรมราช",
+      "id": "1bb8c42334687b1cd9d55399",
+      "maskedId": "184xxxxxx8331",
+      "name": "พัชรี มณีโชติ",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B5-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทยบุรี",
+      "district": "ท่าศาลา",
+      "id": "4b4909745dd2e6b9e243ce08",
+      "maskedId": "161xxxxxx4194",
+      "name": "พิยดา หนูสาย",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A2%E0%B8%94%E0%B8%B2-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางจาก",
+      "district": "เมืองนครศรีธรรมราช",
+      "id": "ac19b64c1a936c045c59edbd",
+      "maskedId": "180xxxxxx9183",
+      "name": "ภรัณยู ปาลเกลี้ยง",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B8%B9-%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ร่อนพิบูลย์",
+      "district": "ร่อนพิบูลย์",
+      "id": "baf96dce39afd8dc19a04617",
+      "maskedId": "193xxxxxx1040",
+      "name": "มธุรวัจน์ อุบลกาญจน์",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ควนทอง",
+      "district": "ขนอม",
+      "id": "0e9d4a915c70a07bcdf4971b",
+      "maskedId": "180xxxxxx4415",
+      "name": "รัตติกาล เต็มนา",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A5-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหลักช้าง",
+      "district": "ช้างกลาง",
+      "id": "94fbef075aa21d2d6b02e9dc",
+      "maskedId": "180xxxxxx7847",
+      "name": "วรัชญ์ ห่อแก้ว",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%AB%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวนหลวง",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "ac0e862d74821ec3432f28c0",
+      "maskedId": "193xxxxxx5933",
+      "name": "ศรายุทธ ทรัพย์พญาธร",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%98%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทยบุรี",
+      "district": "ท่าศาลา",
+      "id": "bb048358052362a7e3533253",
+      "maskedId": "180xxxxxx0073",
+      "name": "ศิริพร รสชื่น",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปากพูน",
+      "district": "เมืองนครศรีธรรมราช",
+      "id": "b406fe3d78235b52bdda3006",
+      "maskedId": "193xxxxxx1901",
+      "name": "ศิริรัตน์ สงย้อย",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%87%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กรุงหยัน",
+      "district": "ทุ่งใหญ่",
+      "id": "320ddba3d6b64c4646d85f42",
+      "maskedId": "193xxxxxx5717",
+      "name": "สันติภาพ ขุนปราบ",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ร่อนพิบูลย์",
+      "district": "ร่อนพิบูลย์",
+      "id": "510c0dc4027b27c1df57186f",
+      "maskedId": "393xxxxxx0539",
+      "name": "สุนิศา สินสโมสร",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B9%82%E0%B8%A1%E0%B8%AA%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ่าวขนอม",
+      "district": "ขนอม",
+      "id": "2007bb1d1f7e22ce00de2773",
+      "maskedId": "380xxxxxx5616",
+      "name": "สุพัตรา เจือบุญ",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ควนทอง",
+      "district": "ขนอม",
+      "id": "e8c5e2619a3da5c3a88e54b6",
+      "maskedId": "380xxxxxx3295",
+      "name": "สุวิทย์ ประไพ",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งใหญ่",
+      "district": "ทุ่งใหญ่",
+      "id": "ca9a67c13e7e170fe80de49c",
+      "maskedId": "166xxxxxx7481",
+      "name": "หัทยา ติระมาศ",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%B1%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บางจาก",
+      "district": "เมืองนครศรีธรรมราช",
+      "id": "6afa1d1adfc89556b494a430",
+      "maskedId": "193xxxxxx5260",
+      "name": "อำนวยวิทย์ เกื้อเส้ง",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "ท่าศาลา",
+      "id": "e4118f623b262f4b845d7dd2",
+      "maskedId": "192xxxxxx6987",
+      "name": "เขมญดา ประกิตฤทธิกุล",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%8D%E0%B8%94%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นาทราย",
+      "district": "เมืองนครศรีธรรมราช",
+      "id": "d5b26ea57dcd68a82039e6ba",
+      "maskedId": "192xxxxxx9583",
+      "name": "เนตรนภา มาชุม",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เขาขาว",
+      "district": "ทุ่งสง",
+      "id": "c3769ae894f8345ebe4d6096",
+      "maskedId": "191xxxxxx2928",
+      "name": "เปรมกมล อนันตพันธุ์",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%A1%E0%B8%A5-%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

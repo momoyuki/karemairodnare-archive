@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "สามชุก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สามชุก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังลึก",
+      "district": "สามชุก",
+      "id": "e166462f2dd267816a7f9130",
+      "maskedId": "172xxxxxx7650",
+      "name": "ฉัตรฑริกา พานิช",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%91%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลสามชุก",
+      "district": "สามชุก",
+      "id": "33059ebd8826001a1b6c37b8",
+      "maskedId": "172xxxxxx6964",
+      "name": "ธันว์ เปรมทอง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B9%8C-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองสะเดา",
+      "district": "สามชุก",
+      "id": "02f5db74cc8ffa5bbc45583d",
+      "maskedId": "172xxxxxx1346",
+      "name": "นวดล นวมทอง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A7%E0%B8%94%E0%B8%A5-%E0%B8%99%E0%B8%A7%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "สามชุก",
+      "id": "6d592c2fd9917e02597be6d4",
+      "maskedId": "172xxxxxx1934",
+      "name": "นิธิพร คุ้มทรัพย์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "สามชุก",
+      "id": "0918b9ff02dd85220abaf17f",
+      "maskedId": "172xxxxxx7241",
+      "name": "พชรพล ศรีวิเชียร",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "สามชุก",
+      "id": "ef627ece8f2ea42e94b47b3b",
+      "maskedId": "119xxxxxx1111",
+      "name": "ภาคภูมิ ใช้เทียมวงษ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "สามชุก",
+      "id": "5f9e04c3881e1c735e35c5c4",
+      "maskedId": "110xxxxxx4724",
+      "name": "ศราวุฒิ การะภาพ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%9E",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กระเสียว",
+      "district": "สามชุก",
+      "id": "d0197e29aeec08d215c7a1e2",
+      "maskedId": "167xxxxxx9818",
+      "name": "อริญภร อมรปัญวัชร",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A0%E0%B8%A3-%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

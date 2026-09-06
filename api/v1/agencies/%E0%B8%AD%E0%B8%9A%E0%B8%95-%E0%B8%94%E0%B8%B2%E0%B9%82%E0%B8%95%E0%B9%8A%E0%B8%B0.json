@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ดาโต๊ะ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ดาโต๊ะ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ดาโต๊ะ",
+      "district": "หนองจิก",
+      "id": "93b93bd603acdfb98c9dee80",
+      "maskedId": "194xxxxxx7530",
+      "name": "ซีตีฟาตีเมาะ สวยงาม",
+      "province": "ปัตตานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B5%E0%B8%95%E0%B8%B5%E0%B8%9F%E0%B8%B2%E0%B8%95%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%B0-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดาโต๊ะ",
+      "district": "หนองจิก",
+      "id": "45caab4c8f2736f54d53b7a2",
+      "maskedId": "195xxxxxx5688",
+      "name": "บือราเฮง ดะแซ",
+      "province": "ปัตตานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%87-%E0%B8%94%E0%B8%B0%E0%B9%81%E0%B8%8B",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

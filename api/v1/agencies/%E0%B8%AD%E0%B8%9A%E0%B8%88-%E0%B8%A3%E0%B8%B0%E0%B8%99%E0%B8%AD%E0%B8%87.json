@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบจ.ระนอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบจ-ระนอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "f19a2748afc732c36530dce2",
+      "maskedId": "184xxxxxx3603",
+      "name": "กฤติยาณี ศรีเนียม",
+      "province": "ระนอง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "b34853db738e73b9b6b546ef",
+      "maskedId": "186xxxxxx1743",
+      "name": "นิยดา แจ้งใจ",
+      "province": "ระนอง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%94%E0%B8%B2-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "492e278188feb31d5c4e33de",
+      "maskedId": "186xxxxxx6922",
+      "name": "ปรัชญาศิริ หะรังศรี",
+      "province": "ระนอง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "d694bc19dd258e20c43c1c5d",
+      "maskedId": "144xxxxxx9613",
+      "name": "ศราวุฒิ หีบไธสง",
+      "province": "ระนอง",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%AB%E0%B8%B5%E0%B8%9A%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "e990233f249d6615a9fe98e6",
+      "maskedId": "191xxxxxx0092",
+      "name": "ศักดา หมาดมานัง",
+      "province": "ระนอง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B2-%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "dc80f12ccec671514e6c4fcf",
+      "maskedId": "186xxxxxx2378",
+      "name": "สาวิตรี นวลอนงค์",
+      "province": "ระนอง",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B5-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "ท่าฉาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ท่าฉาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลท่าฉาง",
+      "district": "ท่าฉาง",
+      "id": "d43e0141fb1cf433e007dbaa",
+      "maskedId": "193xxxxxx6891",
+      "name": "กาญจนา เชาะปลอด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%8A%E0%B8%B2%E0%B8%B0%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสวียด",
+      "district": "ท่าฉาง",
+      "id": "2827f86f29a769cc8a7690e5",
+      "maskedId": "193xxxxxx8422",
+      "name": "ชลธิชา เรืองรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองไทร",
+      "district": "ท่าฉาง",
+      "id": "1bc862632686e86bb952d612",
+      "maskedId": "180xxxxxx3869",
+      "name": "ชวนากร หล่อสุพรรณพร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสวียด",
+      "district": "ท่าฉาง",
+      "id": "656f6c40902d8c1db6d44466",
+      "maskedId": "180xxxxxx0404",
+      "name": "ปรินดา นาคแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากฉลุย",
+      "district": "ท่าฉาง",
+      "id": "28d850260e85de17dfad8afb",
+      "maskedId": "190xxxxxx7516",
+      "name": "รัชชนก คําทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าฉาง",
+      "district": "ท่าฉาง",
+      "id": "81c943051dbd3d232ed617ea",
+      "maskedId": "284xxxxxx1823",
+      "name": "ศิรินภา เจริญผล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากฉลุย",
+      "district": "ท่าฉาง",
+      "id": "bf017059f592b337116a84df",
+      "maskedId": "191xxxxxx5521",
+      "name": "อุษา ใจดี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%A9%E0%B8%B2-%E0%B9%83%E0%B8%88%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสวียด",
+      "district": "ท่าฉาง",
+      "id": "5e6e6c50404f1e23075af637",
+      "maskedId": "184xxxxxx7857",
+      "name": "โชติกา เสียมสกุล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

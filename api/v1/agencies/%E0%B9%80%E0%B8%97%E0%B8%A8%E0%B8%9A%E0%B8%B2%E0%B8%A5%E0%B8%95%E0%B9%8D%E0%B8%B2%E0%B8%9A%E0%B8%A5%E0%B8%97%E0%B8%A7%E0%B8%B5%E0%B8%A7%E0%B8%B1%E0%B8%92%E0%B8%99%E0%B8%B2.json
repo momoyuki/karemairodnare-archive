@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตําบลทวีวัฒนา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลทวีวัฒนา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลทวีวัฒนา",
+      "district": "ไทรน้อย",
+      "id": "baa26ce540f60711e275e5c7",
+      "maskedId": "132xxxxxx2755",
+      "name": "วรินทร์พร สุขโขธนากิตติ์",
+      "province": "นนทบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%82%E0%B8%82%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทวีวัฒนา",
+      "district": "ไทรน้อย",
+      "id": "a6482242d3a759e6856c6c36",
+      "maskedId": "335xxxxxx9750",
+      "name": "วิรัตน์ ทาสมบูรณ์",
+      "province": "นนทบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทวีวัฒนา",
+      "district": "ไทรน้อย",
+      "id": "fff381c53c9836b4a278f74a",
+      "maskedId": "134xxxxxx6442",
+      "name": "วิสันต์ สุดแสน",
+      "province": "นนทบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "_meta": {
+    "count": 17,
+    "kind": "district",
+    "name": "เดิมบางนางบวช",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เดิมบางนางบวช",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "c2aa7ef6b65dadb896210904",
+      "maskedId": "166xxxxxx8599",
+      "name": "ขจรศักดิ์ พงษ์ประไพ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%88%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกช้าง",
+      "district": "เดิมบางนางบวช",
+      "id": "fc8197cd1fe76e59f8d6a934",
+      "maskedId": "172xxxxxx3171",
+      "name": "จักรพงษ์ กาละพงศ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "f10815a64fccd3fff4f5da88",
+      "maskedId": "172xxxxxx2621",
+      "name": "ณัฐธีรา ทิพย์สุวรรณ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "a7a91b570d556deec20fbeb5",
+      "maskedId": "172xxxxxx5764",
+      "name": "ณัฐพล ขำขะวงค์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%82%E0%B8%B3%E0%B8%82%E0%B8%B0%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเดิมบาง",
+      "district": "เดิมบางนางบวช",
+      "id": "b4ee738c02d83ad7671220a4",
+      "maskedId": "172xxxxxx6881",
+      "name": "ธีรวุฒิ เวียงธีรวัฒน์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "ab6d5c41073a4e400d54175d",
+      "maskedId": "172xxxxxx5923",
+      "name": "พัชราภา ปานสุวรรณ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "d2bbab90e7b9b9ed28606941",
+      "maskedId": "172xxxxxx3176",
+      "name": "พัชราภา รักชาติ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองกระทุ่ม",
+      "district": "เดิมบางนางบวช",
+      "id": "e43ce90a3aa4d0e985248494",
+      "maskedId": "172xxxxxx3907",
+      "name": "วริศรา อินทร์แตง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%95%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หัวนา",
+      "district": "เดิมบางนางบวช",
+      "id": "95a159ad5e238e54284c929b",
+      "maskedId": "172xxxxxx6521",
+      "name": "วันเฉลิม ปานสุวรรณ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนางบวช",
+      "district": "เดิมบางนางบวช",
+      "id": "c1b5475110c3c5515b38a642",
+      "maskedId": "117xxxxxx3806",
+      "name": "วิภาดา ชั่งยั่งยืน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "46b62e7566348af68678b18a",
+      "maskedId": "172xxxxxx7397",
+      "name": "ศิวพร โพธิ์สุวรรณ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%9E%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาพระ",
+      "district": "เดิมบางนางบวช",
+      "id": "79abedd9a074cfd11e635f82",
+      "maskedId": "172xxxxxx3277",
+      "name": "สวรรยา นุ่มดี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หัวเขา",
+      "district": "เดิมบางนางบวช",
+      "id": "111658b84b2b795b08177cc3",
+      "maskedId": "118xxxxxx6226",
+      "name": "สุกัญญา สีสวัสดิ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งคลี",
+      "district": "เดิมบางนางบวช",
+      "id": "46c730ade43db57aab80a59a",
+      "maskedId": "172xxxxxx6442",
+      "name": "สุจิตรา เรียนจันทร์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "422d068fa6f3072ce1199017",
+      "maskedId": "171xxxxxx6597",
+      "name": "สุภภนิดา สืบสอน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%A0%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาดิน",
+      "district": "เดิมบางนางบวช",
+      "id": "5fdc40c7e37712dab6278854",
+      "maskedId": "172xxxxxx1905",
+      "name": "สุภาวดี จันทา",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หัวนา",
+      "district": "เดิมบางนางบวช",
+      "id": "ad1eb8310199cf65c7d0721c",
+      "maskedId": "172xxxxxx1541",
+      "name": "เบญจวรรณ ขาวพันธ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

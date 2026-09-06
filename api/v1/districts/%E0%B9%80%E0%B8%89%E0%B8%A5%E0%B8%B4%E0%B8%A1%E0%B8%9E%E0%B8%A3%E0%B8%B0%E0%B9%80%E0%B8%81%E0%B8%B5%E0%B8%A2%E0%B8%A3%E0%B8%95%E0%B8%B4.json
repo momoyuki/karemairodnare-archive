@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "เฉลิมพระเกียรติ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เฉลิมพระเกียรติ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลท่าช้าง",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "a71d909f7cb96c97c2f21872",
+      "maskedId": "146xxxxxx4631",
+      "name": "กนกวรรณ พิณสา",
+      "province": "นครราชสีมา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B4%E0%B8%93%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เขาดินพัฒนา",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "34bf3c66d3dd9bcee18a7e39",
+      "maskedId": "144xxxxxx0919",
+      "name": "จารุณี เกียนนอก",
+      "province": "สระบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาดินพัฒนา",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "12a7aa32f5e9a23e734281bb",
+      "maskedId": "112xxxxxx0839",
+      "name": "ชนาภา ทัดชัง",
+      "province": "สระบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%97%E0%B8%B1%E0%B8%94%E0%B8%8A%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแก้ง",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "d687a856a65ba96fe06831ef",
+      "maskedId": "144xxxxxx0382",
+      "name": "ชิตณรงค์ ทองจิตร",
+      "province": "สระบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หน้าพระลาน",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "34d767b58b2dadd35ba401ea",
+      "maskedId": "110xxxxxx1337",
+      "name": "ธนพัทธ์ ธนะทรัพย์ทอง",
+      "province": "สระบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%98%E0%B8%99%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหน้าพระลาน",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "4bb249e6a952da208e8d6b6f",
+      "maskedId": "112xxxxxx0657",
+      "name": "พิเชษฐ อดุลรัตนไพร",
+      "province": "สระบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%A9%E0%B8%90-%E0%B8%AD%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%84%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวนหลวง",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "ac0e862d74821ec3432f28c0",
+      "maskedId": "193xxxxxx5933",
+      "name": "ศรายุทธ ทรัพย์พญาธร",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%98%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พระพุทธ",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "a93d2cef6f1b8a452b40e79a",
+      "maskedId": "133xxxxxx1907",
+      "name": "สิริพร แดงงาม",
+      "province": "นครราชสีมา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

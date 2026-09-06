@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "พนมไพร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พนมไพร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.กุดน้ําใส",
+      "district": "พนมไพร",
+      "id": "ba4428faa2074cfb4eb739da",
+      "maskedId": "147xxxxxx8914",
+      "name": "ธนิษฐา วิทวงค์",
+      "province": "ร้อยเอ็ด",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "33_ร้อยเอ็ด.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.แสนสุข",
+      "district": "พนมไพร",
+      "id": "3bea3cdc62737e11cb47d061",
+      "maskedId": "122xxxxxx6805",
+      "name": "สุทธิกานดา สุดแสน",
+      "province": "ร้อยเอ็ด",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "33_ร้อยเอ็ด.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกสว่าง",
+      "district": "พนมไพร",
+      "id": "fb73d301ba2f27ab23a35765",
+      "maskedId": "335xxxxxx8223",
+      "name": "สุปราณี จําปาเทศ",
+      "province": "ร้อยเอ็ด",
+      "scoreChange": 6,
+      "sources": [
+        {
+          "file": "33_ร้อยเอ็ด.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%97%E0%B8%A8",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

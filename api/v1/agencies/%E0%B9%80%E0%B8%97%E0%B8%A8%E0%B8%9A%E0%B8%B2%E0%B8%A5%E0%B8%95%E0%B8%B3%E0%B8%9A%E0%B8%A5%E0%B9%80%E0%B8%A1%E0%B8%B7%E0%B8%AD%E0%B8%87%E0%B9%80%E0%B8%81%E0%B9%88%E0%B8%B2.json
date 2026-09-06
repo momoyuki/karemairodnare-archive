@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตำบลเมืองเก่า",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลเมืองเก่า",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลเมืองเก่า",
+      "district": "กบินทร์บุรี",
+      "id": "7646b59b871b271bf24e73e6",
+      "maskedId": "154xxxxxx5758",
+      "name": "วนัชยา อึ้งเจริญ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%A2%E0%B8%B2-%E0%B8%AD%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตำบลเมืองเก่า",
+      "district": "เสาไห้",
+      "id": "de2d35ddf5d7134a6e8866c0",
+      "maskedId": "130xxxxxx7995",
+      "name": "เกวลิณ ปิ่นสุวรรณ",
+      "province": "สระบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B8%93-%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

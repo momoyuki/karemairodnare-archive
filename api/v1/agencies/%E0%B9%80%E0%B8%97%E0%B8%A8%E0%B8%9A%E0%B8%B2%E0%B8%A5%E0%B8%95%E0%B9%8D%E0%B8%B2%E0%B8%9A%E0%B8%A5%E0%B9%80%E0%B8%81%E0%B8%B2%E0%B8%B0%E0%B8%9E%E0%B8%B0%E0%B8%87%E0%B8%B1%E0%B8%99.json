@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตําบลเกาะพะงัน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลเกาะพะงัน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลเกาะพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "4f0cea4b17eec5edc6dce225",
+      "maskedId": "140xxxxxx5623",
+      "name": "จักรพรรดิ เล้าเจริญชัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4-%E0%B9%80%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกาะพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "184db2bddc4a877377046672",
+      "maskedId": "191xxxxxx5639",
+      "name": "จิรวัฒน์ ชูหนู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกาะพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "d0bdf57507c6ccc4c073d7c7",
+      "maskedId": "180xxxxxx7695",
+      "name": "ศิวพร ชุมพล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%9E%E0%B8%A3-%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

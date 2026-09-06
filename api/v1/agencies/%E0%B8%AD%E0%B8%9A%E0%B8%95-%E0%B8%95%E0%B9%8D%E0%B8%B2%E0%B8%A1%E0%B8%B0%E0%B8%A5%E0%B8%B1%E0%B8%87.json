@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ตํามะลัง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ตํามะลัง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตํามะลัง",
+      "district": "เมืองสตูล",
+      "id": "7e891a2ba6c405b1cb970a0d",
+      "maskedId": "396xxxxxx3311",
+      "name": "กูนารมา ตูแวเด็ง",
+      "province": "สตูล",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B9%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B2-%E0%B8%95%E0%B8%B9%E0%B9%81%E0%B8%A7%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตํามะลัง",
+      "district": "เมืองสตูล",
+      "id": "805195d3c8989f6be043c1cc",
+      "maskedId": "195xxxxxx4938",
+      "name": "อาติค อาบูดายอ",
+      "province": "สตูล",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%84-%E0%B8%AD%E0%B8%B2%E0%B8%9A%E0%B8%B9%E0%B8%94%E0%B8%B2%E0%B8%A2%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

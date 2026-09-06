@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "อากาศอำนวย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อากาศอำนวย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลสามัคคีพัฒนา",
+      "district": "อากาศอำนวย",
+      "id": "dd1ee537022c6b1cd25ffb27",
+      "maskedId": "143xxxxxx8070",
+      "name": "ชนิสรา วงศ์สุนา",
+      "province": "สกลนคร",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสามัคคีพัฒนา",
+      "district": "อากาศอำนวย",
+      "id": "151a7a1e6318d8ce58c4110e",
+      "maskedId": "147xxxxxx1796",
+      "name": "ณัฏฐ์ดนัย เนตรทองคำ",
+      "province": "สกลนคร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B9%8C%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวาใหญ่",
+      "district": "อากาศอำนวย",
+      "id": "98106e1228e70c6a8b646629",
+      "maskedId": "147xxxxxx8797",
+      "name": "ปฐมาวดี มาสขาว",
+      "province": "สกลนคร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพนแพง",
+      "district": "อากาศอำนวย",
+      "id": "5522486993be99a42399ddd6",
+      "maskedId": "141xxxxxx7316",
+      "name": "มิถุนา สนิทชน",
+      "province": "สกลนคร",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B4%E0%B8%96%E0%B8%B8%E0%B8%99%E0%B8%B2-%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%8A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพนแพง",
+      "district": "อากาศอำนวย",
+      "id": "dece50b73beecfe28b661b60",
+      "maskedId": "147xxxxxx0314",
+      "name": "สุดาพร อินธิฤทธิ์",
+      "province": "สกลนคร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาฮี",
+      "district": "อากาศอำนวย",
+      "id": "ae9371db23dad53928dabc48",
+      "maskedId": "143xxxxxx2266",
+      "name": "สุรเดช อยู่เย็น",
+      "province": "สกลนคร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อากาศ",
+      "district": "อากาศอำนวย",
+      "id": "2f27c4c0a523270949e16dff",
+      "maskedId": "343xxxxxx3771",
+      "name": "โสภา กุลชาติ",
+      "province": "สกลนคร",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

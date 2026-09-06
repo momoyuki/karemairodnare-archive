@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตําบลโพธิ์งาม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลโพธิ์งาม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลโพธิ์งาม",
+      "district": "ประจันตคาม",
+      "id": "c8df9351c02555e6a5774313",
+      "maskedId": "110xxxxxx2032",
+      "name": "ณัฐจิโรจน์ หมวกกลั่น",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%88%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%81%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพธิ์งาม",
+      "district": "ประจันตคาม",
+      "id": "3f01c9d1bd088c7fcafa576a",
+      "maskedId": "110xxxxxx7252",
+      "name": "ศุภาวรรณ พูลเจริญ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

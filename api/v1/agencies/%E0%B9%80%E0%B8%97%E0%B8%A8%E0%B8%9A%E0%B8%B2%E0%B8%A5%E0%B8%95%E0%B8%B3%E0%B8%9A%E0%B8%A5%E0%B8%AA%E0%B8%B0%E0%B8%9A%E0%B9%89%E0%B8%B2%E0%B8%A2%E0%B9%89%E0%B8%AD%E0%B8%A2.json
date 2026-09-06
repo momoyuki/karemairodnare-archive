@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตำบลสะบ้าย้อย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลสะบ้าย้อย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลสะบ้าย้อย",
+      "district": "สะบ้าย้อย",
+      "id": "dce8e48e73ff84abd30c8c7a",
+      "maskedId": "190xxxxxx3081",
+      "name": "กัณณิกา เส็นอาลามีน",
+      "province": "สงขลา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสะบ้าย้อย",
+      "district": "สะบ้าย้อย",
+      "id": "d9fe99f4e043ecd979284d21",
+      "maskedId": "190xxxxxx0980",
+      "name": "ทศพล พรหมศรีผ่อง",
+      "province": "สงขลา",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A5-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสะบ้าย้อย",
+      "district": "สะบ้าย้อย",
+      "id": "9bf6431b6e7bd963ddc6e88b",
+      "maskedId": "394xxxxxx0936",
+      "name": "รอซาลี มะแอ",
+      "province": "สงขลา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AD%E0%B8%8B%E0%B8%B2%E0%B8%A5%E0%B8%B5-%E0%B8%A1%E0%B8%B0%E0%B9%81%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

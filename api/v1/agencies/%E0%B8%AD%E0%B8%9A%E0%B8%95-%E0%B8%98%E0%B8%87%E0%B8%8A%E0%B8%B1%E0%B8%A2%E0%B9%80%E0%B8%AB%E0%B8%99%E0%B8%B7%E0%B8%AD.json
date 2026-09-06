@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ธงชัยเหนือ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ธงชัยเหนือ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ธงชัยเหนือ",
+      "district": "ปักธงชัย",
+      "id": "0ca1d230cb3e49e67394e046",
+      "maskedId": "132xxxxxx9085",
+      "name": "ณัฐณิชา ชุ่มเจริญ",
+      "province": "นครราชสีมา",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%8A%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธงชัยเหนือ",
+      "district": "ปักธงชัย",
+      "id": "db8c775dad0ac74ffc4b9164",
+      "maskedId": "130xxxxxx7032",
+      "name": "อลงกรณ์ ระดมผล",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%A1%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

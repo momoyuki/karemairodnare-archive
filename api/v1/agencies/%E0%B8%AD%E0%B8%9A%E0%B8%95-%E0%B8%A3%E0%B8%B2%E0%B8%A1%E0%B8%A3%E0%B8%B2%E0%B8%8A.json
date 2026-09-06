@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.รามราช",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-รามราช",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.รามราช",
+      "district": "ท่าอุเทน",
+      "id": "d16d64d1928ddc7c134a55a5",
+      "maskedId": "534xxxxxx1872",
+      "name": "กรวรรณ ดาดวง",
+      "province": "นครพนม",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%94%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รามราช",
+      "district": "ท่าอุเทน",
+      "id": "04e3eda63e161eccf89dc92a",
+      "maskedId": "148xxxxxx0937",
+      "name": "ธิติยา คําพระรัตนตรัย",
+      "province": "นครพนม",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รามราช",
+      "district": "ท่าอุเทน",
+      "id": "280a0cd4381f70472e2a45bb",
+      "maskedId": "143xxxxxx4892",
+      "name": "นนทพัทธ์ มณีรัตน์",
+      "province": "นครพนม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รามราช",
+      "district": "ท่าอุเทน",
+      "id": "592968448df407cab1ce323d",
+      "maskedId": "143xxxxxx1742",
+      "name": "นภัสรา เพชรพา",
+      "province": "นครพนม",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รามราช",
+      "district": "ท่าอุเทน",
+      "id": "dbbce715d514a51aa84d88f3",
+      "maskedId": "141xxxxxx6750",
+      "name": "อานันท์ วันชัย",
+      "province": "นครพนม",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

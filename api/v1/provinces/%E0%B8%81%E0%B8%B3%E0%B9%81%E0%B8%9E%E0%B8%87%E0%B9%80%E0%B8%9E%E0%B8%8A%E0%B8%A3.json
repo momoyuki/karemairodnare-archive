@@ -1,0 +1,609 @@
+{
+  "_meta": {
+    "count": 35,
+    "kind": "province",
+    "name": "กำแพงเพชร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "กำแพงเพชร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลลานกระบือ",
+      "district": "ลานกระบือ",
+      "id": "0d7cd1b264234dc74c0f70c6",
+      "maskedId": "162xxxxxx2498",
+      "name": "กมลมาตุ จันทร์เพ็ง",
+      "province": "กำแพงเพชร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%B8-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทรงาม",
+      "district": "ไทรงาม",
+      "id": "30957a5d23af289c9cfefaec",
+      "maskedId": "154xxxxxx3074",
+      "name": "กัญญาณี ศรีโพธิ์",
+      "province": "กำแพงเพชร",
+      "scoreChange": 5,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลท่ามะเขือ",
+      "district": "คลองขลุง",
+      "id": "d81acd54494d1374c1414e60",
+      "maskedId": "167xxxxxx6215",
+      "name": "จิรพัฒน์ ศรีตนชัย",
+      "province": "กำแพงเพชร",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%95%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองคล้า",
+      "district": "ไทรงาม",
+      "id": "7493b43b49f7b1147f554117",
+      "maskedId": "165xxxxxx1203",
+      "name": "จิรัชญา เถื่อนด้วง",
+      "province": "กำแพงเพชร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลลานกระบือ",
+      "district": "ลานกระบือ",
+      "id": "6dffec38285b2cfd555d8cd9",
+      "maskedId": "360xxxxxx7027",
+      "name": "จิราพรรณ ดอนก้อนไพร",
+      "province": "กำแพงเพชร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช่องลม",
+      "district": "ลานกระบือ",
+      "id": "c10ce853d3962ffef70923fe",
+      "maskedId": "141xxxxxx7636",
+      "name": "จุฬาลักษณ์ วุฒิสาร",
+      "province": "กำแพงเพชร",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระหาน",
+      "district": "บึงสามัคคี",
+      "id": "f88af3511077081797381764",
+      "maskedId": "163xxxxxx1001",
+      "name": "ณัฏฐนันธ์ มาลีหวล",
+      "province": "กำแพงเพชร",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B5%E0%B8%AB%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ลาด",
+      "district": "คลองขลุง",
+      "id": "dbbe90354fa6baa8e07981b9",
+      "maskedId": "162xxxxxx9297",
+      "name": "ณัฐกร จำปัน",
+      "province": "กำแพงเพชร",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสระแก้ว",
+      "district": "เมืองกำแพงเพชร",
+      "id": "2a8d85994641f12c1eea161a",
+      "maskedId": "162xxxxxx2452",
+      "name": "ณัฐวดี จันทร์แดง",
+      "province": "กำแพงเพชร",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%94%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลท่ามะเขือ",
+      "district": "คลองขลุง",
+      "id": "0f2d1df84ea8c911a7d338cc",
+      "maskedId": "130xxxxxx4531",
+      "name": "ณัฐสุดา ชุ่มฉิมพลี",
+      "province": "กำแพงเพชร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%8A%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปางตาไว",
+      "district": "ปางศิลาทอง",
+      "id": "a07d2d7fa31c1be1ba0a0665",
+      "maskedId": "166xxxxxx8788",
+      "name": "ทนงศักดิ์ ยาดี",
+      "province": "กำแพงเพชร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%99%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A2%E0%B8%B2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มหาชัย",
+      "district": "ไทรงาม",
+      "id": "eedd860422ca5372c3c1cca1",
+      "maskedId": "164xxxxxx6854",
+      "name": "ธนัฏฐา บุญธานี",
+      "province": "กำแพงเพชร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังทอง",
+      "district": "เมืองกำแพงเพชร",
+      "id": "eb940b4afc0698b5db73d0c8",
+      "maskedId": "167xxxxxx6152",
+      "name": "ธนิภา อุบลอ่อน",
+      "province": "กำแพงเพชร",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพิไกร",
+      "district": "พรานกระต่าย",
+      "id": "6122bc145a93a79052341f15",
+      "maskedId": "153xxxxxx6691",
+      "name": "ธวัลรัตน์ โสดา",
+      "province": "กำแพงเพชร",
+      "scoreChange": 4,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังแขม",
+      "district": "คลองขลุง",
+      "id": "eca77b4729a943bee82d0f24",
+      "maskedId": "165xxxxxx1842",
+      "name": "ธิดารัตน์ วารีย์",
+      "province": "กำแพงเพชร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังตะแบก",
+      "district": "พรานกระต่าย",
+      "id": "9e8d0246f72d88975a5f1c6c",
+      "maskedId": "162xxxxxx8702",
+      "name": "นนทวรรณ จันทร์เมือง",
+      "province": "กำแพงเพชร",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช่องลม",
+      "district": "ลานกระบือ",
+      "id": "c2721caa2e7e13d0967aa13e",
+      "maskedId": "161xxxxxx0731",
+      "name": "บุรัสกร ธรรมขันธ์",
+      "province": "กำแพงเพชร",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%A3-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเทพนคร",
+      "district": "เมืองกำแพงเพชร",
+      "id": "7d2eaa825323c09e12a57caf",
+      "maskedId": "193xxxxxx5216",
+      "name": "ผกาวดี เกษแก้ว",
+      "province": "กำแพงเพชร",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9C%E0%B8%81%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หัวถนน",
+      "district": "คลองขลุง",
+      "id": "f4b02087e52de3cef6c1c5e2",
+      "maskedId": "110xxxxxx7455",
+      "name": "พิรดา สินสุข",
+      "province": "กำแพงเพชร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพิไกร",
+      "district": "พรานกระต่าย",
+      "id": "62d900d8bc3cf7a4a991bedc",
+      "maskedId": "162xxxxxx2877",
+      "name": "พีรพล เจนจบ",
+      "province": "กำแพงเพชร",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%88%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระหาน",
+      "district": "บึงสามัคคี",
+      "id": "fe418a4d4225815460fa9b2f",
+      "maskedId": "116xxxxxx4709",
+      "name": "ภานุภัทร์ สมบูรณ์เพ็ง",
+      "province": "กำแพงเพชร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังชะโอน",
+      "district": "บึงสามัคคี",
+      "id": "22eed94d08a12e66399fd0fc",
+      "maskedId": "161xxxxxx0401",
+      "name": "มัจจิมา เรื่องวงษ์ดี",
+      "province": "กำแพงเพชร",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังทอง",
+      "district": "เมืองกำแพงเพชร",
+      "id": "fb50f63e0a811ffdc3c1917d",
+      "maskedId": "162xxxxxx8443",
+      "name": "วัฒนา โพธิ์ทอง",
+      "province": "กำแพงเพชร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลตําบลระหาน",
+      "district": "บึงสามัคคี",
+      "id": "fd4f8db29d0cb1be4340e64e",
+      "maskedId": "165xxxxxx0610",
+      "name": "วิชญาภา สังข์ยก",
+      "province": "กำแพงเพชร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%A2%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองสมบูรณ์",
+      "district": "คลองขลุง",
+      "id": "f4a13ec565f54940c3531b7b",
+      "maskedId": "357xxxxxx2947",
+      "name": "สรศักดิ์ ชัยชนะ",
+      "province": "กำแพงเพชร",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองไม้กอง",
+      "district": "ไทรงาม",
+      "id": "db6b9aa7f369d3e47c5243e3",
+      "maskedId": "160xxxxxx4523",
+      "name": "สัจมิตร น้อยเอี่ยม",
+      "province": "กำแพงเพชร",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งทราย",
+      "district": "ทรายทองวัฒนา",
+      "id": "edf8e4e1dd0e54ab7b805dd6",
+      "maskedId": "110xxxxxx3492",
+      "name": "สามิตร สิงห์ลอ",
+      "province": "กำแพงเพชร",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A5%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นครชุม",
+      "district": "เมืองกำแพงเพชร",
+      "id": "e4fac9397954b13fc8c5d42e",
+      "maskedId": "141xxxxxx1101",
+      "name": "สุรัสวดี โพธิ์สี",
+      "province": "กำแพงเพชร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลช่องลม",
+      "district": "ลานกระบือ",
+      "id": "1abc9fe7fa8fa34e3cb7e8d7",
+      "maskedId": "160xxxxxx9641",
+      "name": "อนุชตา แก้วจุฬา",
+      "province": "กำแพงเพชร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%95%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังชะโอน",
+      "district": "บึงสามัคคี",
+      "id": "58d65088a7d078e2c4178bff",
+      "maskedId": "163xxxxxx4787",
+      "name": "อภิรมย์ เรืองเกตุ",
+      "province": "กำแพงเพชร",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพุทรา",
+      "district": "คลองขลุง",
+      "id": "fedd843e30b3530007c59772",
+      "maskedId": "162xxxxxx6143",
+      "name": "อมรรัตน์ เรียงจารุสมบูรณ์",
+      "province": "กำแพงเพชร",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปางตาไว",
+      "district": "ปางศิลาทอง",
+      "id": "12ae95ffce72cb9f60e69b5f",
+      "maskedId": "164xxxxxx5210",
+      "name": "อรทัย เกื้อเสนาะ",
+      "province": "กำแพงเพชร",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าขุนราม",
+      "district": "เมืองกำแพงเพชร",
+      "id": "62c7b53661aa5c0a412ab84f",
+      "maskedId": "163xxxxxx4840",
+      "name": "อัญญาภา ราชจริต",
+      "province": "กำแพงเพชร",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทอง",
+      "district": "ไทรงาม",
+      "id": "4d5897caff09647e3d485048",
+      "maskedId": "162xxxxxx4948",
+      "name": "เพชรรัตน์ พวงผรากา",
+      "province": "กำแพงเพชร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B8%9C%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังทอง",
+      "district": "เมืองกำแพงเพชร",
+      "id": "9d4ad197c80eac5ed10dae2d",
+      "maskedId": "160xxxxxx0425",
+      "name": "ไอลดา ปั้นเหน่ง",
+      "province": "กำแพงเพชร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%AD%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}

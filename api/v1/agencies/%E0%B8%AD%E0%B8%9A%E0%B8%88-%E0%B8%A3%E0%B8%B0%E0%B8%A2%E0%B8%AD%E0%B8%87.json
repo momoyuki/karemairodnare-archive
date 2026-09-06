@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบจ.ระยอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบจ-ระยอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "d2c3e27341a3c9e8c7de43e4",
+      "maskedId": "172xxxxxx9297",
+      "name": "ธนภัทร สาระวงษ์",
+      "province": "ระยอง",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "58d458e17b55da012179ddf8",
+      "maskedId": "130xxxxxx4509",
+      "name": "ธัชกรณ์ ตะโกมา",
+      "province": "ระยอง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8A%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%95%E0%B8%B0%E0%B9%82%E0%B8%81%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "bf1b55a96525e16e954d001a",
+      "maskedId": "131xxxxxx1401",
+      "name": "ปัญญาพร รักงาม",
+      "province": "ระยอง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "30391eaab2880fd4a65e2fbc",
+      "maskedId": "111xxxxxx3349",
+      "name": "ศาสตราวุธ ปรีชาผล",
+      "province": "ระยอง",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98-%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "dee97f8c96f1bbdf3fc77632",
+      "maskedId": "131xxxxxx2621",
+      "name": "ศิริพร เกาะโค้ง",
+      "province": "ระยอง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "fd1673364096996b01b473e6",
+      "maskedId": "130xxxxxx3904",
+      "name": "สาธิมา รติธรรมกุล",
+      "province": "ระยอง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

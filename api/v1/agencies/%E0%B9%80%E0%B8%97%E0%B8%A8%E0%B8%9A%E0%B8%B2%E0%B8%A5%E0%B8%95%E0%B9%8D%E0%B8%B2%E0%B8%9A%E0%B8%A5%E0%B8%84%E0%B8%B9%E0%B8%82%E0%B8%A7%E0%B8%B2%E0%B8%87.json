@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตําบลคูขวาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลคูขวาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลคูขวาง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "e77b2d51c96b8339987a2c9d",
+      "maskedId": "113xxxxxx8215",
+      "name": "ณัฐนันท์ บุญเนตร",
+      "province": "ปทุมธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคูขวาง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "e5e457fd83af156882b069d9",
+      "maskedId": "171xxxxxx7771",
+      "name": "นราภรณ์ ศรีนวล",
+      "province": "ปทุมธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

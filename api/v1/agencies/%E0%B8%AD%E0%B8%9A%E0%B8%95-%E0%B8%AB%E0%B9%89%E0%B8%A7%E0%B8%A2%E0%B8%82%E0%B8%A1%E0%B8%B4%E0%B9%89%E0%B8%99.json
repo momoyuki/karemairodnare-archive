@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.ห้วยขมิ้น",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ห้วยขมิ้น",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ห้วยขมิ้น",
+      "district": "ด่านช้าง",
+      "id": "ffc803889e57bf71f531d8b8",
+      "maskedId": "173xxxxxx9932",
+      "name": "สมเกียรติ เอกพรรณ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 6,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4-%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยขมิ้น",
+      "district": "ด่านช้าง",
+      "id": "cb5de9d516e19d7abd73a2d8",
+      "maskedId": "171xxxxxx9106",
+      "name": "สุภัทรา ฟักโต",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2-%E0%B8%9F%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยขมิ้น",
+      "district": "หนองแค",
+      "id": "fd8b8bbb92a391fac1a33c43",
+      "maskedId": "319xxxxxx7792",
+      "name": "อรณิชชา อรุณเรืองดี",
+      "province": "สระบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยขมิ้น",
+      "district": "ด่านช้าง",
+      "id": "818802cb1423acbe26422a3f",
+      "maskedId": "172xxxxxx5020",
+      "name": "เกษณี ช้างวงค์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B5-%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยขมิ้น",
+      "district": "ด่านช้าง",
+      "id": "22dba2f2aeb762aa42b1c8de",
+      "maskedId": "130xxxxxx6633",
+      "name": "โสภณ วิทยายนตร์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%93-%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบจ.สมุทรปราการ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบจ-สมุทรปราการ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.สมุทรปราการ",
+      "district": "เมืองสมุทรปราการ",
+      "id": "5f2702f1c51b4eac22a7d8d1",
+      "maskedId": "110xxxxxx2666",
+      "name": "ธัญวรัตน์ สู่สุข",
+      "province": "สมุทรปราการ",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรปราการ",
+      "district": "เมืองสมุทรปราการ",
+      "id": "74a6a0ccc78c80bd564ef5d2",
+      "maskedId": "110xxxxxx8243",
+      "name": "นิรวัชร์ มุสิงาม",
+      "province": "สมุทรปราการ",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B9%8C-%E0%B8%A1%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรปราการ",
+      "district": "เมืองสมุทรปราการ",
+      "id": "5e763c69273a97442f4b7c96",
+      "maskedId": "171xxxxxx8014",
+      "name": "อนุรักษ์ สร้อยสน",
+      "province": "สมุทรปราการ",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรปราการ",
+      "district": "เมืองสมุทรปราการ",
+      "id": "cd92bd3cc64b7de0e6cfa891",
+      "maskedId": "172xxxxxx8746",
+      "name": "โสภณวิชญ์ เหมือนสังข์ดี",
+      "province": "สมุทรปราการ",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%93%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

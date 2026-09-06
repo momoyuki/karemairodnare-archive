@@ -1,0 +1,235 @@
+{
+  "_meta": {
+    "count": 13,
+    "kind": "province",
+    "name": "นครสวรรค์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นครสวรรค์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ทุ่งทอง",
+      "district": "หนองบัว",
+      "id": "7d7c83ad77f5bc7569df0457",
+      "maskedId": "133xxxxxx1059",
+      "name": "จักรี คงโนนกอก",
+      "province": "นครสวรรค์",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B5-%E0%B8%84%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองตาคลี",
+      "district": "ตาคลี",
+      "id": "801d29431f7b506deec885bd",
+      "maskedId": "162xxxxxx5074",
+      "name": "ณัฏฐา จริยาจินดาเสถียร",
+      "province": "นครสวรรค์",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%B2-%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทับกฤชใต้",
+      "district": "ชุมแสง",
+      "id": "8faf99b1fae13e25a780ae57",
+      "maskedId": "167xxxxxx4425",
+      "name": "ทิวานันท์ จันอร่าม",
+      "province": "นครสวรรค์",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พิกุล",
+      "district": "ชุมแสง",
+      "id": "e97066df5010318bd90c7877",
+      "maskedId": "110xxxxxx4228",
+      "name": "ธนโชค กองอรรถ",
+      "province": "นครสวรรค์",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B9%82%E0%B8%8A%E0%B8%84-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังม้า",
+      "district": "ลาดยาว",
+      "id": "754569f73dd3b91919cdf1b3",
+      "maskedId": "157xxxxxx8701",
+      "name": "ธีระพงศ์ วรรณชัย",
+      "province": "นครสวรรค์",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หัวถนน",
+      "district": "ท่าตะโก",
+      "id": "c69f6f4808a9be2f8b1c2e61",
+      "maskedId": "163xxxxxx9152",
+      "name": "ธีริทธ์ ทองแดง",
+      "province": "นครสวรรค์",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.พิกุล",
+      "district": "ชุมแสง",
+      "id": "794f277df2241166fc360069",
+      "maskedId": "116xxxxxx5249",
+      "name": "ประฬุพร เสนวงษ์",
+      "province": "นครสวรรค์",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AC%E0%B8%B8%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นครสวรรค์",
+      "district": "เมืองนครสวรรค์",
+      "id": "fb0b9ef6d5ac94fdae4ba96b",
+      "maskedId": "160xxxxxx2403",
+      "name": "พงศกร ผาสุข",
+      "province": "นครสวรรค์",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%81%E0%B8%A3-%E0%B8%9C%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตาสัง",
+      "district": "บรรพตพิสัย",
+      "id": "19f39458ea3b204699052202",
+      "maskedId": "162xxxxxx6987",
+      "name": "พรรทิพา พิมใจใส",
+      "province": "นครสวรรค์",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%B2-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B9%83%E0%B8%88%E0%B9%83%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งทอง",
+      "district": "หนองบัว",
+      "id": "193b6fa09aa18b444152b1e5",
+      "maskedId": "167xxxxxx5505",
+      "name": "ภาสินี ลาดลา",
+      "province": "นครสวรรค์",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ลาดยาว",
+      "district": "ลาดยาว",
+      "id": "43ddf9e18194cf7eacc43346",
+      "maskedId": "161xxxxxx9110",
+      "name": "ภูมินทร์ ไกรสิทธิพาณิชย์",
+      "province": "นครสวรรค์",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่เล่ย์",
+      "district": "แม่วงก์",
+      "id": "d1b621184826d80b09b82bd4",
+      "maskedId": "167xxxxxx8743",
+      "name": "เกษมศักดิ์ กีกอง",
+      "province": "นครสวรรค์",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%81%E0%B8%B5%E0%B8%81%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลำพยนต์",
+      "district": "ตากฟ้า",
+      "id": "e769a8ad38a04990b5599012",
+      "maskedId": "170xxxxxx0732",
+      "name": "เจริดจ้า ธีระตระกูล",
+      "province": "นครสวรรค์",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B9%89%E0%B8%B2-%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

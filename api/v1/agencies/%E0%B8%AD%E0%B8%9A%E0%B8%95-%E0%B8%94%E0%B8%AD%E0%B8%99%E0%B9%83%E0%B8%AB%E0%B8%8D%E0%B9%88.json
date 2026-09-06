@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ดอนใหญ่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ดอนใหญ่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ดอนใหญ่",
+      "district": "ศรีเมืองใหม่",
+      "id": "95d39b2370de17895fd83a8d",
+      "maskedId": "145xxxxxx9726",
+      "name": "ฐาปนา ตาลวาวแวว",
+      "province": "อุบลราชธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B2%E0%B8%9B%E0%B8%99%E0%B8%B2-%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%A7%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%A7%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดอนใหญ่",
+      "district": "บางแพ",
+      "id": "68ac6345c59de5beab0d1490",
+      "maskedId": "114xxxxxx1505",
+      "name": "วันชนก ชำนิปั้น",
+      "province": "ราชบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%8A%E0%B8%B3%E0%B8%99%E0%B8%B4%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

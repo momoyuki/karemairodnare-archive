@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "ศรีราชา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ศรีราชา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครเจ้าพระยาสุรศักดิ์",
+      "district": "ศรีราชา",
+      "id": "04eb8d5d53496a90b98aeba0",
+      "maskedId": "147xxxxxx4620",
+      "name": "กาญจนา ไชยรบ",
+      "province": "ชลบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%A3%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเจ้าพระยาสุรศักดิ์",
+      "district": "ศรีราชา",
+      "id": "1d59ced45dd03849fe745244",
+      "maskedId": "110xxxxxx6749",
+      "name": "ฐิติมา นาคขํา",
+      "province": "ชลบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%82%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเจ้าพระยาสุรศักดิ์",
+      "district": "ศรีราชา",
+      "id": "3396f1b1719e3e7d85936016",
+      "maskedId": "146xxxxxx4643",
+      "name": "ทรงวุฒิ จิตจักร์",
+      "province": "ชลบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแหลมฉบัง",
+      "district": "ศรีราชา",
+      "id": "b29d627c54925114c6ca0adf",
+      "maskedId": "143xxxxxx0999",
+      "name": "บุณยาพร พระนุรักษ์",
+      "province": "ชลบุรี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแหลมฉบัง",
+      "district": "ศรีราชา",
+      "id": "297bed534d5b9468d568fadf",
+      "maskedId": "117xxxxxx2054",
+      "name": "ภาณุวัฒร์ ยะธาตุ",
+      "province": "ชลบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%A3%E0%B9%8C-%E0%B8%A2%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเจ้าพระยาสุรศักดิ์",
+      "district": "ศรีราชา",
+      "id": "9fbaf28d692c44dad3ed4e08",
+      "maskedId": "125xxxxxx4211",
+      "name": "ศุภพร วันเจียม",
+      "province": "ชลบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเจ้าพระยาสุรศักดิ์",
+      "district": "ศรีราชา",
+      "id": "379de7475cdb492ca7cf7c68",
+      "maskedId": "130xxxxxx3652",
+      "name": "เกรียงไกร อินทศรี",
+      "province": "ชลบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%84%E0%B8%81%E0%B8%A3-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

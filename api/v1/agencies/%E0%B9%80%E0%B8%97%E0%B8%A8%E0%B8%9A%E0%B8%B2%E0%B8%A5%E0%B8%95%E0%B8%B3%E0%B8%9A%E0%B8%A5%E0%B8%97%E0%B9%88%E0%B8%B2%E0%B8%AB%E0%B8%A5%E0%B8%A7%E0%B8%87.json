@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตำบลท่าหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลท่าหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "733083670de68c343b01ba11",
+      "maskedId": "119xxxxxx5186",
+      "name": "กุลนันทน์ ทองอุ่นเรือน",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "f9ad0614de7c2afb694210ce",
+      "maskedId": "110xxxxxx8431",
+      "name": "เกตุกนก ฤกษ์สนธิ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%81-%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

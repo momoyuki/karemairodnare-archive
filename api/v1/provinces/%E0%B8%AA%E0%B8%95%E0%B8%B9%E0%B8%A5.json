@@ -1,0 +1,405 @@
+{
+  "_meta": {
+    "count": 23,
+    "kind": "province",
+    "name": "สตูล",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สตูล",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เกาะสาหร่าย",
+      "district": "เมืองสตูล",
+      "id": "42b44ba4d86d36798ce0a251",
+      "maskedId": "195xxxxxx3773",
+      "name": "กิตติวัฒน์ หมื่นสองศรี",
+      "province": "สตูล",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตํามะลัง",
+      "district": "เมืองสตูล",
+      "id": "7e891a2ba6c405b1cb970a0d",
+      "maskedId": "396xxxxxx3311",
+      "name": "กูนารมา ตูแวเด็ง",
+      "province": "สตูล",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B9%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B2-%E0%B8%95%E0%B8%B9%E0%B9%81%E0%B8%A7%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ละงู",
+      "district": "ละงู",
+      "id": "6705936273fe78aece88da09",
+      "maskedId": "191xxxxxx4107",
+      "name": "คอดียะ ยาบา",
+      "province": "สตูล",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%B0-%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะสาหร่าย",
+      "district": "เมืองสตูล",
+      "id": "e991567e27cbcd2f18fffa9a",
+      "maskedId": "191xxxxxx1291",
+      "name": "จันทร์เพ็ญ สุวรรณโณ",
+      "province": "สตูล",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%82%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นิคมพัฒนา",
+      "district": "มะนัง",
+      "id": "73c85d6f2ee1573da7be6ed9",
+      "maskedId": "191xxxxxx9291",
+      "name": "จุฑารัตน์ คงแก้วเคลื่อน",
+      "province": "สตูล",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านควน",
+      "district": "เมืองสตูล",
+      "id": "a40be1940434145ec9f859ef",
+      "maskedId": "192xxxxxx0633",
+      "name": "ชินภัทร สุพรรณรัตน์",
+      "province": "สตูล",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาทอน",
+      "district": "ทุ่งหว้า",
+      "id": "852c7f63566b9361b4e3b110",
+      "maskedId": "396xxxxxx3060",
+      "name": "ซัยนับ มะบายะ",
+      "province": "สตูล",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%B1%E0%B8%9A-%E0%B8%A1%E0%B8%B0%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ฉลุง",
+      "district": "เมืองสตูล",
+      "id": "4f00a4bbe510f3ddb7b3e033",
+      "maskedId": "194xxxxxx4557",
+      "name": "ซามีลา ดีเยาะ",
+      "province": "สตูล",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%A5%E0%B8%B2-%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สตูล",
+      "district": "เมืองสตูล",
+      "id": "95ba21dd56cad805f6b83286",
+      "maskedId": "191xxxxxx4868",
+      "name": "ณัชช์พิพัฒน์ เพ็งจำรัส",
+      "province": "สตูล",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะสาหร่าย",
+      "district": "เมืองสตูล",
+      "id": "3321092921c8db8927516924",
+      "maskedId": "195xxxxxx9498",
+      "name": "ดวงทิพย์ สกุลประดิษฐ",
+      "province": "สตูล",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สตูล",
+      "district": "เมืองสตูล",
+      "id": "c11f942af3cc814201a39018",
+      "maskedId": "196xxxxxx1810",
+      "name": "ธนภัทร เสตะจิต",
+      "province": "สตูล",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%AA%E0%B8%95%E0%B8%B0%E0%B8%88%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลควนกาหลง",
+      "district": "ควนกาหลง",
+      "id": "b09ae4d5c7f7bde66978d7b0",
+      "maskedId": "194xxxxxx5449",
+      "name": "นูรซาวซัน ลอเซ็ง",
+      "province": "สตูล",
+      "scoreChange": 70,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%8B%E0%B8%B2%E0%B8%A7%E0%B8%8B%E0%B8%B1%E0%B8%99-%E0%B8%A5%E0%B8%AD%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะสาหร่าย",
+      "district": "เมืองสตูล",
+      "id": "814889e7173d181d11c3281d",
+      "maskedId": "194xxxxxx9955",
+      "name": "นูรีซัน เตะแต",
+      "province": "สตูล",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B8%99-%E0%B9%80%E0%B8%95%E0%B8%B0%E0%B9%81%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งบุหลัง",
+      "district": "ทุ่งหว้า",
+      "id": "ecf01d3aa4532481771efbaa",
+      "maskedId": "190xxxxxx9769",
+      "name": "รสสุคนธ์ จิตบรรจง",
+      "province": "สตูล",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AA%E0%B8%AA%E0%B8%B8%E0%B8%84%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านควน",
+      "district": "เมืองสตูล",
+      "id": "604056e2af8de3cfaa342a90",
+      "maskedId": "193xxxxxx9014",
+      "name": "ศศิประภา กิ้มเส้ง",
+      "province": "สตูล",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2-%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งบุหลัง",
+      "district": "ทุ่งหว้า",
+      "id": "4179ed58947780641084702e",
+      "maskedId": "191xxxxxx1057",
+      "name": "ศิริกุล หลงเก็ม",
+      "province": "สตูล",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%AB%E0%B8%A5%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สตูล",
+      "district": "เมืองสตูล",
+      "id": "9474a004f6acdcdcd06400a6",
+      "maskedId": "191xxxxxx9917",
+      "name": "อรัญ อุเส็น",
+      "province": "สตูล",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%8D-%E0%B8%AD%E0%B8%B8%E0%B9%80%E0%B8%AA%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตํามะลัง",
+      "district": "เมืองสตูล",
+      "id": "805195d3c8989f6be043c1cc",
+      "maskedId": "195xxxxxx4938",
+      "name": "อาติค อาบูดายอ",
+      "province": "สตูล",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%84-%E0%B8%AD%E0%B8%B2%E0%B8%9A%E0%B8%B9%E0%B8%94%E0%B8%B2%E0%B8%A2%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะสาหร่าย",
+      "district": "เมืองสตูล",
+      "id": "2d19f147c85e2db785a24639",
+      "maskedId": "195xxxxxx7007",
+      "name": "อาบีดีน เจะเตะ",
+      "province": "สตูล",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%9A%E0%B8%B5%E0%B8%94%E0%B8%B5%E0%B8%99-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%95%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลควนกาหลง",
+      "district": "ควนกาหลง",
+      "id": "8108a57fd43eeb370b6f2986",
+      "maskedId": "190xxxxxx8724",
+      "name": "อาฮาหมัด อิมิง",
+      "province": "สตูล",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%AE%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ฉลุง",
+      "district": "เมืองสตูล",
+      "id": "763840410968cc44ab9df8f1",
+      "maskedId": "194xxxxxx4583",
+      "name": "อิฟฟาน อิบรอเห็น",
+      "province": "สตูล",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%9F%E0%B8%9F%E0%B8%B2%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สตูล",
+      "district": "เมืองสตูล",
+      "id": "0ff72ee61cc106dcd5c7696a",
+      "maskedId": "194xxxxxx4589",
+      "name": "โซเฟีย บือโต",
+      "province": "สตูล",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%8B%E0%B9%80%E0%B8%9F%E0%B8%B5%E0%B8%A2-%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สาคร",
+      "district": "ท่าแพ",
+      "id": "4eddcb76c40513b540b3d3e2",
+      "maskedId": "196xxxxxx0605",
+      "name": "โสรยา ดิง",
+      "province": "สตูล",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%94%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

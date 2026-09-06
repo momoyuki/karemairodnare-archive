@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "ห้วยแถลง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ห้วยแถลง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตะโก",
+      "district": "ห้วยแถลง",
+      "id": "fc23e6813bc3de7ff1090527",
+      "maskedId": "186xxxxxx4484",
+      "name": "ชณัฏฐา ศิลปสุวรรณ",
+      "province": "นครราชสีมา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ห้วยแคน",
+      "district": "ห้วยแถลง",
+      "id": "cb44131ea7f6045025b603de",
+      "maskedId": "130xxxxxx9731",
+      "name": "ธนพงศ์ จินดามาตย์",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโก",
+      "district": "ห้วยแถลง",
+      "id": "0d741a1f2ed1f571940e4310",
+      "maskedId": "186xxxxxx7593",
+      "name": "ลลิดา ชั่งสัจจา",
+      "province": "นครราชสีมา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ตะโก",
+      "district": "ห้วยแถลง",
+      "id": "e0b75ab15a1152a5459c855b",
+      "maskedId": "110xxxxxx7961",
+      "name": "วรันธร มหาพรหม",
+      "province": "นครราชสีมา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A3-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ตะโก",
+      "district": "ห้วยแถลง",
+      "id": "0fb5b4f712148fb96aa9704b",
+      "maskedId": "131xxxxxx0072",
+      "name": "สุภาวดี ม่วงพาชี",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%B2%E0%B8%8A%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทับสวาย",
+      "district": "ห้วยแถลง",
+      "id": "eb0172e0b8f5a56850f52ac5",
+      "maskedId": "131xxxxxx3246",
+      "name": "อรพรรณ วงษ์งอ",
+      "province": "นครราชสีมา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%87%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกงรถ",
+      "district": "ห้วยแถลง",
+      "id": "e318305502c582ad22eb6548",
+      "maskedId": "131xxxxxx5135",
+      "name": "เดชาธร เการัมย์",
+      "province": "นครราชสีมา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%B2%E0%B8%98%E0%B8%A3-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

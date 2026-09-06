@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "ท่าศาลา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ท่าศาลา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ไทยบุรี",
+      "district": "ท่าศาลา",
+      "id": "3a217d7f7dbfa126010643f4",
+      "maskedId": "180xxxxxx9873",
+      "name": "กัลยรัตน์ ยางแก้ว",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A2%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทยบุรี",
+      "district": "ท่าศาลา",
+      "id": "4b4909745dd2e6b9e243ce08",
+      "maskedId": "161xxxxxx4194",
+      "name": "พิยดา หนูสาย",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A2%E0%B8%94%E0%B8%B2-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทยบุรี",
+      "district": "ท่าศาลา",
+      "id": "bb048358052362a7e3533253",
+      "maskedId": "180xxxxxx0073",
+      "name": "ศิริพร รสชื่น",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%AA%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "ท่าศาลา",
+      "id": "e4118f623b262f4b845d7dd2",
+      "maskedId": "192xxxxxx6987",
+      "name": "เขมญดา ประกิตฤทธิกุล",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%8D%E0%B8%94%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "เทศบาลเมืองแพรกษาใหม่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองแพรกษาใหม่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองแพรกษาใหม่",
+      "district": "เมืองสมุทรปราการ",
+      "id": "56b7da692690b8ab5a89a9da",
+      "maskedId": "157xxxxxx2525",
+      "name": "ณัฐชา กันทะสอน",
+      "province": "สมุทรปราการ",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%8A%E0%B8%B2-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองแพรกษาใหม่",
+      "district": "เมืองสมุทรปราการ",
+      "id": "6d758cbbeaff25ff61061da2",
+      "maskedId": "131xxxxxx2319",
+      "name": "ธนัญญา วงศ์อิน",
+      "province": "สมุทรปราการ",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AD%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองแพรกษาใหม่",
+      "district": "เมืองสมุทรปราการ",
+      "id": "06ae557156b050246ef6d6b3",
+      "maskedId": "111xxxxxx0258",
+      "name": "นฤมล คีรีวรรณ",
+      "province": "สมุทรปราการ",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองแพรกษาใหม่",
+      "district": "เมืองสมุทรปราการ",
+      "id": "f592bc88d86c0a16ea1c92a6",
+      "maskedId": "131xxxxxx1865",
+      "name": "ปุณยนุช ปรางจันทร์",
+      "province": "สมุทรปราการ",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองแพรกษาใหม่",
+      "district": "เมืองสมุทรปราการ",
+      "id": "e11a4c3b31f00984d8e71fe9",
+      "maskedId": "176xxxxxx1963",
+      "name": "ภัคพล เกตุแก้ว",
+      "province": "สมุทรปราการ",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%84%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองแพรกษาใหม่",
+      "district": "เมืองสมุทรปราการ",
+      "id": "55f6646603ea8b790fc19e8f",
+      "maskedId": "110xxxxxx7540",
+      "name": "อธิคม กล่ําแสง",
+      "province": "สมุทรปราการ",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%84%E0%B8%A1-%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B9%8D%E0%B8%B2%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

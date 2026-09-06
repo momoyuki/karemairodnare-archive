@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.คลองข่อย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-คลองข่อย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คลองข่อย",
+      "district": "โพธาราม",
+      "id": "d2449c4608d660dc25188da8",
+      "maskedId": "170xxxxxx5741",
+      "name": "จงรัก ขําภักดี",
+      "province": "ราชบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%82%E0%B9%8D%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.คลองข่อย",
+      "district": "ปากเกร็ด",
+      "id": "9411723bf7b4c8c4d3707e5a",
+      "maskedId": "119xxxxxx5871",
+      "name": "ถิรพันธ์ พิชพืชพันธ์",
+      "province": "นนทบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%96%E0%B8%B4%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%9E%E0%B8%B7%E0%B8%8A%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}

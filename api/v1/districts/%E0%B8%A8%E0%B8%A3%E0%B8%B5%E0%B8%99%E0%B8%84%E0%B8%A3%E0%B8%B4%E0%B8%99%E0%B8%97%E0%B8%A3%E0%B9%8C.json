@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "ศรีนครินทร์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ศรีนครินทร์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลชุมพล",
+      "district": "ศรีนครินทร์",
+      "id": "f309d352a2e313c86731210f",
+      "maskedId": "193xxxxxx8446",
+      "name": "กนกพร บุญเพชร",
+      "province": "พัทลุง",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%9E%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ่างทอง",
+      "district": "ศรีนครินทร์",
+      "id": "a0f57f358d898fed0ffc5371",
+      "maskedId": "393xxxxxx8288",
+      "name": "อภิญญา ด้วงเอียด",
+      "province": "พัทลุง",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

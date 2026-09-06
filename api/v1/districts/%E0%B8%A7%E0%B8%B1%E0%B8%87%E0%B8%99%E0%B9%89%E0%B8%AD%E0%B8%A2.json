@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "วังน้อย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "วังน้อย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หันตะเภา",
+      "district": "วังน้อย",
+      "id": "47da63cd3cb16243bda36198",
+      "maskedId": "140xxxxxx0719",
+      "name": "กมลวรรณ แก้วมูลตรี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%95%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชะแมบ",
+      "district": "วังน้อย",
+      "id": "25c89b1f51fbb738c4540bb8",
+      "maskedId": "110xxxxxx4385",
+      "name": "ณัฐพร รักกิจ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สนับทึบ",
+      "district": "วังน้อย",
+      "id": "75b6c3679c79d70e75a6026a",
+      "maskedId": "134xxxxxx1294",
+      "name": "วิวัฒน์ บาระมี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังน้อย",
+      "district": "วังน้อย",
+      "id": "d1d7a682ed05787624fb8118",
+      "maskedId": "313xxxxxx4825",
+      "name": "เสาวณีย์ กล่ำอยู่สุข",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%B3%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

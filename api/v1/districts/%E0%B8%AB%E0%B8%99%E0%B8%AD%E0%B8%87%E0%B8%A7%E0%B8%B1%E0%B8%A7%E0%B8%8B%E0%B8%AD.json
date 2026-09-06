@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "หนองวัวซอ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "หนองวัวซอ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.น้ำพ่น",
+      "district": "หนองวัวซอ",
+      "id": "1b42cf99c6a4f998ec5ef36f",
+      "maskedId": "141xxxxxx9485",
+      "name": "ศรีสุดา สิมพา",
+      "province": "อุดรธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ำพ่น",
+      "district": "หนองวัวซอ",
+      "id": "efd727df1003651d9912623a",
+      "maskedId": "148xxxxxx9485",
+      "name": "สรัญญา ใสส่อง",
+      "province": "อุดรธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%83%E0%B8%AA%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองวัวซอ",
+      "district": "หนองวัวซอ",
+      "id": "bb87b568d5b5273e61e925d7",
+      "maskedId": "141xxxxxx9602",
+      "name": "อมรรัตน์ รุนชนะ",
+      "province": "อุดรธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B8%E0%B8%99%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองบัวบาน",
+      "district": "หนองวัวซอ",
+      "id": "2ad83f985d92560692441dce",
+      "maskedId": "141xxxxxx2048",
+      "name": "อวิรุทธ์ แผนบุตร",
+      "province": "อุดรธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลภูผาแดง",
+      "district": "หนองวัวซอ",
+      "id": "490d864816e95b2674f1d104",
+      "maskedId": "146xxxxxx7755",
+      "name": "เกียรติศักดิ์ ภูกัน",
+      "province": "อุดรธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%81%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

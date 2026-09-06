@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "count": 11,
+    "kind": "agency",
+    "name": "เทศบาลนครรังสิต",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลนครรังสิต",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "0c8452c196093d4b5c58a2cc",
+      "maskedId": "110xxxxxx0418",
+      "name": "ชิดชนก แก้วกอง",
+      "province": "ปทุมธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%81%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "e11ea2e0634edce0d92db4b8",
+      "maskedId": "110xxxxxx4841",
+      "name": "ธัญลักษณ์ เอื้อสลุง",
+      "province": "ปทุมธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%AD%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%A5%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "17280db9cbe0221eae842148",
+      "maskedId": "130xxxxxx7887",
+      "name": "ธีทัต แถวโสภา",
+      "province": "ปทุมธานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B1%E0%B8%95-%E0%B9%81%E0%B8%96%E0%B8%A7%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "637ee79fc4e22055a2430c06",
+      "maskedId": "193xxxxxx8375",
+      "name": "นัญธญา พลอยดํา",
+      "province": "ปทุมธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%98%E0%B8%8D%E0%B8%B2-%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%94%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "923ad91c96861f87d6c25872",
+      "maskedId": "136xxxxxx2611",
+      "name": "นัฐนันต์ จันทร์น้ำใส",
+      "province": "ปทุมธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%90%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%83%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "38f486da17068a70765df8e8",
+      "maskedId": "114xxxxxx3580",
+      "name": "พีรดา สาระถิน",
+      "province": "ปทุมธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%96%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "c8f9a01dae38ac2321f868c8",
+      "maskedId": "119xxxxxx9582",
+      "name": "มณิฐกานต์ ฉิมแม้นพันธ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%B4%E0%B8%90%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "a2bea0734044d2731260162f",
+      "maskedId": "272xxxxxx2255",
+      "name": "รุจิรา งามสอาด",
+      "province": "ปทุมธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "67295aa65f31f07d1be89d06",
+      "maskedId": "113xxxxxx5969",
+      "name": "วรรณวิมล ยาม่วง",
+      "province": "ปทุมธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "dbf96994b1c185ae16750d48",
+      "maskedId": "110xxxxxx5987",
+      "name": "สุจิตรา กล้าหาญ",
+      "province": "ปทุมธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครรังสิต",
+      "district": "ธัญบุรี",
+      "id": "07d75029976dcc799552075a",
+      "maskedId": "110xxxxxx6916",
+      "name": "สุพรรษา เสมแย้ม",
+      "province": "ปทุมธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%A1%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

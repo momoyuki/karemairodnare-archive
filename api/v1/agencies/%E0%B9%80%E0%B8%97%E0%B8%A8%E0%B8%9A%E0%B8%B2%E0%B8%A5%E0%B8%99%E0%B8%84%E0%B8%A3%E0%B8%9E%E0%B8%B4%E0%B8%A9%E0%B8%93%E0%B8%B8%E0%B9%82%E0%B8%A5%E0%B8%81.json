@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลนครพิษณุโลก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลนครพิษณุโลก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครพิษณุโลก",
+      "district": "เมืองพิษณุโลก",
+      "id": "8c85248368cf3d9432681efa",
+      "maskedId": "163xxxxxx6223",
+      "name": "ชวิศ มหาวรรณ",
+      "province": "พิษณุโลก",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%A8-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครพิษณุโลก",
+      "district": "เมืองพิษณุโลก",
+      "id": "94bf2df8439ea4f6fe457e0f",
+      "maskedId": "167xxxxxx8253",
+      "name": "นิพิฐพนธ์ กองจันทร์",
+      "province": "พิษณุโลก",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%90%E0%B8%9E%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครพิษณุโลก",
+      "district": "เมืองพิษณุโลก",
+      "id": "edbdab5552dda36a9b122b31",
+      "maskedId": "190xxxxxx5146",
+      "name": "เอกบดินทร์ วิริรัชน์",
+      "province": "พิษณุโลก",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

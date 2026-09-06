@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ท่าหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ท่าหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ท่าหลวง",
+      "district": "ท่าหลวง",
+      "id": "dd27fb7375a02c93e53deb59",
+      "maskedId": "116xxxxxx0214",
+      "name": "ธนกฤต ปั้นแจ้ง",
+      "province": "ลพบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "cde6d95cc07bc26ddc5bf39a",
+      "maskedId": "116xxxxxx8825",
+      "name": "ปฏิมากรณ์ ติ้วสุวรรณบวร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%A7%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "eebd2ac15e0d55667c26f3b6",
+      "maskedId": "180xxxxxx3832",
+      "name": "อิทธิกร บุตรเจริญ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

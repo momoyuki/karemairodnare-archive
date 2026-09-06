@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "ขามทะเลสอ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ขามทะเลสอ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองสรวง",
+      "district": "ขามทะเลสอ",
+      "id": "3e8e4da0b7aeaf1368bf4469",
+      "maskedId": "146xxxxxx2741",
+      "name": "นลธวัช ศิลาดร",
+      "province": "นครราชสีมา",
+      "scoreChange": 8,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A5%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A-%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ขามทะเลสอ",
+      "district": "ขามทะเลสอ",
+      "id": "0e45fa8c61fefa7bc4496483",
+      "maskedId": "140xxxxxx7241",
+      "name": "พิทักษ์พงศ์ พงษ์เพียจันทร์",
+      "province": "นครราชสีมา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขามทะเลสอ",
+      "district": "ขามทะเลสอ",
+      "id": "3ab05c86079c128e4a03119b",
+      "maskedId": "140xxxxxx6071",
+      "name": "ศศิธร เค้าคำ",
+      "province": "นครราชสีมา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B9%80%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขามทะเลสอ",
+      "district": "ขามทะเลสอ",
+      "id": "402b3ac2a6ea91a1844c3af5",
+      "maskedId": "130xxxxxx3632",
+      "name": "หทัยกมลรดี มงคล",
+      "province": "นครราชสีมา",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A3%E0%B8%94%E0%B8%B5-%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขามทะเลสอ",
+      "district": "ขามทะเลสอ",
+      "id": "1a9e127704a6362bd632ca42",
+      "maskedId": "131xxxxxx1187",
+      "name": "อนุรัตน์ ดวงเดือน",
+      "province": "นครราชสีมา",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

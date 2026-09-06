@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.บางโรง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางโรง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางโรง",
+      "district": "คลองเขื่อน",
+      "id": "b944541351cabf4dcbaee7b1",
+      "maskedId": "110xxxxxx2001",
+      "name": "กาญจนา เมืองชัย",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางโรง",
+      "district": "คลองเขื่อน",
+      "id": "651dc503c25b6935f175c910",
+      "maskedId": "126xxxxxx6191",
+      "name": "นิรมล จวนเจริญ",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A5-%E0%B8%88%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "บางคนที",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางคนที",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางสะแก",
+      "district": "บางคนที",
+      "id": "ad590f003d6de138a5d64c1b",
+      "maskedId": "170xxxxxx8366",
+      "name": "จตุพล กมลหรรษา",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%A5-%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%AB%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โรงหีบ",
+      "district": "บางคนที",
+      "id": "2f7dffda1d988502acacb8ad",
+      "maskedId": "176xxxxxx0444",
+      "name": "จิตตินันท์ นิลดำ",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางกระบือ",
+      "district": "บางคนที",
+      "id": "de48770b806be8993c8beb5d",
+      "maskedId": "170xxxxxx4851",
+      "name": "ปุณญารัตน์ จงเจริญ",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพรม",
+      "district": "บางคนที",
+      "id": "313881cb3889809a52c5f169",
+      "maskedId": "170xxxxxx1241",
+      "name": "อรรถพล เกิดมี",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางยี่รงค์",
+      "district": "บางคนที",
+      "id": "c5ae8123f5fb9a4d8802978f",
+      "maskedId": "110xxxxxx8138",
+      "name": "อาพันธ์ จันทร์จำปา",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

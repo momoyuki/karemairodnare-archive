@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตําบลรัษฎา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลรัษฎา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลรัษฎา",
+      "district": "เมืองภูเก็ต",
+      "id": "a9ab4d679c38e07dc3c34cdc",
+      "maskedId": "180xxxxxx3053",
+      "name": "กมลทิพย์ พลายชุม",
+      "province": "ภูเก็ต",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลรัษฎา",
+      "district": "เมืองภูเก็ต",
+      "id": "2f3c7e7528e14b5fe8addda1",
+      "maskedId": "190xxxxxx9440",
+      "name": "จุฑารัตน์ แดงหล้า",
+      "province": "ภูเก็ต",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลรัษฎา",
+      "district": "เมืองภูเก็ต",
+      "id": "0b02a83f358b0accbeec3e4d",
+      "maskedId": "190xxxxxx5066",
+      "name": "ศักย์วริษฐ์ เกื้อเพชร",
+      "province": "ภูเก็ต",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

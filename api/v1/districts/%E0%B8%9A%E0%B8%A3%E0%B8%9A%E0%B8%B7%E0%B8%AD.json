@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "บรบือ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บรบือ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บรบือ",
+      "district": "บรบือ",
+      "id": "e48ad695edd4e6d8391af28e",
+      "maskedId": "140xxxxxx5671",
+      "name": "จรินทร์ เครือชารี",
+      "province": "มหาสารคาม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบรบือ",
+      "district": "บรบือ",
+      "id": "96d5ae7befc6bd5cf4368deb",
+      "maskedId": "140xxxxxx3712",
+      "name": "ปรีณนุช ทุยเวียง",
+      "province": "มหาสารคาม",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%93%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%97%E0%B8%B8%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บัวมาศ",
+      "district": "บรบือ",
+      "id": "e22e79bbaeb334e57af388fc",
+      "maskedId": "132xxxxxx9658",
+      "name": "ภัสรวรรณ บุญเต็ม",
+      "province": "มหาสารคาม",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองสิม",
+      "district": "บรบือ",
+      "id": "f8e7c187fa0ac48ecfc99a17",
+      "maskedId": "140xxxxxx2531",
+      "name": "มัฌฌิมา กล่อมใจ",
+      "province": "มหาสารคาม",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%8C%E0%B8%8C%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองสิม",
+      "district": "บรบือ",
+      "id": "b879826acd07113232d0af9f",
+      "maskedId": "149xxxxxx1769",
+      "name": "วริช ทองเพิ่ม",
+      "province": "มหาสารคาม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%8A-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โนนแดง",
+      "district": "บรบือ",
+      "id": "c939c69ec403449847035500",
+      "maskedId": "140xxxxxx7361",
+      "name": "วัชราภรณ์ โนนวงษา",
+      "province": "มหาสารคาม",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

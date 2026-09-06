@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "โนนสัง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "โนนสัง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านถิ่น",
+      "district": "โนนสัง",
+      "id": "ccf8d84b599ac6db2e8ed0f9",
+      "maskedId": "141xxxxxx7521",
+      "name": "ขวัญชัย แสนวัง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโนนสัง",
+      "district": "โนนสัง",
+      "id": "69c52a368f98d1112949ec83",
+      "maskedId": "146xxxxxx7622",
+      "name": "จักราวุธ เหมันต์",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกใหญ่",
+      "district": "โนนสัง",
+      "id": "088d9dcbb44847365c7d78a9",
+      "maskedId": "141xxxxxx2505",
+      "name": "ประทุมพร นาคม",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านถิ่น",
+      "district": "โนนสัง",
+      "id": "342cb07617a7cb3b7617026d",
+      "maskedId": "141xxxxxx2092",
+      "name": "พัชรกาญจน์ สุราชวงศ์",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปางกู่",
+      "district": "โนนสัง",
+      "id": "552106b3c226450f9bd2b31e",
+      "maskedId": "141xxxxxx1548",
+      "name": "ลลิตา ศรีหริ่ง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

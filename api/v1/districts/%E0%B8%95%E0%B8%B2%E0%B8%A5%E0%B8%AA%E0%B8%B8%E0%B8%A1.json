@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "ตาลสุม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ตาลสุม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คำหว้า",
+      "district": "ตาลสุม",
+      "id": "cfad446c5908d160ab10aa16",
+      "maskedId": "134xxxxxx5093",
+      "name": "กชกร เสนคราม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตาลสุม",
+      "district": "ตาลสุม",
+      "id": "7dbb65bb091225e97a3df61c",
+      "maskedId": "146xxxxxx3210",
+      "name": "กัญญารัตน์ ฤทธิ์ธรรม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

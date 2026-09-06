@@ -1,0 +1,677 @@
+{
+  "_meta": {
+    "count": 39,
+    "kind": "province",
+    "name": "พิษณุโลก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พิษณุโลก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.พิษณุโลก",
+      "district": "เมืองพิษณุโลก",
+      "id": "cbba359fc1bd6bbf44ca838b",
+      "maskedId": "167xxxxxx9535",
+      "name": "กรรณิการ์ มามั่ง",
+      "province": "พิษณุโลก",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แก่งโสภา",
+      "district": "วังทอง",
+      "id": "104268289b920be09d669ff8",
+      "maskedId": "142xxxxxx7258",
+      "name": "กัญญารัตน์ ด้วงบู่",
+      "province": "พิษณุโลก",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B8%B9%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวงฆ้อง",
+      "district": "พรหมพิราม",
+      "id": "6992371d410d090f800add6c",
+      "maskedId": "164xxxxxx9571",
+      "name": "จันทรรัตน์ แจ้งดี",
+      "province": "พิษณุโลก",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทองแท้",
+      "district": "วัดโบสถ์",
+      "id": "bf8529c2f705d241b165387c",
+      "maskedId": "165xxxxxx4963",
+      "name": "จิราพร จันทร์รักษ์",
+      "province": "พิษณุโลก",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครพิษณุโลก",
+      "district": "เมืองพิษณุโลก",
+      "id": "8c85248368cf3d9432681efa",
+      "maskedId": "163xxxxxx6223",
+      "name": "ชวิศ มหาวรรณ",
+      "province": "พิษณุโลก",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%A8-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นิคมพัฒนา",
+      "district": "บางระกำ",
+      "id": "03ab0a9ba13a4b77cf300743",
+      "maskedId": "196xxxxxx7132",
+      "name": "ซูกอรนัย ตีเงาะ",
+      "province": "พิษณุโลก",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B9%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%95%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.มะต้อง",
+      "district": "พรหมพิราม",
+      "id": "10646b9e11c4b515a63a8eaf",
+      "maskedId": "166xxxxxx5277",
+      "name": "ณัฐมา เผ่าพันธ์",
+      "province": "พิษณุโลก",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%B2-%E0%B9%80%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวงฆ้อง",
+      "district": "พรหมพิราม",
+      "id": "a328af7aef4df5cc91ca0b5d",
+      "maskedId": "165xxxxxx3481",
+      "name": "ดุษฎี สีกุม",
+      "province": "พิษณุโลก",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B8%E0%B8%A9%E0%B8%8E%E0%B8%B5-%E0%B8%AA%E0%B8%B5%E0%B8%81%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองอรัญญิก",
+      "district": "เมืองพิษณุโลก",
+      "id": "45a91def2f2852ea50373c41",
+      "maskedId": "110xxxxxx3701",
+      "name": "ธีรนันท์ ทองสอน",
+      "province": "พิษณุโลก",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิษณุโลก",
+      "district": "เมืองพิษณุโลก",
+      "id": "10c56c840e53d33fa3543782",
+      "maskedId": "142xxxxxx8745",
+      "name": "นิญาดา บุตรเต",
+      "province": "พิษณุโลก",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครพิษณุโลก",
+      "district": "เมืองพิษณุโลก",
+      "id": "94bf2df8439ea4f6fe457e0f",
+      "maskedId": "167xxxxxx8253",
+      "name": "นิพิฐพนธ์ กองจันทร์",
+      "province": "พิษณุโลก",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%90%E0%B8%9E%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นครป่าหมาก",
+      "district": "บางกระทุ่ม",
+      "id": "eaf6c44b73099fd7b504141b",
+      "maskedId": "167xxxxxx3411",
+      "name": "นุชนาถ มุ่งมา",
+      "province": "พิษณุโลก",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B8%A1%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางระกํา",
+      "district": "บางระกำ",
+      "id": "9faa3101067084a7890f0a03",
+      "maskedId": "165xxxxxx5443",
+      "name": "บุษกร รังษีภโนดร",
+      "province": "พิษณุโลก",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%81%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A9%E0%B8%B5%E0%B8%A0%E0%B9%82%E0%B8%99%E0%B8%94%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิษณุโลก",
+      "district": "เมืองพิษณุโลก",
+      "id": "3e9a487f0a8985dd68005e3f",
+      "maskedId": "361xxxxxx2453",
+      "name": "ปิยะนุช สาริกัน",
+      "province": "พิษณุโลก",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แก่งโสภา",
+      "district": "วังทอง",
+      "id": "bf1baa2789bf59597b9e2b99",
+      "maskedId": "167xxxxxx7606",
+      "name": "ปุณณเมธ พรมราช",
+      "province": "พิษณุโลก",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%93%E0%B9%80%E0%B8%A1%E0%B8%98-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บึงกอก",
+      "district": "บางระกำ",
+      "id": "870145d0f5b2a7495866b3f4",
+      "maskedId": "393xxxxxx5083",
+      "name": "พนิดา นักการรอง",
+      "province": "พิษณุโลก",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวัดโบสถ์",
+      "district": "วัดโบสถ์",
+      "id": "62d378b26fdff2df9e63a575",
+      "maskedId": "365xxxxxx7975",
+      "name": "พิมนภา พรมคง",
+      "province": "พิษณุโลก",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "วังทอง",
+      "id": "87a4f1e057eaf8b85585c20f",
+      "maskedId": "167xxxxxx0938",
+      "name": "พิมพ์นารา จงเจริญ",
+      "province": "พิษณุโลก",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2-%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทับยายเชียง",
+      "district": "พรหมพิราม",
+      "id": "b18b2eddeb7712cfd014da01",
+      "maskedId": "142xxxxxx2821",
+      "name": "ภรทิพย์ พิลาทา",
+      "province": "พิษณุโลก",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นครป่าหมาก",
+      "district": "บางกระทุ่ม",
+      "id": "2c244b52acc26ba33ede3973",
+      "maskedId": "165xxxxxx3249",
+      "name": "ภาวินี ปานแสง",
+      "province": "พิษณุโลก",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าสะแก",
+      "district": "ชาติตระการ",
+      "id": "5fa56fae7fde498d33e3f71a",
+      "maskedId": "154xxxxxx6275",
+      "name": "มณีรัตน์ จินะโสติ",
+      "province": "พิษณุโลก",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%B0%E0%B9%82%E0%B8%AA%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปลักแรด",
+      "district": "บางระกำ",
+      "id": "6002167e82b1318541a62d9e",
+      "maskedId": "165xxxxxx4077",
+      "name": "มลีรัตน์ แซ่อ๋อง",
+      "province": "พิษณุโลก",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%A5%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B9%8B%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังทอง",
+      "district": "วังทอง",
+      "id": "dc393b365e3a38c98aebd638",
+      "maskedId": "170xxxxxx9336",
+      "name": "ยุพาวรรณ ภัทรไชยโชติ",
+      "province": "พิษณุโลก",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดินทอง",
+      "district": "วังทอง",
+      "id": "070409f0fa1f649b26e78009",
+      "maskedId": "167xxxxxx6830",
+      "name": "รพีภัทร แสงพลโรจน์",
+      "province": "พิษณุโลก",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%9E%E0%B8%B5%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าตาล",
+      "district": "บางกระทุ่ม",
+      "id": "3206da86c8ac351d61b47615",
+      "maskedId": "165xxxxxx4666",
+      "name": "รัตนาภรณ์ กร่ำศรี",
+      "province": "พิษณุโลก",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%B3%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ่อภาค",
+      "district": "ชาติตระการ",
+      "id": "0842b79b6be98675c11ece7a",
+      "maskedId": "162xxxxxx1188",
+      "name": "ฤดี ศรีเกิน",
+      "province": "พิษณุโลก",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ่อภาค",
+      "district": "ชาติตระการ",
+      "id": "c319c60a9230fcf9269c4994",
+      "maskedId": "153xxxxxx0533",
+      "name": "ลลิตา เพ็งถา",
+      "province": "พิษณุโลก",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%96%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พันชาลี",
+      "district": "วังทอง",
+      "id": "dbdf1433ac15c04c347b5b81",
+      "maskedId": "166xxxxxx0001",
+      "name": "วรพันธ์ พุทธเกษม",
+      "province": "พิษณุโลก",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นิคมพัฒนา",
+      "district": "บางระกำ",
+      "id": "c752f1db02201002f47b13ad",
+      "maskedId": "167xxxxxx4394",
+      "name": "วุฒิชัย มงคลวัจน์",
+      "province": "พิษณุโลก",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองกุลา",
+      "district": "บางระกำ",
+      "id": "e0f1faa44e80af30817a6be6",
+      "maskedId": "112xxxxxx9991",
+      "name": "ศิรินันท์ น้อยพงษ์",
+      "province": "พิษณุโลก",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เนินเพิ่ม",
+      "district": "นครไทย",
+      "id": "20778f9f706e89b7bd136455",
+      "maskedId": "167xxxxxx7971",
+      "name": "สายฟ้า พาแก้ว",
+      "province": "พิษณุโลก",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตลุกเทียม",
+      "district": "พรหมพิราม",
+      "id": "aa446aba487bb79c74e38987",
+      "maskedId": "153xxxxxx9013",
+      "name": "สารยา ทั่งเรือง",
+      "province": "พิษณุโลก",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชาติตระการ",
+      "district": "ชาติตระการ",
+      "id": "2d64d89a4903872a3aa1be53",
+      "maskedId": "165xxxxxx0508",
+      "name": "สิริญญา อุ่นจันทร์",
+      "province": "พิษณุโลก",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปลักแรด",
+      "district": "บางระกำ",
+      "id": "fbfc401331852db2c54b0d82",
+      "maskedId": "167xxxxxx9406",
+      "name": "สุธินันท์ ประดับวงศ์",
+      "province": "พิษณุโลก",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดงประคํา",
+      "district": "พรหมพิราม",
+      "id": "a8ee2c2703ac5859bdd92218",
+      "maskedId": "165xxxxxx9496",
+      "name": "สุนิศา ธัญญารักษ์",
+      "province": "พิษณุโลก",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านกร่าง",
+      "district": "เมืองพิษณุโลก",
+      "id": "24d1abb4a7fc7d46221928d3",
+      "maskedId": "136xxxxxx5959",
+      "name": "สุนิษา ชัยภักดี",
+      "province": "พิษณุโลก",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพลายชุมพล",
+      "district": "เมืองพิษณุโลก",
+      "id": "b2cf3e223034bba579acfd41",
+      "maskedId": "121xxxxxx2175",
+      "name": "อัจฉราภรณ์ แสงจันทร์",
+      "province": "พิษณุโลก",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนทอง",
+      "district": "เมืองพิษณุโลก",
+      "id": "22b541a1d24112052f8e4b91",
+      "maskedId": "165xxxxxx5622",
+      "name": "เบญจภรณ์ คุณคะมุต",
+      "province": "พิษณุโลก",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%B0%E0%B8%A1%E0%B8%B8%E0%B8%95",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลนครพิษณุโลก",
+      "district": "เมืองพิษณุโลก",
+      "id": "edbdab5552dda36a9b122b31",
+      "maskedId": "190xxxxxx5146",
+      "name": "เอกบดินทร์ วิริรัชน์",
+      "province": "พิษณุโลก",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

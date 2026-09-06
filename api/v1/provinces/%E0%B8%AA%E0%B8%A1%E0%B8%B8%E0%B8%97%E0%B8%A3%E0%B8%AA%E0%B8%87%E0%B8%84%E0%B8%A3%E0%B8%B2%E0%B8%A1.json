@@ -1,0 +1,439 @@
+{
+  "_meta": {
+    "count": 25,
+    "kind": "province",
+    "name": "สมุทรสงคราม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สมุทรสงคราม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เหมืองใหม่",
+      "district": "อัมพวา",
+      "id": "1d7faadedc6386580bacb82c",
+      "maskedId": "176xxxxxx6851",
+      "name": "กฤติยา สังข์พุก",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%9E%E0%B8%B8%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางสะแก",
+      "district": "บางคนที",
+      "id": "ad590f003d6de138a5d64c1b",
+      "maskedId": "170xxxxxx8366",
+      "name": "จตุพล กมลหรรษา",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%A5-%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%AB%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แพรกหนามแดง",
+      "district": "อัมพวา",
+      "id": "9a05e8cd855721c20a099bcf",
+      "maskedId": "176xxxxxx4208",
+      "name": "จันทร์เพ็ญ ลาภแก้ว",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D-%E0%B8%A5%E0%B8%B2%E0%B8%A0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โรงหีบ",
+      "district": "บางคนที",
+      "id": "2f7dffda1d988502acacb8ad",
+      "maskedId": "176xxxxxx0444",
+      "name": "จิตตินันท์ นิลดำ",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นางตะเคียน",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "40574dcc80a2e67bf341715b",
+      "maskedId": "173xxxxxx8059",
+      "name": "จิรภิญญา ศิลปศาสตร์พิริยะ",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเหมืองใหม่",
+      "district": "อัมพวา",
+      "id": "edda65104c1abf50d788157f",
+      "maskedId": "110xxxxxx3412",
+      "name": "ณภัทร รอดสวัสดิ์",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "df0696001ebda77457a5b7b0",
+      "maskedId": "170xxxxxx8736",
+      "name": "ณัฐธิดา วัฒนประดิษฐ",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "3c88bba2ea82bf1929d3ea42",
+      "maskedId": "177xxxxxx0329",
+      "name": "ธนัชยา ยั่งยืน",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%A2%E0%B8%B2-%E0%B8%A2%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "72ce8b3a1e14cc46e2d72c1f",
+      "maskedId": "176xxxxxx9481",
+      "name": "ธนากร สะอาดเอี่ยม",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "f13630ae68d295762cf0ecc4",
+      "maskedId": "173xxxxxx0851",
+      "name": "ธนากรณ์ บุญวิเซ็นต์",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองเขิน",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "5a808ee470e72bc59594ad8a",
+      "maskedId": "170xxxxxx3970",
+      "name": "นัทธิชนัน ธรรมลังกา",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%99-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางกระบือ",
+      "district": "บางคนที",
+      "id": "de48770b806be8993c8beb5d",
+      "maskedId": "170xxxxxx4851",
+      "name": "ปุณญารัตน์ จงเจริญ",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "bccdb9b07ea9c58c21d3cebd",
+      "maskedId": "171xxxxxx3986",
+      "name": "พชรพล พฤฑฒิกุล",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B8%9E%E0%B8%A4%E0%B8%91%E0%B8%92%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "e14ef125e7db73a0366c9bb6",
+      "maskedId": "170xxxxxx8082",
+      "name": "ภัทรพร เอี่ยมพุฒ",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%9E%E0%B8%B8%E0%B8%92",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางขันแตก",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "6aa50a0735ed7b5b79bbe208",
+      "maskedId": "171xxxxxx4107",
+      "name": "ภัทรัตน์ ทั่งศรี",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "5d8fcea2323c5ebd3bf417fa",
+      "maskedId": "176xxxxxx4419",
+      "name": "ภาณุวัฒน์ แก้วอยู่",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "0d3eec8bfefbd117e08f881c",
+      "maskedId": "176xxxxxx4732",
+      "name": "วิลาสินี ขาวดารา",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แพรกหนามแดง",
+      "district": "อัมพวา",
+      "id": "996792e990f1be91ad44d02d",
+      "maskedId": "170xxxxxx0665",
+      "name": "สลิลรัตน์ กิมพิทักษ์",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%81%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลาดใหญ่",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "89c3fb9a37705396e5def81b",
+      "maskedId": "170xxxxxx6267",
+      "name": "สินีนาฎ มะลิหอม",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%8E-%E0%B8%A1%E0%B8%B0%E0%B8%A5%E0%B8%B4%E0%B8%AB%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บางแก้ว",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "bd2826589fa7847a51c95de9",
+      "maskedId": "177xxxxxx2650",
+      "name": "สุทธารักษ์ น้ำกลั่น",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบจ.สมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "66383a8e37890cc27f2b6be8",
+      "maskedId": "170xxxxxx2249",
+      "name": "สุทธินันท์ วงศ์เมือง",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพรม",
+      "district": "บางคนที",
+      "id": "313881cb3889809a52c5f169",
+      "maskedId": "170xxxxxx1241",
+      "name": "อรรถพล เกิดมี",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางยี่รงค์",
+      "district": "บางคนที",
+      "id": "c5ae8123f5fb9a4d8802978f",
+      "maskedId": "110xxxxxx8138",
+      "name": "อาพันธ์ จันทร์จำปา",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "266ebf37ac0fe216b7aa7a1a",
+      "maskedId": "376xxxxxx6791",
+      "name": "อําพร บุญเติม",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B9%8D%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสงคราม",
+      "district": "เมืองสมุทรสงคราม",
+      "id": "e7d0f278cd93547ec8b61d19",
+      "maskedId": "176xxxxxx5273",
+      "name": "เอกพล เยื้องกราย",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%A2%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

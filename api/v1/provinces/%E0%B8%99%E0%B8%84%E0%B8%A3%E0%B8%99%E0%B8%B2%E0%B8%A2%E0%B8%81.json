@@ -1,0 +1,286 @@
+{
+  "_meta": {
+    "count": 16,
+    "kind": "province",
+    "name": "นครนายก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นครนายก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คลองใหญ่",
+      "district": "องครักษ์",
+      "id": "c2e154337c265de0a49b9be3",
+      "maskedId": "110xxxxxx5949",
+      "name": "กนกวรรณ วงษ์กวน",
+      "province": "นครนายก",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "บ้านนา",
+      "id": "2a1368b88a83f37eba52e8b9",
+      "maskedId": "146xxxxxx0709",
+      "name": "จินตนา วาริบ่อ",
+      "province": "นครนายก",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B9%88%E0%B8%AD",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ศรีจุฬา",
+      "district": "เมืองนครนายก",
+      "id": "095dfa2569961b89a46f6429",
+      "maskedId": "112xxxxxx0836",
+      "name": "จุฑาทิพย์ ปิ่นสุวรรณ",
+      "province": "นครนายก",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกกรวด",
+      "district": "ปากพลี",
+      "id": "3aa6d4aa219b28d1d5720861",
+      "maskedId": "125xxxxxx8670",
+      "name": "จุฑาทิพย์ เรืองศรี",
+      "province": "นครนายก",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศีรษะกระบือ",
+      "district": "องครักษ์",
+      "id": "3c8b9e86f67d33285cf5c4a2",
+      "maskedId": "126xxxxxx5042",
+      "name": "ชไมพร แย้มกลิ่น",
+      "province": "นครนายก",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B9%84%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะหวาย",
+      "district": "ปากพลี",
+      "id": "32cea196f75d478d82809038",
+      "maskedId": "126xxxxxx6192",
+      "name": "ณัฏฐณิชา น้อยสองชั้น",
+      "province": "นครนายก",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศีรษะกระบือ",
+      "district": "องครักษ์",
+      "id": "1d3357e3e9093ff831c1e532",
+      "maskedId": "126xxxxxx0865",
+      "name": "ณัฐพล เปี่ยมทอง",
+      "province": "นครนายก",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองแสง",
+      "district": "ปากพลี",
+      "id": "77abcc5b3cc8372c1fb12a27",
+      "maskedId": "125xxxxxx5930",
+      "name": "ปนิตา ใจผ่อง",
+      "province": "นครนายก",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%83%E0%B8%88%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เขาพระ",
+      "district": "เมืองนครนายก",
+      "id": "482713e1e5eb67d1dfaecdcf",
+      "maskedId": "190xxxxxx5295",
+      "name": "ปิยะวัฒน์ สีพุฒ",
+      "province": "นครนายก",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B5%E0%B8%9E%E0%B8%B8%E0%B8%92",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.คลองใหญ่",
+      "district": "องครักษ์",
+      "id": "444963f6e35f09e3b69a9b9c",
+      "maskedId": "365xxxxxx5457",
+      "name": "พัทธนันท์ ติดชัย",
+      "province": "นครนายก",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ศรีกะอาง",
+      "district": "บ้านนา",
+      "id": "3e4adb74a16851c4e27c5348",
+      "maskedId": "126xxxxxx2025",
+      "name": "วีรชัย เรียนวาที",
+      "province": "นครนายก",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%97%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชุมพล",
+      "district": "องครักษ์",
+      "id": "e7b66fc83c73e163944ffa11",
+      "maskedId": "190xxxxxx8741",
+      "name": "สุธารัตน์ เจี้ยงเต็ม",
+      "province": "นครนายก",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เขาพระ",
+      "district": "เมืองนครนายก",
+      "id": "d30cad1065c9dc5fc518d523",
+      "maskedId": "126xxxxxx3182",
+      "name": "สุภัค น้อยสองชั้น",
+      "province": "นครนายก",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ชุมพล",
+      "district": "องครักษ์",
+      "id": "5c3e440ed1da761f1b49e27c",
+      "maskedId": "196xxxxxx5286",
+      "name": "อามีดะ หารูมู",
+      "province": "นครนายก",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%94%E0%B8%B0-%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B8%A1%E0%B8%B9",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ศรีจุฬา",
+      "district": "เมืองนครนายก",
+      "id": "bf415c2d06c0444130f61054",
+      "maskedId": "130xxxxxx9779",
+      "name": "อารญา บุญยิ่ง",
+      "province": "นครนายก",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%8D%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนครนายก",
+      "district": "เมืองนครนายก",
+      "id": "df26024aa111f27e796411ea",
+      "maskedId": "344xxxxxx1691",
+      "name": "อุมาพร มาดาโต",
+      "province": "นครนายก",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

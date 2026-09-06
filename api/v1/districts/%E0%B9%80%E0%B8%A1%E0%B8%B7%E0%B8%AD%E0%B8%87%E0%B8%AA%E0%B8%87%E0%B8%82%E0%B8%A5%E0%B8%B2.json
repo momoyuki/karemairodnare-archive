@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "เมืองสงขลา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองสงขลา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลพะวง",
+      "district": "เมืองสงขลา",
+      "id": "e9ef8e873ea9eae38d1aaa21",
+      "maskedId": "190xxxxxx5291",
+      "name": "ทาริกา ล่องชุม",
+      "province": "สงขลา",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพะวง",
+      "district": "เมืองสงขลา",
+      "id": "aff30d3d381681903f336c7f",
+      "maskedId": "190xxxxxx5267",
+      "name": "นภัทร ชายะพันธ์",
+      "province": "สงขลา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพะวง",
+      "district": "เมืองสงขลา",
+      "id": "ee132b8d25e0360191f5434d",
+      "maskedId": "190xxxxxx8397",
+      "name": "ปิยะนุช แก้วสุกข์",
+      "province": "สงขลา",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะยอ",
+      "district": "เมืองสงขลา",
+      "id": "0453c44279974c1a049b88b0",
+      "maskedId": "193xxxxxx1881",
+      "name": "อลิษา รัตนพันธ์",
+      "province": "สงขลา",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สงขลา",
+      "district": "เมืองสงขลา",
+      "id": "972ea9695244fe8bc66b91a2",
+      "maskedId": "190xxxxxx4681",
+      "name": "อักษรา อักษรชู",
+      "province": "สงขลา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%B2-%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%8A%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.พุนพิน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-พุนพิน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.พุนพิน",
+      "district": "พุนพิน",
+      "id": "28afe50d106ae3073b155bea",
+      "maskedId": "186xxxxxx7854",
+      "name": "กษิดิศ เจาะขาว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A9%E0%B8%B4%E0%B8%94%E0%B8%B4%E0%B8%A8-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พุนพิน",
+      "district": "พุนพิน",
+      "id": "a28b2b5454247a275e4f4e2e",
+      "maskedId": "190xxxxxx4149",
+      "name": "ศิวาพร ทุ่มขุน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B8%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

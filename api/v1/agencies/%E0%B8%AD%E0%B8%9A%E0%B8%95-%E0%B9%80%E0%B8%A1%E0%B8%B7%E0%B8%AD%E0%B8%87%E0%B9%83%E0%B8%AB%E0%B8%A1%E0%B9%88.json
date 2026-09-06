@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.เมืองใหม่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-เมืองใหม่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เมืองใหม่",
+      "district": "ศรีบุญเรือง",
+      "id": "d73cf7cd4df3776edbe94fe7",
+      "maskedId": "139xxxxxx1612",
+      "name": "ชนะชล สุขสงคราม",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%8A%E0%B8%A5-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เมืองใหม่",
+      "district": "ศรีบุญเรือง",
+      "id": "28c050a6e783a49ade27db27",
+      "maskedId": "141xxxxxx2335",
+      "name": "เจนนิสา ปัญจะสีลา",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%B0%E0%B8%AA%E0%B8%B5%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

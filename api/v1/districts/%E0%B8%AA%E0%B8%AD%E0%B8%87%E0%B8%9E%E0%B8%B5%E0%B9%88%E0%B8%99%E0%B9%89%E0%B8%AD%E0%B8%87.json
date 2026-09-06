@@ -1,0 +1,286 @@
+{
+  "_meta": {
+    "count": 16,
+    "kind": "district",
+    "name": "สองพี่น้อง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สองพี่น้อง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางตะเคียน",
+      "district": "สองพี่น้อง",
+      "id": "c8928c9632c03acf366a57cd",
+      "maskedId": "270xxxxxx0651",
+      "name": "กรภัทร์ เปรมสุข",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เนินพระปรางค์",
+      "district": "สองพี่น้อง",
+      "id": "f8013a2edca464cfc880c9eb",
+      "maskedId": "172xxxxxx0855",
+      "name": "กิจติการ หงษ์โต",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%AB%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสองพี่น้อง",
+      "district": "สองพี่น้อง",
+      "id": "7f029ae777e2438801907223",
+      "maskedId": "172xxxxxx1287",
+      "name": "จันทร์จิรา เรือนทองดี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งคอก",
+      "district": "สองพี่น้อง",
+      "id": "dca0826f44e54cfbdd061a27",
+      "maskedId": "173xxxxxx1281",
+      "name": "จินดารัตน์ สุพรรณชาติ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตาเถร",
+      "district": "สองพี่น้อง",
+      "id": "651aa4523016ef08d7c8030f",
+      "maskedId": "117xxxxxx7418",
+      "name": "จุฬาลักษณ์ ไทยศรี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองบ่อ",
+      "district": "สองพี่น้อง",
+      "id": "431bbeb1a72aca6df7393610",
+      "maskedId": "347xxxxxx3584",
+      "name": "ธัญญลักษณ์ แคล่วคล่อง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%A7%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านกุ่ม",
+      "district": "สองพี่น้อง",
+      "id": "8e17b3ede21b13d2a9cc0a92",
+      "maskedId": "172xxxxxx8587",
+      "name": "นาตยา วารีรัตน์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บางตะเคียน",
+      "district": "สองพี่น้อง",
+      "id": "19249d7753f854badfffdc20",
+      "maskedId": "172xxxxxx5154",
+      "name": "ภนิตา ปานจันทร์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเลน",
+      "district": "สองพี่น้อง",
+      "id": "cd5467cb1197f9ceed7075b0",
+      "maskedId": "173xxxxxx0541",
+      "name": "ภาติยะ มีราศรี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B0-%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ่อสุพรรณ",
+      "district": "สองพี่น้อง",
+      "id": "73aa9ceda8d5ddefd0ef0451",
+      "maskedId": "173xxxxxx8264",
+      "name": "มัลลิกา สุขเจริญ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งคอก",
+      "district": "สองพี่น้อง",
+      "id": "3814d337e6dab336d75b8380",
+      "maskedId": "272xxxxxx8231",
+      "name": "วสุฬส กิจฉลอง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%AC%E0%B8%AA-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%89%E0%B8%A5%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งคอก",
+      "district": "สองพี่น้อง",
+      "id": "43479478fe0e6bb19c4fed85",
+      "maskedId": "171xxxxxx2995",
+      "name": "สิริพร พงษ์สุทัศน์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ต้นตาล",
+      "district": "สองพี่น้อง",
+      "id": "bcbca0a4fcc7bb93e834b78f",
+      "maskedId": "172xxxxxx3974",
+      "name": "สุกัญญา วารีนิล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เนินพระปรางค์",
+      "district": "สองพี่น้อง",
+      "id": "f4cf69c0e67b78cdea03a5ff",
+      "maskedId": "172xxxxxx1699",
+      "name": "สุวรรณา สาลีผล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%A5%E0%B8%B5%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองบ่อ",
+      "district": "สองพี่น้อง",
+      "id": "fd082a6bae5079cc856cb4ea",
+      "maskedId": "171xxxxxx0109",
+      "name": "อภิญญา สืบสอน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ต้นตาล",
+      "district": "สองพี่น้อง",
+      "id": "0b306e4cf320586b7f4f3ae3",
+      "maskedId": "172xxxxxx6491",
+      "name": "เกษรา คุ้มทรัพย์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

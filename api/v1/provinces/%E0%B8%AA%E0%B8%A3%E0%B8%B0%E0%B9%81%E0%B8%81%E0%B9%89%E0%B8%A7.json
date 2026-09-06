@@ -1,0 +1,541 @@
+{
+  "_meta": {
+    "count": 31,
+    "kind": "province",
+    "name": "สระแก้ว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สระแก้ว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ทุ่งมหาเจริญ",
+      "district": "วังน้ำเย็น",
+      "id": "7c91c8e73ce1c3d40533a7ef",
+      "maskedId": "170xxxxxx4095",
+      "name": "กวินธิดา เดชโหมด",
+      "province": "สระแก้ว",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B9%82%E0%B8%AB%E0%B8%A1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตาหลังใน",
+      "district": "วังน้ำเย็น",
+      "id": "ae8c72b204f05c1f9c5fc791",
+      "maskedId": "125xxxxxx9659",
+      "name": "ก้องนภา ถิ่นวัฒนากูล",
+      "province": "สระแก้ว",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หันทราย",
+      "district": "อรัญประเทศ",
+      "id": "59ce241778d092965e03208a",
+      "maskedId": "110xxxxxx1555",
+      "name": "คณธัช ทับทิมทอง",
+      "province": "สระแก้ว",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%93%E0%B8%98%E0%B8%B1%E0%B8%8A-%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวังสมบูรณ์",
+      "district": "วังสมบูรณ์",
+      "id": "cab407200b380d83f2bdcd70",
+      "maskedId": "145xxxxxx0110",
+      "name": "จิรฌาญา แสนพินิจ",
+      "province": "สระแก้ว",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%8C%E0%B8%B2%E0%B8%8D%E0%B8%B2-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองหินปูน",
+      "district": "วังน้ำเย็น",
+      "id": "4d55023e5530f651ce21a7b0",
+      "maskedId": "133xxxxxx9425",
+      "name": "จุฑามาศ คําอุดม",
+      "province": "สระแก้ว",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวัฒนานคร",
+      "district": "วัฒนานคร",
+      "id": "760bb17de7ff72b8f371d47e",
+      "maskedId": "133xxxxxx0296",
+      "name": "จุฑารัตน์ อุ่นทรวง",
+      "province": "สระแก้ว",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสระแก้ว",
+      "district": "เมืองสระแก้ว",
+      "id": "4b562ccfd57211d8aca6079a",
+      "maskedId": "120xxxxxx7811",
+      "name": "ชลิต มุนิกานนท์",
+      "province": "สระแก้ว",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95-%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ท่าเกวียน",
+      "district": "วัฒนานคร",
+      "id": "739966c2f1967307d88eb942",
+      "maskedId": "135xxxxxx1234",
+      "name": "ชิราวุธ ศรีวิเศษ",
+      "province": "สระแก้ว",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาสามสิบ",
+      "district": "เขาฉกรรจ์",
+      "id": "cbc11d35b83969643b4da069",
+      "maskedId": "231xxxxxx4509",
+      "name": "ณิชกานต์ สายสิญจน์",
+      "province": "สระแก้ว",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทัพเสด็จ",
+      "district": "ตาพระยา",
+      "id": "c5d82128fa7c92bbe54d5b72",
+      "maskedId": "340xxxxxx5408",
+      "name": "ทนงศักดิ์ บางปา",
+      "province": "สระแก้ว",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%99%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลฟากห้วย",
+      "district": "อรัญประเทศ",
+      "id": "0ac3993473ce74c1188876d4",
+      "maskedId": "131xxxxxx7931",
+      "name": "ธนภัทร ศาสตร์พงษ์",
+      "province": "สระแก้ว",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสระแก้ว",
+      "district": "เมืองสระแก้ว",
+      "id": "ec2b462406972eb76eaa30cb",
+      "maskedId": "164xxxxxx0599",
+      "name": "ธนสาร พรมนิล",
+      "province": "สระแก้ว",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากหน้าบุคลากรทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลวังทอง",
+      "district": "วังสมบูรณ์",
+      "id": "0d6433b5b23ad996e641ea7a",
+      "maskedId": "125xxxxxx2940",
+      "name": "ธมภร คําไกรนาราสกุล",
+      "province": "สระแก้ว",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A1%E0%B8%A0%E0%B8%A3-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองสระแก้ว",
+      "district": "เมืองสระแก้ว",
+      "id": "b22e71dc345897b96bb1272e",
+      "maskedId": "125xxxxxx1682",
+      "name": "ธวัชชัย พันธ์ขุนทด",
+      "province": "สระแก้ว",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%94",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลวังสมบูรณ์",
+      "district": "วังสมบูรณ์",
+      "id": "079d14c6b56e1ad24cece296",
+      "maskedId": "133xxxxxx0277",
+      "name": "นฤพล งามศิริ",
+      "province": "สระแก้ว",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%9E%E0%B8%A5-%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านด่าน",
+      "district": "อรัญประเทศ",
+      "id": "9f8bafcae982cdbb6cf4563e",
+      "maskedId": "110xxxxxx8437",
+      "name": "นันทิดา ชะเวิงรัมย์",
+      "province": "สระแก้ว",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%8A%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลเขาฉกรรจ์",
+      "district": "เขาฉกรรจ์",
+      "id": "c6b509e2bddcfd8987b661c4",
+      "maskedId": "325xxxxxx3778",
+      "name": "นิรุติ อ่อนวรรณะ",
+      "province": "สระแก้ว",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%B4-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทยอุดม",
+      "district": "คลองหาด",
+      "id": "5653212ba5a66504235a90e5",
+      "maskedId": "130xxxxxx6668",
+      "name": "ปาริญญ์ แขฉิมพาลี",
+      "province": "สระแก้ว",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B9%8C-%E0%B9%81%E0%B8%82%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B2%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วัฒนานคร",
+      "district": "วัฒนานคร",
+      "id": "d87823e6cb47b941b4272ca1",
+      "maskedId": "131xxxxxx5152",
+      "name": "ปิยชาติ สร้อยศิริกุล",
+      "province": "สระแก้ว",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เมืองไผ่",
+      "district": "อรัญประเทศ",
+      "id": "80a0ec5fd6fe4e9dfec317e1",
+      "maskedId": "131xxxxxx0137",
+      "name": "พยุงศักดิ์ โลกประโคน",
+      "province": "สระแก้ว",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A2%E0%B8%B8%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%84%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ตาหลังใน",
+      "district": "วังน้ำเย็น",
+      "id": "3aa8fcdb653aa81fecb5f525",
+      "maskedId": "124xxxxxx0053",
+      "name": "พรพรรณ ปัญญาเลิศ",
+      "province": "สระแก้ว",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สระแก้ว",
+      "district": "เมืองสระแก้ว",
+      "id": "20b516bfea0fb3104e68abd2",
+      "maskedId": "131xxxxxx9799",
+      "name": "พัชชา นิลนนท์",
+      "province": "สระแก้ว",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเกษม",
+      "district": "เมืองสระแก้ว",
+      "id": "da0370d7da9021847afedd20",
+      "maskedId": "125xxxxxx0176",
+      "name": "พัชรีพร พงษ์รัตนวราศัย",
+      "province": "สระแก้ว",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวังสมบูรณ์",
+      "district": "วังสมบูรณ์",
+      "id": "c7906056a5b3b7ca8f434f06",
+      "maskedId": "324xxxxxx1427",
+      "name": "ภัทรนุต ชัยสุริวงศ์",
+      "province": "สระแก้ว",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%99%E0%B8%B8%E0%B8%95-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าเกษม",
+      "district": "เมืองสระแก้ว",
+      "id": "a5f010afd5561f94d8454b0e",
+      "maskedId": "141xxxxxx2873",
+      "name": "มุกรินทร์ สีใส",
+      "province": "สระแก้ว",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%AA%E0%B8%B5%E0%B9%83%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทัพเสด็จ",
+      "district": "ตาพระยา",
+      "id": "4522a8f51377df7f8babd6d9",
+      "maskedId": "131xxxxxx9075",
+      "name": "วันชัย ชื่นชมยิ่ง",
+      "province": "สระแก้ว",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%8A%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าเกษม",
+      "district": "เมืองสระแก้ว",
+      "id": "8097c7a5e4245ff1c4edb561",
+      "maskedId": "140xxxxxx8353",
+      "name": "ศิรินา หวานแท้",
+      "province": "สระแก้ว",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B2-%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทรทอง",
+      "district": "คลองหาด",
+      "id": "383e1ae8a201eada35d47b61",
+      "maskedId": "325xxxxxx5708",
+      "name": "สงกรานต์ รวมทรัพย์",
+      "province": "สระแก้ว",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เมืองไผ่",
+      "district": "อรัญประเทศ",
+      "id": "e2aee10d38f79426a680fad1",
+      "maskedId": "121xxxxxx6004",
+      "name": "สมยศ เกษมพิณ",
+      "province": "สระแก้ว",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%A2%E0%B8%A8-%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองสังข์",
+      "district": "อรัญประเทศ",
+      "id": "c467355151f3bae515b9f5b9",
+      "maskedId": "325xxxxxx3801",
+      "name": "สามารถ ดาราศร",
+      "province": "สระแก้ว",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96-%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ห้วยโจด",
+      "district": "วัฒนานคร",
+      "id": "23be3bfd8b463fb5c7f2b024",
+      "maskedId": "140xxxxxx3182",
+      "name": "สุวาลี สมอบ้าน",
+      "province": "สระแก้ว",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B8%B5-%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

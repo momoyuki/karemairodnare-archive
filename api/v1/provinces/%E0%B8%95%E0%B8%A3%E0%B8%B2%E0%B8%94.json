@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "province",
+    "name": "ตราด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ตราด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.อ่าวใหญ่",
+      "district": "เมืองตราด",
+      "id": "b0afab460c2d3c533878ea95",
+      "maskedId": "145xxxxxx3341",
+      "name": "กัณณิกา สีหา",
+      "province": "ตราด",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "14_ตราด.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%AB%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะกูด",
+      "district": "เกาะกูด",
+      "id": "24df950275a98d79707591ed",
+      "maskedId": "133xxxxxx4324",
+      "name": "ธนัชชา ศรีทากุล",
+      "province": "ตราด",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "14_ตราด.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะกูด",
+      "district": "เกาะกูด",
+      "id": "962e85822a3ea9ca79d51a41",
+      "maskedId": "135xxxxxx7379",
+      "name": "พรทิพย์ ชูวงษ์",
+      "province": "ตราด",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "14_ตราด.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยแร้ง",
+      "district": "เมืองตราด",
+      "id": "8e3ebe359d7a8a999d459676",
+      "maskedId": "165xxxxxx1586",
+      "name": "มยุวลี เฮงหลี",
+      "province": "ตราด",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "14_ตราด.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%A7%E0%B8%A5%E0%B8%B5-%E0%B9%80%E0%B8%AE%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองใหญ่",
+      "district": "คลองใหญ่",
+      "id": "55ae3935dec400fb054ce5be",
+      "maskedId": "162xxxxxx0409",
+      "name": "รัชดาวรรณ เนตร์มณี",
+      "province": "ตราด",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "14_ตราด.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยแร้ง",
+      "district": "เมืองตราด",
+      "id": "8db57db063078c5a47f8a945",
+      "maskedId": "123xxxxxx4621",
+      "name": "วสุวี ขนรกุล",
+      "province": "ตราด",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "14_ตราด.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B5-%E0%B8%82%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

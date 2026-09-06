@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตําบลตะกุด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลตะกุด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลตะกุด",
+      "district": "เมืองสระบุรี",
+      "id": "8717482763c4d61cc4430cff",
+      "maskedId": "119xxxxxx9244",
+      "name": "ภราดร กลางอรัญ",
+      "province": "สระบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%B2%E0%B8%94%E0%B8%A3-%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตะกุด",
+      "district": "เมืองสระบุรี",
+      "id": "4022afc5f09f450e8e11a7bd",
+      "maskedId": "146xxxxxx4720",
+      "name": "รัชดาวรรณ์ โชติบุญ",
+      "province": "สระบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตะกุด",
+      "district": "เมืองสระบุรี",
+      "id": "af635d1d2f16052f4638621f",
+      "maskedId": "110xxxxxx8441",
+      "name": "สุนันทา โพธิ์สุวรรณ์",
+      "province": "สระบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "agency",
+    "name": "เทศบาลตําบลตลาดไชยา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลตลาดไชยา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "5f2392de88d6c416edf8731b",
+      "maskedId": "186xxxxxx7539",
+      "name": "ฐานิดา ไหมพรหม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "9cfb40f5b29835c4face18ec",
+      "maskedId": "190xxxxxx1706",
+      "name": "ตรีชนา อร่ามชัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%99%E0%B8%B2-%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "46d960f0d13e362b1f5a30ef",
+      "maskedId": "177xxxxxx3823",
+      "name": "รัตติยา อำไพรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%AD%E0%B8%B3%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "9d6d8ef89d73eee1c4937790",
+      "maskedId": "131xxxxxx3928",
+      "name": "วัชรินทร์ โสนาคา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "b67cbfc1fd1cb00c62348d25",
+      "maskedId": "184xxxxxx8730",
+      "name": "วัลภา ใจจร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A0%E0%B8%B2-%E0%B9%83%E0%B8%88%E0%B8%88%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "d69b3d07e80981efe049603e",
+      "maskedId": "193xxxxxx9616",
+      "name": "สุชานาถ เรืองนิ่ม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "5c45c9fddbe04736c925c2c2",
+      "maskedId": "186xxxxxx0304",
+      "name": "เบญญา แคล่วคล่อง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%A7%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

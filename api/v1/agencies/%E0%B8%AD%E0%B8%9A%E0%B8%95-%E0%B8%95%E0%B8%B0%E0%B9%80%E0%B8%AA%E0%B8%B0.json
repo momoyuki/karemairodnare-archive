@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ตะเสะ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ตะเสะ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตะเสะ",
+      "district": "หาดสำราญ",
+      "id": "b1fd5970259bec13f6b439bc",
+      "maskedId": "191xxxxxx0141",
+      "name": "มาซานิตร ยาลูเด็น",
+      "province": "ตรัง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B8%A2%E0%B8%B2%E0%B8%A5%E0%B8%B9%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะเสะ",
+      "district": "หาดสำราญ",
+      "id": "c62c80d18363bb64ffd88de0",
+      "maskedId": "193xxxxxx7469",
+      "name": "สุวิมล ศรีทองมา",
+      "province": "ตรัง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะเสะ",
+      "district": "หาดสำราญ",
+      "id": "c479f671708f814e0b47f0b8",
+      "maskedId": "390xxxxxx9984",
+      "name": "อาสิย๊ะ หัดสาหมัด",
+      "province": "ตรัง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%A2%E0%B9%8A%E0%B8%B0-%E0%B8%AB%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

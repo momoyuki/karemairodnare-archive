@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "วังทอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "วังทอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แก่งโสภา",
+      "district": "วังทอง",
+      "id": "104268289b920be09d669ff8",
+      "maskedId": "142xxxxxx7258",
+      "name": "กัญญารัตน์ ด้วงบู่",
+      "province": "พิษณุโลก",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B8%B9%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แก่งโสภา",
+      "district": "วังทอง",
+      "id": "bf1baa2789bf59597b9e2b99",
+      "maskedId": "167xxxxxx7606",
+      "name": "ปุณณเมธ พรมราช",
+      "province": "พิษณุโลก",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%93%E0%B9%80%E0%B8%A1%E0%B8%98-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "วังทอง",
+      "id": "87a4f1e057eaf8b85585c20f",
+      "maskedId": "167xxxxxx0938",
+      "name": "พิมพ์นารา จงเจริญ",
+      "province": "พิษณุโลก",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2-%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังทอง",
+      "district": "วังทอง",
+      "id": "dc393b365e3a38c98aebd638",
+      "maskedId": "170xxxxxx9336",
+      "name": "ยุพาวรรณ ภัทรไชยโชติ",
+      "province": "พิษณุโลก",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%9E%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดินทอง",
+      "district": "วังทอง",
+      "id": "070409f0fa1f649b26e78009",
+      "maskedId": "167xxxxxx6830",
+      "name": "รพีภัทร แสงพลโรจน์",
+      "province": "พิษณุโลก",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%9E%E0%B8%B5%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พันชาลี",
+      "district": "วังทอง",
+      "id": "dbdf1433ac15c04c347b5b81",
+      "maskedId": "166xxxxxx0001",
+      "name": "วรพันธ์ พุทธเกษม",
+      "province": "พิษณุโลก",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

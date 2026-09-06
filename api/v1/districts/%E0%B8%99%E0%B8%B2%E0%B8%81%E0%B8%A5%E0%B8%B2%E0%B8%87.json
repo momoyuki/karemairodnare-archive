@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "นากลาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นากลาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ดงสวรรค์",
+      "district": "นากลาง",
+      "id": "15a4cdbda959534b6cd86bc2",
+      "maskedId": "141xxxxxx8309",
+      "name": "จันทนิภา สีส่อง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อุทัยสวรรค์",
+      "district": "นากลาง",
+      "id": "498da4f8094259d3f7eef4aa",
+      "maskedId": "143xxxxxx0501",
+      "name": "สุชาติ นึกชอบ",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%AD%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนากลาง",
+      "district": "นากลาง",
+      "id": "824aa2205156c73d677ed824",
+      "maskedId": "142xxxxxx8595",
+      "name": "สุดารัตน์ สุทธิ",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเก่ากลอย",
+      "district": "นากลาง",
+      "id": "84c5f9bf1776ecbb0d13b017",
+      "maskedId": "143xxxxxx7535",
+      "name": "สุภาภรณ์ ขอนยาง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อุทัยสวรรค์",
+      "district": "นากลาง",
+      "id": "52b617cd0f66e6bcfa266db3",
+      "maskedId": "142xxxxxx7335",
+      "name": "สุภารักษ์ ลุนะหา",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%A5%E0%B8%B8%E0%B8%99%E0%B8%B0%E0%B8%AB%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกุดดินจี่",
+      "district": "นากลาง",
+      "id": "c28b7e1d194d4e2c497313ee",
+      "maskedId": "141xxxxxx5661",
+      "name": "สุรศักดิ์ เศษรักษา",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดงสวรรค์",
+      "district": "นากลาง",
+      "id": "937b9b814d1e004589226678",
+      "maskedId": "141xxxxxx8146",
+      "name": "เชียรศรี พรมราช",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

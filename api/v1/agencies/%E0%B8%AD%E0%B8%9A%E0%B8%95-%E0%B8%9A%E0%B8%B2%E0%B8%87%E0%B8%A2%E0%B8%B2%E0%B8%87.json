@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบต.บางยาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางยาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางยาง",
+      "district": "บ้านสร้าง",
+      "id": "3fcc6662c83ba4ee18677764",
+      "maskedId": "171xxxxxx2300",
+      "name": "ชนาธิป โสมา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B9%82%E0%B8%AA%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "บ้านสร้าง",
+      "id": "fea809dea3930dbcbe4ee57f",
+      "maskedId": "172xxxxxx1741",
+      "name": "ชุติกานต์ จันทา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "กระทุ่มแบน",
+      "id": "3ed13562b364ac3b33ae0675",
+      "maskedId": "373xxxxxx8734",
+      "name": "ทิพย์วรินทร สิริกุลอิทธิกร",
+      "province": "สมุทรสาคร",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "กระทุ่มแบน",
+      "id": "9406f0561a8d5101928f5623",
+      "maskedId": "270xxxxxx1099",
+      "name": "ศิริลักษณ์ กรพิพัฒน์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "กระทุ่มแบน",
+      "id": "2d28a88d0dc50bb91d758726",
+      "maskedId": "176xxxxxx1813",
+      "name": "อาทิตย์ ทันการ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C-%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "กระทุ่มแบน",
+      "id": "f4a300cecb7b6e2bfa949077",
+      "maskedId": "371xxxxxx2663",
+      "name": "โกสินทร์ จงเจริญ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

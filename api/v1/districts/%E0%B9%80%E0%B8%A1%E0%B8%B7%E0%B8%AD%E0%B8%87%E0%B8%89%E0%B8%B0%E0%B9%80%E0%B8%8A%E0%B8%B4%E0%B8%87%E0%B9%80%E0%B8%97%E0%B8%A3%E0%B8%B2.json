@@ -1,0 +1,371 @@
+{
+  "_meta": {
+    "count": 21,
+    "kind": "district",
+    "name": "เมืองฉะเชิงเทรา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองฉะเชิงเทรา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนามแดง",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "0a0ab36df849d28daad37cd4",
+      "maskedId": "126xxxxxx7823",
+      "name": "กชวัชร สัตยวิชัย",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองเปรง",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "32e708efb250c926e395c4c8",
+      "maskedId": "110xxxxxx0629",
+      "name": "กัลยา เรืองทอง",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตีนเป็ด",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "ddfa21c17a52e12e11453531",
+      "maskedId": "114xxxxxx7670",
+      "name": "ฐณิชา หอมสวัสดิ์",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองฉะเชิงเทรา",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "e0fe9dd65539694b7529adab",
+      "maskedId": "125xxxxxx5456",
+      "name": "ณัฐภัทร ศิริปักมานนท์",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9B%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนครเนื่องเขต",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "205a69312dbe5e54c869b110",
+      "maskedId": "224xxxxxx8600",
+      "name": "ณัฐวดี คุณะศรี",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองอุดมชลจร",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "ee900430b6c7a4eb92e34387",
+      "maskedId": "120xxxxxx9176",
+      "name": "ณัฐวุฒิ ตั้งชัยชนะ",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านใหม่",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "c1650e37ba31da632e9ee83c",
+      "maskedId": "110xxxxxx2332",
+      "name": "ดนย์ ทักศินาวรรณ",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางกะไห",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "3b149d03131c4cc1ee4db216",
+      "maskedId": "120xxxxxx2315",
+      "name": "ธิติพันธ์ วงษ์ลือชัย",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองนครเนื่องเขต",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "6fb36d9898213ffc3f488cd6",
+      "maskedId": "137xxxxxx9547",
+      "name": "นลินี สาสาร",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%AA%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าไข่",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "9c7c79416ba3fe76e18eb965",
+      "maskedId": "352xxxxxx2667",
+      "name": "นารีรัตน์ แกมรัมย์",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองหลวงแพ่ง",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "bb1accbbcb06263125c76638",
+      "maskedId": "139xxxxxx1641",
+      "name": "ปริฉัตร ใจซื่อ",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B9%83%E0%B8%88%E0%B8%8B%E0%B8%B7%E0%B9%88%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองจุกกระเฌอ",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "56311dd6a2c5dddd97615edd",
+      "maskedId": "324xxxxxx2671",
+      "name": "ปรีดิ์ปวีณ จิตร์สำเริง",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%93-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนครเนื่องเขต",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "298ddb0048cfee6fa54f2bce",
+      "maskedId": "190xxxxxx6361",
+      "name": "ปิยนาฏ วัชรเวชศฤงคาร",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B8%8F-%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%A8%E0%B8%A4%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเตย",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "9b7c2cc29994b344041cee63",
+      "maskedId": "127xxxxxx3089",
+      "name": "พรวิภา ถึกนาค",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%96%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บางแก้ว",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "e8d177547505834b1e1d8acb",
+      "maskedId": "190xxxxxx3034",
+      "name": "ภาพิณี คงพรม",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B8%84%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางตีนเป็ด",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "b94bd04a085fa36a52db4927",
+      "maskedId": "226xxxxxx6715",
+      "name": "ภูริวัฒน์ เพชรด้วง",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตีนเป็ด",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "b917c17b74afbe5fce20c529",
+      "maskedId": "120xxxxxx1034",
+      "name": "วัชรวิชย์ ดิษฐพงษ์",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B9%8C-%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนามแดง",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "eb6705593cb356ddcbe88971",
+      "maskedId": "134xxxxxx1928",
+      "name": "สุเชาว์ มิ่งไชย",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B9%80%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%8C-%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ฉะเชิงเทรา",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "58e7eb973eb6976a82b0bfa4",
+      "maskedId": "131xxxxxx4111",
+      "name": "อนิรุต มณีเทพ",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%95-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โสธร",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "e014ff8e92c90410bcfd619b",
+      "maskedId": "324xxxxxx4381",
+      "name": "อรพิน ช้างชนะ",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%99-%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ฉะเชิงเทรา",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "deaeb4db5d72d76bb8bf8caf",
+      "maskedId": "110xxxxxx1210",
+      "name": "ไปรยา บรมสุข",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%9B%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

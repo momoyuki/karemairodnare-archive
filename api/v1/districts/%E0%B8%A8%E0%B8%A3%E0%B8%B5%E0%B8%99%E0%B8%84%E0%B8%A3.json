@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "ศรีนคร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ศรีนคร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองบัว",
+      "district": "ศรีนคร",
+      "id": "980cbaa7929290bb8ec300b5",
+      "maskedId": "153xxxxxx3881",
+      "name": "ปลายฟ้า เรืองฤทธิ์",
+      "province": "สุโขทัย",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.คลองมะพลับ",
+      "district": "ศรีนคร",
+      "id": "6eed5d07da3634ca9bdb8c66",
+      "maskedId": "153xxxxxx5924",
+      "name": "วรรณิศา สุโสม",
+      "province": "สุโขทัย",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองมะพลับ",
+      "district": "ศรีนคร",
+      "id": "3bca12d3663d1278c6002a70",
+      "maskedId": "363xxxxxx8730",
+      "name": "อโณทัย ใจพรมมา",
+      "province": "สุโขทัย",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B9%82%E0%B8%93%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B9%83%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

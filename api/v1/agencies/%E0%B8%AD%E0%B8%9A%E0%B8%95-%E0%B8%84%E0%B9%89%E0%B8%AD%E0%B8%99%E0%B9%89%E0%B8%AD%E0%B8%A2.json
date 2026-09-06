@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ค้อน้อย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ค้อน้อย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ค้อน้อย",
+      "district": "สำโรง",
+      "id": "988c4ec39dbdb606e2bd640f",
+      "maskedId": "134xxxxxx0402",
+      "name": "ทรรศรานันท์ สิงห์ศร",
+      "province": "อุบลราชธานี",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ค้อน้อย",
+      "district": "สำโรง",
+      "id": "08542148398c80ae2c0ab35b",
+      "maskedId": "133xxxxxx0764",
+      "name": "อภิวัฒน์ ไชยมา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ค้อน้อย",
+      "district": "สำโรง",
+      "id": "a7e623855e02344f73d15519",
+      "maskedId": "134xxxxxx3564",
+      "name": "อิสระพงศ์ สดชื่น",
+      "province": "อุบลราชธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%AA%E0%B8%94%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

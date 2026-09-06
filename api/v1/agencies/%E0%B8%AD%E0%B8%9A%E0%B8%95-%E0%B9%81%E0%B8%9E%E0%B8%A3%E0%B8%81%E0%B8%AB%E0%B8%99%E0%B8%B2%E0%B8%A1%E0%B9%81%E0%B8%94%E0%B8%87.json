@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.แพรกหนามแดง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-แพรกหนามแดง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แพรกหนามแดง",
+      "district": "อัมพวา",
+      "id": "9a05e8cd855721c20a099bcf",
+      "maskedId": "176xxxxxx4208",
+      "name": "จันทร์เพ็ญ ลาภแก้ว",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D-%E0%B8%A5%E0%B8%B2%E0%B8%A0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แพรกหนามแดง",
+      "district": "อัมพวา",
+      "id": "996792e990f1be91ad44d02d",
+      "maskedId": "170xxxxxx0665",
+      "name": "สลิลรัตน์ กิมพิทักษ์",
+      "province": "สมุทรสงคราม",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "60_สมุทรสงคราม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%81%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

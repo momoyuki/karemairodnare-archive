@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "เมืองตาก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองตาก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตลุกกลางทุ่ง",
+      "district": "เมืองตาก",
+      "id": "1b1f7ac16f62f9615d01054b",
+      "maskedId": "163xxxxxx1762",
+      "name": "จารุนันท์ ใจกว้าง",
+      "province": "ตาก",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ตาก",
+      "district": "เมืองตาก",
+      "id": "acc2a417dee545811b2e2788",
+      "maskedId": "143xxxxxx8921",
+      "name": "ชวลิต ลีโสภา",
+      "province": "ตาก",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B8%95-%E0%B8%A5%E0%B8%B5%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ตาก",
+      "district": "เมืองตาก",
+      "id": "e72782729bb4d867cef79532",
+      "maskedId": "167xxxxxx2689",
+      "name": "ธีรุตม์ เจริญสุข",
+      "province": "ตาก",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%A1%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังหิน",
+      "district": "เมืองตาก",
+      "id": "0d4b6a7be81e75ea2bc9d530",
+      "maskedId": "193xxxxxx7333",
+      "name": "วิลัยลักษณ์ ทองชิด",
+      "province": "ตาก",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังหิน",
+      "district": "เมืองตาก",
+      "id": "ea4ba4f88f6d3a2308a5360d",
+      "maskedId": "180xxxxxx2469",
+      "name": "ศิริลักษณ์ เขียวบุญจันทร์",
+      "province": "ตาก",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังประจบ",
+      "district": "เมืองตาก",
+      "id": "f72385f3dac565a11e4c7e72",
+      "maskedId": "191xxxxxx3428",
+      "name": "อรรถพล ดาจิ",
+      "province": "ตาก",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%9E%E0%B8%A5-%E0%B8%94%E0%B8%B2%E0%B8%88%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

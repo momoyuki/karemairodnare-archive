@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "นาดี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นาดี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "0d471b967688a60511e4b74b",
+      "maskedId": "110xxxxxx9917",
+      "name": "ณัชชา คุ้มคุณ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "f036880c0a1e6494e128d4c6",
+      "maskedId": "140xxxxxx8066",
+      "name": "ธีระยุทธ ศรีชมชื่น",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "bb2ff668c531a3e3e2482cc0",
+      "maskedId": "130xxxxxx1053",
+      "name": "นันทิวา สุภาพวิมล",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "4e405f5223748d296b79163a",
+      "maskedId": "170xxxxxx5724",
+      "name": "ภัทร นาลัย",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%99%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "83c34a1343d8654399103755",
+      "maskedId": "110xxxxxx4255",
+      "name": "สรกฤช คงสนทนา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%8A-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บุพราหมณ์",
+      "district": "นาดี",
+      "id": "048045047a66ad5238990824",
+      "maskedId": "130xxxxxx2695",
+      "name": "สุนิสา สูนกลาง",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B9%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาดี",
+      "district": "นาดี",
+      "id": "117d351e493a203a1ec1724d",
+      "maskedId": "145xxxxxx3715",
+      "name": "สุพรรษา บุญไทย",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%84%E0%B8%97%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.แก่งดินสอ",
+      "district": "นาดี",
+      "id": "44071bab163cdb9b9e9d6ad5",
+      "maskedId": "126xxxxxx3222",
+      "name": "อาทิตยา ทุมมา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แก่งดินสอ",
+      "district": "นาดี",
+      "id": "302918fe8c6066138d7857cb",
+      "maskedId": "111xxxxxx0989",
+      "name": "เบญจรัตน์ ไวกุลเพ็ชร",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%A7%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

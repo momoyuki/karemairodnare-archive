@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ท่าหมอไทร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ท่าหมอไทร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ท่าหมอไทร",
+      "district": "จะนะ",
+      "id": "fc465d865ac45692c128b443",
+      "maskedId": "190xxxxxx0678",
+      "name": "สุทธิดา ทองพรม",
+      "province": "สงขลา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าหมอไทร",
+      "district": "จะนะ",
+      "id": "8c21268f4f2461b6e6d45293",
+      "maskedId": "193xxxxxx4102",
+      "name": "อิทธิพล มาสวัสดิ์",
+      "province": "สงขลา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A5-%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

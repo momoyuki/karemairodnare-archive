@@ -1,0 +1,303 @@
+{
+  "_meta": {
+    "count": 17,
+    "kind": "district",
+    "name": "บ้านนาสาร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บ้านนาสาร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลคลองปราบ",
+      "district": "บ้านนาสาร",
+      "id": "98a945539151ab2739c29f19",
+      "maskedId": "180xxxxxx3677",
+      "name": "กชกร จินา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเตาใหม่",
+      "district": "บ้านนาสาร",
+      "id": "74453becd538632c327cea32",
+      "maskedId": "184xxxxxx3505",
+      "name": "กรวิชญ์ แจ่มสะอาด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองปราบ",
+      "district": "บ้านนาสาร",
+      "id": "2edd51bc873d9c238a5118cb",
+      "maskedId": "184xxxxxx2780",
+      "name": "กวินนาฎ สังข์ทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%8E-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลําพูน",
+      "district": "บ้านนาสาร",
+      "id": "5792839865086b5a0d0daf1f",
+      "maskedId": "193xxxxxx3433",
+      "name": "จันทร์ทิมา สีน้อย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลควนศรี",
+      "district": "บ้านนาสาร",
+      "id": "1a420f7ac8a63b907133829c",
+      "maskedId": "190xxxxxx0891",
+      "name": "ชนากานต์ นวลพรหม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "8a8dcf03595efbe36c5131eb",
+      "maskedId": "193xxxxxx1123",
+      "name": "ปริวัตร ดําเพชร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%94%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "1bcb748fa89defc7e0be0595",
+      "maskedId": "184xxxxxx1310",
+      "name": "ปิยะพร ตรีเล็ก",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%9E%E0%B8%A3-%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเตา",
+      "district": "บ้านนาสาร",
+      "id": "43457715dd374ea41258cbec",
+      "maskedId": "292xxxxxx1138",
+      "name": "ภิรมย์ยา เพ็งทะ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%97%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "f29c3711afba107ecb8f72ae",
+      "maskedId": "196xxxxxx0946",
+      "name": "วนิตา ดีพาส",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%94%E0%B8%B5%E0%B8%9E%E0%B8%B2%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเตาใหม่",
+      "district": "บ้านนาสาร",
+      "id": "8b15e7a6cb1fe661cbce2875",
+      "maskedId": "393xxxxxx7635",
+      "name": "วีระยุทธ ศศิธร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "5bcdf403a4850c1e04248a8e",
+      "maskedId": "193xxxxxx0335",
+      "name": "ศศิธร ฉิมรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เพิ่มพูนทรัพย์",
+      "district": "บ้านนาสาร",
+      "id": "5008443d6a6a7291ed424122",
+      "maskedId": "184xxxxxx9539",
+      "name": "สุทธิดา พุทธารักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "096b0c52ae2ca3ef2da679f0",
+      "maskedId": "180xxxxxx8933",
+      "name": "สุธาสินี หนูหนอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองปราบ",
+      "district": "บ้านนาสาร",
+      "id": "c641cb228fd9c67704fedf24",
+      "maskedId": "196xxxxxx2250",
+      "name": "สุภาวดี ศิริรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเตา",
+      "district": "บ้านนาสาร",
+      "id": "70e9378ced53d76201f8e8a5",
+      "maskedId": "195xxxxxx5507",
+      "name": "เนตรนภา แก้วบุตร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "8459be23e80a6715e67a2117",
+      "maskedId": "180xxxxxx1187",
+      "name": "โศธยา ชูแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%A8%E0%B8%98%E0%B8%A2%E0%B8%B2-%E0%B8%8A%E0%B8%B9%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "e3d618f97f263660faa36a37",
+      "maskedId": "184xxxxxx5244",
+      "name": "โสรญา สุวรรณโชติ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A3%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

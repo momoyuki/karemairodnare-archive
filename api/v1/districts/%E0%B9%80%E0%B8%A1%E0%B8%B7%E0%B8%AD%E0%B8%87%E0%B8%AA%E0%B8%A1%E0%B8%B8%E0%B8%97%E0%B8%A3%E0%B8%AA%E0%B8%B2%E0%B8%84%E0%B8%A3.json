@@ -1,0 +1,813 @@
+{
+  "_meta": {
+    "count": 47,
+    "kind": "district",
+    "name": "เมืองสมุทรสาคร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองสมุทรสาคร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองพันท้ายนรสิงห์",
+      "district": "เมืองสมุทรสาคร",
+      "id": "bd360571091ca04cc7aec225",
+      "maskedId": "170xxxxxx8514",
+      "name": "กชกร ยิ้มแย้มศรี",
+      "province": "สมุทรสาคร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "d6a0699815322ef469788b9b",
+      "maskedId": "173xxxxxx3942",
+      "name": "กรีฑาทิพย์ เที่ยงน่วม",
+      "province": "สมุทรสาคร",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%91%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลชัยมงคล",
+      "district": "เมืองสมุทรสาคร",
+      "id": "6755fcce5ec6d0fce1ba6873",
+      "maskedId": "376xxxxxx2217",
+      "name": "คุณาพร แก้วพันธ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางกระเจ้า",
+      "district": "เมืองสมุทรสาคร",
+      "id": "cfb51ed492de6e0e339afaf6",
+      "maskedId": "175xxxxxx2846",
+      "name": "จารุวรรณ สุขเกษม",
+      "province": "สมุทรสาคร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านบ่อ",
+      "district": "เมืองสมุทรสาคร",
+      "id": "b74d0862dd225b7d67656a33",
+      "maskedId": "171xxxxxx5290",
+      "name": "ชลธิชา พลบนิล",
+      "province": "สมุทรสาคร",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%9E%E0%B8%A5%E0%B8%9A%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "bf219e06a66dd1ce99ed12a1",
+      "maskedId": "176xxxxxx1924",
+      "name": "ชุติกาญจน์ เยี่ยมเพื่อน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปลา",
+      "district": "เมืองสมุทรสาคร",
+      "id": "494c51a9046d672399be1380",
+      "maskedId": "170xxxxxx0896",
+      "name": "ฐานพันธ์ จิรโรจน์ภิญโญ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B9%82%E0%B8%8D",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "315be46c109770d92045b5f7",
+      "maskedId": "170xxxxxx3540",
+      "name": "ณัฐพงศ์ นิลยาภรณ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "12489a382f0939b928fc2318",
+      "maskedId": "225xxxxxx4736",
+      "name": "ทับทิม ปานดํา",
+      "province": "สมุทรสาคร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นาโคก",
+      "district": "เมืองสมุทรสาคร",
+      "id": "b4b3448eb7bff8802cba225d",
+      "maskedId": "170xxxxxx0182",
+      "name": "ทัศศิพร วงศ์ลีลากร",
+      "province": "สมุทรสาคร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาโคก",
+      "district": "เมืองสมุทรสาคร",
+      "id": "7822d81014f5f36d6a9ee46c",
+      "maskedId": "175xxxxxx3973",
+      "name": "ธนสร เกิดจงรักษ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%AA%E0%B8%A3-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "d9b55626ce4055baad30202d",
+      "maskedId": "126xxxxxx5691",
+      "name": "ธนาภรณ์ นิคมเวทย์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บางน้ําจืด",
+      "district": "เมืองสมุทรสาคร",
+      "id": "fd74b1b30ba4a8d022a0e6ef",
+      "maskedId": "172xxxxxx0012",
+      "name": "ธารารัตน์ จินดารัตน์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "ab1cd1eae1832b98fe98900c",
+      "maskedId": "170xxxxxx5085",
+      "name": "ธิดา หาญโยธิน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AB%E0%B8%B2%E0%B8%8D%E0%B9%82%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองพันท้ายนรสิงห์",
+      "district": "เมืองสมุทรสาคร",
+      "id": "bf683e753ae54a757469931c",
+      "maskedId": "174xxxxxx9817",
+      "name": "ธีรเจต ผิวทอง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%95-%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าจีน",
+      "district": "เมืองสมุทรสาคร",
+      "id": "492c7fbc6e87ce44aec55dc1",
+      "maskedId": "170xxxxxx6974",
+      "name": "นครินทร์ บุตรเกตุ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองโคกขาม",
+      "district": "เมืองสมุทรสาคร",
+      "id": "15110fb8dae678c06212c99a",
+      "maskedId": "176xxxxxx4351",
+      "name": "นพพร พ่วงพันสี",
+      "province": "สมุทรสาคร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางหญ้าแพรก",
+      "district": "เมืองสมุทรสาคร",
+      "id": "3dab3eddd0fc7cec66e8869d",
+      "maskedId": "371xxxxxx7833",
+      "name": "นภสร เพชรดําดี",
+      "province": "สมุทรสาคร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%AA%E0%B8%A3-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%94%E0%B9%8D%E0%B8%B2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "83213fb9a642e65927d8aafe",
+      "maskedId": "170xxxxxx8067",
+      "name": "นภาภรณ์ บุญวิเซ็นต์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางหญ้าแพรก",
+      "district": "เมืองสมุทรสาคร",
+      "id": "6077ea791edd417fa8f54598",
+      "maskedId": "170xxxxxx1143",
+      "name": "นรวิชญ์ โต๊ะเจริญ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองพันท้ายนรสิงห์",
+      "district": "เมืองสมุทรสาคร",
+      "id": "7af6af4b4a5221318b2f54d7",
+      "maskedId": "177xxxxxx5364",
+      "name": "นัฐภูมิ แตงอ่อน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%90%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4-%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "804fb7a620975b742168b597",
+      "maskedId": "172xxxxxx7882",
+      "name": "นิธิราพร ต่อสกุล",
+      "province": "สมุทรสาคร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "5d8c2ea44e26ff10ff6bc881",
+      "maskedId": "170xxxxxx2902",
+      "name": "บุศรารัตน์ บัวงาม",
+      "province": "สมุทรสาคร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าจีน",
+      "district": "เมืองสมุทรสาคร",
+      "id": "3fd53288845abdf2073a042f",
+      "maskedId": "170xxxxxx9795",
+      "name": "ปัณยตา มังกโรทัย",
+      "province": "สมุทรสาคร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B8%95%E0%B8%B2-%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%82%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านบ่อ",
+      "district": "เมืองสมุทรสาคร",
+      "id": "ec2ee99bfb599a8ead5df11f",
+      "maskedId": "142xxxxxx1227",
+      "name": "พนัชกร แสนใจวุฒิ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านบ่อ",
+      "district": "เมืองสมุทรสาคร",
+      "id": "6b2d8ce0d7059e7f4d8bf289",
+      "maskedId": "174xxxxxx1372",
+      "name": "พลวัฒ แช่มช้อย",
+      "province": "สมุทรสาคร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%92-%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B8%A1%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "1318cdf927ab17eb247091c2",
+      "maskedId": "130xxxxxx1944",
+      "name": "พลอยชมพู กลางขอนนอก",
+      "province": "สมุทรสาคร",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9-%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านบ่อ",
+      "district": "เมืองสมุทรสาคร",
+      "id": "e42bd734cf8b3e09aee0f3cb",
+      "maskedId": "177xxxxxx1079",
+      "name": "พัณณิตา เชื้อชาติ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "4fb0c86869ef0d2982e529bb",
+      "maskedId": "171xxxxxx9150",
+      "name": "พีรภัทร์ ใจเด็ด",
+      "province": "สมุทรสาคร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางโทรัด",
+      "district": "เมืองสมุทรสาคร",
+      "id": "01b078ea37feab9c183b2554",
+      "maskedId": "173xxxxxx7297",
+      "name": "ภัทรพล พรมบุ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%9A%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปลา",
+      "district": "เมืองสมุทรสาคร",
+      "id": "0c6b44234fc196a589f7f995",
+      "maskedId": "176xxxxxx7354",
+      "name": "ภาสกร หอมนาน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%A3-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "b4974cd98d8e499794014043",
+      "maskedId": "170xxxxxx0968",
+      "name": "ภูเมธ ชื่นชวน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%A1%E0%B8%98-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%8A%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าทราย",
+      "district": "เมืองสมุทรสาคร",
+      "id": "1298ce783a4fe859248327ab",
+      "maskedId": "172xxxxxx0396",
+      "name": "รพีพร สุพรรณชาติ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%9E%E0%B8%B5%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "7a084c22f09cffeb92cb2421",
+      "maskedId": "176xxxxxx1603",
+      "name": "รัตนาภรณ์ ผ่องภักต์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บางกระเจ้า",
+      "district": "เมืองสมุทรสาคร",
+      "id": "048fabb4002b0ac436ce29a7",
+      "maskedId": "110xxxxxx6558",
+      "name": "ลลิตา คล้ายโชติคล่อง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "2efe174977b7036d0c28e135",
+      "maskedId": "170xxxxxx4783",
+      "name": "วาริน ศรสาย",
+      "province": "สมุทรสาคร",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%99-%E0%B8%A8%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "a52102010e993167ccc16621",
+      "maskedId": "171xxxxxx4959",
+      "name": "วิทวัส หอมทับคาง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A7%E0%B8%B1%E0%B8%AA-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางกระเจ้า",
+      "district": "เมืองสมุทรสาคร",
+      "id": "c3b563af57c38e0532b76403",
+      "maskedId": "170xxxxxx8926",
+      "name": "วิภาดา สิงห์เล็ก",
+      "province": "สมุทรสาคร",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองโคกขาม",
+      "district": "เมืองสมุทรสาคร",
+      "id": "9c26c8682c65a2f1749b1a30",
+      "maskedId": "170xxxxxx4042",
+      "name": "ศรัญญา นนทรีย์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านบ่อ",
+      "district": "เมืองสมุทรสาคร",
+      "id": "e54c839d22ffa62d096f587c",
+      "maskedId": "177xxxxxx3290",
+      "name": "สกุณตา เอี่ยมสำอางค์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%93%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "b4d96644cd3f5118a4ba1339",
+      "maskedId": "376xxxxxx4025",
+      "name": "สุธาวัลย์ สีรุ้ง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B5%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองโคกขาม",
+      "district": "เมืองสมุทรสาคร",
+      "id": "caa79b8d1cf16a554179ac82",
+      "maskedId": "170xxxxxx7891",
+      "name": "สุธีรา อัชชนะลิมภากรณ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B8%AD%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "796efd97946a11b5f3a692c8",
+      "maskedId": "174xxxxxx6661",
+      "name": "สุมาลี มากรุ่งแจ้ง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B5-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าจีน",
+      "district": "เมืองสมุทรสาคร",
+      "id": "06e79f897ec60ee976dd4b3b",
+      "maskedId": "125xxxxxx0171",
+      "name": "อัญชิษฐา ศิริจันทราวงษ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "111d242056999b59b05793a3",
+      "maskedId": "110xxxxxx6376",
+      "name": "เจริญขวัญ ศักดิ์โกมลพิทักษ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองโคกขาม",
+      "district": "เมืองสมุทรสาคร",
+      "id": "5b145b49739b39010d573aa2",
+      "maskedId": "574xxxxxx3014",
+      "name": "เฉลิมชัย เฟื่องผล",
+      "province": "สมุทรสาคร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%9F%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "490b4c230cfe60eaf1dc190e",
+      "maskedId": "177xxxxxx6452",
+      "name": "ไกรวิชญ์ ผาดศรี",
+      "province": "สมุทรสาคร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%9C%E0%B8%B2%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

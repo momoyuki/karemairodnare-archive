@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "น้ำยืน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "น้ำยืน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เก่าขาม",
+      "district": "น้ำยืน",
+      "id": "b92a67c1f7dd8d5dfcac74cc",
+      "maskedId": "133xxxxxx6601",
+      "name": "พัฒน์ธีรา ภาสดา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เก่าขาม",
+      "district": "น้ำยืน",
+      "id": "1a2264cc822f212fc0ae747e",
+      "maskedId": "133xxxxxx5355",
+      "name": "มนตรี สายแก้ว",
+      "province": "อุบลราชธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บุเปือย",
+      "district": "น้ำยืน",
+      "id": "ff64f5b6e0ab64930c18a9f4",
+      "maskedId": "133xxxxxx7922",
+      "name": "วรจิต ศรีปรัง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%88%E0%B8%B4%E0%B8%95-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เก่าขาม",
+      "district": "น้ำยืน",
+      "id": "069cffa07e350f7d4c39c906",
+      "maskedId": "134xxxxxx2492",
+      "name": "วีรภัทร ดาวัน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.บางหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางหลวง",
+      "district": "บางเลน",
+      "id": "4eb7a6cd833f52ce06cad433",
+      "maskedId": "170xxxxxx2293",
+      "name": "กฤติยา ทองเปลว",
+      "province": "นครปฐม",
+      "scoreChange": 2,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางหลวง",
+      "district": "เมืองปทุมธานี",
+      "id": "e722eb4fcb4aeb32c2bccf4d",
+      "maskedId": "150xxxxxx4210",
+      "name": "ณัฐธิชา ม่วงชุมสม",
+      "province": "ปทุมธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางหลวง",
+      "district": "เมืองปทุมธานี",
+      "id": "ab76d56da1029ac467c4a855",
+      "maskedId": "112xxxxxx2313",
+      "name": "นิรุตน์ บุญเกิด",
+      "province": "ปทุมธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางหลวง",
+      "district": "บางเลน",
+      "id": "0d2e486a181bc5bd43d7aa08",
+      "maskedId": "173xxxxxx5597",
+      "name": "ปภังกร ทองดอนเถิ่ง",
+      "province": "นครปฐม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางหลวง",
+      "district": "บางเลน",
+      "id": "9a39e76193679bc2718f81b7",
+      "maskedId": "110xxxxxx1529",
+      "name": "ศุภฤกษ์ รัศมีแพทย์",
+      "province": "นครปฐม",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

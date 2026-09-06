@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตำบลท่าจีน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลท่าจีน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลท่าจีน",
+      "district": "เมืองสมุทรสาคร",
+      "id": "492c7fbc6e87ce44aec55dc1",
+      "maskedId": "170xxxxxx6974",
+      "name": "นครินทร์ บุตรเกตุ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าจีน",
+      "district": "เมืองสมุทรสาคร",
+      "id": "3fd53288845abdf2073a042f",
+      "maskedId": "170xxxxxx9795",
+      "name": "ปัณยตา มังกโรทัย",
+      "province": "สมุทรสาคร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B8%95%E0%B8%B2-%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%82%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าจีน",
+      "district": "เมืองสมุทรสาคร",
+      "id": "06e79f897ec60ee976dd4b3b",
+      "maskedId": "125xxxxxx0171",
+      "name": "อัญชิษฐา ศิริจันทราวงษ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตำบลด่านขุนทด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลด่านขุนทด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลด่านขุนทด",
+      "district": "ด่านขุนทด",
+      "id": "f263bfb20c3945c80d6223e1",
+      "maskedId": "136xxxxxx6834",
+      "name": "กันตพงศ์ พรมวันนา",
+      "province": "นครราชสีมา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลด่านขุนทด",
+      "district": "ด่านขุนทด",
+      "id": "3403793ca7c2fe9ab822a00a",
+      "maskedId": "131xxxxxx4624",
+      "name": "เอกวิทย์ แผ้วพลสง",
+      "province": "นครราชสีมา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%9C%E0%B9%89%E0%B8%A7%E0%B8%9E%E0%B8%A5%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "_meta": {
+    "count": 12,
+    "kind": "province",
+    "name": "เชียงราย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เชียงราย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลเวียงชัย",
+      "district": "เวียงชัย",
+      "id": "daa80eea69f7756d538463b9",
+      "maskedId": "152xxxxxx5163",
+      "name": "กฤตธนา เสียงดัง",
+      "province": "เชียงราย",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%98%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่างิ้ว",
+      "district": "เวียงป่าเป้า",
+      "id": "8f9baf1d934dddc646679f5a",
+      "maskedId": "157xxxxxx5033",
+      "name": "กิตติคุณ ดวงใจประเสริฐ",
+      "province": "เชียงราย",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%B8%E0%B8%93-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%83%E0%B8%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หัวง้ม",
+      "district": "พาน",
+      "id": "123d4cb1274d2fa74bb9c516",
+      "maskedId": "156xxxxxx2356",
+      "name": "คุณากร ยศอินทร์",
+      "province": "เชียงราย",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%A2%E0%B8%A8%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ฟ้าหลวง",
+      "district": "แม่ฟ้าหลวง",
+      "id": "8f1b50251ea33fe6b03cd02e",
+      "maskedId": "156xxxxxx9691",
+      "name": "คุณาสิน ชํานาญกลิ้ง",
+      "province": "เชียงราย",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99-%E0%B8%8A%E0%B9%8D%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%8D%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่ขะจาน",
+      "district": "เวียงป่าเป้า",
+      "id": "57662e3073f99c223b37e88c",
+      "maskedId": "117xxxxxx1108",
+      "name": "ณัฐพล แตงอ่อน",
+      "province": "เชียงราย",
+      "scoreChange": 7,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่าตึง",
+      "district": "แม่จัน",
+      "id": "c80b68e496afe305575c3e42",
+      "maskedId": "157xxxxxx8326",
+      "name": "ทักษพร จันระวังยศ",
+      "province": "เชียงราย",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%9E%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%A2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เชียงราย",
+      "district": "เมืองเชียงราย",
+      "id": "754298d03ba0a378481ae74a",
+      "maskedId": "150xxxxxx6685",
+      "name": "ธนา ศรีชัย",
+      "province": "เชียงราย",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่สรวย",
+      "district": "แม่สรวย",
+      "id": "a18f3e6830219875e53b811a",
+      "maskedId": "157xxxxxx6187",
+      "name": "พรนัชชา วงษา",
+      "province": "เชียงราย",
+      "scoreChange": 1,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โป่งงาม",
+      "district": "แม่สาย",
+      "id": "6c3256f2bba5d35ea95a773b",
+      "maskedId": "156xxxxxx0291",
+      "name": "ภาสกร นันตา",
+      "province": "เชียงราย",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%A3-%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเวียงเหนือ",
+      "district": "เวียงชัย",
+      "id": "48a6793d72ee9f1d70e6440b",
+      "maskedId": "352xxxxxx7137",
+      "name": "วศิน ปวีณบําเพ็ญ",
+      "province": "เชียงราย",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A8%E0%B8%B4%E0%B8%99-%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B8%9A%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านด้าย",
+      "district": "แม่สาย",
+      "id": "3a0639a0b8902a95c1e73e01",
+      "maskedId": "156xxxxxx4756",
+      "name": "วิภาวดี เขื่อนแก้ว",
+      "province": "เชียงราย",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%80%E0%B8%82%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเวียง",
+      "district": "เชียงของ",
+      "id": "4440ca140ee1e886287e755e",
+      "maskedId": "152xxxxxx2142",
+      "name": "สุธิพงษ์ โสลิกี",
+      "province": "เชียงราย",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

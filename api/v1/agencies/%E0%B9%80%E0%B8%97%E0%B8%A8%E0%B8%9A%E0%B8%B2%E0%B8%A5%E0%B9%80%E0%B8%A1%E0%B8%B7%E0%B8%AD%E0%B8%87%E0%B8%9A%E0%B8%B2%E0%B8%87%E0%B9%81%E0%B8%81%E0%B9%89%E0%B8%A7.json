@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลเมืองบางแก้ว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองบางแก้ว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองบางแก้ว",
+      "district": "บางพลี",
+      "id": "8268bc226c8d743464ff2e43",
+      "maskedId": "380xxxxxx0214",
+      "name": "กชวรรณ บัวแก้ว",
+      "province": "สมุทรปราการ",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางแก้ว",
+      "district": "บางพลี",
+      "id": "e7b6e7d734d71bf4207887bf",
+      "maskedId": "184xxxxxx0191",
+      "name": "ณัฐภัทร เชาวลิต",
+      "province": "สมุทรปราการ",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางแก้ว",
+      "district": "บางพลี",
+      "id": "58d9f6b14a71689649698185",
+      "maskedId": "132xxxxxx6980",
+      "name": "สุตาภัทร ทุมทอง",
+      "province": "สมุทรปราการ",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%95%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

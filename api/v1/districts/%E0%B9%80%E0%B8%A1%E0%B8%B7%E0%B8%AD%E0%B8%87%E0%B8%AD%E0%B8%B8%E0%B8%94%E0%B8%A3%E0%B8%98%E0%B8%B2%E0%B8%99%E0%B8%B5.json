@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "เมืองอุดรธานี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองอุดรธานี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หมูม่น",
+      "district": "เมืองอุดรธานี",
+      "id": "7fe366bcaa55eb0c34d52d4d",
+      "maskedId": "147xxxxxx9678",
+      "name": "คุณากร กุลมา",
+      "province": "อุดรธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เชียงยืน",
+      "district": "เมืองอุดรธานี",
+      "id": "c7aea92fd0df2d6430f94fa5",
+      "maskedId": "141xxxxxx0187",
+      "name": "จักรพงษ์ โสภัย",
+      "province": "อุดรธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองสําโรง",
+      "district": "เมืองอุดรธานี",
+      "id": "db21b3ebe36e4599db0c1214",
+      "maskedId": "140xxxxxx3581",
+      "name": "ชญา พิมพ์สวัสดิ์",
+      "province": "อุดรธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองสําโรง",
+      "district": "เมืองอุดรธานี",
+      "id": "674d43565c4d8ef89ee2ce0a",
+      "maskedId": "149xxxxxx8884",
+      "name": "ดวงกมล คํามุงคุณ",
+      "province": "อุดรธานี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%A1%E0%B8%A5-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A1%E0%B8%B8%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองไผ่",
+      "district": "เมืองอุดรธานี",
+      "id": "14d5eecd175c4cf0308d40f9",
+      "maskedId": "146xxxxxx0743",
+      "name": "ปกรณ์ พิมพ์พิทักษ์กุล",
+      "province": "อุดรธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หมูม่น",
+      "district": "เมืองอุดรธานี",
+      "id": "75b641127f4e29f26f87d442",
+      "maskedId": "139xxxxxx9608",
+      "name": "มัลลิกา รัตนวงศ์",
+      "province": "อุดรธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หมูม่น",
+      "district": "เมืองอุดรธานี",
+      "id": "d6c3befdc813cc013330f23d",
+      "maskedId": "143xxxxxx0613",
+      "name": "วรวัฒน์ รูปงาม",
+      "province": "อุดรธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นิคมสงเคราะห์",
+      "district": "เมืองอุดรธานี",
+      "id": "511edfb6cda3a5bb501b238b",
+      "maskedId": "144xxxxxx3720",
+      "name": "ศตพร ขาวอ่อน",
+      "province": "อุดรธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%95%E0%B8%9E%E0%B8%A3-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หมูม่น",
+      "district": "เมืองอุดรธานี",
+      "id": "77dd0da2a0011de6f236ba8a",
+      "maskedId": "131xxxxxx2696",
+      "name": "ศิริลักษณ์ วิภาวิน",
+      "province": "อุดรธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "district",
+    "name": "โพทะเล",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "โพทะเล",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ท่าบัว",
+      "district": "โพทะเล",
+      "id": "7e6bde6f8691a7b51f7815e4",
+      "maskedId": "160xxxxxx6911",
+      "name": "กมลชนก แจ้งจบ",
+      "province": "พิจิตร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%88%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท้ายน้ำ",
+      "district": "โพทะเล",
+      "id": "4d235d6f0f31d8d826dea27f",
+      "maskedId": "110xxxxxx5548",
+      "name": "กิตติคุณ เผื่อนน้อย",
+      "province": "พิจิตร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%B8%E0%B8%93-%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่านั่ง",
+      "district": "โพทะเล",
+      "id": "2588b2d072a51a89465eae05",
+      "maskedId": "162xxxxxx3838",
+      "name": "ณัฐพล กำแพงแก้ว",
+      "province": "พิจิตร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าขมิ้น",
+      "district": "โพทะเล",
+      "id": "3b5a69330b4814bad4893fe4",
+      "maskedId": "160xxxxxx3085",
+      "name": "น้ําฝน ชัยโย",
+      "province": "พิจิตร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%9D%E0%B8%99-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%82%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งน้อย",
+      "district": "โพทะเล",
+      "id": "51df30af9a63633f7b2c82da",
+      "maskedId": "162xxxxxx7729",
+      "name": "วิชชากร เริงชัยภูมิ",
+      "province": "พิจิตร",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านน้อย",
+      "district": "โพทะเล",
+      "id": "98da9567ab16aae98bf82231",
+      "maskedId": "160xxxxxx0951",
+      "name": "หทัยชนก ช่วยไทย",
+      "province": "พิจิตร",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าขมิ้น",
+      "district": "โพทะเล",
+      "id": "13e688816679604848fb185d",
+      "maskedId": "166xxxxxx4771",
+      "name": "อริสรา นรัญรักษ์",
+      "province": "พิจิตร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าบัว",
+      "district": "โพทะเล",
+      "id": "f45c0060708e97cd5331a4c4",
+      "maskedId": "567xxxxxx1176",
+      "name": "อัญชลี ฝ่ายสงฆ์",
+      "province": "พิจิตร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A5%E0%B8%B5-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%87%E0%B8%86%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่านั่ง",
+      "district": "โพทะเล",
+      "id": "b070c964f61c2b7c172eafc7",
+      "maskedId": "166xxxxxx9740",
+      "name": "อาริษา กีสด",
+      "province": "พิจิตร",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%81%E0%B8%B5%E0%B8%AA%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางคลาน",
+      "district": "โพทะเล",
+      "id": "7d1091c0633e563cc751e768",
+      "maskedId": "160xxxxxx8877",
+      "name": "อารียา ชื่นศรีนวล",
+      "province": "พิจิตร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

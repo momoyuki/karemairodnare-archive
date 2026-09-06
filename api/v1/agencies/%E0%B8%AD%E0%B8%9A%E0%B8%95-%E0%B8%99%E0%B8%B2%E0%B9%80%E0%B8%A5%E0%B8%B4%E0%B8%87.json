@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.นาเลิง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-นาเลิง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นาเลิง",
+      "district": "ม่วงสามสิบ",
+      "id": "2f75cab475450651e767ea36",
+      "maskedId": "145xxxxxx8469",
+      "name": "นฤมล ศรีประเสริฐ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาเลิง",
+      "district": "ม่วงสามสิบ",
+      "id": "5563bf0f79bf6b1c5a6e891a",
+      "maskedId": "134xxxxxx2676",
+      "name": "มนตริน ทิมา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%99-%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

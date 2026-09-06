@@ -1,0 +1,405 @@
+{
+  "_meta": {
+    "count": 23,
+    "kind": "province",
+    "name": "ศรีสะเกษ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ศรีสะเกษ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ท่าคล้อ",
+      "district": "เบญจลักษ์",
+      "id": "e4c7ca3d9979e06586ac7618",
+      "maskedId": "119xxxxxx2857",
+      "name": "กฤชยพัฒน์ ฤทธิชัย",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%8A%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ตูม",
+      "district": "ปรางค์กู่ | ศรีรัตนะ",
+      "id": "ffebc521ae4f858d18b808bc",
+      "maskedId": "233xxxxxx8404",
+      "name": "กฤษฎา หนูลา",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไพรพัฒนา",
+      "district": "ภูสิงห์",
+      "id": "3483d5c9062554f116d4738e",
+      "maskedId": "134xxxxxx9353",
+      "name": "จุฑามาศ สัญจร",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีแก้ว",
+      "district": "ศรีรัตนะ",
+      "id": "0801c91a45cd8e8ba73292a5",
+      "maskedId": "433xxxxxx1596",
+      "name": "ณัฐฐิญา หาญบาง",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%90%E0%B8%B4%E0%B8%8D%E0%B8%B2-%E0%B8%AB%E0%B8%B2%E0%B8%8D%E0%B8%9A%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เมือง",
+      "district": "กันทรลักษ์",
+      "id": "5ec1bf4fd0d9dbc6fc604cdd",
+      "maskedId": "134xxxxxx5111",
+      "name": "ณัฐพล ยิ่งยศ",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ซํา",
+      "district": "เมืองศรีสะเกษ",
+      "id": "9a30e17c14dfe60dde110285",
+      "maskedId": "133xxxxxx3519",
+      "name": "ณัฐรดา สุนันท์",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไพรบึง",
+      "district": "ไพรบึง",
+      "id": "3e60098db9c2769bfc5fe2d2",
+      "maskedId": "133xxxxxx4179",
+      "name": "ณัฐริกา สงสาร",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําเกลี้ยง",
+      "district": "น้ำเกลี้ยง",
+      "id": "2cba1d5e1ddb417868b53c3d",
+      "maskedId": "132xxxxxx1257",
+      "name": "ณัฐสุดา สระแก้ว",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะเคียน",
+      "district": "ขุขันธ์",
+      "id": "5588e1f24f31a4868011c1fd",
+      "maskedId": "134xxxxxx9229",
+      "name": "ตรีรัตน์ ชัยสนาม",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลสวนกล้วย",
+      "district": "กันทรลักษ์",
+      "id": "a37135d1c99464f26ab2badb",
+      "maskedId": "114xxxxxx2041",
+      "name": "ธีรภัทร สอนศรี",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ก้านเหลือง",
+      "district": "อุทุมพรพิสัย",
+      "id": "24550b7720cfc6430febb5c5",
+      "maskedId": "147xxxxxx7950",
+      "name": "ประกาศิต ยาทองไชย",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%B4%E0%B8%95-%E0%B8%A2%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลกําแพง",
+      "district": "อุทุมพรพิสัย",
+      "id": "20ce8d588f346db29e06b44f",
+      "maskedId": "110xxxxxx9573",
+      "name": "พวงผกา จูหม๊ะ",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B8%9C%E0%B8%81%E0%B8%B2-%E0%B8%88%E0%B8%B9%E0%B8%AB%E0%B8%A1%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองแก้ว",
+      "district": "เมืองศรีสะเกษ",
+      "id": "6df8765d8ad55df38ea378c1",
+      "maskedId": "140xxxxxx9069",
+      "name": "รัชฎาพร เชื้อเมือง",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8E%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.น้ําเกลี้ยง",
+      "district": "น้ำเกลี้ยง",
+      "id": "c6eaeccb393f38849974fa49",
+      "maskedId": "133xxxxxx9341",
+      "name": "ลัดดา พรมโสภา",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําเกลี้ยง",
+      "district": "น้ำเกลี้ยง",
+      "id": "e287ecc04e349d8f300abfea",
+      "maskedId": "134xxxxxx8194",
+      "name": "ลําดวน สืบเชื้อ",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B9%8D%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%99-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุดเสลา",
+      "district": "กันทรลักษ์",
+      "id": "db326cea475279ac188f9f14",
+      "maskedId": "167xxxxxx6215",
+      "name": "วาริณี ครองตน",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 78,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เวียงเหนือ",
+      "district": "กันทรลักษ์",
+      "id": "ae55a214f020867994272c50",
+      "maskedId": "150xxxxxx4542",
+      "name": "ศศิธร ม่วงชุมสม",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.กุดเสลา",
+      "district": "กันทรลักษ์",
+      "id": "068f69e8bed2e195f3b90dea",
+      "maskedId": "134xxxxxx3497",
+      "name": "ศิริขวัญ มุขมนตรี",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B8%A1%E0%B8%B8%E0%B8%82%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําเกลี้ยง",
+      "district": "น้ำเกลี้ยง",
+      "id": "53f9c0da9378fab3141bcab6",
+      "maskedId": "134xxxxxx1030",
+      "name": "ศิริลักษณ์ ช่วยสุข",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําเกลี้ยง",
+      "district": "น้ำเกลี้ยง",
+      "id": "81cd346668398f2e91dd8b06",
+      "maskedId": "134xxxxxx6609",
+      "name": "สมชาย ชอบเสียง",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพุง",
+      "district": "ศรีรัตนะ",
+      "id": "b360012f532d1a9309800c9f",
+      "maskedId": "133xxxxxx8501",
+      "name": "สุพรรณี บุญขาว",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B5-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตูม",
+      "district": "ปรางค์กู่ | ศรีรัตนะ",
+      "id": "49f93040bb20a7d3fb881205",
+      "maskedId": "133xxxxxx1951",
+      "name": "สุรชัย โสดาธาตุ",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%82%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เมือง",
+      "district": "กันทรลักษ์",
+      "id": "faac95bc4277b7c83a789ce1",
+      "maskedId": "134xxxxxx1127",
+      "name": "โศรยา วันเพ็ญ",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%A8%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}

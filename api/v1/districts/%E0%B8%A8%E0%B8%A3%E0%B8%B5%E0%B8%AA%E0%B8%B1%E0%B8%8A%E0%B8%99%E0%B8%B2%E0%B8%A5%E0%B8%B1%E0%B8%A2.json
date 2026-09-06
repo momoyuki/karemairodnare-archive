@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "ศรีสัชนาลัย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ศรีสัชนาลัย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านแก่ง",
+      "district": "ศรีสัชนาลัย",
+      "id": "5431ab5c1311bafc53e0299a",
+      "maskedId": "167xxxxxx1965",
+      "name": "นิชดา ไชยสิทธิ์",
+      "province": "สุโขทัย",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%8A%E0%B8%94%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.แม่สิน",
+      "district": "ศรีสัชนาลัย",
+      "id": "ad144aa614e331ddf32a81ca",
+      "maskedId": "141xxxxxx0202",
+      "name": "ภควินทร์ เจริญศรี",
+      "province": "สุโขทัย",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่สิน",
+      "district": "ศรีสัชนาลัย",
+      "id": "6b3546729dc6d7f5be95995f",
+      "maskedId": "167xxxxxx0457",
+      "name": "ศิวดล ทองวัน",
+      "province": "สุโขทัย",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%94%E0%B8%A5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองอ้อ",
+      "district": "ศรีสัชนาลัย",
+      "id": "ebb4307288bf98155d2f53e2",
+      "maskedId": "153xxxxxx5218",
+      "name": "สุนิษา น้อยแข",
+      "province": "สุโขทัย",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%82",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

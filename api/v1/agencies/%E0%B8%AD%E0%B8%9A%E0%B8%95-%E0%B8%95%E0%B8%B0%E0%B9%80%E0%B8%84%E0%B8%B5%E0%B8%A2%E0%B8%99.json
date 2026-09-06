@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ตะเคียน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ตะเคียน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตะเคียน",
+      "district": "กาบเชิง",
+      "id": "888f2b8e0ef2abf9dc6d9087",
+      "maskedId": "132xxxxxx0859",
+      "name": "กฤษฎา สาระติ",
+      "province": "สุรินทร์",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "21_สุรินทร์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข่าวหน่วยงานราชการ"
+    },
+    {
+      "agency": "อบต.ตะเคียน",
+      "district": "ขุขันธ์",
+      "id": "5588e1f24f31a4868011c1fd",
+      "maskedId": "134xxxxxx9229",
+      "name": "ตรีรัตน์ ชัยสนาม",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.กระแชง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-กระแชง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.กระแชง",
+      "district": "สามโคก",
+      "id": "63af48804621e2c3e16c9a21",
+      "maskedId": "110xxxxxx8090",
+      "name": "ธนิก ง้าวหิรัญพัฒน์",
+      "province": "ปทุมธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B4%E0%B8%81-%E0%B8%87%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กระแชง",
+      "district": "สามโคก",
+      "id": "6da1c4c7a633328ae6ef02c2",
+      "maskedId": "110xxxxxx7687",
+      "name": "นวรัตน์ วิมุตตา",
+      "province": "ปทุมธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B8%E0%B8%95%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กระแชง",
+      "district": "สามโคก",
+      "id": "06900895370b255774a203ba",
+      "maskedId": "114xxxxxx7981",
+      "name": "สุภาพร ฤกษ์จำนงค์",
+      "province": "ปทุมธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กระแชง",
+      "district": "สามโคก",
+      "id": "0b358bf02fe467d8cf153477",
+      "maskedId": "112xxxxxx5491",
+      "name": "อมรพันธ์ บัวอยู่",
+      "province": "ปทุมธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

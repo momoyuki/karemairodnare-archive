@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตำบลอ่าวพะยูน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลอ่าวพะยูน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลอ่าวพะยูน",
+      "district": "ปากพะยูน",
+      "id": "d947aefe7da5c3ee5ffe6054",
+      "maskedId": "190xxxxxx5254",
+      "name": "ฉัตรแก้ว ทองศรี",
+      "province": "พัทลุง",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ่าวพะยูน",
+      "district": "ปากพะยูน",
+      "id": "bd65b217262f704a7acd6336",
+      "maskedId": "194xxxxxx4597",
+      "name": "มารียา สาวี",
+      "province": "พัทลุง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

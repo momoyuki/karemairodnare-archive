@@ -1,0 +1,1187 @@
+{
+  "_meta": {
+    "count": 69,
+    "kind": "province",
+    "name": "กาญจนบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "กาญจนบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.กลอนโด",
+      "district": "ด่านมะขามเตี้ย",
+      "id": "ec0ddf5cbbafc06f75c8dcca",
+      "maskedId": "171xxxxxx2640",
+      "name": "กมลทิพย์ อินลิน",
+      "province": "กาญจนบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รางสาลี่",
+      "district": "ท่าม่วง",
+      "id": "35a9cbbb1b7d451fb08b9297",
+      "maskedId": "170xxxxxx4154",
+      "name": "กฤต เทียนเครือ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังกะ",
+      "district": "สังขละบุรี",
+      "id": "27f7c987e5a0ea0b6a174820",
+      "maskedId": "170xxxxxx3648",
+      "name": "กฤตพร ขำแก้ว",
+      "province": "กาญจนบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%9E%E0%B8%A3-%E0%B8%82%E0%B8%B3%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังกะ",
+      "district": "สังขละบุรี",
+      "id": "3756100e6cb714abb1a0054f",
+      "maskedId": "171xxxxxx5775",
+      "name": "กวิลทิพย์ มาช่วย",
+      "province": "กาญจนบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ่อพลอย",
+      "district": "บ่อพลอย",
+      "id": "9b923f4bc4ec0480207f511e",
+      "maskedId": "371xxxxxx2387",
+      "name": "กัญญาวีร์ ทรัพย์จินดากุล",
+      "province": "กาญจนบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B9%8C-%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งทอง",
+      "district": "ท่าม่วง",
+      "id": "1e7091ad3ac0f530b5a1ebc6",
+      "maskedId": "170xxxxxx8337",
+      "name": "กันติญาน์ ลิ้มปรีดีชัย",
+      "province": "กาญจนบุรี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B9%8C-%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B5%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.ชะแล",
+      "district": "ทองผาภูมิ",
+      "id": "2d06ff76f5206bd7c63f33ac",
+      "maskedId": "172xxxxxx1445",
+      "name": "กาญจนา ศรีเหรา",
+      "province": "กาญจนบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังด้ง",
+      "district": "เมืองกาญจนบุรี",
+      "id": "f1746791e0ef694ecd590ce0",
+      "maskedId": "171xxxxxx8002",
+      "name": "กุลธิดา พยัคฆวงค์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาสวน",
+      "district": "ศรีสวัสดิ์",
+      "id": "065d6e2246708725e95a09ed",
+      "maskedId": "170xxxxxx0025",
+      "name": "จันทรา รุ่งแย้ม",
+      "province": "กาญจนบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทองผาภูมิ",
+      "district": "ทองผาภูมิ",
+      "id": "dbe6b4127236f59edd3efe1f",
+      "maskedId": "172xxxxxx7979",
+      "name": "จารุวรรณ ศิริรัตน์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสระลงเรือ",
+      "district": "ห้วยกระเจา",
+      "id": "4b9dc517401c6985f34da27b",
+      "maskedId": "171xxxxxx6441",
+      "name": "จิดาภา สระทองหวัง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ่อพลอย",
+      "district": "บ่อพลอย",
+      "id": "b149c55bdad8ddfe98092d02",
+      "maskedId": "172xxxxxx2839",
+      "name": "จิรวัฒน์ คนทน",
+      "province": "กาญจนบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองรี",
+      "district": "บ่อพลอย",
+      "id": "9e4deee74dbd42aa5df81691",
+      "maskedId": "170xxxxxx2923",
+      "name": "จิรัฐิติกาล สาดคล้า",
+      "province": "กาญจนบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A5-%E0%B8%AA%E0%B8%B2%E0%B8%94%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองนกแก้ว",
+      "district": "เลาขวัญ",
+      "id": "a64f1b92d366bc93b37c73ed",
+      "maskedId": "371xxxxxx5612",
+      "name": "จิราพัชร์ รักสาทรสิทธิ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปากแพรก",
+      "district": "เมืองกาญจนบุรี",
+      "id": "dbe1a3d51e0c84ced809318a",
+      "maskedId": "170xxxxxx0970",
+      "name": "ฉัตรชัย ดาฉาว",
+      "province": "กาญจนบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%94%E0%B8%B2%E0%B8%89%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ไล่โว่",
+      "district": "สังขละบุรี",
+      "id": "3467c8478f228af3870ca236",
+      "maskedId": "157xxxxxx2474",
+      "name": "ชนิดา พงษ์สุริยา",
+      "province": "กาญจนบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินดาด",
+      "district": "ทองผาภูมิ",
+      "id": "d9d45d716bd80f672dd00ace",
+      "maskedId": "110xxxxxx2154",
+      "name": "ชนิภา เลียนไธสง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.แสนตอ",
+      "district": "ท่ามะกา",
+      "id": "03fd2f589593df37d2cc8a32",
+      "maskedId": "171xxxxxx9424",
+      "name": "ชลิต จินดากูลย์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%81%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันความเชื่อมโยงจากเอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลตําบลไทรโยค",
+      "district": "ไทรโยค",
+      "id": "e2a3d986a6e1c2edbb226bce",
+      "maskedId": "171xxxxxx2284",
+      "name": "ชุติมา พยาบาล",
+      "province": "กาญจนบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าเสา",
+      "district": "ไทรโยค",
+      "id": "d2c00069b288fc395b8c8cd7",
+      "maskedId": "173xxxxxx2873",
+      "name": "ณฐนน แซ่คู",
+      "province": "กาญจนบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%90%E0%B8%99%E0%B8%99-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%84%E0%B8%B9",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.แม่กระบุง",
+      "district": "ศรีสวัสดิ์",
+      "id": "e7377f0526ad092ca4e463d7",
+      "maskedId": "121xxxxxx2758",
+      "name": "ณปภัช จันทร์เพ็ญ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%9B%E0%B8%A0%E0%B8%B1%E0%B8%8A-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านเก่า",
+      "district": "เมืองกาญจนบุรี",
+      "id": "713d73a16eadc7911386f050",
+      "maskedId": "172xxxxxx6391",
+      "name": "ณัฐพล ปทุมสูตร",
+      "province": "กาญจนบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลตําบลลิ่นถิ่น",
+      "district": "ทองผาภูมิ",
+      "id": "15df622f2c85b07a84e81f1e",
+      "maskedId": "170xxxxxx5948",
+      "name": "ณัฐวดี ศิริพิบูลย์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังกะ",
+      "district": "สังขละบุรี",
+      "id": "a5766d41bd4cba1e3b523bac",
+      "maskedId": "172xxxxxx2467",
+      "name": "ดารณีรัตน์ ประทีปทอง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B8%9B%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่ากระดาน",
+      "district": "ศรีสวัสดิ์",
+      "id": "618da729da74967430e66105",
+      "maskedId": "140xxxxxx4797",
+      "name": "ตนุภัทร เคหฐาน",
+      "province": "กาญจนบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%84%E0%B8%AB%E0%B8%90%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลทองผาภูมิ",
+      "district": "ทองผาภูมิ",
+      "id": "0e63ea6afe8a5c85be86ebfa",
+      "maskedId": "177xxxxxx4863",
+      "name": "ทินภัทร เมฆหมอก",
+      "province": "กาญจนบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทองผาภูมิ",
+      "district": "ทองผาภูมิ",
+      "id": "c2e2492aec925dab84508e2c",
+      "maskedId": "191xxxxxx0009",
+      "name": "ธนญดา สังข์เอียด",
+      "province": "กาญจนบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%8D%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จรเข้เผือก",
+      "district": "ด่านมะขามเตี้ย",
+      "id": "75602a61b45adf56e5e889b3",
+      "maskedId": "190xxxxxx0202",
+      "name": "ธนดล ประเสริฐสิน",
+      "province": "กาญจนบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%94%E0%B8%A5-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90%E0%B8%AA%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งกระบ่ำ",
+      "district": "เลาขวัญ",
+      "id": "08e106c8712cbbf1a450d213",
+      "maskedId": "172xxxxxx1884",
+      "name": "ธนาวุธ แป้นเขียว",
+      "province": "กาญจนบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98-%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าม่วง",
+      "district": "ท่าม่วง",
+      "id": "a275793d488eff76d3664030",
+      "maskedId": "173xxxxxx9315",
+      "name": "ธันยพร แก่นจันทร์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หินดาด",
+      "district": "ทองผาภูมิ",
+      "id": "7345e858f09b2553949b0289",
+      "maskedId": "171xxxxxx0137",
+      "name": "นภดล ชัยรัตน์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%94%E0%B8%A5-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลเมืองปากแพรก",
+      "district": "เมืองกาญจนบุรี",
+      "id": "8a88577e56b79ef98e145a2a",
+      "maskedId": "336xxxxxx9731",
+      "name": "นฤมล ทองระย้า",
+      "province": "กาญจนบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลสหกรณ์นิคม",
+      "district": "ทองผาภูมิ",
+      "id": "5c027a45d09cb4d71178f014",
+      "maskedId": "171xxxxxx0988",
+      "name": "นันทวัฒน์ ผดุงม่วงทอง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9C%E0%B8%94%E0%B8%B8%E0%B8%87%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะคร้ําเอน",
+      "district": "ท่ามะกา",
+      "id": "fd125479b384be18ed38fd27",
+      "maskedId": "170xxxxxx1278",
+      "name": "นารีรัตน์ จีนตุ้ม",
+      "province": "กาญจนบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%95%E0%B8%B8%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านเก่า",
+      "district": "เมืองกาญจนบุรี",
+      "id": "092da2007eb3d044701352f8",
+      "maskedId": "171xxxxxx9520",
+      "name": "ปภาวรินท์ ทองพูนรักษ์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลลิ่นถิ่น",
+      "district": "ทองผาภูมิ",
+      "id": "876c60517d60f66c7a84a6cb",
+      "maskedId": "176xxxxxx2196",
+      "name": "ปิยมล ไทยอุดม",
+      "province": "กาญจนบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%A5-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะคร้ําเอน",
+      "district": "ท่ามะกา",
+      "id": "4f487e718ec917e5aa9abe26",
+      "maskedId": "170xxxxxx9274",
+      "name": "ปิยะมาศ เอี่ยมสะอาด",
+      "province": "กาญจนบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งกระบ่ำ",
+      "district": "เลาขวัญ",
+      "id": "586cdc700d8ba6d1de604bc5",
+      "maskedId": "172xxxxxx4958",
+      "name": "ผกาวัลย์ โตอุ่นทิพย์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9C%E0%B8%81%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B9%82%E0%B8%95%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลด่านมะขามเตี้ย",
+      "district": "ด่านมะขามเตี้ย",
+      "id": "c4eca6d04c42548c9d328b38",
+      "maskedId": "110xxxxxx4500",
+      "name": "พรพรรณ พรหมพฤกษ์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองนกแก้ว",
+      "district": "เลาขวัญ",
+      "id": "d1741e8ed8a7621ac340ed7d",
+      "maskedId": "171xxxxxx9311",
+      "name": "พศิน นกทอง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A8%E0%B8%B4%E0%B8%99-%E0%B8%99%E0%B8%81%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังกระแจะ",
+      "district": "ไทรโยค",
+      "id": "76faf697b24a8e193baa81a3",
+      "maskedId": "170xxxxxx6333",
+      "name": "พิษณุ สลับเขียว",
+      "province": "กาญจนบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8-%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลสระลงเรือ",
+      "district": "ห้วยกระเจา",
+      "id": "cffdb8f943fd5463b6d85286",
+      "maskedId": "171xxxxxx2261",
+      "name": "มินทร์ธิษา สิทธิถาวรภิรมย์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%98%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาโจด",
+      "district": "ศรีสวัสดิ์",
+      "id": "b1719ed418011d01d6d08522",
+      "maskedId": "171xxxxxx0466",
+      "name": "ยิ่งลักษณ์ อินนา",
+      "province": "กาญจนบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่ากระดาน",
+      "district": "ศรีสวัสดิ์",
+      "id": "78707c9680defe289e658007",
+      "maskedId": "193xxxxxx8869",
+      "name": "รุจินันท์ ชูกาญชนะ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลยางม่วง",
+      "district": "ท่ามะกา",
+      "id": "4b141753f46836fa383a7607",
+      "maskedId": "171xxxxxx5535",
+      "name": "วนิดา สงวนพันธ์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองลู",
+      "district": "สังขละบุรี",
+      "id": "25c91e07a1412a8affcdbfff",
+      "maskedId": "170xxxxxx6901",
+      "name": "วรัญญา แสงเขียว",
+      "province": "กาญจนบุรี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าเรือพระแท่น",
+      "district": "ท่ามะกา",
+      "id": "7764e464e3c4f3dcec7c493c",
+      "maskedId": "146xxxxxx8523",
+      "name": "วลีรัตน์ เนื้อศรี",
+      "province": "กาญจนบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A5%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองโสน",
+      "district": "เลาขวัญ",
+      "id": "0ed298160a582bca117e299e",
+      "maskedId": "110xxxxxx0945",
+      "name": "ศดานันท์ ฉัตรเมธี",
+      "province": "กาญจนบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%94%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กลอนโด",
+      "district": "ด่านมะขามเตี้ย",
+      "id": "7c3818b9ab6ece11d0f047cf",
+      "maskedId": "370xxxxxx5248",
+      "name": "ศตายุ วรภักดี",
+      "province": "กาญจนบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%95%E0%B8%B2%E0%B8%A2%E0%B8%B8-%E0%B8%A7%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลน้ำตกไทรโยคน้อย",
+      "district": "ไทรโยค",
+      "id": "6850bae00f61cac711b3fed5",
+      "maskedId": "110xxxxxx3330",
+      "name": "ศีลธรณ์ ชมมิ่ง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B5%E0%B8%A5%E0%B8%98%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%8A%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่ามะกา",
+      "district": "ท่ามะกา",
+      "id": "7e9f2228243b51febb30a90c",
+      "maskedId": "170xxxxxx3881",
+      "name": "ศุภชัย จําปาทอง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%9B%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนตาเพชร",
+      "district": "พนมทวน",
+      "id": "d3fa1fb1e10fc27f6df1bbb1",
+      "maskedId": "371xxxxxx7951",
+      "name": "สกุล ศรีรีรักษ์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองรี",
+      "district": "บ่อพลอย",
+      "id": "434f4c3e5917e569a8c5221c",
+      "maskedId": "180xxxxxx9475",
+      "name": "สมฤดี ภักดีสุวรรณ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองประดู่",
+      "district": "เลาขวัญ",
+      "id": "7abab4e7a73135e9f4eae240",
+      "maskedId": "371xxxxxx5176",
+      "name": "สันติ เสริมสุข",
+      "province": "กาญจนบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4-%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่กระบุง",
+      "district": "ศรีสวัสดิ์",
+      "id": "e4eacbc5b6097a5096d6cf35",
+      "maskedId": "139xxxxxx5930",
+      "name": "สีน้ำเงิน แจ้งเศรษฐ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลไทรโยค",
+      "district": "ไทรโยค",
+      "id": "5484708255b23972e4f2a408",
+      "maskedId": "277xxxxxx6593",
+      "name": "สุจิกา จิตรมณี",
+      "province": "กาญจนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลุ่มสุ่ม",
+      "district": "ไทรโยค",
+      "id": "d234c0a81fac05a12b84fc86",
+      "maskedId": "147xxxxxx6117",
+      "name": "สุธิดา เกิดดี",
+      "province": "กาญจนบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะสําโรง",
+      "district": "เมืองกาญจนบุรี",
+      "id": "01f9ceeb93460d3cdd9c1d9b",
+      "maskedId": "171xxxxxx0881",
+      "name": "สุธิวัตร ฝักบัว",
+      "province": "กาญจนบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%9D%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%B1%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กาญจนบุรี",
+      "district": "เมืองกาญจนบุรี",
+      "id": "0ee9716767daf19b9330cb97",
+      "maskedId": "141xxxxxx2259",
+      "name": "สุริยา แท่งทองหลาง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B9%81%E0%B8%97%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกตะบอง",
+      "district": "ท่ามะกา",
+      "id": "62d14ff7586e0cf1811ba93e",
+      "maskedId": "160xxxxxx0611",
+      "name": "หทัยรัตน์ งาทิพย์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%87%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองลาน",
+      "district": "ท่ามะกา",
+      "id": "17a9ba9c84c713049046b2cf",
+      "maskedId": "145xxxxxx4203",
+      "name": "อนุตตรีย์ มัคสัมพันธ์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%95%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ่อพลอย",
+      "district": "บ่อพลอย",
+      "id": "257008a3bab9f74e9ee7002c",
+      "maskedId": "171xxxxxx1504",
+      "name": "อภิชิต เกิดริด",
+      "province": "กาญจนบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เกาะสําโรง",
+      "district": "เมืองกาญจนบุรี",
+      "id": "63cb65432d53f4334c061ebc",
+      "maskedId": "171xxxxxx2546",
+      "name": "อัจฉรา จานทอง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B2-%E0%B8%88%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไล่โว่",
+      "district": "สังขละบุรี",
+      "id": "75d2de341804e432a3262257",
+      "maskedId": "171xxxxxx7789",
+      "name": "อัญชลี แช่มช้อย",
+      "province": "กาญจนบุรี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A5%E0%B8%B5-%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B8%A1%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองฝ้าย",
+      "district": "เลาขวัญ",
+      "id": "8c1cd4ef2e988cb040e6b29e",
+      "maskedId": "112xxxxxx9236",
+      "name": "เกศศิณี สุตะมุข",
+      "province": "กาญจนบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B8%AA%E0%B8%B8%E0%B8%95%E0%B8%B0%E0%B8%A1%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังกระแจะ",
+      "district": "ไทรโยค",
+      "id": "bcc215900f9bcf83b2f1e30b",
+      "maskedId": "170xxxxxx2232",
+      "name": "เจตริน พวงเพ็ชร",
+      "province": "กาญจนบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%99-%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลลิ่นถิ่น",
+      "district": "ทองผาภูมิ",
+      "id": "3963dda029857d411e6616ab",
+      "maskedId": "140xxxxxx6591",
+      "name": "เมธาวดี ประธงศิลป์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองลู",
+      "district": "สังขละบุรี",
+      "id": "05571547226752b4e87bcd6e",
+      "maskedId": "171xxxxxx8157",
+      "name": "แคทรียา สมานทรัพย์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%84%E0%B8%97%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านเก่า",
+      "district": "เมืองกาญจนบุรี",
+      "id": "2a1902abf3c5009077ac603e",
+      "maskedId": "171xxxxxx7298",
+      "name": "ไอญาดา อาชวพิสิฐ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%AD%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

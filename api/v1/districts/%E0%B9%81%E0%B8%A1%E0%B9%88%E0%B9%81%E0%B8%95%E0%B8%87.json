@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "district",
+    "name": "แม่แตง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "แม่แตง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองเมืองแกนพัฒนา",
+      "district": "แม่แตง",
+      "id": "efda4b5d270bc04d0376f5e0",
+      "maskedId": "156xxxxxx0377",
+      "name": "กรรณิการ์ อินสุวรรณ์",
+      "province": "เชียงใหม่",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่หอพระ",
+      "district": "แม่แตง",
+      "id": "056ab59314dd398c9c28a442",
+      "maskedId": "150xxxxxx4448",
+      "name": "จิรายุ มูลธร",
+      "province": "เชียงใหม่",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B8-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%98%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่าแป๋",
+      "district": "แม่แตง",
+      "id": "687634694c4921f498acfeee",
+      "maskedId": "152xxxxxx8218",
+      "name": "ณัฐวุฒิ จะระนะ",
+      "province": "เชียงใหม่",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลสันมหาพน",
+      "district": "แม่แตง",
+      "id": "57e529699dc8d7c0c79b7940",
+      "maskedId": "143xxxxxx5683",
+      "name": "ธนกร ทองทาบ",
+      "province": "เชียงใหม่",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%81%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่หอพระ",
+      "district": "แม่แตง",
+      "id": "540cf757032968fa4281c17f",
+      "maskedId": "150xxxxxx8632",
+      "name": "ปรียาวรรณ แก้วมณี",
+      "province": "เชียงใหม่",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านช้าง",
+      "district": "แม่แตง",
+      "id": "81b3e42dae3697b9bf2d4a92",
+      "maskedId": "151xxxxxx5741",
+      "name": "พัชรินทร์ ทาวี",
+      "province": "เชียงใหม่",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%97%E0%B8%B2%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.สันป่ายาง",
+      "district": "แม่แตง",
+      "id": "33d3a7903411f7c387936997",
+      "maskedId": "110xxxxxx9646",
+      "name": "พิมพ์ประภา กุญแจกล",
+      "province": "เชียงใหม่",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2-%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%88%E0%B8%81%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสันมหาพน",
+      "district": "แม่แตง",
+      "id": "4cb789a17a03fc5a00f96a29",
+      "maskedId": "150xxxxxx8389",
+      "name": "ภาณุพงค์ ตาใจ",
+      "province": "เชียงใหม่",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%95%E0%B8%B2%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสันมหาพน",
+      "district": "แม่แตง",
+      "id": "20e737d3612ca052593cfdfb",
+      "maskedId": "350xxxxxx2914",
+      "name": "วันทนีย์ ศรีลิมปนนท์",
+      "province": "เชียงใหม่",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9B%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สันป่ายาง",
+      "district": "แม่แตง",
+      "id": "5659f82d87c22734641baa39",
+      "maskedId": "150xxxxxx2947",
+      "name": "เมธาวี โรจนเสาวภาคย์",
+      "province": "เชียงใหม่",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%B5-%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

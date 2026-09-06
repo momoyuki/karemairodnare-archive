@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "เทศบาลตำบลลำนารายณ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลลำนารายณ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "e933ab5f3f92b46f8e61735b",
+      "maskedId": "170xxxxxx5016",
+      "name": "ธนัญญา รงค์ทอง",
+      "province": "ลพบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "d8ac90f2dd67c7dd05770108",
+      "maskedId": "140xxxxxx5438",
+      "name": "นภัสวรรณ หารวาระ",
+      "province": "ลพบุรี",
+      "scoreChange": 3,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "7ada8ff69841dad0345405be",
+      "maskedId": "131xxxxxx9301",
+      "name": "นําโชค ชานก",
+      "province": "ลพบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B9%8D%E0%B8%B2%E0%B9%82%E0%B8%8A%E0%B8%84-%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "7f94918efd46251c1b76b393",
+      "maskedId": "167xxxxxx9602",
+      "name": "ปนิดา ลัดลงเมือง",
+      "province": "ลพบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%A5%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "8ab8e90495dd7b97191674ad",
+      "maskedId": "163xxxxxx9432",
+      "name": "พงศ์ภัค พนาน",
+      "province": "ลพบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%9E%E0%B8%99%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

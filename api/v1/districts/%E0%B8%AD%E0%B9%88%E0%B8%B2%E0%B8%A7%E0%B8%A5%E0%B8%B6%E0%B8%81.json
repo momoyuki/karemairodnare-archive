@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "อ่าวลึก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อ่าวลึก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แหลมสัก",
+      "district": "อ่าวลึก",
+      "id": "94400a2ebc172bedbba2c8d8",
+      "maskedId": "195xxxxxx9906",
+      "name": "กมลรัตน์ โกศัย",
+      "province": "กระบี่",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%81%E0%B8%A8%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองหิน",
+      "district": "อ่าวลึก",
+      "id": "cc3ee4c9bef835bb5babc372",
+      "maskedId": "193xxxxxx3502",
+      "name": "จารุวัฒน์ จันทร์หอม",
+      "province": "กระบี่",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%AB%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองยา",
+      "district": "อ่าวลึก",
+      "id": "0f957de0c8151cecf590e233",
+      "maskedId": "193xxxxxx9233",
+      "name": "จุฑารัตน์ สุกดำ",
+      "province": "กระบี่",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวลึกน้อย",
+      "district": "อ่าวลึก",
+      "id": "ddebc1da52b9411decf6e821",
+      "maskedId": "580xxxxxx2889",
+      "name": "บุษรินทร์ ยอดกลิ่น",
+      "province": "กระบี่",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ่าวลึกใต้",
+      "district": "อ่าวลึก",
+      "id": "04c8161b3aaa829d735f05fc",
+      "maskedId": "331xxxxxx1653",
+      "name": "พัฒนพงศ์ เมิดไธสง",
+      "province": "กระบี่",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B8%94%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ่าวลึกใต้",
+      "district": "อ่าวลึก",
+      "id": "1f94ab6e52369926fc73c8f9",
+      "maskedId": "181xxxxxx5537",
+      "name": "ศุภกร ระวังภัย",
+      "province": "กระบี่",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%81%E0%B8%A3-%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%A0%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวลึกใต้",
+      "district": "อ่าวลึก",
+      "id": "4e3444c4e013922e60dc86a4",
+      "maskedId": "195xxxxxx9401",
+      "name": "ศุภิสรา คงมาก",
+      "province": "กระบี่",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองยา",
+      "district": "อ่าวลึก",
+      "id": "4cbe18ebbb3421f8b218def1",
+      "maskedId": "181xxxxxx0514",
+      "name": "สุตรประสิทธิ์ ย้วนเศษ",
+      "province": "กระบี่",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%A2%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลแหลมสัก",
+      "district": "อ่าวลึก",
+      "id": "5b591c38854f1876181f5049",
+      "maskedId": "191xxxxxx8062",
+      "name": "ฮัซมาน ยาหยาหมัน",
+      "province": "กระบี่",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B1%E0%B8%8B%E0%B8%A1%E0%B8%B2%E0%B8%99-%E0%B8%A2%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

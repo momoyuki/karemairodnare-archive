@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "จะนะ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "จะนะ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "จะนะ",
+      "id": "6c8266673620fd5ca3b9ef38",
+      "maskedId": "190xxxxxx2241",
+      "name": "กิตติศักดิ์ ปรมัตถ์ศักดิ์",
+      "province": "สงขลา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.สะพานไม้แก่น",
+      "district": "จะนะ",
+      "id": "4e248c70e903c698a20ca72c",
+      "maskedId": "195xxxxxx9830",
+      "name": "ชารีฟ สุนทรมาลาตี",
+      "province": "สงขลา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%9F-%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%95%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพานไม้แก่น",
+      "district": "จะนะ",
+      "id": "13c15cabe6d7a23bb91e3ea6",
+      "maskedId": "190xxxxxx9490",
+      "name": "ดารารัตน์ จอดเมือง",
+      "province": "สงขลา",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพานไม้แก่น",
+      "district": "จะนะ",
+      "id": "5a63a307fad00116312e9bb2",
+      "maskedId": "180xxxxxx5511",
+      "name": "ทศพร เจริญสุข",
+      "province": "สงขลา",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพานไม้แก่น",
+      "district": "จะนะ",
+      "id": "134aa05d740cc6f0bccedbd8",
+      "maskedId": "195xxxxxx2201",
+      "name": "มารียัม สาเมาะ",
+      "province": "สงขลา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B1%E0%B8%A1-%E0%B8%AA%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพานไม้แก่น",
+      "district": "จะนะ",
+      "id": "6fd294e1c21aed91d55ed6ba",
+      "maskedId": "190xxxxxx2696",
+      "name": "วรรณวิศา มากเมือง",
+      "province": "สงขลา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "จะนะ",
+      "id": "e203ebdf6a7470787bfd054f",
+      "maskedId": "180xxxxxx4918",
+      "name": "ศักดิ์ดา ศรีธรรมโชติ",
+      "province": "สงขลา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%94%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ท่าหมอไทร",
+      "district": "จะนะ",
+      "id": "fc465d865ac45692c128b443",
+      "maskedId": "190xxxxxx0678",
+      "name": "สุทธิดา ทองพรม",
+      "province": "สงขลา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าหมอไทร",
+      "district": "จะนะ",
+      "id": "8c21268f4f2461b6e6d45293",
+      "maskedId": "193xxxxxx4102",
+      "name": "อิทธิพล มาสวัสดิ์",
+      "province": "สงขลา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A5-%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

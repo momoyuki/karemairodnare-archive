@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตําบลโคกสะอาด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลโคกสะอาด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลโคกสะอาด",
+      "district": "ศรีเทพ",
+      "id": "700e86a933014802e492898c",
+      "maskedId": "167xxxxxx2833",
+      "name": "นวเทพ มั่นสมใจ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A7%E0%B9%80%E0%B8%97%E0%B8%9E-%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลโคกสะอาด",
+      "district": "ศรีเทพ",
+      "id": "5c348c55970485c7611a21cd",
+      "maskedId": "167xxxxxx3247",
+      "name": "พงษ์ศักดิ์ ขึงสันเทียะ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%82%E0%B8%B6%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลโคกสะอาด",
+      "district": "ศรีเทพ",
+      "id": "b0119561c678e5b37eb6f34f",
+      "maskedId": "167xxxxxx9771",
+      "name": "ภูเจตรินทร์ ทนทาน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%88%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%97%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

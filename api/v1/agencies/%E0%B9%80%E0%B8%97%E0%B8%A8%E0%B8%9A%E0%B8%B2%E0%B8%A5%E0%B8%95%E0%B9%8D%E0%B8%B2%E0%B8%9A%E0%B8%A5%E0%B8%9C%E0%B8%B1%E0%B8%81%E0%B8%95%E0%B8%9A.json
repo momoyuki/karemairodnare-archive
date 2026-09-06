@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตําบลผักตบ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลผักตบ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลผักตบ",
+      "district": "หนองหาน",
+      "id": "2d38d16a3ce8b76c8088573d",
+      "maskedId": "141xxxxxx6471",
+      "name": "ธนาวิทย์ สีสา",
+      "province": "อุดรธานี",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลผักตบ",
+      "district": "หนองหาน",
+      "id": "38372f0bbaaebeddffc009aa",
+      "maskedId": "141xxxxxx2546",
+      "name": "สมปอง วงษ์เปลียว",
+      "province": "อุดรธานี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%9B%E0%B8%AD%E0%B8%87-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

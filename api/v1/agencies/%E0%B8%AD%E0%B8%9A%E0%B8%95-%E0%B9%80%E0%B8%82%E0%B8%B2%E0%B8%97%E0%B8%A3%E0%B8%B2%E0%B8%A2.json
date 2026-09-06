@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.เขาทราย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-เขาทราย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เขาทราย",
+      "district": "ทับคล้อ",
+      "id": "b9ce901ef625757641a5839f",
+      "maskedId": "167xxxxxx2261",
+      "name": "กัญญาณัฐ ทัตเศษ",
+      "province": "พิจิตร",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%97%E0%B8%B1%E0%B8%95%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาทราย",
+      "district": "ทับคล้อ",
+      "id": "49f66fce5099ffb2ab60922a",
+      "maskedId": "163xxxxxx2688",
+      "name": "วริศรา คําสา",
+      "province": "พิจิตร",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาทราย",
+      "district": "ทับคล้อ",
+      "id": "f26bfec4147dacf319e2c543",
+      "maskedId": "167xxxxxx0920",
+      "name": "อนุชิต อุ่นทรัพย์",
+      "province": "พิจิตร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%B4%E0%B8%95-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

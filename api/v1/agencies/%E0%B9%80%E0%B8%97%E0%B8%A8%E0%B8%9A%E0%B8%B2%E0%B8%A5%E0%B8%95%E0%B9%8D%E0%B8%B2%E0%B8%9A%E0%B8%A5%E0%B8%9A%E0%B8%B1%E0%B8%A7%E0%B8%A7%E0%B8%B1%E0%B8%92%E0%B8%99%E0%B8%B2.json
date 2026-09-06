@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตําบลบัววัฒนา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลบัววัฒนา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลบัววัฒนา",
+      "district": "หนองไผ่",
+      "id": "0ab52785935cee2fe37aa766",
+      "maskedId": "167xxxxxx1688",
+      "name": "พัชรีพร ปากหวาน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบัววัฒนา",
+      "district": "หนองไผ่",
+      "id": "e183d0ad4130ab9836f4ca5d",
+      "maskedId": "167xxxxxx9742",
+      "name": "พิชญนันท์ ตังศรี",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%95%E0%B8%B1%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

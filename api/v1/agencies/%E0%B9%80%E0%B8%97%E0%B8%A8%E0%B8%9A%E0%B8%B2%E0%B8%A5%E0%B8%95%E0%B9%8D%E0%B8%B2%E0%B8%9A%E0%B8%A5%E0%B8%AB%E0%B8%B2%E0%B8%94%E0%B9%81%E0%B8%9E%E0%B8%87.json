@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตําบลหาดแพง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลหาดแพง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลหาดแพง",
+      "district": "ศรีสงคราม",
+      "id": "54773353e4501c2a12ff6964",
+      "maskedId": "146xxxxxx9752",
+      "name": "พงศ์พัฒน์ ภูขาว",
+      "province": "นครพนม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหาดแพง",
+      "district": "ศรีสงคราม",
+      "id": "717cb965af9a25346e65f83f",
+      "maskedId": "143xxxxxx3280",
+      "name": "ภูมิพัฒน์ รัตนศรี",
+      "province": "นครพนม",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหาดแพง",
+      "district": "ศรีสงคราม",
+      "id": "c13a32bda079214a036f96a4",
+      "maskedId": "143xxxxxx3073",
+      "name": "อินทุอร บุ่งนาม",
+      "province": "นครพนม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B8%AD%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

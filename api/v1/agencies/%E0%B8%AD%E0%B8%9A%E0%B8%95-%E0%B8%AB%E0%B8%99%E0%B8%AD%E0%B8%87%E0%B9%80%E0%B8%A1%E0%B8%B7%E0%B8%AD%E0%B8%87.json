@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.หนองเมือง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-หนองเมือง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองเมือง",
+      "district": "ม่วงสามสิบ",
+      "id": "aa820b1640f35304835488ed",
+      "maskedId": "134xxxxxx4456",
+      "name": "จิรกฤต คําแสน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองเมือง",
+      "district": "ม่วงสามสิบ",
+      "id": "f12469c75a4cbdfb87af4d17",
+      "maskedId": "134xxxxxx6749",
+      "name": "จิราพัชร จุรุเทียบ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองเมือง",
+      "district": "ม่วงสามสิบ",
+      "id": "b410c97805ba335db5c93644",
+      "maskedId": "134xxxxxx8477",
+      "name": "บังอร พันตัน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%A3-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองเมือง",
+      "district": "ม่วงสามสิบ",
+      "id": "8b1d8d4226e9e327e897b953",
+      "maskedId": "134xxxxxx1928",
+      "name": "ปิยะนุช ท้าวแปง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%9B%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองเมือง",
+      "district": "ม่วงสามสิบ",
+      "id": "1dd880fd7988e4902a39af3d",
+      "maskedId": "117xxxxxx0817",
+      "name": "เจริณี เสือโต",
+      "province": "อุบลราชธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

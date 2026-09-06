@@ -1,0 +1,320 @@
+{
+  "_meta": {
+    "count": 18,
+    "kind": "province",
+    "name": "ลำพูน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ลำพูน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลม่วงน้อย",
+      "district": "ป่าซาง",
+      "id": "f1f8d4464316a30f760be034",
+      "maskedId": "150xxxxxx6291",
+      "name": "กนกวรรณ อินทมา",
+      "province": "ลำพูน",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าซาง",
+      "district": "ป่าซาง",
+      "id": "31f9b08d7b68bd48bfe47a86",
+      "maskedId": "116xxxxxx6127",
+      "name": "กอบกุล สุขวัฒนากอบกุล",
+      "province": "ลำพูน",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบจ.ลําพูน",
+      "district": "เมืองลำพูน",
+      "id": "18e8ac8e6b29dd71d0eff125",
+      "maskedId": "151xxxxxx5423",
+      "name": "กิตติศักดิ์ กาวี",
+      "province": "ลำพูน",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําดิบ",
+      "district": "ป่าซาง",
+      "id": "b5617fe1ab4b955dd427a48d",
+      "maskedId": "151xxxxxx0813",
+      "name": "จิรยุทธ อุดกาวี",
+      "province": "ลำพูน",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านโฮ่ง",
+      "district": "บ้านโฮ่ง",
+      "id": "7be9ea389bc0d7c32889d6e6",
+      "maskedId": "165xxxxxx8067",
+      "name": "จิรัชภูมิ แสงดวงดี",
+      "province": "ลำพูน",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําพูน",
+      "district": "เมืองลำพูน",
+      "id": "f0aa5cec74690eedbc5a64e0",
+      "maskedId": "155xxxxxx6784",
+      "name": "ชานนท์ คำนวน",
+      "province": "ลำพูน",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําดิบ",
+      "district": "ป่าซาง",
+      "id": "f706ec23e5e14a1f1b3f2f38",
+      "maskedId": "154xxxxxx5322",
+      "name": "ณัฐพงษ์ หงษ์ประสิทธิ์",
+      "province": "ลำพูน",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AB%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําดิบ",
+      "district": "ป่าซาง",
+      "id": "6246eebb7da042bfd92b277b",
+      "maskedId": "150xxxxxx3481",
+      "name": "ณิรินทร์รดา ขีดขิน",
+      "province": "ลำพูน",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%82%E0%B8%B5%E0%B8%94%E0%B8%82%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําพูน",
+      "district": "เมืองลำพูน",
+      "id": "8e9759c06117465590ddcc09",
+      "maskedId": "158xxxxxx4999",
+      "name": "ธรากุล ทองสุข",
+      "province": "ลำพูน",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลศรีวิชัย",
+      "district": "ลี้",
+      "id": "eaac6d300b5ab4a2fdf84419",
+      "maskedId": "150xxxxxx9819",
+      "name": "นรารัตน์ ปวงกันทะ",
+      "province": "ลำพูน",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9B%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าซาง",
+      "district": "ป่าซาง",
+      "id": "79d1847159e6145c59f34484",
+      "maskedId": "158xxxxxx8438",
+      "name": "พีระวุฒิ เขียวมณี",
+      "province": "ลำพูน",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเรือน",
+      "district": "ป่าซาง",
+      "id": "b9ae263b2d54a51bd1637ef9",
+      "maskedId": "155xxxxxx7930",
+      "name": "รัชดา ธัญญะ",
+      "province": "ลำพูน",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%94%E0%B8%B2-%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าตุ้ม",
+      "district": "ป่าซาง",
+      "id": "90b3269821b75b1e1709b746",
+      "maskedId": "352xxxxxx8279",
+      "name": "วัชโรบล เครือคํา",
+      "province": "ลำพูน",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%A5-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําพูน",
+      "district": "เมืองลำพูน",
+      "id": "0c893946680fab22726315fa",
+      "maskedId": "154xxxxxx8434",
+      "name": "สิทธิศักดิ์ ชมภูพันธ์",
+      "province": "ลำพูน",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%8A%E0%B8%A1%E0%B8%A0%E0%B8%B9%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทาสบเส้า",
+      "district": "แม่ทา",
+      "id": "e351a4da00ff3c98d90a6852",
+      "maskedId": "152xxxxxx1021",
+      "name": "อานนท์ ปินตาเครือ",
+      "province": "ลำพูน",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9B%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เวียงแก้ว",
+      "district": "ลี้",
+      "id": "54614f3bbb8df17374ac6ead",
+      "maskedId": "150xxxxxx9335",
+      "name": "เจนจิรา สุรินต๊ะ",
+      "province": "ลำพูน",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําพูน",
+      "district": "เมืองลำพูน",
+      "id": "8e49243d8fbaf7f8c274d69c",
+      "maskedId": "154xxxxxx0914",
+      "name": "เจษฎา คำหม่อม",
+      "province": "ลำพูน",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%84%E0%B8%B3%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทาปลาดุก",
+      "district": "แม่ทา",
+      "id": "9dc49d4f443f5ba6a13687c2",
+      "maskedId": "143xxxxxx7511",
+      "name": "ไตรภพ พิมพ์จำปา",
+      "province": "ลำพูน",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%A0%E0%B8%9E-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ละอุ่นเหนือ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ละอุ่นเหนือ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ละอุ่นเหนือ",
+      "district": "ละอุ่น",
+      "id": "4949e2926765c65f070bf7e6",
+      "maskedId": "191xxxxxx1269",
+      "name": "สุขใจ ล่านุ้ย",
+      "province": "ระนอง",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%83%E0%B8%88-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ละอุ่นเหนือ",
+      "district": "ละอุ่น",
+      "id": "4adf5d19355c8a22f83c7c5e",
+      "maskedId": "184xxxxxx2730",
+      "name": "อนัญญา คงสีชาย",
+      "province": "ระนอง",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "_meta": {
+    "count": 32,
+    "kind": "province",
+    "name": "หนองคาย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "หนองคาย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองหลวง",
+      "district": "เฝ้าไร่",
+      "id": "f9fc9fb7aa290452e1502170",
+      "maskedId": "143xxxxxx5323",
+      "name": "กานต์ เคณาอุประ",
+      "province": "หนองคาย",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%84%E0%B8%93%E0%B8%B2%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%A3%E0%B8%B0",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.พานพร้าว",
+      "district": "ศรีเชียงใหม่",
+      "id": "f8a5edb1e8f72952de95d8e4",
+      "maskedId": "147xxxxxx7725",
+      "name": "กานต์พิชชา จันทร์สองดวง",
+      "province": "หนองคาย",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านต้อน",
+      "district": "รัตนวาปี",
+      "id": "6366d4c42bdce4f1f992ed90",
+      "maskedId": "141xxxxxx2519",
+      "name": "กุลธินี พนาพนม",
+      "province": "หนองคาย",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%9E%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%99%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แก้งไก่",
+      "district": "สังคม",
+      "id": "c49a924e52bde5a0e790a98b",
+      "maskedId": "143xxxxxx7462",
+      "name": "ขวัญชีวา ศรีภา",
+      "province": "หนองคาย",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "โพนพิสัย",
+      "id": "34b163dc3992ee19d3cce9bd",
+      "maskedId": "141xxxxxx2704",
+      "name": "ขวัญทิวา ศรีพอ",
+      "province": "หนองคาย",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%AD",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังหลวง",
+      "district": "เฝ้าไร่",
+      "id": "6655671ede7e0acdfded5db3",
+      "maskedId": "140xxxxxx4236",
+      "name": "จามร สุภาปุ",
+      "province": "หนองคาย",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A1%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9B%E0%B8%B8",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าบ่อ",
+      "district": "ท่าบ่อ",
+      "id": "69b18e495d2f2eeba6c5b9a4",
+      "maskedId": "141xxxxxx9059",
+      "name": "จิราวัฒน์ ศิริพร",
+      "province": "หนองคาย",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพนสา",
+      "district": "ท่าบ่อ",
+      "id": "63c51554f1665ce8c65d4207",
+      "maskedId": "141xxxxxx4361",
+      "name": "ฑิตยา ศิริพร",
+      "province": "หนองคาย",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%91%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองคาย",
+      "district": "เมืองหนองคาย",
+      "id": "09bb4aa6cca47ecc3ec850a9",
+      "maskedId": "147xxxxxx8662",
+      "name": "ณัฐกรณ์ ศรีเกื้อกลิ่น",
+      "province": "หนองคาย",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาหนัง",
+      "district": "โพนพิสัย",
+      "id": "021d0045d949760c114e1db2",
+      "maskedId": "143xxxxxx1684",
+      "name": "ณัฐธิดา หัดคําหมื่น",
+      "province": "หนองคาย",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AB%E0%B8%B1%E0%B8%94%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังหลวง",
+      "district": "เฝ้าไร่",
+      "id": "5914133e23b9c70911b7601f",
+      "maskedId": "147xxxxxx3440",
+      "name": "ธนกร จิตตุนัง",
+      "province": "หนองคาย",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โพนแพง",
+      "district": "รัตนวาปี",
+      "id": "26ea9d56e0dbde9cbef7c362",
+      "maskedId": "110xxxxxx9438",
+      "name": "ธนบดินทร์ เชื้อแพง",
+      "province": "หนองคาย",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%81%E0%B8%9E%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านเดื่อ",
+      "district": "ท่าบ่อ",
+      "id": "7d79f5ea6199cbd66789200c",
+      "maskedId": "141xxxxxx2299",
+      "name": "ธัญญารัตน์ ไพศาล",
+      "province": "หนองคาย",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%9E%E0%B8%A8%E0%B8%B2%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าบ่อ",
+      "district": "ท่าบ่อ",
+      "id": "9af6c678b5f4de04bbf88d41",
+      "maskedId": "141xxxxxx5960",
+      "name": "ธันยา ใจบุญ",
+      "province": "หนองคาย",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B2-%E0%B9%83%E0%B8%88%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ค่ายบกหวาน",
+      "district": "เมืองหนองคาย",
+      "id": "b578f73a94c3355dae4871eb",
+      "maskedId": "143xxxxxx4819",
+      "name": "นที นามวงษา",
+      "province": "หนองคาย",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%97%E0%B8%B5-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ค่ายบกหวาน",
+      "district": "เมืองหนองคาย",
+      "id": "8820a75d19dcea6b6ee206a2",
+      "maskedId": "141xxxxxx5051",
+      "name": "นฤมล มีเพียร",
+      "province": "หนองคาย",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาหนัง",
+      "district": "โพนพิสัย",
+      "id": "4b9b0ebe9eb4048c5915a631",
+      "maskedId": "143xxxxxx3950",
+      "name": "นัฏฐิยา ศักดิ์ศรีกรม",
+      "province": "หนองคาย",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าบ่อ",
+      "district": "ท่าบ่อ",
+      "id": "f3c5c756b84737c4fdebf68e",
+      "maskedId": "143xxxxxx1168",
+      "name": "พงค์พัฒน์ วันตา",
+      "province": "หนองคาย",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพระพุทธบาท",
+      "district": "ศรีเชียงใหม่",
+      "id": "00800d2aff59a650c0037aba",
+      "maskedId": "143xxxxxx2655",
+      "name": "พิจาริน สังฆะคุณ",
+      "province": "หนองคาย",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%99-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%86%E0%B8%B0%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าบ่อ",
+      "district": "ท่าบ่อ",
+      "id": "c58ed6f8a244fbcf97aef241",
+      "maskedId": "140xxxxxx8620",
+      "name": "พิชชาพร พิมพ์พิทักษ์กุล",
+      "province": "หนองคาย",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "โพนพิสัย",
+      "id": "ebe5636f2cddeeb8fd4478f0",
+      "maskedId": "148xxxxxx1470",
+      "name": "รัตติยากร เทศาริน",
+      "province": "หนองคาย",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.แก้งไก่",
+      "district": "สังคม",
+      "id": "765858ee695e3a8fc581dd60",
+      "maskedId": "142xxxxxx5497",
+      "name": "วชิรพันธ์ ไชยป้อง",
+      "province": "หนองคาย",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "โพนพิสัย",
+      "id": "835ed418bdc59e7748bbfccf",
+      "maskedId": "140xxxxxx9621",
+      "name": "ศศินิภา รัตนบุตร",
+      "province": "หนองคาย",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.แก้งไก่",
+      "district": "สังคม",
+      "id": "3954ac62d493eaf1aeb964f8",
+      "maskedId": "143xxxxxx6406",
+      "name": "ศศิวิมล เภาพาน",
+      "province": "หนองคาย",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B9%80%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาทับไฮ",
+      "district": "รัตนวาปี",
+      "id": "2ac69fddb2141d7e5148e891",
+      "maskedId": "143xxxxxx0042",
+      "name": "ศิริลักษณ์ เหมืองทอง",
+      "province": "หนองคาย",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "โพนพิสัย",
+      "id": "418aa5b7bbb78899739ad134",
+      "maskedId": "140xxxxxx6383",
+      "name": "ศิริวรรณ กิมชัย",
+      "province": "หนองคาย",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%81%E0%B8%B4%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังหลวง",
+      "district": "เฝ้าไร่",
+      "id": "4d53a001408334c3b96ebb5f",
+      "maskedId": "143xxxxxx0591",
+      "name": "สรวุฒิ ไพรนาทม",
+      "province": "หนองคาย",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลกองนาง",
+      "district": "ท่าบ่อ",
+      "id": "3ec62e7a26c22f35946730a0",
+      "maskedId": "341xxxxxx8313",
+      "name": "สวย ไชยรัตน์",
+      "province": "หนองคาย",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A7%E0%B8%A2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "โพนพิสัย",
+      "id": "aaa3b957b7696948b01addb8",
+      "maskedId": "144xxxxxx8252",
+      "name": "อติเทพ บุญยิ่ง",
+      "province": "หนองคาย",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%97%E0%B8%9E-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านต้อน",
+      "district": "รัตนวาปี",
+      "id": "0c01b2377b41a53da5c623cd",
+      "maskedId": "147xxxxxx9901",
+      "name": "อนุพงษ์ สุพันธ์",
+      "province": "หนองคาย",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองคาย",
+      "district": "เมืองหนองคาย",
+      "id": "055d97914dd3489cbcbe6b64",
+      "maskedId": "141xxxxxx1808",
+      "name": "อินทอร โพธิ์จันทา",
+      "province": "หนองคาย",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แก้งไก่",
+      "district": "สังคม",
+      "id": "0bcf438a941fc7c4dacd4930",
+      "maskedId": "142xxxxxx7779",
+      "name": "เพชรชนก จัวฮอม",
+      "province": "หนองคาย",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%88%E0%B8%B1%E0%B8%A7%E0%B8%AE%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

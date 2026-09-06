@@ -1,0 +1,235 @@
+{
+  "_meta": {
+    "count": 13,
+    "kind": "province",
+    "name": "บุรีรัมย์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บุรีรัมย์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ลําดวน",
+      "district": "กระสัง",
+      "id": "dbfa70494aef0ddbfefb427f",
+      "maskedId": "145xxxxxx9540",
+      "name": "จิตรา ประเสริฐสัง",
+      "province": "บุรีรัมย์",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90%E0%B8%AA%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.สะเดา",
+      "district": "นางรอง",
+      "id": "8bedfd8c2e613e9a6abc8af1",
+      "maskedId": "333xxxxxx3791",
+      "name": "จินตนา อ้อมชมภู",
+      "province": "บุรีรัมย์",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2-%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%8A%E0%B8%A1%E0%B8%A0%E0%B8%B9",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านไทร",
+      "district": "ประโคนชัย",
+      "id": "da7671487ffbd5bd88176ad4",
+      "maskedId": "131xxxxxx2235",
+      "name": "ณรงค์ ทิศนาม",
+      "province": "บุรีรัมย์",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%97%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ร่อนทอง",
+      "district": "สตึก",
+      "id": "50bec0bf0dcd2fff961327c4",
+      "maskedId": "131xxxxxx8671",
+      "name": "ภรณ์ทิพย์ ปุยะติ",
+      "province": "บุรีรัมย์",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9B%E0%B8%B8%E0%B8%A2%E0%B8%B0%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยสำราญ",
+      "district": "กระสัง",
+      "id": "8c1927988c19701bf955df5a",
+      "maskedId": "131xxxxxx1301",
+      "name": "ภัทรินทร์ สมไธสง",
+      "province": "บุรีรัมย์",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลชํานิ",
+      "district": "ชำนิ",
+      "id": "a5075cb47d4cee2fa75abaa3",
+      "maskedId": "131xxxxxx4491",
+      "name": "ภาพพิมพ์ มาลัย",
+      "province": "บุรีรัมย์",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลําดวน",
+      "district": "กระสัง",
+      "id": "9e3a3ea58fc03b19fa0f8930",
+      "maskedId": "131xxxxxx4632",
+      "name": "วิภาดา วงศ์สุรินทร์",
+      "province": "บุรีรัมย์",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "เมืองบุรีรัมย์",
+      "id": "9f856065fb63214fae16cfd2",
+      "maskedId": "130xxxxxx1871",
+      "name": "ศศิประภา มีสีดา",
+      "province": "บุรีรัมย์",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เมืองแฝก",
+      "district": "ลำปลายมาศ",
+      "id": "41142aa1e12bd48deedbd4c5",
+      "maskedId": "131xxxxxx0005",
+      "name": "ศิริยาภรณ์ เพิ่มพูล",
+      "province": "บุรีรัมย์",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินโคน",
+      "district": "ลำปลายมาศ",
+      "id": "6cbf8092caf9d7e0f81a95a9",
+      "maskedId": "120xxxxxx9011",
+      "name": "ศิริวัฒน์ เศษบุบผา",
+      "province": "บุรีรัมย์",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%9A%E0%B8%B8%E0%B8%9A%E0%B8%9C%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ร่อนทอง",
+      "district": "สตึก",
+      "id": "600b6ec7cfda0afc07c17100",
+      "maskedId": "131xxxxxx5255",
+      "name": "สลักจิต ม่วงทา",
+      "province": "บุรีรัมย์",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B4%E0%B8%95-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ร่อนทอง",
+      "district": "สตึก",
+      "id": "d8da49bba0b7d22fac1954d7",
+      "maskedId": "110xxxxxx4070",
+      "name": "สุทธิพงษ์ สุรินสมบูรณ์",
+      "province": "บุรีรัมย์",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ลําไทรโยง",
+      "district": "นางรอง",
+      "id": "079dc04da012af047421ac63",
+      "maskedId": "131xxxxxx7281",
+      "name": "อดิเรก แก้วเจ๊ก",
+      "province": "บุรีรัมย์",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B9%80%E0%B8%A3%E0%B8%81-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

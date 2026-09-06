@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.โคกสลุง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-โคกสลุง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โคกสลุง",
+      "district": "พัฒนานิคม",
+      "id": "b7d88640506513eeb743ed05",
+      "maskedId": "165xxxxxx7313",
+      "name": "พุธิตา ใบเตย",
+      "province": "ลพบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%83%E0%B8%9A%E0%B9%80%E0%B8%95%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกสลุง",
+      "district": "พัฒนานิคม",
+      "id": "dd1fa4a2cef02bc39dbe1751",
+      "maskedId": "113xxxxxx5010",
+      "name": "วัลวิภา ธนปริพัฒน์",
+      "province": "ลพบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%98%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

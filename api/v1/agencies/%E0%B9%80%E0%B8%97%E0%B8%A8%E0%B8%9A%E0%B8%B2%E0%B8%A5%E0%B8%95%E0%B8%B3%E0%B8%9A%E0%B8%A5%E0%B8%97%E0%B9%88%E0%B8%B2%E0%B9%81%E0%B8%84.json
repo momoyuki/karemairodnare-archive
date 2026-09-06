@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตำบลท่าแค",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลท่าแค",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลท่าแค",
+      "district": "เมืองลพบุรี",
+      "id": "646f3c06d6c49db9f84d6165",
+      "maskedId": "146xxxxxx8276",
+      "name": "อริยา ยี่สารพัฒน์",
+      "province": "ลพบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าแค",
+      "district": "เมืองลพบุรี",
+      "id": "4d49e9f34a408a16532416ee",
+      "maskedId": "116xxxxxx0421",
+      "name": "อุไรวรรณ คำนันท์",
+      "province": "ลพบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B9%84%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

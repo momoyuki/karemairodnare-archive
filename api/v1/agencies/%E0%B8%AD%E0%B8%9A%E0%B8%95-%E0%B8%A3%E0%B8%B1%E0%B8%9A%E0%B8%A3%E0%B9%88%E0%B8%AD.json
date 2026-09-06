@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.รับร่อ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-รับร่อ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.รับร่อ",
+      "district": "ท่าแซะ",
+      "id": "de4232251e87d0a69ba89eaf",
+      "maskedId": "286xxxxxx0224",
+      "name": "กาญจนา จันทร์สุภา",
+      "province": "ชุมพร",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รับร่อ",
+      "district": "ท่าแซะ",
+      "id": "8d9ce265cd653d7d9966424f",
+      "maskedId": "186xxxxxx1558",
+      "name": "ภาณุวัฒน์ ธารสุวรรณ",
+      "province": "ชุมพร",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รับร่อ",
+      "district": "ท่าแซะ",
+      "id": "3142bbc5873fece51de1a106",
+      "maskedId": "195xxxxxx6861",
+      "name": "เมธา เภาประดิษฐ์",
+      "province": "ชุมพร",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2-%E0%B9%80%E0%B8%A0%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

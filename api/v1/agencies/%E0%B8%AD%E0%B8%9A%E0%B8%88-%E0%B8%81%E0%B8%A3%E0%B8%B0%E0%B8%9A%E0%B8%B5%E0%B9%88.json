@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "agency",
+    "name": "อบจ.กระบี่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบจ-กระบี่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.กระบี่",
+      "district": "เมืองกระบี่",
+      "id": "afe7af1ff876e113e822fb03",
+      "maskedId": "186xxxxxx9380",
+      "name": "กมลพรรณ ขําบุญเกิด",
+      "province": "กระบี่",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%82%E0%B9%8D%E0%B8%B2%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กระบี่",
+      "district": "เมืองกระบี่",
+      "id": "c5b212573bc8496e0d691583",
+      "maskedId": "184xxxxxx6137",
+      "name": "กมลรัตน์ อรุณรัตนา",
+      "province": "กระบี่",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กระบี่",
+      "district": "เมืองกระบี่",
+      "id": "5ad49f1bec95ac078f9fe692",
+      "maskedId": "181xxxxxx1466",
+      "name": "กันต์ฤทัย ขาวนวล",
+      "province": "กระบี่",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กระบี่",
+      "district": "เมืองกระบี่",
+      "id": "0555945e20851dc893ed85f7",
+      "maskedId": "190xxxxxx6557",
+      "name": "ณฐพร ทองหมุน",
+      "province": "กระบี่",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%90%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กระบี่",
+      "district": "เมืองกระบี่",
+      "id": "27c31fe49f1206a5180842b9",
+      "maskedId": "190xxxxxx3514",
+      "name": "ธีรศักดิ์ นะสุย",
+      "province": "กระบี่",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%99%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กระบี่",
+      "district": "เมืองกระบี่",
+      "id": "ab4b4430325440ac4e618491",
+      "maskedId": "180xxxxxx9592",
+      "name": "ปวีณา ปังเอี้ยน",
+      "province": "กระบี่",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B8%B2-%E0%B8%9B%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กระบี่",
+      "district": "เมืองกระบี่",
+      "id": "9d45ac45e3acde868248b330",
+      "maskedId": "181xxxxxx2090",
+      "name": "ภาณุพงษ์ ไหวพริบ",
+      "province": "กระบี่",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%84%E0%B8%AB%E0%B8%A7%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กระบี่",
+      "district": "เมืองกระบี่",
+      "id": "c257277efe54dd5aa82a7d49",
+      "maskedId": "180xxxxxx5283",
+      "name": "ศุภมาศ พัฒนาไพบูลย์",
+      "province": "กระบี่",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B9%84%E0%B8%9E%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กระบี่",
+      "district": "เมืองกระบี่",
+      "id": "24c914092599156cf5ef99c8",
+      "maskedId": "190xxxxxx6911",
+      "name": "สุทธิดา สุวรรณรัตน์",
+      "province": "กระบี่",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กระบี่",
+      "district": "เมืองกระบี่",
+      "id": "844ec6b56f6ab1d75a64344c",
+      "maskedId": "190xxxxxx2970",
+      "name": "สุภัทรพงษ์ เพ็ชรดำ",
+      "province": "กระบี่",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

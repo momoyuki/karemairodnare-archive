@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตำบลวังสมบูรณ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลวังสมบูรณ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลวังสมบูรณ์",
+      "district": "วังสมบูรณ์",
+      "id": "cab407200b380d83f2bdcd70",
+      "maskedId": "145xxxxxx0110",
+      "name": "จิรฌาญา แสนพินิจ",
+      "province": "สระแก้ว",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%8C%E0%B8%B2%E0%B8%8D%E0%B8%B2-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวังสมบูรณ์",
+      "district": "วังสมบูรณ์",
+      "id": "079d14c6b56e1ad24cece296",
+      "maskedId": "133xxxxxx0277",
+      "name": "นฤพล งามศิริ",
+      "province": "สระแก้ว",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%9E%E0%B8%A5-%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวังสมบูรณ์",
+      "district": "วังสมบูรณ์",
+      "id": "c7906056a5b3b7ca8f434f06",
+      "maskedId": "324xxxxxx1427",
+      "name": "ภัทรนุต ชัยสุริวงศ์",
+      "province": "สระแก้ว",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%99%E0%B8%B8%E0%B8%95-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

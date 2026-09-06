@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตำบลบางเป้า",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลบางเป้า",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลบางเป้า",
+      "district": "กันตัง",
+      "id": "f65c869a01c64d69c16d6bc9",
+      "maskedId": "192xxxxxx0388",
+      "name": "ภูมิ วิสุทธิกาญจน์",
+      "province": "ตรัง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4-%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางเป้า",
+      "district": "กันตัง",
+      "id": "ed025a0c54b339051bde0c9f",
+      "maskedId": "193xxxxxx9964",
+      "name": "ฮาดีย์ หนูหนุด",
+      "province": "ตรัง",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B2%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

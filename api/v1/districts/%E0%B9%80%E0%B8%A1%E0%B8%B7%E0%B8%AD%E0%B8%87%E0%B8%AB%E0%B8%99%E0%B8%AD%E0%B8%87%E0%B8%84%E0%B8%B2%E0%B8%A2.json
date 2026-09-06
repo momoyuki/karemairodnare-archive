@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "เมืองหนองคาย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองหนองคาย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองหนองคาย",
+      "district": "เมืองหนองคาย",
+      "id": "09bb4aa6cca47ecc3ec850a9",
+      "maskedId": "147xxxxxx8662",
+      "name": "ณัฐกรณ์ ศรีเกื้อกลิ่น",
+      "province": "หนองคาย",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ค่ายบกหวาน",
+      "district": "เมืองหนองคาย",
+      "id": "b578f73a94c3355dae4871eb",
+      "maskedId": "143xxxxxx4819",
+      "name": "นที นามวงษา",
+      "province": "หนองคาย",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%97%E0%B8%B5-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ค่ายบกหวาน",
+      "district": "เมืองหนองคาย",
+      "id": "8820a75d19dcea6b6ee206a2",
+      "maskedId": "141xxxxxx5051",
+      "name": "นฤมล มีเพียร",
+      "province": "หนองคาย",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองคาย",
+      "district": "เมืองหนองคาย",
+      "id": "055d97914dd3489cbcbe6b64",
+      "maskedId": "141xxxxxx1808",
+      "name": "อินทอร โพธิ์จันทา",
+      "province": "หนองคาย",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

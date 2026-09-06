@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "ป่าโมก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ป่าโมก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เอกราช",
+      "district": "ป่าโมก",
+      "id": "31de4a5d358a6c2832b06d0c",
+      "maskedId": "135xxxxxx8781",
+      "name": "กัญชนา กมลรัตน์",
+      "province": "อ่างทอง",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%B2-%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าโมก",
+      "district": "ป่าโมก",
+      "id": "9533d6763f332178820c841f",
+      "maskedId": "115xxxxxx9559",
+      "name": "กัญญาภัค ผ่องโอภาศ",
+      "province": "อ่างทอง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B8%A0%E0%B8%B2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเสด็จ",
+      "district": "ป่าโมก",
+      "id": "cb5aae1b77a313f7e5022089",
+      "maskedId": "114xxxxxx6569",
+      "name": "ธนากร มีแสงนิล",
+      "province": "อ่างทอง",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าโมก",
+      "district": "ป่าโมก",
+      "id": "ca4b33a07c0ef50515c2fad5",
+      "maskedId": "110xxxxxx4291",
+      "name": "พชรพล เพิ่มทองคํา",
+      "province": "อ่างทอง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเสด็จ",
+      "district": "ป่าโมก",
+      "id": "1bb9f3d321c0b564e8aa761f",
+      "maskedId": "119xxxxxx2211",
+      "name": "วรวรรณ สิงห์ไพร",
+      "province": "อ่างทอง",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%84%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โผงเผง",
+      "district": "ป่าโมก",
+      "id": "e80bbab3e73c3c8b57205918",
+      "maskedId": "110xxxxxx2211",
+      "name": "สิทธิ์พจน์ บุญแย้ม",
+      "province": "อ่างทอง",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%9E%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

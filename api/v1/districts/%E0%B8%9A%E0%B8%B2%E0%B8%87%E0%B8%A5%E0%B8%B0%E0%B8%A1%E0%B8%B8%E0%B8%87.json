@@ -1,0 +1,439 @@
+{
+  "_meta": {
+    "count": 25,
+    "kind": "district",
+    "name": "บางละมุง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางละมุง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "0e578b5c907947114865ff03",
+      "maskedId": "160xxxxxx0605",
+      "name": "จุฑาขวัญ ชัยรัตนศักดา",
+      "province": "ชลบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "c81a240fe95bed7298205c3b",
+      "maskedId": "164xxxxxx0236",
+      "name": "จุฑามาศ คิดประเสริฐ",
+      "province": "ชลบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "8cc6391429d7abf014be708c",
+      "maskedId": "377xxxxxx2880",
+      "name": "ชณิญานันทน์ ศิริเตชธนากูล",
+      "province": "ชลบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%93%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%95%E0%B8%8A%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "629e8580d0324e52a0a88012",
+      "maskedId": "132xxxxxx3178",
+      "name": "ชนม์นิภา ตินานพ",
+      "province": "ชลบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%A1%E0%B9%8C%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลห้วยใหญ่",
+      "district": "บางละมุง",
+      "id": "9e316651d0903e8b72f91f6a",
+      "maskedId": "144xxxxxx7211",
+      "name": "ชยานนท์ ปัจจัยมงคล",
+      "province": "ชลบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B1%E0%B8%A2%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "56381b1d7c9097726a38941d",
+      "maskedId": "120xxxxxx8504",
+      "name": "ชลิตตา เทพคีรี",
+      "province": "ชลบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "144f36d0f966ba23a98df220",
+      "maskedId": "133xxxxxx8140",
+      "name": "ชัยสิทธิ์ สายสินธุ์",
+      "province": "ชลบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "556062ef595d2e43425a2785",
+      "maskedId": "146xxxxxx1374",
+      "name": "ณภัทรกร ไชยสะอาด",
+      "province": "ชลบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%81%E0%B8%A3-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "5bb878420e23c95816dfbf9e",
+      "maskedId": "134xxxxxx1739",
+      "name": "นิตยาภรณ์ บรรทะโก",
+      "province": "ชลบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%97%E0%B8%B0%E0%B9%82%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "3005110c79706a89fd12e824",
+      "maskedId": "133xxxxxx7390",
+      "name": "บุณฑริกา สุนิพัฒน์",
+      "province": "ชลบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%93%E0%B8%91%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "8ebae47ed133904767cbbbb7",
+      "maskedId": "117xxxxxx0575",
+      "name": "ประภัสสร แสงประสิทธิ์",
+      "province": "ชลบุรี",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลโป่ง",
+      "district": "บางละมุง",
+      "id": "6a415a2bd87720a761914143",
+      "maskedId": "133xxxxxx2461",
+      "name": "ปรียาภรณ์ ใสนาม",
+      "province": "ชลบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%83%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "e0d901b89e84543b7244377b",
+      "maskedId": "132xxxxxx9004",
+      "name": "พรมุณี ปัถวัลย์",
+      "province": "ชลบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B8%9B%E0%B8%B1%E0%B8%96%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "91ab03a1edca1b4cdf7f4726",
+      "maskedId": "120xxxxxx7677",
+      "name": "ภคนนท์ ชาวโพธิ์",
+      "province": "ชลบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%84%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "54c5334b5098f235d3eb0592",
+      "maskedId": "331xxxxxx2109",
+      "name": "ภูมินทร์ ฤทธิ์ไธสง",
+      "province": "ชลบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "0598dfbb5282191c4e47d078",
+      "maskedId": "140xxxxxx8302",
+      "name": "มัสยา บุริมาตร",
+      "province": "ชลบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%AA%E0%B8%A2%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "6f4432b2153a0a4556601acf",
+      "maskedId": "146xxxxxx1689",
+      "name": "มินตรา ตาลพันธุ์",
+      "province": "ชลบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "3612a9162ed553f040b28025",
+      "maskedId": "134xxxxxx9881",
+      "name": "ยสินทร สายลุน",
+      "province": "ชลบุรี",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B8%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลโป่ง",
+      "district": "บางละมุง",
+      "id": "918956c09214a0fd0e343688",
+      "maskedId": "177xxxxxx1561",
+      "name": "วาริศา ล้อมน้อย",
+      "province": "ชลบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "b3fae6b00afaac9e2ec4a45d",
+      "maskedId": "110xxxxxx3379",
+      "name": "สิราวิชญ์ ดวงแป้น",
+      "province": "ชลบุรี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "572429b93021b930d7e9ca36",
+      "maskedId": "150xxxxxx6614",
+      "name": "สุพิชชา ศิริมงคล",
+      "province": "ชลบุรี",
+      "scoreChange": 4,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "78e73aab8381d015a2ebdfdb",
+      "maskedId": "145xxxxxx5678",
+      "name": "อติกานต์ วงศ์จำปา",
+      "province": "ชลบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "ท้องถิ่นรูปแบบพิเศษเมืองพัทยา",
+      "district": "บางละมุง",
+      "id": "7c5ecc8c735695a4b56e73c4",
+      "maskedId": "110xxxxxx6738",
+      "name": "อภิรมณ์ ภู่พันธ์",
+      "province": "ชลบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B9%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลห้วยใหญ่",
+      "district": "บางละมุง",
+      "id": "62cdcba90e2cab1dc54d51c1",
+      "maskedId": "146xxxxxx2943",
+      "name": "อารีรัตน์ หาญอาษา",
+      "province": "ชลบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AB%E0%B8%B2%E0%B8%8D%E0%B8%AD%E0%B8%B2%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "ffe0c0d5b8ac64f377a28c66",
+      "maskedId": "142xxxxxx9422",
+      "name": "เขมิกา มูลถวิลย์",
+      "province": "ชลบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%96%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

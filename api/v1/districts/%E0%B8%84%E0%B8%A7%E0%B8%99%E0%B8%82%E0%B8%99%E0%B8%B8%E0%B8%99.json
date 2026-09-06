@@ -1,0 +1,337 @@
+{
+  "_meta": {
+    "count": 19,
+    "kind": "district",
+    "name": "ควนขนุน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ควนขนุน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลทะเลน้อย",
+      "district": "ควนขนุน",
+      "id": "dbf66b966835dd602cfbcfe7",
+      "maskedId": "193xxxxxx6652",
+      "name": "จักพงษ์ เต็มราม",
+      "province": "พัทลุง",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลมะกอกเหนือ",
+      "district": "ควนขนุน",
+      "id": "1a00bf7dfa31dc64fe1d179f",
+      "maskedId": "193xxxxxx7180",
+      "name": "จุฑาทิพย์ ด้วงทอง",
+      "province": "พัทลุง",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลโตนดด้วน",
+      "district": "ควนขนุน",
+      "id": "1dcb86cb466f3a76115723bb",
+      "maskedId": "193xxxxxx5670",
+      "name": "จุฬาลักษณ์ อินทรเพชร",
+      "province": "พัทลุง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านสวน",
+      "district": "ควนขนุน",
+      "id": "268e7e11f1cf0250be02c8f7",
+      "maskedId": "193xxxxxx2431",
+      "name": "ชุติมณฑน์ ผอมนุ้ย",
+      "province": "พัทลุง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%93%E0%B8%91%E0%B8%99%E0%B9%8C-%E0%B8%9C%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลโตนดด้วน",
+      "district": "ควนขนุน",
+      "id": "ba3e323702bb372e8e71d677",
+      "maskedId": "196xxxxxx5989",
+      "name": "ธนนนท์ จันทร์แท้",
+      "province": "พัทลุง",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%97%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลแหลมโตนด",
+      "district": "ควนขนุน",
+      "id": "7017c18cc81f48e528dd7fb6",
+      "maskedId": "190xxxxxx2622",
+      "name": "ธราเทพ ขุนเศรษฐ์",
+      "province": "พัทลุง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%97%E0%B8%9E-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลมะกอกเหนือ",
+      "district": "ควนขนุน",
+      "id": "cf3c65bcc06e58c7f201208f",
+      "maskedId": "193xxxxxx2326",
+      "name": "ธารัช พงศ์จันทรเสถียร",
+      "province": "พัทลุง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%8A-%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลแหลมโตนด",
+      "district": "ควนขนุน",
+      "id": "44990bc8e59c8b287ec7fa88",
+      "maskedId": "193xxxxxx4437",
+      "name": "นพคุณ เต็มราม",
+      "province": "พัทลุง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%84%E0%B8%B8%E0%B8%93-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลแหลมโตนด",
+      "district": "ควนขนุน",
+      "id": "8d5ea748bee55a70a07ddb1e",
+      "maskedId": "193xxxxxx4364",
+      "name": "นภัสวรรณ พันธุ์เศรษฐ",
+      "province": "พัทลุง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลแพรกหา",
+      "district": "ควนขนุน",
+      "id": "f39e4e4d93fd600970829f9b",
+      "maskedId": "193xxxxxx1929",
+      "name": "นรากฤต อนุรักษ์",
+      "province": "พัทลุง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทะเลน้อย",
+      "district": "ควนขนุน",
+      "id": "4f9c9e42f47a4122516f336c",
+      "maskedId": "196xxxxxx8156",
+      "name": "พัชรี เพชรไชย",
+      "province": "พัทลุง",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B5-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลแหลมโตนด",
+      "district": "ควนขนุน",
+      "id": "e2ea51f1b0ec89bad5a9a581",
+      "maskedId": "193xxxxxx0327",
+      "name": "วทัญญู หนูเกื้อ",
+      "province": "พัทลุง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%97%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B9-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลแหลมโตนด",
+      "district": "ควนขนุน",
+      "id": "101d580d87795c3673e2259d",
+      "maskedId": "193xxxxxx6155",
+      "name": "ศิริลักษณ์ มากนวล",
+      "province": "พัทลุง",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองพ้อ",
+      "district": "ควนขนุน",
+      "id": "6945355c44e8ae395368f8b7",
+      "maskedId": "196xxxxxx8958",
+      "name": "สุกัญญา มลสุขราช",
+      "province": "พัทลุง",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A1%E0%B8%A5%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านสวน",
+      "district": "ควนขนุน",
+      "id": "2b57c1082f7be96d3c855384",
+      "maskedId": "194xxxxxx8061",
+      "name": "อดินันท์ เจะอูเซ็ง",
+      "province": "พัทลุง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%AD%E0%B8%B9%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลพนางตุง",
+      "district": "ควนขนุน",
+      "id": "f3e801b9749bb479d0010d54",
+      "maskedId": "190xxxxxx8877",
+      "name": "อนุพงศ์ กลับวงศา",
+      "province": "พัทลุง",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทะเลน้อย",
+      "district": "ควนขนุน",
+      "id": "a69c3cdf5b7a33320bd51a19",
+      "maskedId": "110xxxxxx7716",
+      "name": "อนุภัทร โพธิ์มั่น",
+      "province": "พัทลุง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปันแต",
+      "district": "ควนขนุน",
+      "id": "23b7f282a356be159fdc6c1c",
+      "maskedId": "193xxxxxx2404",
+      "name": "อารีรัตน์ หยูดำ",
+      "province": "พัทลุง",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AB%E0%B8%A2%E0%B8%B9%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านสวน",
+      "district": "ควนขนุน",
+      "id": "15998b7c7a0c409300537613",
+      "maskedId": "393xxxxxx5652",
+      "name": "ไพรัช อริรัตน์",
+      "province": "พัทลุง",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%B1%E0%B8%8A-%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

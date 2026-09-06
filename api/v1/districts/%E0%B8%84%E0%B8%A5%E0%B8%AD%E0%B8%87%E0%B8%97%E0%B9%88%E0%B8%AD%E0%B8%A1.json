@@ -1,0 +1,439 @@
+{
+  "_meta": {
+    "count": 25,
+    "kind": "district",
+    "name": "คลองท่อม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "คลองท่อม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "0e2a2ca852ee05b30ac10b96",
+      "maskedId": "193xxxxxx2778",
+      "name": "กนกกาญจน์ เกลี้ยงสง",
+      "province": "กระบี่",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "87ff84ef4e036f75ecef61c7",
+      "maskedId": "193xxxxxx4897",
+      "name": "คุณานนต์ แก้วรัตนะ",
+      "province": "กระบี่",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองท่อมใต้",
+      "district": "คลองท่อม",
+      "id": "e474248bfbc941387c09a6bc",
+      "maskedId": "196xxxxxx5053",
+      "name": "จุฑานุช ตรุระจิตต์",
+      "province": "กระบี่",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%95%E0%B8%A3%E0%B8%B8%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทรายขาว",
+      "district": "คลองท่อม",
+      "id": "ae314cd32e7fbda01b3cda95",
+      "maskedId": "190xxxxxx2578",
+      "name": "ชุศิกาญน์ ศรีน้อย",
+      "province": "กระบี่",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%A8%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองท่อมเหนือ",
+      "district": "คลองท่อม",
+      "id": "d7f874cc3e921ca64e1bc51a",
+      "maskedId": "194xxxxxx3801",
+      "name": "ณภัชศภร ฐาณญาพัฐ",
+      "province": "กระบี่",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%8A%E0%B8%A8%E0%B8%A0%E0%B8%A3-%E0%B8%90%E0%B8%B2%E0%B8%93%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "590593db9422d0e96e0fda79",
+      "maskedId": "193xxxxxx9313",
+      "name": "ธนวัฒน์ สังข์นุ้ย",
+      "province": "กระบี่",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองท่อมใต้",
+      "district": "คลองท่อม",
+      "id": "44dbbdc8ed26dff79a599efb",
+      "maskedId": "180xxxxxx9344",
+      "name": "ธัญชนก แก้วศรีนวล",
+      "province": "กระบี่",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทรายขาว",
+      "district": "คลองท่อม",
+      "id": "90a488963913657000f8ad01",
+      "maskedId": "193xxxxxx7361",
+      "name": "ธิดารัตน์ มากแก้ว",
+      "province": "กระบี่",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พรุดินนา",
+      "district": "คลองท่อม",
+      "id": "c05309a3b6b25f38709712ea",
+      "maskedId": "193xxxxxx6179",
+      "name": "นิภาพร นวลดี",
+      "province": "กระบี่",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองท่อมใต้",
+      "district": "คลองท่อม",
+      "id": "9a1bdda344340a76b240a56b",
+      "maskedId": "195xxxxxx5531",
+      "name": "ปริพัฒน์ พรหมนิมิตร",
+      "province": "กระบี่",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองท่อมใต้",
+      "district": "คลองท่อม",
+      "id": "9fdeadc440e8607a73b9db4c",
+      "maskedId": "193xxxxxx4546",
+      "name": "พัชรี เทพสุริบูรณ์",
+      "province": "กระบี่",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B5-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "ab8482b18f99ec38266d0700",
+      "maskedId": "193xxxxxx1441",
+      "name": "พิมพลอย คงเกตุ",
+      "province": "กระบี่",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2-%E0%B8%84%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทรายขาว",
+      "district": "คลองท่อม",
+      "id": "282e6c54ee21052506d5dad6",
+      "maskedId": "193xxxxxx5940",
+      "name": "ภรทิพย์ เพชรสุข",
+      "province": "กระบี่",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองท่อมใต้",
+      "district": "คลองท่อม",
+      "id": "41f1733723cf4afa08bc6f1b",
+      "maskedId": "180xxxxxx0303",
+      "name": "ภูมิพัฒน์ คำแหง",
+      "province": "กระบี่",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองท่อมใต้",
+      "district": "คลองท่อม",
+      "id": "ba1ac2b9acfbddf868b38077",
+      "maskedId": "191xxxxxx2539",
+      "name": "รัตนาวดี มากคงแก้ว",
+      "province": "กระบี่",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%84%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองท่อมเหนือ",
+      "district": "คลองท่อม",
+      "id": "e54629b0f96a36c6f39c4a37",
+      "maskedId": "196xxxxxx5293",
+      "name": "รุสนีดา อาแวเต๊ะ",
+      "province": "กระบี่",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B8%AA%E0%B8%99%E0%B8%B5%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B9%81%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พรุดินนา",
+      "district": "คลองท่อม",
+      "id": "352d64d7c8a77c155b5cba33",
+      "maskedId": "113xxxxxx9641",
+      "name": "วันทนีย์ สุวรรณเกตุ",
+      "province": "กระบี่",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองท่อมใต้",
+      "district": "คลองท่อม",
+      "id": "2b53b4ef57a28474761b0311",
+      "maskedId": "176xxxxxx1391",
+      "name": "วิจิตรา แก้วกล้า",
+      "province": "กระบี่",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองท่อมใต้",
+      "district": "คลองท่อม",
+      "id": "74e683a23d25c5a0dab95cf6",
+      "maskedId": "180xxxxxx0580",
+      "name": "วิชุพงษ์ รักสวนเงิน",
+      "province": "กระบี่",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทรายขาว",
+      "district": "คลองท่อม",
+      "id": "11a2c81f5074717e1dbae0bb",
+      "maskedId": "193xxxxxx5453",
+      "name": "วโรดม บุญวิสูตร",
+      "province": "กระบี่",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B9%82%E0%B8%A3%E0%B8%94%E0%B8%A1-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "2d30e88b90b82086f3949c39",
+      "maskedId": "196xxxxxx4465",
+      "name": "สุนิสา ตรุระจิตต์",
+      "province": "กระบี่",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%95%E0%B8%A3%E0%B8%B8%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองท่อมใต้",
+      "district": "คลองท่อม",
+      "id": "475bfd0ff6edcbe4f2583799",
+      "maskedId": "191xxxxxx6985",
+      "name": "อนุวัฒน์ เตาวะโต",
+      "province": "กระบี่",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%95%E0%B8%B2%E0%B8%A7%E0%B8%B0%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองท่อมใต้",
+      "district": "คลองท่อม",
+      "id": "5d27ce1f16de0c8018303338",
+      "maskedId": "180xxxxxx0963",
+      "name": "อารียา ชอบทํากิจ",
+      "province": "กระบี่",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%8A%E0%B8%AD%E0%B8%9A%E0%B8%97%E0%B9%8D%E0%B8%B2%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "614eef7fb103a9e9c6a0e52f",
+      "maskedId": "193xxxxxx7235",
+      "name": "เขมนันท์ จันทร์เสน",
+      "province": "กระบี่",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทรายขาว",
+      "district": "คลองท่อม",
+      "id": "1c32d74e146725ce3cfdcb2c",
+      "maskedId": "191xxxxxx7833",
+      "name": "เจริญชัย สังข์แก้ว",
+      "province": "กระบี่",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

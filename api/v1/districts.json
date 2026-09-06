@@ -1,0 +1,3954 @@
+{
+  "_meta": {
+    "count": 657,
+    "kind": "district",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "items": [
+    {
+      "count": 109,
+      "name": "เมืองนนทบุรี",
+      "slug": "เมืองนนทบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 78,
+      "name": "เมืองภูเก็ต",
+      "slug": "เมืองภูเก็ต",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95.json"
+    },
+    {
+      "count": 47,
+      "name": "เมืองสมุทรสาคร",
+      "slug": "เมืองสมุทรสาคร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3.json"
+    },
+    {
+      "count": 45,
+      "name": "เมืองปทุมธานี",
+      "slug": "เมืองปทุมธานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 43,
+      "name": "เมืองระนอง",
+      "slug": "เมืองระนอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 42,
+      "name": "เมืองกระบี่",
+      "slug": "เมืองกระบี่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88.json"
+    },
+    {
+      "count": 42,
+      "name": "เมืองสมุทรปราการ",
+      "slug": "เมืองสมุทรปราการ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3.json"
+    },
+    {
+      "count": 34,
+      "name": "ลาดหลุมแก้ว",
+      "slug": "ลาดหลุมแก้ว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7.json"
+    },
+    {
+      "count": 31,
+      "name": "ลำลูกกา",
+      "slug": "ลำลูกกา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B3%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%81%E0%B8%B2.json"
+    },
+    {
+      "count": 27,
+      "name": "เมืองชลบุรี",
+      "slug": "เมืองชลบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%A5%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 26,
+      "name": "เมืองระยอง",
+      "slug": "เมืองระยอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 26,
+      "name": "ไชยา",
+      "slug": "ไชยา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%B2.json"
+    },
+    {
+      "count": 25,
+      "name": "กระทุ่มแบน",
+      "slug": "กระทุ่มแบน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%81%E0%B8%9A%E0%B8%99.json"
+    },
+    {
+      "count": 25,
+      "name": "คลองท่อม",
+      "slug": "คลองท่อม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%A1.json"
+    },
+    {
+      "count": 25,
+      "name": "ด่านช้าง",
+      "slug": "ด่านช้าง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 25,
+      "name": "บางละมุง",
+      "slug": "บางละมุง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B8%E0%B8%87.json"
+    },
+    {
+      "count": 25,
+      "name": "ปากเกร็ด",
+      "slug": "ปากเกร็ด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B9%87%E0%B8%94.json"
+    },
+    {
+      "count": 24,
+      "name": "พุนพิน",
+      "slug": "พุนพิน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B8%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%99.json"
+    },
+    {
+      "count": 23,
+      "name": "บางบัวทอง",
+      "slug": "บางบัวทอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%97%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 23,
+      "name": "บางปะอิน",
+      "slug": "บางปะอิน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%AD%E0%B8%B4%E0%B8%99.json"
+    },
+    {
+      "count": 23,
+      "name": "เมืองชัยภูมิ",
+      "slug": "เมืองชัยภูมิ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4.json"
+    },
+    {
+      "count": 22,
+      "name": "กระบุรี",
+      "slug": "กระบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 21,
+      "name": "ธัญบุรี",
+      "slug": "ธัญบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 21,
+      "name": "หนองเสือ",
+      "slug": "หนองเสือ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD.json"
+    },
+    {
+      "count": 21,
+      "name": "เมืองฉะเชิงเทรา",
+      "slug": "เมืองฉะเชิงเทรา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%B2.json"
+    },
+    {
+      "count": 21,
+      "name": "เมืองสุราษฎร์ธานี",
+      "slug": "เมืองสุราษฎร์ธานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 20,
+      "name": "ถลาง",
+      "slug": "ถลาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%96%E0%B8%A5%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 20,
+      "name": "บางเลน",
+      "slug": "บางเลน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%99.json"
+    },
+    {
+      "count": 20,
+      "name": "ปากช่อง",
+      "slug": "ปากช่อง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 20,
+      "name": "เมืองเพชรบูรณ์",
+      "slug": "เมืองเพชรบูรณ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C.json"
+    },
+    {
+      "count": 19,
+      "name": "ควนขนุน",
+      "slug": "ควนขนุน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%A7%E0%B8%99%E0%B8%82%E0%B8%99%E0%B8%B8%E0%B8%99.json"
+    },
+    {
+      "count": 19,
+      "name": "สามพราน",
+      "slug": "สามพราน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%99.json"
+    },
+    {
+      "count": 19,
+      "name": "เมืองปัตตานี",
+      "slug": "เมืองปัตตานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 19,
+      "name": "แม่สอด",
+      "slug": "แม่สอด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%AD%E0%B8%94.json"
+    },
+    {
+      "count": 18,
+      "name": "คลองหลวง",
+      "slug": "คลองหลวง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 18,
+      "name": "เมืองนครปฐม",
+      "slug": "เมืองนครปฐม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9B%E0%B8%90%E0%B8%A1.json"
+    },
+    {
+      "count": 17,
+      "name": "บ้านนาสาร",
+      "slug": "บ้านนาสาร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A3.json"
+    },
+    {
+      "count": 17,
+      "name": "พระประแดง",
+      "slug": "พระประแดง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%94%E0%B8%87.json"
+    },
+    {
+      "count": 17,
+      "name": "หนองแค",
+      "slug": "หนองแค",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%84.json"
+    },
+    {
+      "count": 17,
+      "name": "เดิมบางนางบวช",
+      "slug": "เดิมบางนางบวช",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%A7%E0%B8%8A.json"
+    },
+    {
+      "count": 17,
+      "name": "เมืองนราธิวาส",
+      "slug": "เมืองนราธิวาส",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AA.json"
+    },
+    {
+      "count": 17,
+      "name": "เมืองพัทลุง",
+      "slug": "เมืองพัทลุง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%A5%E0%B8%B8%E0%B8%87.json"
+    },
+    {
+      "count": 17,
+      "name": "แก่งคอย",
+      "slug": "แก่งคอย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 16,
+      "name": "ชัยบาดาล",
+      "slug": "ชัยบาดาล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%A5.json"
+    },
+    {
+      "count": 16,
+      "name": "ท่าแซะ",
+      "slug": "ท่าแซะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%8B%E0%B8%B0.json"
+    },
+    {
+      "count": 16,
+      "name": "บางพลี",
+      "slug": "บางพลี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A5%E0%B8%B5.json"
+    },
+    {
+      "count": 16,
+      "name": "สวี",
+      "slug": "สวี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A7%E0%B8%B5.json"
+    },
+    {
+      "count": 16,
+      "name": "สองพี่น้อง",
+      "slug": "สองพี่น้อง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 16,
+      "name": "เมืองสมุทรสงคราม",
+      "slug": "เมืองสมุทรสงคราม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 15,
+      "name": "กะเปอร์",
+      "slug": "กะเปอร์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C.json"
+    },
+    {
+      "count": 15,
+      "name": "บางปะกง",
+      "slug": "บางปะกง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%87.json"
+    },
+    {
+      "count": 15,
+      "name": "บางแก้ว",
+      "slug": "บางแก้ว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7.json"
+    },
+    {
+      "count": 15,
+      "name": "พระแสง",
+      "slug": "พระแสง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B8%87.json"
+    },
+    {
+      "count": 15,
+      "name": "สุไหงโก-ลก",
+      "slug": "สุไหงโก-ลก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B8%E0%B9%84%E0%B8%AB%E0%B8%87%E0%B9%82%E0%B8%81-%E0%B8%A5%E0%B8%81.json"
+    },
+    {
+      "count": 15,
+      "name": "เมืองสตูล",
+      "slug": "เมืองสตูล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%A5.json"
+    },
+    {
+      "count": 15,
+      "name": "เมืองสระบุรี",
+      "slug": "เมืองสระบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 15,
+      "name": "เมืองสุพรรณบุรี",
+      "slug": "เมืองสุพรรณบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 14,
+      "name": "กาญจนดิษฐ์",
+      "slug": "กาญจนดิษฐ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C.json"
+    },
+    {
+      "count": 14,
+      "name": "กำแพงแสน",
+      "slug": "กำแพงแสน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B3%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99.json"
+    },
+    {
+      "count": 14,
+      "name": "บ้านสร้าง",
+      "slug": "บ้านสร้าง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 14,
+      "name": "ปะเหลียน",
+      "slug": "ปะเหลียน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B0%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%99.json"
+    },
+    {
+      "count": 14,
+      "name": "ยะหริ่ง",
+      "slug": "ยะหริ่ง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A2%E0%B8%B0%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87.json"
+    },
+    {
+      "count": 14,
+      "name": "เมืองยะลา",
+      "slug": "เมืองยะลา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A2%E0%B8%B0%E0%B8%A5%E0%B8%B2.json"
+    },
+    {
+      "count": 14,
+      "name": "เมืองหนองบัวลำภู",
+      "slug": "เมืองหนองบัวลำภู",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B3%E0%B8%A0%E0%B8%B9.json"
+    },
+    {
+      "count": 13,
+      "name": "ชัยบุรี",
+      "slug": "ชัยบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 13,
+      "name": "ดอนสัก",
+      "slug": "ดอนสัก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%81.json"
+    },
+    {
+      "count": 13,
+      "name": "ปะทิว",
+      "slug": "ปะทิว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B4%E0%B8%A7.json"
+    },
+    {
+      "count": 13,
+      "name": "ปะนาเระ",
+      "slug": "ปะนาเระ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B0.json"
+    },
+    {
+      "count": 13,
+      "name": "วิเชียรบุรี",
+      "slug": "วิเชียรบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 13,
+      "name": "หนองหาน",
+      "slug": "หนองหาน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%99.json"
+    },
+    {
+      "count": 13,
+      "name": "เคียนซา",
+      "slug": "เคียนซา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%8B%E0%B8%B2.json"
+    },
+    {
+      "count": 13,
+      "name": "เมืองชุมพร",
+      "slug": "เมืองชุมพร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A3.json"
+    },
+    {
+      "count": 12,
+      "name": "บางไทร",
+      "slug": "บางไทร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A3.json"
+    },
+    {
+      "count": 12,
+      "name": "หนองบุญมาก",
+      "slug": "หนองบุญมาก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A1%E0%B8%B2%E0%B8%81.json"
+    },
+    {
+      "count": 12,
+      "name": "ห้วยยอด",
+      "slug": "ห้วยยอด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A2%E0%B8%AD%E0%B8%94.json"
+    },
+    {
+      "count": 12,
+      "name": "เกาะพะงัน",
+      "slug": "เกาะพะงัน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%9E%E0%B8%B0%E0%B8%87%E0%B8%B1%E0%B8%99.json"
+    },
+    {
+      "count": 12,
+      "name": "เกาะสมุย",
+      "slug": "เกาะสมุย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%A2.json"
+    },
+    {
+      "count": 12,
+      "name": "เมืองพิจิตร",
+      "slug": "เมืองพิจิตร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3.json"
+    },
+    {
+      "count": 12,
+      "name": "เมืองสิงห์บุรี",
+      "slug": "เมืองสิงห์บุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 11,
+      "name": "กบินทร์บุรี",
+      "slug": "กบินทร์บุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 11,
+      "name": "กันตัง",
+      "slug": "กันตัง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%87.json"
+    },
+    {
+      "count": 11,
+      "name": "คีรีรัฐนิคม",
+      "slug": "คีรีรัฐนิคม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%A1.json"
+    },
+    {
+      "count": 11,
+      "name": "ตระการพืชผล",
+      "slug": "ตระการพืชผล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B7%E0%B8%8A%E0%B8%9C%E0%B8%A5.json"
+    },
+    {
+      "count": 11,
+      "name": "ท่าชนะ",
+      "slug": "ท่าชนะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%B0.json"
+    },
+    {
+      "count": 11,
+      "name": "บางกรวย",
+      "slug": "บางกรวย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%A2.json"
+    },
+    {
+      "count": 11,
+      "name": "บางน้ำเปรี้ยว",
+      "slug": "บางน้ำเปรี้ยว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A7.json"
+    },
+    {
+      "count": 11,
+      "name": "บางปลาม้า",
+      "slug": "บางปลาม้า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B9%89%E0%B8%B2.json"
+    },
+    {
+      "count": 11,
+      "name": "บางปะหัน",
+      "slug": "บางปะหัน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%AB%E0%B8%B1%E0%B8%99.json"
+    },
+    {
+      "count": 11,
+      "name": "พัฒนานิคม",
+      "slug": "พัฒนานิคม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%A1.json"
+    },
+    {
+      "count": 11,
+      "name": "ยะรัง",
+      "slug": "ยะรัง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A2%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%87.json"
+    },
+    {
+      "count": 11,
+      "name": "สามโคก",
+      "slug": "สามโคก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%81.json"
+    },
+    {
+      "count": 11,
+      "name": "เสิงสาง",
+      "slug": "เสิงสาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 10,
+      "name": "กะทู้",
+      "slug": "กะทู้",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B0%E0%B8%97%E0%B8%B9%E0%B9%89.json"
+    },
+    {
+      "count": 10,
+      "name": "ทองผาภูมิ",
+      "slug": "ทองผาภูมิ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4.json"
+    },
+    {
+      "count": 10,
+      "name": "ท่าอุเทน",
+      "slug": "ท่าอุเทน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%B8%E0%B9%80%E0%B8%97%E0%B8%99.json"
+    },
+    {
+      "count": 10,
+      "name": "บางบ่อ",
+      "slug": "บางบ่อ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B9%88%E0%B8%AD.json"
+    },
+    {
+      "count": 10,
+      "name": "บ้านโป่ง",
+      "slug": "บ้านโป่ง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B9%88%E0%B8%87.json"
+    },
+    {
+      "count": 10,
+      "name": "ประจันตคาม",
+      "slug": "ประจันตคาม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%84%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 10,
+      "name": "พนม",
+      "slug": "พนม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%99%E0%B8%A1.json"
+    },
+    {
+      "count": 10,
+      "name": "สะเดา",
+      "slug": "สะเดา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B8%B2.json"
+    },
+    {
+      "count": 10,
+      "name": "สุวรรณคูหา",
+      "slug": "สุวรรณคูหา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%84%E0%B8%B9%E0%B8%AB%E0%B8%B2.json"
+    },
+    {
+      "count": 10,
+      "name": "หล่มสัก",
+      "slug": "หล่มสัก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B8%81.json"
+    },
+    {
+      "count": 10,
+      "name": "อู่ทอง",
+      "slug": "อู่ทอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 10,
+      "name": "เขื่องใน",
+      "slug": "เขื่องใน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%99.json"
+    },
+    {
+      "count": 10,
+      "name": "เมืองพิษณุโลก",
+      "slug": "เมืองพิษณุโลก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8%E0%B9%82%E0%B8%A5%E0%B8%81.json"
+    },
+    {
+      "count": 10,
+      "name": "เมืองอุทัยธานี",
+      "slug": "เมืองอุทัยธานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 10,
+      "name": "เมืองอ่างทอง",
+      "slug": "เมืองอ่างทอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 10,
+      "name": "แม่แตง",
+      "slug": "แม่แตง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%95%E0%B8%87.json"
+    },
+    {
+      "count": 10,
+      "name": "โพทะเล",
+      "slug": "โพทะเล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%9E%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5.json"
+    },
+    {
+      "count": 9,
+      "name": "คีรีมาศ",
+      "slug": "คีรีมาศ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%A8.json"
+    },
+    {
+      "count": 9,
+      "name": "จะนะ",
+      "slug": "จะนะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%88%E0%B8%B0%E0%B8%99%E0%B8%B0.json"
+    },
+    {
+      "count": 9,
+      "name": "ดอนตูม",
+      "slug": "ดอนตูม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B9%E0%B8%A1.json"
+    },
+    {
+      "count": 9,
+      "name": "ท่าเรือ",
+      "slug": "ท่าเรือ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD.json"
+    },
+    {
+      "count": 9,
+      "name": "นครชัยศรี",
+      "slug": "นครชัยศรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 9,
+      "name": "นาดี",
+      "slug": "นาดี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%B5.json"
+    },
+    {
+      "count": 9,
+      "name": "บางมูลนาก",
+      "slug": "บางมูลนาก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%99%E0%B8%B2%E0%B8%81.json"
+    },
+    {
+      "count": 9,
+      "name": "บ้านนาเดิม",
+      "slug": "บ้านนาเดิม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1.json"
+    },
+    {
+      "count": 9,
+      "name": "ป่าบอน",
+      "slug": "ป่าบอน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%99.json"
+    },
+    {
+      "count": 9,
+      "name": "พระพุทธบาท",
+      "slug": "พระพุทธบาท",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%9A%E0%B8%B2%E0%B8%97.json"
+    },
+    {
+      "count": 9,
+      "name": "ม่วงสามสิบ",
+      "slug": "ม่วงสามสิบ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B4%E0%B8%9A.json"
+    },
+    {
+      "count": 9,
+      "name": "วิภาวดี",
+      "slug": "วิภาวดี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5.json"
+    },
+    {
+      "count": 9,
+      "name": "สว่างแดนดิน",
+      "slug": "สว่างแดนดิน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99.json"
+    },
+    {
+      "count": 9,
+      "name": "สะบ้าย้อย",
+      "slug": "สะบ้าย้อย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B0%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 9,
+      "name": "สุขสำราญ",
+      "slug": "สุขสำราญ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D.json"
+    },
+    {
+      "count": 9,
+      "name": "อ่าวลึก",
+      "slug": "อ่าวลึก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B8%B6%E0%B8%81.json"
+    },
+    {
+      "count": 9,
+      "name": "เชียงดาว",
+      "slug": "เชียงดาว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%A7.json"
+    },
+    {
+      "count": 9,
+      "name": "เมืองกาญจนบุรี",
+      "slug": "เมืองกาญจนบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 9,
+      "name": "เมืองตรัง",
+      "slug": "เมืองตรัง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%87.json"
+    },
+    {
+      "count": 9,
+      "name": "เมืองนครศรีธรรมราช",
+      "slug": "เมืองนครศรีธรรมราช",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A.json"
+    },
+    {
+      "count": 9,
+      "name": "เมืองราชบุรี",
+      "slug": "เมืองราชบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 9,
+      "name": "เมืองลพบุรี",
+      "slug": "เมืองลพบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 9,
+      "name": "เมืองอุดรธานี",
+      "slug": "เมืองอุดรธานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A3%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 9,
+      "name": "โนนสูง",
+      "slug": "โนนสูง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%99%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B8%87.json"
+    },
+    {
+      "count": 9,
+      "name": "ไทรน้อย",
+      "slug": "ไทรน้อย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%84%E0%B8%97%E0%B8%A3%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 8,
+      "name": "ชุมพวง",
+      "slug": "ชุมพวง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 8,
+      "name": "ท่าฉาง",
+      "slug": "ท่าฉาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%89%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 8,
+      "name": "ท่ามะกา",
+      "slug": "ท่ามะกา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%B0%E0%B8%81%E0%B8%B2.json"
+    },
+    {
+      "count": 8,
+      "name": "นาวัง",
+      "slug": "นาวัง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%87.json"
+    },
+    {
+      "count": 8,
+      "name": "บางคล้า",
+      "slug": "บางคล้า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%B2.json"
+    },
+    {
+      "count": 8,
+      "name": "บ้านค่าย",
+      "slug": "บ้านค่าย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 8,
+      "name": "บ้านแพ้ว",
+      "slug": "บ้านแพ้ว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B8%A7.json"
+    },
+    {
+      "count": 8,
+      "name": "ปลายพระยา",
+      "slug": "ปลายพระยา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2.json"
+    },
+    {
+      "count": 8,
+      "name": "ปากพะยูน",
+      "slug": "ปากพะยูน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%9E%E0%B8%B0%E0%B8%A2%E0%B8%B9%E0%B8%99.json"
+    },
+    {
+      "count": 8,
+      "name": "ป่าซาง",
+      "slug": "ป่าซาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 8,
+      "name": "พนมสารคาม",
+      "slug": "พนมสารคาม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 8,
+      "name": "พะโต๊ะ",
+      "slug": "พะโต๊ะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B0%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0.json"
+    },
+    {
+      "count": 8,
+      "name": "พิบูลมังสาหาร",
+      "slug": "พิบูลมังสาหาร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3.json"
+    },
+    {
+      "count": 8,
+      "name": "พิมาย",
+      "slug": "พิมาย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 8,
+      "name": "มวกเหล็ก",
+      "slug": "มวกเหล็ก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A1%E0%B8%A7%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81.json"
+    },
+    {
+      "count": 8,
+      "name": "ย่านตาขาว",
+      "slug": "ย่านตาขาว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A7.json"
+    },
+    {
+      "count": 8,
+      "name": "ระโนด",
+      "slug": "ระโนด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%99%E0%B8%94.json"
+    },
+    {
+      "count": 8,
+      "name": "วิหารแดง",
+      "slug": "วิหารแดง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%94%E0%B8%87.json"
+    },
+    {
+      "count": 8,
+      "name": "วิเศษชัยชาญ",
+      "slug": "วิเศษชัยชาญ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%B2%E0%B8%8D.json"
+    },
+    {
+      "count": 8,
+      "name": "ศรีบุญเรือง",
+      "slug": "ศรีบุญเรือง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 8,
+      "name": "ศรีมโหสถ",
+      "slug": "ศรีมโหสถ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B9%82%E0%B8%AB%E0%B8%AA%E0%B8%96.json"
+    },
+    {
+      "count": 8,
+      "name": "สามชุก",
+      "slug": "สามชุก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%B8%E0%B8%81.json"
+    },
+    {
+      "count": 8,
+      "name": "หนองไผ่",
+      "slug": "หนองไผ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%9C%E0%B9%88.json"
+    },
+    {
+      "count": 8,
+      "name": "หลังสวน",
+      "slug": "หลังสวน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B8%99.json"
+    },
+    {
+      "count": 8,
+      "name": "เกาะลันตา",
+      "slug": "เกาะลันตา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2.json"
+    },
+    {
+      "count": 8,
+      "name": "เขาพนม",
+      "slug": "เขาพนม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%9E%E0%B8%99%E0%B8%A1.json"
+    },
+    {
+      "count": 8,
+      "name": "เฉลิมพระเกียรติ",
+      "slug": "เฉลิมพระเกียรติ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4.json"
+    },
+    {
+      "count": 8,
+      "name": "เดชอุดม",
+      "slug": "เดชอุดม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1.json"
+    },
+    {
+      "count": 8,
+      "name": "เหนือคลอง",
+      "slug": "เหนือคลอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 7,
+      "name": "คง",
+      "slug": "คง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%87.json"
+    },
+    {
+      "count": 7,
+      "name": "คลองขลุง",
+      "slug": "คลองขลุง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%A5%E0%B8%B8%E0%B8%87.json"
+    },
+    {
+      "count": 7,
+      "name": "ดำเนินสะดวก",
+      "slug": "ดำเนินสะดวก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B0%E0%B8%94%E0%B8%A7%E0%B8%81.json"
+    },
+    {
+      "count": 7,
+      "name": "ตะโหมด",
+      "slug": "ตะโหมด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%95%E0%B8%B0%E0%B9%82%E0%B8%AB%E0%B8%A1%E0%B8%94.json"
+    },
+    {
+      "count": 7,
+      "name": "ท่าบ่อ",
+      "slug": "ท่าบ่อ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9A%E0%B9%88%E0%B8%AD.json"
+    },
+    {
+      "count": 7,
+      "name": "นากลาง",
+      "slug": "นากลาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 7,
+      "name": "บางระกำ",
+      "slug": "บางระกำ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B3.json"
+    },
+    {
+      "count": 7,
+      "name": "บึงสามพัน",
+      "slug": "บึงสามพัน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99.json"
+    },
+    {
+      "count": 7,
+      "name": "บ้านไผ่",
+      "slug": "บ้านไผ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%9C%E0%B9%88.json"
+    },
+    {
+      "count": 7,
+      "name": "ปักธงชัย",
+      "slug": "ปักธงชัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B1%E0%B8%81%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 7,
+      "name": "พนัสนิคม",
+      "slug": "พนัสนิคม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%A1.json"
+    },
+    {
+      "count": 7,
+      "name": "ลำทับ",
+      "slug": "ลำทับ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B3%E0%B8%97%E0%B8%B1%E0%B8%9A.json"
+    },
+    {
+      "count": 7,
+      "name": "ศรีราชา",
+      "slug": "ศรีราชา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2.json"
+    },
+    {
+      "count": 7,
+      "name": "สวรรคโลก",
+      "slug": "สวรรคโลก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%82%E0%B8%A5%E0%B8%81.json"
+    },
+    {
+      "count": 7,
+      "name": "สังขละบุรี",
+      "slug": "สังขละบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%A5%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 7,
+      "name": "สิงหนคร",
+      "slug": "สิงหนคร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%84%E0%B8%A3.json"
+    },
+    {
+      "count": 7,
+      "name": "หนองจิก",
+      "slug": "หนองจิก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%81.json"
+    },
+    {
+      "count": 7,
+      "name": "หนองม่วง",
+      "slug": "หนองม่วง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 7,
+      "name": "ห้วยแถลง",
+      "slug": "ห้วยแถลง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%96%E0%B8%A5%E0%B8%87.json"
+    },
+    {
+      "count": 7,
+      "name": "อากาศอำนวย",
+      "slug": "อากาศอำนวย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%AD%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%A2.json"
+    },
+    {
+      "count": 7,
+      "name": "อุทัย",
+      "slug": "อุทัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 7,
+      "name": "อุบลรัตน์",
+      "slug": "อุบลรัตน์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C.json"
+    },
+    {
+      "count": 7,
+      "name": "เกาะคา",
+      "slug": "เกาะคา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%84%E0%B8%B2.json"
+    },
+    {
+      "count": 7,
+      "name": "เมืองกำแพงเพชร",
+      "slug": "เมืองกำแพงเพชร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3.json"
+    },
+    {
+      "count": 7,
+      "name": "เมืองลำปาง",
+      "slug": "เมืองลำปาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B3%E0%B8%9B%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 7,
+      "name": "เมืองสระแก้ว",
+      "slug": "เมืองสระแก้ว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7.json"
+    },
+    {
+      "count": 7,
+      "name": "เลาขวัญ",
+      "slug": "เลาขวัญ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A5%E0%B8%B2%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D.json"
+    },
+    {
+      "count": 7,
+      "name": "แกลง",
+      "slug": "แกลง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B8%87.json"
+    },
+    {
+      "count": 7,
+      "name": "โพธิ์ทอง",
+      "slug": "โพธิ์ทอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 7,
+      "name": "โพนพิสัย",
+      "slug": "โพนพิสัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 7,
+      "name": "ไทรโยค",
+      "slug": "ไทรโยค",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%84%E0%B8%97%E0%B8%A3%E0%B9%82%E0%B8%A2%E0%B8%84.json"
+    },
+    {
+      "count": 6,
+      "name": "กะพ้อ",
+      "slug": "กะพ้อ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B0%E0%B8%9E%E0%B9%89%E0%B8%AD.json"
+    },
+    {
+      "count": 6,
+      "name": "กันทรลักษ์",
+      "slug": "กันทรลักษ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.json"
+    },
+    {
+      "count": 6,
+      "name": "ขนอม",
+      "slug": "ขนอม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%82%E0%B8%99%E0%B8%AD%E0%B8%A1.json"
+    },
+    {
+      "count": 6,
+      "name": "ดงเจริญ",
+      "slug": "ดงเจริญ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D.json"
+    },
+    {
+      "count": 6,
+      "name": "ทับคล้อ",
+      "slug": "ทับคล้อ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%AD.json"
+    },
+    {
+      "count": 6,
+      "name": "ท่าวุ้ง",
+      "slug": "ท่าวุ้ง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B9%89%E0%B8%87.json"
+    },
+    {
+      "count": 6,
+      "name": "ท่าสองยาง",
+      "slug": "ท่าสองยาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 6,
+      "name": "นาทม",
+      "slug": "นาทม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%A1.json"
+    },
+    {
+      "count": 6,
+      "name": "นิคมพัฒนา",
+      "slug": "นิคมพัฒนา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2.json"
+    },
+    {
+      "count": 6,
+      "name": "บรบือ",
+      "slug": "บรบือ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%A3%E0%B8%9A%E0%B8%B7%E0%B8%AD.json"
+    },
+    {
+      "count": 6,
+      "name": "บัวเชด",
+      "slug": "บัวเชด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%8A%E0%B8%94.json"
+    },
+    {
+      "count": 6,
+      "name": "บ้านดุง",
+      "slug": "บ้านดุง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B8%E0%B8%87.json"
+    },
+    {
+      "count": 6,
+      "name": "บ้านโพธิ์",
+      "slug": "บ้านโพธิ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C.json"
+    },
+    {
+      "count": 6,
+      "name": "ปาย",
+      "slug": "ปาย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 6,
+      "name": "ป่าโมก",
+      "slug": "ป่าโมก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%81.json"
+    },
+    {
+      "count": 6,
+      "name": "พรหมพิราม",
+      "slug": "พรหมพิราม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 6,
+      "name": "พระนครศรีอยุธยา",
+      "slug": "พระนครศรีอยุธยา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2.json"
+    },
+    {
+      "count": 6,
+      "name": "พานทอง",
+      "slug": "พานทอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 6,
+      "name": "มหาราช",
+      "slug": "มหาราช",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A.json"
+    },
+    {
+      "count": 6,
+      "name": "ละแม",
+      "slug": "ละแม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%A1.json"
+    },
+    {
+      "count": 6,
+      "name": "ลาดบัวหลวง",
+      "slug": "ลาดบัวหลวง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 6,
+      "name": "วชิรบารมี",
+      "slug": "วชิรบารมี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B5.json"
+    },
+    {
+      "count": 6,
+      "name": "วังทอง",
+      "slug": "วังทอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 6,
+      "name": "วานรนิวาส",
+      "slug": "วานรนิวาส",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AA.json"
+    },
+    {
+      "count": 6,
+      "name": "ศรีสงคราม",
+      "slug": "ศรีสงคราม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 6,
+      "name": "ศรีสวัสดิ์",
+      "slug": "ศรีสวัสดิ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C.json"
+    },
+    {
+      "count": 6,
+      "name": "ศรีเทพ",
+      "slug": "ศรีเทพ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%9E.json"
+    },
+    {
+      "count": 6,
+      "name": "สากเหล็ก",
+      "slug": "สากเหล็ก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81.json"
+    },
+    {
+      "count": 6,
+      "name": "สิเกา",
+      "slug": "สิเกา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B4%E0%B9%80%E0%B8%81%E0%B8%B2.json"
+    },
+    {
+      "count": 6,
+      "name": "สีดา",
+      "slug": "สีดา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B2.json"
+    },
+    {
+      "count": 6,
+      "name": "สุคิริน",
+      "slug": "สุคิริน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B8%E0%B8%84%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99.json"
+    },
+    {
+      "count": 6,
+      "name": "หัวหิน",
+      "slug": "หัวหิน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%AB%E0%B8%B4%E0%B8%99.json"
+    },
+    {
+      "count": 6,
+      "name": "องครักษ์",
+      "slug": "องครักษ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.json"
+    },
+    {
+      "count": 6,
+      "name": "อรัญประเทศ",
+      "slug": "อรัญประเทศ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8.json"
+    },
+    {
+      "count": 6,
+      "name": "เขมราฐ",
+      "slug": "เขมราฐ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%90.json"
+    },
+    {
+      "count": 6,
+      "name": "เขาชัยสน",
+      "slug": "เขาชัยสน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%99.json"
+    },
+    {
+      "count": 6,
+      "name": "เบตง",
+      "slug": "เบตง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%9A%E0%B8%95%E0%B8%87.json"
+    },
+    {
+      "count": 6,
+      "name": "เมืองตาก",
+      "slug": "เมืองตาก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%81.json"
+    },
+    {
+      "count": 6,
+      "name": "เรณูนคร",
+      "slug": "เรณูนคร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A3%E0%B8%93%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A3.json"
+    },
+    {
+      "count": 6,
+      "name": "แม่ระมาด",
+      "slug": "แม่ระมาด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%94.json"
+    },
+    {
+      "count": 6,
+      "name": "โคกสำโรง",
+      "slug": "โคกสำโรง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%84%E0%B8%81%E0%B8%AA%E0%B8%B3%E0%B9%82%E0%B8%A3%E0%B8%87.json"
+    },
+    {
+      "count": 6,
+      "name": "ไชโย",
+      "slug": "ไชโย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%84%E0%B8%8A%E0%B9%82%E0%B8%A2.json"
+    },
+    {
+      "count": 5,
+      "name": "ขามทะเลสอ",
+      "slug": "ขามทะเลสอ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%82%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%AA%E0%B8%AD.json"
+    },
+    {
+      "count": 5,
+      "name": "จักราช",
+      "slug": "จักราช",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A.json"
+    },
+    {
+      "count": 5,
+      "name": "ด่านขุนทด",
+      "slug": "ด่านขุนทด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%94.json"
+    },
+    {
+      "count": 5,
+      "name": "ตากใบ",
+      "slug": "ตากใบ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%95%E0%B8%B2%E0%B8%81%E0%B9%83%E0%B8%9A.json"
+    },
+    {
+      "count": 5,
+      "name": "ทุ่งศรีอุดม",
+      "slug": "ทุ่งศรีอุดม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1.json"
+    },
+    {
+      "count": 5,
+      "name": "ท่าหลวง",
+      "slug": "ท่าหลวง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 5,
+      "name": "ธาตุพนม",
+      "slug": "ธาตุพนม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%99%E0%B8%A1.json"
+    },
+    {
+      "count": 5,
+      "name": "นาทวี",
+      "slug": "นาทวี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%A7%E0%B8%B5.json"
+    },
+    {
+      "count": 5,
+      "name": "นายายอาม",
+      "slug": "นายายอาม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 5,
+      "name": "น้ำปาด",
+      "slug": "น้ำปาด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%9B%E0%B8%B2%E0%B8%94.json"
+    },
+    {
+      "count": 5,
+      "name": "น้ำเกลี้ยง",
+      "slug": "น้ำเกลี้ยง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87.json"
+    },
+    {
+      "count": 5,
+      "name": "บางคนที",
+      "slug": "บางคนที",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5.json"
+    },
+    {
+      "count": 5,
+      "name": "บางเสาธง",
+      "slug": "บางเสาธง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%87.json"
+    },
+    {
+      "count": 5,
+      "name": "บางใหญ่",
+      "slug": "บางใหญ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.json"
+    },
+    {
+      "count": 5,
+      "name": "บึงสามัคคี",
+      "slug": "บึงสามัคคี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%84%E0%B8%B5.json"
+    },
+    {
+      "count": 5,
+      "name": "บุณฑริก",
+      "slug": "บุณฑริก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B8%E0%B8%93%E0%B8%91%E0%B8%A3%E0%B8%B4%E0%B8%81.json"
+    },
+    {
+      "count": 5,
+      "name": "บ่อพลอย",
+      "slug": "บ่อพลอย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 5,
+      "name": "บ้านผือ",
+      "slug": "บ้านผือ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%B7%E0%B8%AD.json"
+    },
+    {
+      "count": 5,
+      "name": "บ้านเหลื่อม",
+      "slug": "บ้านเหลื่อม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1.json"
+    },
+    {
+      "count": 5,
+      "name": "พระสมุทรเจดีย์",
+      "slug": "พระสมุทรเจดีย์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C.json"
+    },
+    {
+      "count": 5,
+      "name": "ภาชี",
+      "slug": "ภาชี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A0%E0%B8%B2%E0%B8%8A%E0%B8%B5.json"
+    },
+    {
+      "count": 5,
+      "name": "ร่อนพิบูลย์",
+      "slug": "ร่อนพิบูลย์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C.json"
+    },
+    {
+      "count": 5,
+      "name": "ละอุ่น",
+      "slug": "ละอุ่น",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99.json"
+    },
+    {
+      "count": 5,
+      "name": "ลานกระบือ",
+      "slug": "ลานกระบือ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B7%E0%B8%AD.json"
+    },
+    {
+      "count": 5,
+      "name": "ลำสนธิ",
+      "slug": "ลำสนธิ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B3%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4.json"
+    },
+    {
+      "count": 5,
+      "name": "วังเจ้า",
+      "slug": "วังเจ้า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2.json"
+    },
+    {
+      "count": 5,
+      "name": "ศรีประจันต์",
+      "slug": "ศรีประจันต์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C.json"
+    },
+    {
+      "count": 5,
+      "name": "สทิงพระ",
+      "slug": "สทิงพระ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%97%E0%B8%B4%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B0.json"
+    },
+    {
+      "count": 5,
+      "name": "สรรคบุรี",
+      "slug": "สรรคบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 5,
+      "name": "หนองวัวซอ",
+      "slug": "หนองวัวซอ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A7%E0%B8%8B%E0%B8%AD.json"
+    },
+    {
+      "count": 5,
+      "name": "หนองหญ้าไซ",
+      "slug": "หนองหญ้าไซ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%8D%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%8B.json"
+    },
+    {
+      "count": 5,
+      "name": "เทพา",
+      "slug": "เทพา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%B2.json"
+    },
+    {
+      "count": 5,
+      "name": "เมืองนครนายก",
+      "slug": "เมืองนครนายก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81.json"
+    },
+    {
+      "count": 5,
+      "name": "เมืองนครพนม",
+      "slug": "เมืองนครพนม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9E%E0%B8%99%E0%B8%A1.json"
+    },
+    {
+      "count": 5,
+      "name": "เมืองปราจีนบุรี",
+      "slug": "เมืองปราจีนบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 5,
+      "name": "เมืองลำพูน",
+      "slug": "เมืองลำพูน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B3%E0%B8%9E%E0%B8%B9%E0%B8%99.json"
+    },
+    {
+      "count": 5,
+      "name": "เมืองสงขลา",
+      "slug": "เมืองสงขลา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%87%E0%B8%82%E0%B8%A5%E0%B8%B2.json"
+    },
+    {
+      "count": 5,
+      "name": "เมืองอุตรดิตถ์",
+      "slug": "เมืองอุตรดิตถ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B8%96%E0%B9%8C.json"
+    },
+    {
+      "count": 5,
+      "name": "แก้งคร้อ",
+      "slug": "แก้งคร้อ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B9%89%E0%B8%AD.json"
+    },
+    {
+      "count": 5,
+      "name": "โคกโพธิ์",
+      "slug": "โคกโพธิ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%84%E0%B8%81%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C.json"
+    },
+    {
+      "count": 5,
+      "name": "โชคชัย",
+      "slug": "โชคชัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%8A%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 5,
+      "name": "โนนสัง",
+      "slug": "โนนสัง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%99%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%87.json"
+    },
+    {
+      "count": 5,
+      "name": "ไทรงาม",
+      "slug": "ไทรงาม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%84%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 4,
+      "name": "ขลุง",
+      "slug": "ขลุง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%82%E0%B8%A5%E0%B8%B8%E0%B8%87.json"
+    },
+    {
+      "count": 4,
+      "name": "ขามสะแกแสง",
+      "slug": "ขามสะแกแสง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%82%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%81%E0%B8%AA%E0%B8%87.json"
+    },
+    {
+      "count": 4,
+      "name": "ครบุรี",
+      "slug": "ครบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 4,
+      "name": "คลองเขื่อน",
+      "slug": "คลองเขื่อน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99.json"
+    },
+    {
+      "count": 4,
+      "name": "ชนแดน",
+      "slug": "ชนแดน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99.json"
+    },
+    {
+      "count": 4,
+      "name": "ชาติตระการ",
+      "slug": "ชาติตระการ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3.json"
+    },
+    {
+      "count": 4,
+      "name": "ดอกคำใต้",
+      "slug": "ดอกคำใต้",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B8%84%E0%B8%B3%E0%B9%83%E0%B8%95%E0%B9%89.json"
+    },
+    {
+      "count": 4,
+      "name": "ด่านมะขามเตี้ย",
+      "slug": "ด่านมะขามเตี้ย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B0%E0%B8%82%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B8%A2.json"
+    },
+    {
+      "count": 4,
+      "name": "ทุ่งตะโก",
+      "slug": "ทุ่งตะโก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B0%E0%B9%82%E0%B8%81.json"
+    },
+    {
+      "count": 4,
+      "name": "ท่ายาง",
+      "slug": "ท่ายาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 4,
+      "name": "ท่าศาลา",
+      "slug": "ท่าศาลา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2.json"
+    },
+    {
+      "count": 4,
+      "name": "นาโยง",
+      "slug": "นาโยง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B9%82%E0%B8%A2%E0%B8%87.json"
+    },
+    {
+      "count": 4,
+      "name": "น้ำยืน",
+      "slug": "น้ำยืน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A2%E0%B8%B7%E0%B8%99.json"
+    },
+    {
+      "count": 4,
+      "name": "บางซ้าย",
+      "slug": "บางซ้าย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 4,
+      "name": "บางระจัน",
+      "slug": "บางระจัน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%99.json"
+    },
+    {
+      "count": 4,
+      "name": "บางสะพาน",
+      "slug": "บางสะพาน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99.json"
+    },
+    {
+      "count": 4,
+      "name": "บ้านคา",
+      "slug": "บ้านคา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B2.json"
+    },
+    {
+      "count": 4,
+      "name": "บ้านฉาง",
+      "slug": "บ้านฉาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%89%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 4,
+      "name": "บ้านตาก",
+      "slug": "บ้านตาก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%81.json"
+    },
+    {
+      "count": 4,
+      "name": "บ้านลาด",
+      "slug": "บ้านลาด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B8%B2%E0%B8%94.json"
+    },
+    {
+      "count": 4,
+      "name": "ประจักษ์ศิลปาคม",
+      "slug": "ประจักษ์ศิลปาคม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B2%E0%B8%84%E0%B8%A1.json"
+    },
+    {
+      "count": 4,
+      "name": "ปราณบุรี",
+      "slug": "ปราณบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 4,
+      "name": "ปลวกแดง",
+      "slug": "ปลวกแดง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%A5%E0%B8%A7%E0%B8%81%E0%B9%81%E0%B8%94%E0%B8%87.json"
+    },
+    {
+      "count": 4,
+      "name": "ปลาปาก",
+      "slug": "ปลาปาก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%9B%E0%B8%B2%E0%B8%81.json"
+    },
+    {
+      "count": 4,
+      "name": "ปากชม",
+      "slug": "ปากชม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%8A%E0%B8%A1.json"
+    },
+    {
+      "count": 4,
+      "name": "ปากท่อ",
+      "slug": "ปากท่อ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B9%88%E0%B8%AD.json"
+    },
+    {
+      "count": 4,
+      "name": "ผักไห่",
+      "slug": "ผักไห่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B9%84%E0%B8%AB%E0%B9%88.json"
+    },
+    {
+      "count": 4,
+      "name": "พรหมบุรี",
+      "slug": "พรหมบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 4,
+      "name": "พระทองคำ",
+      "slug": "พระทองคำ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3.json"
+    },
+    {
+      "count": 4,
+      "name": "พร้าว",
+      "slug": "พร้าว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A7.json"
+    },
+    {
+      "count": 4,
+      "name": "พิชัย",
+      "slug": "พิชัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 4,
+      "name": "ภูพาน",
+      "slug": "ภูพาน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A0%E0%B8%B9%E0%B8%9E%E0%B8%B2%E0%B8%99.json"
+    },
+    {
+      "count": 4,
+      "name": "มโนรมย์",
+      "slug": "มโนรมย์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A1%E0%B9%82%E0%B8%99%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C.json"
+    },
+    {
+      "count": 4,
+      "name": "รัตนวาปี",
+      "slug": "รัตนวาปี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%9B%E0%B8%B5.json"
+    },
+    {
+      "count": 4,
+      "name": "วังน้อย",
+      "slug": "วังน้อย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 4,
+      "name": "วังน้ำเย็น",
+      "slug": "วังน้ำเย็น",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99.json"
+    },
+    {
+      "count": 4,
+      "name": "วังวิเศษ",
+      "slug": "วังวิเศษ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9.json"
+    },
+    {
+      "count": 4,
+      "name": "วังสมบูรณ์",
+      "slug": "วังสมบูรณ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C.json"
+    },
+    {
+      "count": 4,
+      "name": "วังสะพุง",
+      "slug": "วังสะพุง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B8%E0%B8%87.json"
+    },
+    {
+      "count": 4,
+      "name": "วังโป่ง",
+      "slug": "วังโป่ง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%88%E0%B8%87.json"
+    },
+    {
+      "count": 4,
+      "name": "วัฒนานคร",
+      "slug": "วัฒนานคร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3.json"
+    },
+    {
+      "count": 4,
+      "name": "ศรีมหาโพธิ",
+      "slug": "ศรีมหาโพธิ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4.json"
+    },
+    {
+      "count": 4,
+      "name": "ศรีสัชนาลัย",
+      "slug": "ศรีสัชนาลัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 4,
+      "name": "ศรีเมืองใหม่",
+      "slug": "ศรีเมืองใหม่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.json"
+    },
+    {
+      "count": 4,
+      "name": "สระโบสถ์",
+      "slug": "สระโบสถ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%9A%E0%B8%AA%E0%B8%96%E0%B9%8C.json"
+    },
+    {
+      "count": 4,
+      "name": "สังคม",
+      "slug": "สังคม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1.json"
+    },
+    {
+      "count": 4,
+      "name": "สายบุรี",
+      "slug": "สายบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 4,
+      "name": "สีชมพู",
+      "slug": "สีชมพู",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9.json"
+    },
+    {
+      "count": 4,
+      "name": "สุไหงปาดี",
+      "slug": "สุไหงปาดี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B8%E0%B9%84%E0%B8%AB%E0%B8%87%E0%B8%9B%E0%B8%B2%E0%B8%94%E0%B8%B5.json"
+    },
+    {
+      "count": 4,
+      "name": "หนองบัวแดง",
+      "slug": "หนองบัวแดง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%94%E0%B8%87.json"
+    },
+    {
+      "count": 4,
+      "name": "หนองสองห้อง",
+      "slug": "หนองสองห้อง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 4,
+      "name": "หล่มเก่า",
+      "slug": "หล่มเก่า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2.json"
+    },
+    {
+      "count": 4,
+      "name": "อัมพวา",
+      "slug": "อัมพวา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%A7%E0%B8%B2.json"
+    },
+    {
+      "count": 4,
+      "name": "เฝ้าไร่",
+      "slug": "เฝ้าไร่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%9D%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%A3%E0%B9%88.json"
+    },
+    {
+      "count": 4,
+      "name": "เมืองขอนแก่น",
+      "slug": "เมืองขอนแก่น",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99.json"
+    },
+    {
+      "count": 4,
+      "name": "เมืองชัยนาท",
+      "slug": "เมืองชัยนาท",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B8%97.json"
+    },
+    {
+      "count": 4,
+      "name": "เมืองนครราชสีมา",
+      "slug": "เมืองนครราชสีมา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2.json"
+    },
+    {
+      "count": 4,
+      "name": "เมืองมหาสารคาม",
+      "slug": "เมืองมหาสารคาม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 4,
+      "name": "เมืองยโสธร",
+      "slug": "เมืองยโสธร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A2%E0%B9%82%E0%B8%AA%E0%B8%98%E0%B8%A3.json"
+    },
+    {
+      "count": 4,
+      "name": "เมืองหนองคาย",
+      "slug": "เมืองหนองคาย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 4,
+      "name": "เมืองเชียงใหม่",
+      "slug": "เมืองเชียงใหม่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.json"
+    },
+    {
+      "count": 4,
+      "name": "เมืองเพชรบุรี",
+      "slug": "เมืองเพชรบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 4,
+      "name": "เสาไห้",
+      "slug": "เสาไห้",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B9%84%E0%B8%AB%E0%B9%89.json"
+    },
+    {
+      "count": 4,
+      "name": "แม่ลาน้อย",
+      "slug": "แม่ลาน้อย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 4,
+      "name": "แม่เมาะ",
+      "slug": "แม่เมาะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%B0.json"
+    },
+    {
+      "count": 4,
+      "name": "แม่ใจ",
+      "slug": "แม่ใจ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%88.json"
+    },
+    {
+      "count": 4,
+      "name": "แสวงหา",
+      "slug": "แสวงหา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%AA%E0%B8%A7%E0%B8%87%E0%B8%AB%E0%B8%B2.json"
+    },
+    {
+      "count": 4,
+      "name": "โพธาราม",
+      "slug": "โพธาราม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 3,
+      "name": "กงหรา",
+      "slug": "กงหรา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%87%E0%B8%AB%E0%B8%A3%E0%B8%B2.json"
+    },
+    {
+      "count": 3,
+      "name": "กงไกรลาศ",
+      "slug": "กงไกรลาศ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%87%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%A8.json"
+    },
+    {
+      "count": 3,
+      "name": "กระสัง",
+      "slug": "กระสัง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B1%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "กุดข้าวปุ้น",
+      "slug": "กุดข้าวปุ้น",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B8%E0%B8%94%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%9B%E0%B8%B8%E0%B9%89%E0%B8%99.json"
+    },
+    {
+      "count": 3,
+      "name": "กุดบาก",
+      "slug": "กุดบาก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B8%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%81.json"
+    },
+    {
+      "count": 3,
+      "name": "กุมภวาปี",
+      "slug": "กุมภวาปี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B8%E0%B8%A1%E0%B8%A0%E0%B8%A7%E0%B8%B2%E0%B8%9B%E0%B8%B5.json"
+    },
+    {
+      "count": 3,
+      "name": "จอมบึง",
+      "slug": "จอมบึง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%9A%E0%B8%B6%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "จะแนะ",
+      "slug": "จะแนะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%88%E0%B8%B0%E0%B9%81%E0%B8%99%E0%B8%B0.json"
+    },
+    {
+      "count": 3,
+      "name": "จักราช | ประทาย",
+      "slug": "จักราช-ประทาย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 3,
+      "name": "ชุมแสง",
+      "slug": "ชุมแสง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "ทุ่งยางแดง",
+      "slug": "ทุ่งยางแดง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "ทุ่งหว้า",
+      "slug": "ทุ่งหว้า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B9%89%E0%B8%B2.json"
+    },
+    {
+      "count": 3,
+      "name": "ทุ่งใหญ่",
+      "slug": "ทุ่งใหญ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.json"
+    },
+    {
+      "count": 3,
+      "name": "ท่าม่วง",
+      "slug": "ท่าม่วง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "นครหลวง",
+      "slug": "นครหลวง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "นาคู",
+      "slug": "นาคู",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B9.json"
+    },
+    {
+      "count": 3,
+      "name": "นาจะหลวย",
+      "slug": "นาจะหลวย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%88%E0%B8%B0%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%A2.json"
+    },
+    {
+      "count": 3,
+      "name": "นาตาล",
+      "slug": "นาตาล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%A5.json"
+    },
+    {
+      "count": 3,
+      "name": "นาหว้า",
+      "slug": "นาหว้า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%AB%E0%B8%A7%E0%B9%89%E0%B8%B2.json"
+    },
+    {
+      "count": 3,
+      "name": "นาเชือก",
+      "slug": "นาเชือก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B8%AD%E0%B8%81.json"
+    },
+    {
+      "count": 3,
+      "name": "นาเยีย",
+      "slug": "นาเยีย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B8%A2.json"
+    },
+    {
+      "count": 3,
+      "name": "น้ำโสม",
+      "slug": "น้ำโสม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%82%E0%B8%AA%E0%B8%A1.json"
+    },
+    {
+      "count": 3,
+      "name": "บันนังสตา",
+      "slug": "บันนังสตา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%95%E0%B8%B2.json"
+    },
+    {
+      "count": 3,
+      "name": "บางกระทุ่ม",
+      "slug": "บางกระทุ่ม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1.json"
+    },
+    {
+      "count": 3,
+      "name": "บางบาล",
+      "slug": "บางบาล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%A5.json"
+    },
+    {
+      "count": 3,
+      "name": "บ้านหมอ",
+      "slug": "บ้านหมอ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%AD.json"
+    },
+    {
+      "count": 3,
+      "name": "บ้านหมี่",
+      "slug": "บ้านหมี่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B9%88.json"
+    },
+    {
+      "count": 3,
+      "name": "บ้านแหลม",
+      "slug": "บ้านแหลม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%A1.json"
+    },
+    {
+      "count": 3,
+      "name": "ปากพลี",
+      "slug": "ปากพลี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%9E%E0%B8%A5%E0%B8%B5.json"
+    },
+    {
+      "count": 3,
+      "name": "พนมไพร",
+      "slug": "พนมไพร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B9%84%E0%B8%9E%E0%B8%A3.json"
+    },
+    {
+      "count": 3,
+      "name": "พรานกระต่าย",
+      "slug": "พรานกระต่าย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 3,
+      "name": "ภูเวียง",
+      "slug": "ภูเวียง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "ยะหา",
+      "slug": "ยะหา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A2%E0%B8%B0%E0%B8%AB%E0%B8%B2.json"
+    },
+    {
+      "count": 3,
+      "name": "ระแงะ",
+      "slug": "ระแงะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%87%E0%B8%B0.json"
+    },
+    {
+      "count": 3,
+      "name": "รัตภูมิ",
+      "slug": "รัตภูมิ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4.json"
+    },
+    {
+      "count": 3,
+      "name": "รามัน",
+      "slug": "รามัน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%99.json"
+    },
+    {
+      "count": 3,
+      "name": "วังจันทร์",
+      "slug": "วังจันทร์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.json"
+    },
+    {
+      "count": 3,
+      "name": "วังม่วง",
+      "slug": "วังม่วง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "วัดสิงห์",
+      "slug": "วัดสิงห์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C.json"
+    },
+    {
+      "count": 3,
+      "name": "วาปีปทุม",
+      "slug": "วาปีปทุม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B2%E0%B8%9B%E0%B8%B5%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1.json"
+    },
+    {
+      "count": 3,
+      "name": "ศรีนคร",
+      "slug": "ศรีนคร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%84%E0%B8%A3.json"
+    },
+    {
+      "count": 3,
+      "name": "ศรีบรรพต",
+      "slug": "ศรีบรรพต",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%95.json"
+    },
+    {
+      "count": 3,
+      "name": "ศรีสาคร",
+      "slug": "ศรีสาคร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3.json"
+    },
+    {
+      "count": 3,
+      "name": "สตึก",
+      "slug": "สตึก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%95%E0%B8%B6%E0%B8%81.json"
+    },
+    {
+      "count": 3,
+      "name": "สรรพยา",
+      "slug": "สรรพยา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B2.json"
+    },
+    {
+      "count": 3,
+      "name": "สวนผึ้ง",
+      "slug": "สวนผึ้ง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "สามง่าม",
+      "slug": "สามง่าม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 3,
+      "name": "สำโรง",
+      "slug": "สำโรง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B3%E0%B9%82%E0%B8%A3%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "หนองขาหย่าง",
+      "slug": "หนองขาหย่าง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%B2%E0%B8%AB%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "หนองใหญ่",
+      "slug": "หนองใหญ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.json"
+    },
+    {
+      "count": 3,
+      "name": "หาดสำราญ",
+      "slug": "หาดสำราญ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D.json"
+    },
+    {
+      "count": 3,
+      "name": "อินทร์บุรี",
+      "slug": "อินทร์บุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 3,
+      "name": "เขาสวนกวาง",
+      "slug": "เขาสวนกวาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "เชียงคำ",
+      "slug": "เชียงคำ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B8%B3.json"
+    },
+    {
+      "count": 3,
+      "name": "เดชอุดม | บุณฑริก",
+      "slug": "เดชอุดม-บุณฑริก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1-%E0%B8%9A%E0%B8%B8%E0%B8%93%E0%B8%91%E0%B8%A3%E0%B8%B4%E0%B8%81.json"
+    },
+    {
+      "count": 3,
+      "name": "เต่างอย",
+      "slug": "เต่างอย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 3,
+      "name": "เพ็ญ",
+      "slug": "เพ็ญ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D.json"
+    },
+    {
+      "count": 3,
+      "name": "เมืองตราด",
+      "slug": "เมืองตราด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%94.json"
+    },
+    {
+      "count": 3,
+      "name": "เมืองบึงกาฬ",
+      "slug": "เมืองบึงกาฬ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%AC.json"
+    },
+    {
+      "count": 3,
+      "name": "เมืองประจวบคีรีขันธ์",
+      "slug": "เมืองประจวบคีรีขันธ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C.json"
+    },
+    {
+      "count": 3,
+      "name": "เมืองพะเยา",
+      "slug": "เมืองพะเยา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2.json"
+    },
+    {
+      "count": 3,
+      "name": "แกดำ",
+      "slug": "แกดำ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%81%E0%B8%94%E0%B8%B3.json"
+    },
+    {
+      "count": 3,
+      "name": "แจ้ห่ม",
+      "slug": "แจ้ห่ม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%AB%E0%B9%88%E0%B8%A1.json"
+    },
+    {
+      "count": 3,
+      "name": "แม่ทะ",
+      "slug": "แม่ทะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B8%B0.json"
+    },
+    {
+      "count": 3,
+      "name": "แม่ลาน",
+      "slug": "แม่ลาน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%99.json"
+    },
+    {
+      "count": 3,
+      "name": "แม่วาง",
+      "slug": "แม่วาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "แม่สะเรียง",
+      "slug": "แม่สะเรียง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87.json"
+    },
+    {
+      "count": 3,
+      "name": "โกสุมพิสัย",
+      "slug": "โกสุมพิสัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 3,
+      "name": "โขงเจียม",
+      "slug": "โขงเจียม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%82%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A1.json"
+    },
+    {
+      "count": 3,
+      "name": "โพธิ์ไทร",
+      "slug": "โพธิ์ไทร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A3.json"
+    },
+    {
+      "count": 3,
+      "name": "โพนนาแก้ว",
+      "slug": "โพนนาแก้ว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7.json"
+    },
+    {
+      "count": 3,
+      "name": "โพนสวรรค์",
+      "slug": "โพนสวรรค์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C.json"
+    },
+    {
+      "count": 2,
+      "name": "กัลยาณิวัฒนา",
+      "slug": "กัลยาณิวัฒนา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "กุดจับ",
+      "slug": "กุดจับ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B8%E0%B8%94%E0%B8%88%E0%B8%B1%E0%B8%9A.json"
+    },
+    {
+      "count": 2,
+      "name": "กุดชุม",
+      "slug": "กุดชุม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B8%E0%B8%94%E0%B8%8A%E0%B8%B8%E0%B8%A1.json"
+    },
+    {
+      "count": 2,
+      "name": "คลองหาด",
+      "slug": "คลองหาด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%94.json"
+    },
+    {
+      "count": 2,
+      "name": "ควนกาหลง",
+      "slug": "ควนกาหลง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "งาว",
+      "slug": "งาว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%87%E0%B8%B2%E0%B8%A7.json"
+    },
+    {
+      "count": 2,
+      "name": "จัตุรัส",
+      "slug": "จัตุรัส",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%88%E0%B8%B1%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%AA.json"
+    },
+    {
+      "count": 2,
+      "name": "จุน",
+      "slug": "จุน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%88%E0%B8%B8%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "ชนบท",
+      "slug": "ชนบท",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%99%E0%B8%9A%E0%B8%97.json"
+    },
+    {
+      "count": 2,
+      "name": "ชะอำ",
+      "slug": "ชะอำ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%B0%E0%B8%AD%E0%B8%B3.json"
+    },
+    {
+      "count": 2,
+      "name": "ชุมแพ",
+      "slug": "ชุมแพ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B9%81%E0%B8%9E.json"
+    },
+    {
+      "count": 2,
+      "name": "ช้างกลาง",
+      "slug": "ช้างกลาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "ดอยสะเก็ด",
+      "slug": "ดอยสะเก็ด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%94.json"
+    },
+    {
+      "count": 2,
+      "name": "ตะพานหิน",
+      "slug": "ตะพานหิน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%95%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%B4%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "ตาพระยา",
+      "slug": "ตาพระยา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%95%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "ตาลสุม",
+      "slug": "ตาลสุม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%AA%E0%B8%B8%E0%B8%A1.json"
+    },
+    {
+      "count": 2,
+      "name": "ทัพทัน",
+      "slug": "ทัพทัน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%97%E0%B8%B1%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "ทุ่งฝน",
+      "slug": "ทุ่งฝน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%9D%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "ทุ่งเสลี่ยม",
+      "slug": "ทุ่งเสลี่ยม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1.json"
+    },
+    {
+      "count": 2,
+      "name": "ท่าวังผา",
+      "slug": "ท่าวังผา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "ท่าวังผา | เวียงสา",
+      "slug": "ท่าวังผา-เวียงสา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%9C%E0%B8%B2-%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "ท่าใหม่",
+      "slug": "ท่าใหม่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.json"
+    },
+    {
+      "count": 2,
+      "name": "ธารโต",
+      "slug": "ธารโต",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%95.json"
+    },
+    {
+      "count": 2,
+      "name": "นางรอง",
+      "slug": "นางรอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "บัวใหญ่",
+      "slug": "บัวใหญ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.json"
+    },
+    {
+      "count": 2,
+      "name": "บางสะพานน้อย",
+      "slug": "บางสะพานน้อย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 2,
+      "name": "บ้านนา",
+      "slug": "บ้านนา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "บ้านบึง",
+      "slug": "บ้านบึง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%B6%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "บ้านม่วง",
+      "slug": "บ้านม่วง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "บ้านหลวง",
+      "slug": "บ้านหลวง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "บ้านไร่",
+      "slug": "บ้านไร่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%A3%E0%B9%88.json"
+    },
+    {
+      "count": 2,
+      "name": "ปทุมรัตต์",
+      "slug": "ปทุมรัตต์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B9%8C.json"
+    },
+    {
+      "count": 2,
+      "name": "ปทุมราชวงศา",
+      "slug": "ปทุมราชวงศา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "ปรางค์กู่ | ศรีรัตนะ",
+      "slug": "ปรางค์กู่-ศรีรัตนะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%81%E0%B8%B9%E0%B9%88-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B0.json"
+    },
+    {
+      "count": 2,
+      "name": "ปากคาด",
+      "slug": "ปากคาด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%84%E0%B8%B2%E0%B8%94.json"
+    },
+    {
+      "count": 2,
+      "name": "ปางมะผ้า",
+      "slug": "ปางมะผ้า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B8%B0%E0%B8%9C%E0%B9%89%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "ปางศิลาทอง",
+      "slug": "ปางศิลาทอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "ฟากท่า",
+      "slug": "ฟากท่า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9F%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B9%88%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "ภูกระดึง",
+      "slug": "ภูกระดึง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A0%E0%B8%B9%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B6%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "ยี่งอ",
+      "slug": "ยี่งอ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%87%E0%B8%AD.json"
+    },
+    {
+      "count": 2,
+      "name": "ลาดยาว",
+      "slug": "ลาดยาว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%A2%E0%B8%B2%E0%B8%A7.json"
+    },
+    {
+      "count": 2,
+      "name": "ลำดวน",
+      "slug": "ลำดวน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B3%E0%B8%94%E0%B8%A7%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "ลำปลายมาศ",
+      "slug": "ลำปลายมาศ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B3%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%A1%E0%B8%B2%E0%B8%A8.json"
+    },
+    {
+      "count": 2,
+      "name": "ลี้",
+      "slug": "ลี้",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B5%E0%B9%89.json"
+    },
+    {
+      "count": 2,
+      "name": "วังชิ้น",
+      "slug": "วังชิ้น",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%8A%E0%B8%B4%E0%B9%89%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "วังทรายพูน",
+      "slug": "วังทรายพูน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%9E%E0%B8%B9%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "วังยาง",
+      "slug": "วังยาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "วังสามหมอ",
+      "slug": "วังสามหมอ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%AD.json"
+    },
+    {
+      "count": 2,
+      "name": "วัดโบสถ์",
+      "slug": "วัดโบสถ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%82%E0%B8%9A%E0%B8%AA%E0%B8%96%E0%B9%8C.json"
+    },
+    {
+      "count": 2,
+      "name": "ศรีนครินทร์",
+      "slug": "ศรีนครินทร์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.json"
+    },
+    {
+      "count": 2,
+      "name": "ศรีรัตนะ",
+      "slug": "ศรีรัตนะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B0.json"
+    },
+    {
+      "count": 2,
+      "name": "ศรีสำโรง",
+      "slug": "ศรีสำโรง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B3%E0%B9%82%E0%B8%A3%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "ศรีเชียงใหม่",
+      "slug": "ศรีเชียงใหม่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.json"
+    },
+    {
+      "count": 2,
+      "name": "สนม",
+      "slug": "สนม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%99%E0%B8%A1.json"
+    },
+    {
+      "count": 2,
+      "name": "สบปราบ",
+      "slug": "สบปราบ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A.json"
+    },
+    {
+      "count": 2,
+      "name": "สบเมย",
+      "slug": "สบเมย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%9A%E0%B9%80%E0%B8%A1%E0%B8%A2.json"
+    },
+    {
+      "count": 2,
+      "name": "สมเด็จ",
+      "slug": "สมเด็จ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88.json"
+    },
+    {
+      "count": 2,
+      "name": "สะเมิง",
+      "slug": "สะเมิง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "สังขะ",
+      "slug": "สังขะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%B0.json"
+    },
+    {
+      "count": 2,
+      "name": "สัตหีบ",
+      "slug": "สัตหีบ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B1%E0%B8%95%E0%B8%AB%E0%B8%B5%E0%B8%9A.json"
+    },
+    {
+      "count": 2,
+      "name": "สามเงา",
+      "slug": "สามเงา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%87%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "สิรินธร",
+      "slug": "สิรินธร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%A3.json"
+    },
+    {
+      "count": 2,
+      "name": "สูงเนิน",
+      "slug": "สูงเนิน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "หนองบัว",
+      "slug": "หนองบัว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A7.json"
+    },
+    {
+      "count": 2,
+      "name": "หนองพอก",
+      "slug": "หนองพอก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%AD%E0%B8%81.json"
+    },
+    {
+      "count": 2,
+      "name": "หนองมะโมง",
+      "slug": "หนองมะโมง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B0%E0%B9%82%E0%B8%A1%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "หนองเรือ",
+      "slug": "หนองเรือ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD.json"
+    },
+    {
+      "count": 2,
+      "name": "ห้วยกระเจา",
+      "slug": "ห้วยกระเจา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "ห้างฉัตร",
+      "slug": "ห้างฉัตร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3.json"
+    },
+    {
+      "count": 2,
+      "name": "อุทุมพรพิสัย",
+      "slug": "อุทุมพรพิสัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 2,
+      "name": "เกาะกูด",
+      "slug": "เกาะกูด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%81%E0%B8%B9%E0%B8%94.json"
+    },
+    {
+      "count": 2,
+      "name": "เกาะจันทร์",
+      "slug": "เกาะจันทร์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.json"
+    },
+    {
+      "count": 2,
+      "name": "เขาฉกรรจ์",
+      "slug": "เขาฉกรรจ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%89%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B9%8C.json"
+    },
+    {
+      "count": 2,
+      "name": "เขาวง | นามน",
+      "slug": "เขาวง-นามน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%87-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "เชียรใหญ่",
+      "slug": "เชียรใหญ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.json"
+    },
+    {
+      "count": 2,
+      "name": "เทพารักษ์",
+      "slug": "เทพารักษ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.json"
+    },
+    {
+      "count": 2,
+      "name": "เมืองปาน",
+      "slug": "เมืองปาน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%B2%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "เมืองศรีสะเกษ",
+      "slug": "เมืองศรีสะเกษ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%A9.json"
+    },
+    {
+      "count": 2,
+      "name": "เมืองสกลนคร",
+      "slug": "เมืองสกลนคร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%81%E0%B8%A5%E0%B8%99%E0%B8%84%E0%B8%A3.json"
+    },
+    {
+      "count": 2,
+      "name": "เมืองเลย",
+      "slug": "เมืองเลย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%A2.json"
+    },
+    {
+      "count": 2,
+      "name": "เมืองแม่ฮ่องสอน",
+      "slug": "เมืองแม่ฮ่องสอน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "เวียงชัย",
+      "slug": "เวียงชัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 2,
+      "name": "เวียงป่าเป้า",
+      "slug": "เวียงป่าเป้า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%89%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "เวียงสา",
+      "slug": "เวียงสา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "เสนา",
+      "slug": "เสนา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "เสริมงาม",
+      "slug": "เสริมงาม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%87%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 2,
+      "name": "แก่งกระจาน",
+      "slug": "แก่งกระจาน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%99.json"
+    },
+    {
+      "count": 2,
+      "name": "แก้งสนามนาง",
+      "slug": "แก้งสนามนาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "แม่ทา",
+      "slug": "แม่ทา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B8%B2.json"
+    },
+    {
+      "count": 2,
+      "name": "แม่ริม",
+      "slug": "แม่ริม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B4%E0%B8%A1.json"
+    },
+    {
+      "count": 2,
+      "name": "แม่สาย",
+      "slug": "แม่สาย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 2,
+      "name": "แว้ง",
+      "slug": "แว้ง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A7%E0%B9%89%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "โซ่พิสัย",
+      "slug": "โซ่พิสัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%8B%E0%B9%88%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 2,
+      "name": "โพธิ์ประทับช้าง",
+      "slug": "โพธิ์ประทับช้าง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "โพนทอง",
+      "slug": "โพนทอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 2,
+      "name": "ไม้แก่น",
+      "slug": "ไม้แก่น",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "กรงปินัง",
+      "slug": "กรงปินัง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "กาบเชิง",
+      "slug": "กาบเชิง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B2%E0%B8%9A%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "กุฉินารายณ์",
+      "slug": "กุฉินารายณ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B8%E0%B8%89%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%93%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "กู่แก้ว",
+      "slug": "กู่แก้ว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%81%E0%B8%B9%E0%B9%88%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7.json"
+    },
+    {
+      "count": 1,
+      "name": "ขุขันธ์",
+      "slug": "ขุขันธ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%82%E0%B8%B8%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "ขุนยวม",
+      "slug": "ขุนยวม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A2%E0%B8%A7%E0%B8%A1.json"
+    },
+    {
+      "count": 1,
+      "name": "คลองใหญ่",
+      "slug": "คลองใหญ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.json"
+    },
+    {
+      "count": 1,
+      "name": "คอนสวรรค์",
+      "slug": "คอนสวรรค์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "คอนสาร",
+      "slug": "คอนสาร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3.json"
+    },
+    {
+      "count": 1,
+      "name": "คำเขื่อนแก้ว",
+      "slug": "คำเขื่อนแก้ว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7.json"
+    },
+    {
+      "count": 1,
+      "name": "ค่ายบางระจัน",
+      "slug": "ค่ายบางระจัน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "ฉวาง",
+      "slug": "ฉวาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%89%E0%B8%A7%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "ชะอวด",
+      "slug": "ชะอวด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%B0%E0%B8%AD%E0%B8%A7%E0%B8%94.json"
+    },
+    {
+      "count": 1,
+      "name": "ชำนิ",
+      "slug": "ชำนิ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%8A%E0%B8%B3%E0%B8%99%E0%B8%B4.json"
+    },
+    {
+      "count": 1,
+      "name": "ดอนตาล",
+      "slug": "ดอนตาล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A5.json"
+    },
+    {
+      "count": 1,
+      "name": "ดอนพุด",
+      "slug": "ดอนพุด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%9E%E0%B8%B8%E0%B8%94.json"
+    },
+    {
+      "count": 1,
+      "name": "ดอนมดแดง",
+      "slug": "ดอนมดแดง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%94%E0%B9%81%E0%B8%94%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "ด่านซ้าย",
+      "slug": "ด่านซ้าย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%8B%E0%B9%89%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "ตะพานหิน | บางมูลนาก",
+      "slug": "ตะพานหิน-บางมูลนาก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%95%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%B4%E0%B8%99-%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%99%E0%B8%B2%E0%B8%81.json"
+    },
+    {
+      "count": 1,
+      "name": "ตากฟ้า",
+      "slug": "ตากฟ้า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%95%E0%B8%B2%E0%B8%81%E0%B8%9F%E0%B9%89%E0%B8%B2.json"
+    },
+    {
+      "count": 1,
+      "name": "ตาคลี",
+      "slug": "ตาคลี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%95%E0%B8%B2%E0%B8%84%E0%B8%A5%E0%B8%B5.json"
+    },
+    {
+      "count": 1,
+      "name": "ทรายทองวัฒนา",
+      "slug": "ทรายทองวัฒนา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2.json"
+    },
+    {
+      "count": 1,
+      "name": "ทับสะแก",
+      "slug": "ทับสะแก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B0%E0%B9%81%E0%B8%81.json"
+    },
+    {
+      "count": 1,
+      "name": "ทุ่งช้าง",
+      "slug": "ทุ่งช้าง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "ทุ่งสง",
+      "slug": "ทุ่งสง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "ท่าคันโท",
+      "slug": "ท่าคันโท",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%97.json"
+    },
+    {
+      "count": 1,
+      "name": "ท่าตะเกียบ",
+      "slug": "ท่าตะเกียบ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%9A.json"
+    },
+    {
+      "count": 1,
+      "name": "ท่าตะโก",
+      "slug": "ท่าตะโก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B0%E0%B9%82%E0%B8%81.json"
+    },
+    {
+      "count": 1,
+      "name": "ท่าตูม",
+      "slug": "ท่าตูม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B9%E0%B8%A1.json"
+    },
+    {
+      "count": 1,
+      "name": "ท่าปลา",
+      "slug": "ท่าปลา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%A5%E0%B8%B2.json"
+    },
+    {
+      "count": 1,
+      "name": "ท่าลี่",
+      "slug": "ท่าลี่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%A5%E0%B8%B5%E0%B9%88.json"
+    },
+    {
+      "count": 1,
+      "name": "ท่าแพ",
+      "slug": "ท่าแพ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9E.json"
+    },
+    {
+      "count": 1,
+      "name": "ธวัชบุรี",
+      "slug": "ธวัชบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 1,
+      "name": "นครไทย",
+      "slug": "นครไทย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B9%84%E0%B8%97%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "นบพิตำ",
+      "slug": "นบพิตำ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%95%E0%B8%B3.json"
+    },
+    {
+      "count": 1,
+      "name": "นาดูน",
+      "slug": "นาดูน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%B9%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "นาด้วง",
+      "slug": "นาด้วง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "นายูง",
+      "slug": "นายูง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%B9%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "นาหม่อม",
+      "slug": "นาหม่อม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A1.json"
+    },
+    {
+      "count": 1,
+      "name": "นาแก",
+      "slug": "นาแก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%81.json"
+    },
+    {
+      "count": 1,
+      "name": "น้ำพอง",
+      "slug": "น้ำพอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%9E%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "บรรพตพิสัย",
+      "slug": "บรรพตพิสัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%95%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "บัวลาย",
+      "slug": "บัวลาย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "บางแพ",
+      "slug": "บางแพ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%9E.json"
+    },
+    {
+      "count": 1,
+      "name": "บาเจาะ",
+      "slug": "บาเจาะ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0.json"
+    },
+    {
+      "count": 1,
+      "name": "บำเหน็จณรงค์",
+      "slug": "บำเหน็จณรงค์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B3%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B9%87%E0%B8%88%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "บึงโขงหลง",
+      "slug": "บึงโขงหลง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B9%82%E0%B8%82%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "บ่อทอง",
+      "slug": "บ่อทอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "บ้านด่านลานหอย",
+      "slug": "บ้านด่านลานหอย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "บ้านด่านลานหอย | ศรีสำโรง | สามชุก",
+      "slug": "บ้านด่านลานหอย-ศรีสำโรง-สามชุก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%AD%E0%B8%A2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B3%E0%B9%82%E0%B8%A3%E0%B8%87-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%B8%E0%B8%81.json"
+    },
+    {
+      "count": 1,
+      "name": "บ้านตาขุน",
+      "slug": "บ้านตาขุน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%82%E0%B8%B8%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "บ้านแฮด",
+      "slug": "บ้านแฮด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AE%E0%B8%94.json"
+    },
+    {
+      "count": 1,
+      "name": "บ้านโฮ่ง",
+      "slug": "บ้านโฮ่ง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%AE%E0%B9%88%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "ประทาย",
+      "slug": "ประทาย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "ประโคนชัย",
+      "slug": "ประโคนชัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "ปราสาท",
+      "slug": "ปราสาท",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%97.json"
+    },
+    {
+      "count": 1,
+      "name": "ปัว",
+      "slug": "ปัว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B1%E0%B8%A7.json"
+    },
+    {
+      "count": 1,
+      "name": "ปากพนัง",
+      "slug": "ปากพนัง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "ป่าติ้ว",
+      "slug": "ป่าติ้ว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A7.json"
+    },
+    {
+      "count": 1,
+      "name": "ป่าพะยอม",
+      "slug": "ป่าพะยอม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B0%E0%B8%A2%E0%B8%AD%E0%B8%A1.json"
+    },
+    {
+      "count": 1,
+      "name": "พนมดงรัก",
+      "slug": "พนมดงรัก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B8%94%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81.json"
+    },
+    {
+      "count": 1,
+      "name": "พนมทวน",
+      "slug": "พนมทวน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B8%97%E0%B8%A7%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "พบพระ",
+      "slug": "พบพระ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0.json"
+    },
+    {
+      "count": 1,
+      "name": "พรรณานิคม",
+      "slug": "พรรณานิคม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%A1.json"
+    },
+    {
+      "count": 1,
+      "name": "พระยืน",
+      "slug": "พระยืน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B7%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "พรเจริญ",
+      "slug": "พรเจริญ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D.json"
+    },
+    {
+      "count": 1,
+      "name": "พล",
+      "slug": "พล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%A5.json"
+    },
+    {
+      "count": 1,
+      "name": "พาน",
+      "slug": "พาน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B2%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "พิบูลมังสาหาร | สำโรง",
+      "slug": "พิบูลมังสาหาร-สำโรง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3-%E0%B8%AA%E0%B8%B3%E0%B9%82%E0%B8%A3%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "พิบูลมังสาหาร | โพธิ์ไทร",
+      "slug": "พิบูลมังสาหาร-โพธิ์ไทร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A3.json"
+    },
+    {
+      "count": 1,
+      "name": "พุทธมณฑล",
+      "slug": "พุทธมณฑล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A1%E0%B8%93%E0%B8%91%E0%B8%A5.json"
+    },
+    {
+      "count": 1,
+      "name": "ภูกามยาว",
+      "slug": "ภูกามยาว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A0%E0%B8%B9%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B2%E0%B8%A7.json"
+    },
+    {
+      "count": 1,
+      "name": "ภูสิงห์",
+      "slug": "ภูสิงห์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A0%E0%B8%B9%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "ภูเรือ",
+      "slug": "ภูเรือ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD.json"
+    },
+    {
+      "count": 1,
+      "name": "มหาชนะชัย",
+      "slug": "มหาชนะชัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "มะนัง",
+      "slug": "มะนัง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%B1%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "มัญจาคีรี",
+      "slug": "มัญจาคีรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A1%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%B2%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 1,
+      "name": "มายอ",
+      "slug": "มายอ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%AD.json"
+    },
+    {
+      "count": 1,
+      "name": "รัตนบุรี",
+      "slug": "รัตนบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 1,
+      "name": "รัษฎา",
+      "slug": "รัษฎา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A3%E0%B8%B1%E0%B8%A9%E0%B8%8E%E0%B8%B2.json"
+    },
+    {
+      "count": 1,
+      "name": "ราชสาส์น",
+      "slug": "ราชสาส์น",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AA%E0%B8%B2%E0%B8%AA%E0%B9%8C%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "ลอง",
+      "slug": "ลอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "ละงู",
+      "slug": "ละงู",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A5%E0%B8%B0%E0%B8%87%E0%B8%B9.json"
+    },
+    {
+      "count": 1,
+      "name": "วังเหนือ",
+      "slug": "วังเหนือ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD.json"
+    },
+    {
+      "count": 1,
+      "name": "วาริชภูมิ",
+      "slug": "วาริชภูมิ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4.json"
+    },
+    {
+      "count": 1,
+      "name": "วารินชำราบ",
+      "slug": "วารินชำราบ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%9A.json"
+    },
+    {
+      "count": 1,
+      "name": "ศรีวิไล",
+      "slug": "ศรีวิไล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B9%84%E0%B8%A5.json"
+    },
+    {
+      "count": 1,
+      "name": "ศีขรภูมิ",
+      "slug": "ศีขรภูมิ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%A8%E0%B8%B5%E0%B8%82%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4.json"
+    },
+    {
+      "count": 1,
+      "name": "สร้างคอม",
+      "slug": "สร้างคอม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%AD%E0%B8%A1.json"
+    },
+    {
+      "count": 1,
+      "name": "สว่างวีระวงศ์",
+      "slug": "สว่างวีระวงศ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "สว่างอารมณ์",
+      "slug": "สว่างอารมณ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "สอยดาว",
+      "slug": "สอยดาว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%AD%E0%B8%A2%E0%B8%94%E0%B8%B2%E0%B8%A7.json"
+    },
+    {
+      "count": 1,
+      "name": "สันกำแพง",
+      "slug": "สันกำแพง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%81%E0%B8%9E%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "สามโก้",
+      "slug": "สามโก้",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%81%E0%B9%89.json"
+    },
+    {
+      "count": 1,
+      "name": "สารภี",
+      "slug": "สารภี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A0%E0%B8%B5.json"
+    },
+    {
+      "count": 1,
+      "name": "สิชล",
+      "slug": "สิชล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B4%E0%B8%8A%E0%B8%A5.json"
+    },
+    {
+      "count": 1,
+      "name": "สีคิ้ว",
+      "slug": "สีคิ้ว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AA%E0%B8%B5%E0%B8%84%E0%B8%B4%E0%B9%89%E0%B8%A7.json"
+    },
+    {
+      "count": 1,
+      "name": "หนองฉาง",
+      "slug": "หนองฉาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "หนองแซง",
+      "slug": "หนองแซง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%8B%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "หว้านใหญ่",
+      "slug": "หว้านใหญ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.json"
+    },
+    {
+      "count": 1,
+      "name": "หันคา",
+      "slug": "หันคา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B2.json"
+    },
+    {
+      "count": 1,
+      "name": "หัวไทร",
+      "slug": "หัวไทร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%84%E0%B8%97%E0%B8%A3.json"
+    },
+    {
+      "count": 1,
+      "name": "หาดใหญ่",
+      "slug": "หาดใหญ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.json"
+    },
+    {
+      "count": 1,
+      "name": "อมก๋อย",
+      "slug": "อมก๋อย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B9%8B%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "อาจสามารถ",
+      "slug": "อาจสามารถ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96.json"
+    },
+    {
+      "count": 1,
+      "name": "ฮอด",
+      "slug": "ฮอด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B8%AE%E0%B8%AD%E0%B8%94.json"
+    },
+    {
+      "count": 1,
+      "name": "เขาค้อ",
+      "slug": "เขาค้อ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%84%E0%B9%89%E0%B8%AD.json"
+    },
+    {
+      "count": 1,
+      "name": "เขาชะเมา",
+      "slug": "เขาชะเมา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%B2.json"
+    },
+    {
+      "count": 1,
+      "name": "เขาชัยสน | ควนขนุน",
+      "slug": "เขาชัยสน-ควนขนุน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%99-%E0%B8%84%E0%B8%A7%E0%B8%99%E0%B8%82%E0%B8%99%E0%B8%B8%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "เขาย้อย",
+      "slug": "เขาย้อย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "เจริญศิลป์",
+      "slug": "เจริญศิลป์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "เจาะไอร้อง",
+      "slug": "เจาะไอร้อง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%84%E0%B8%AD%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "เชียงของ",
+      "slug": "เชียงของ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "เชียงม่วน",
+      "slug": "เชียงม่วน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "เชียงยืน",
+      "slug": "เชียงยืน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A2%E0%B8%B7%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "เซกา",
+      "slug": "เซกา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%8B%E0%B8%81%E0%B8%B2.json"
+    },
+    {
+      "count": 1,
+      "name": "เด่นชัย",
+      "slug": "เด่นชัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%94%E0%B9%88%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "เนินขาม",
+      "slug": "เนินขาม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 1,
+      "name": "เนินสง่า",
+      "slug": "เนินสง่า",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2.json"
+    },
+    {
+      "count": 1,
+      "name": "เบญจลักษ์",
+      "slug": "เบญจลักษ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "เมยวดี",
+      "slug": "เมยวดี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%A2%E0%B8%A7%E0%B8%94%E0%B8%B5.json"
+    },
+    {
+      "count": 1,
+      "name": "เมืองจันทบุรี",
+      "slug": "เมืองจันทบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 1,
+      "name": "เมืองนครสวรรค์",
+      "slug": "เมืองนครสวรรค์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "เมืองบุรีรัมย์",
+      "slug": "เมืองบุรีรัมย์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "เมืองยาง",
+      "slug": "เมืองยาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "เมืองอำนาจเจริญ",
+      "slug": "เมืองอำนาจเจริญ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%88%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D.json"
+    },
+    {
+      "count": 1,
+      "name": "เมืองอุบลราชธานี",
+      "slug": "เมืองอุบลราชธานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 1,
+      "name": "เมืองเชียงราย",
+      "slug": "เมืองเชียงราย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "เมืองเพชรบูรณ์ | วิเชียรบุรี",
+      "slug": "เมืองเพชรบูรณ์-วิเชียรบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 1,
+      "name": "เลิงนกทา",
+      "slug": "เลิงนกทา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%99%E0%B8%81%E0%B8%97%E0%B8%B2.json"
+    },
+    {
+      "count": 1,
+      "name": "เหล่าเสือโก้ก",
+      "slug": "เหล่าเสือโก้ก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%81.json"
+    },
+    {
+      "count": 1,
+      "name": "แก้งสนามนาง | จักราช",
+      "slug": "แก้งสนามนาง-จักราช",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%87-%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A.json"
+    },
+    {
+      "count": 1,
+      "name": "แปลงยาว",
+      "slug": "แปลงยาว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%9B%E0%B8%A5%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%A7.json"
+    },
+    {
+      "count": 1,
+      "name": "แม่จัน",
+      "slug": "แม่จัน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "แม่ฟ้าหลวง",
+      "slug": "แม่ฟ้าหลวง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.json"
+    },
+    {
+      "count": 1,
+      "name": "แม่วงก์",
+      "slug": "แม่วงก์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B9%8C.json"
+    },
+    {
+      "count": 1,
+      "name": "แม่สรวย",
+      "slug": "แม่สรวย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "แวงใหญ่",
+      "slug": "แวงใหญ่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%81%E0%B8%A7%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88.json"
+    },
+    {
+      "count": 1,
+      "name": "โคกเจริญ",
+      "slug": "โคกเจริญ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%84%E0%B8%81%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D.json"
+    },
+    {
+      "count": 1,
+      "name": "โคกโพธิ์ไชย",
+      "slug": "โคกโพธิ์ไชย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%82%E0%B8%84%E0%B8%81%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%84%E0%B8%8A%E0%B8%A2.json"
+    },
+    {
+      "count": 1,
+      "name": "ไชยวาน",
+      "slug": "ไชยวาน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%A7%E0%B8%B2%E0%B8%99.json"
+    },
+    {
+      "count": 1,
+      "name": "ไพรบึง",
+      "slug": "ไพรบึง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%9A%E0%B8%B6%E0%B8%87.json"
+    }
+  ]
+}

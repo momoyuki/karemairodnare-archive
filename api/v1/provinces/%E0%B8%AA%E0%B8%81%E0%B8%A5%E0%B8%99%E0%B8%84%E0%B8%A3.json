@@ -1,0 +1,728 @@
+{
+  "_meta": {
+    "count": 42,
+    "kind": "province",
+    "name": "สกลนคร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สกลนคร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โคกก่อง",
+      "district": "เมืองสกลนคร",
+      "id": "c26e3a4cc0df8ddd93d45d82",
+      "maskedId": "134xxxxxx9771",
+      "name": "กชพร สุภะนามัย",
+      "province": "สกลนคร",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลวาริชภูมิ",
+      "district": "วาริชภูมิ",
+      "id": "490c3992136530df3519031d",
+      "maskedId": "184xxxxxx0324",
+      "name": "กรวิกา สุรินราช",
+      "province": "สกลนคร",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลนาม่อง",
+      "district": "กุดบาก",
+      "id": "3ed9052a8b411a30a7c2e19b",
+      "maskedId": "147xxxxxx5814",
+      "name": "กานดา โคตรธรรม",
+      "province": "สกลนคร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B2-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "12b1736efe4b4b4c9643d0f4",
+      "maskedId": "141xxxxxx3399",
+      "name": "จิณณวัตร กุลกั้ง",
+      "province": "สกลนคร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%93%E0%B8%93%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%81%E0%B8%B1%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดงหม้อทอง",
+      "district": "บ้านม่วง",
+      "id": "3e5d513b5726c0bf0e02a1dc",
+      "maskedId": "143xxxxxx4097",
+      "name": "จินตนา รัตนมงคล",
+      "province": "สกลนคร",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสร้างค้อ",
+      "district": "ภูพาน",
+      "id": "3fd6ebbfbe2778b8b969264a",
+      "maskedId": "141xxxxxx3045",
+      "name": "จิราภรณ์ สิทธิโชติ",
+      "province": "สกลนคร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านโพน",
+      "district": "โพนนาแก้ว",
+      "id": "b40a32eb5f0647e88bc7244a",
+      "maskedId": "147xxxxxx1092",
+      "name": "ฉัตรธิยา ภูมิแก้ว",
+      "province": "สกลนคร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%98%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านโพน",
+      "district": "โพนนาแก้ว",
+      "id": "5e28571a1b9fde13f97066e6",
+      "maskedId": "148xxxxxx8549",
+      "name": "ชงฉวี ยศศรีเมือง",
+      "province": "สกลนคร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%87%E0%B8%89%E0%B8%A7%E0%B8%B5-%E0%B8%A2%E0%B8%A8%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสามัคคีพัฒนา",
+      "district": "อากาศอำนวย",
+      "id": "dd1ee537022c6b1cd25ffb27",
+      "maskedId": "143xxxxxx8070",
+      "name": "ชนิสรา วงศ์สุนา",
+      "province": "สกลนคร",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สกลนคร",
+      "district": "เมืองสกลนคร",
+      "id": "53e4e9fbd1545b553ba7d63a",
+      "maskedId": "141xxxxxx9058",
+      "name": "ชัดเจน โพธิ์นา",
+      "province": "สกลนคร",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%99-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธาตุทอง",
+      "district": "สว่างแดนดิน",
+      "id": "f4d2bacbcde500e03103f76f",
+      "maskedId": "139xxxxxx7325",
+      "name": "ฐตพล เกรียงไกร",
+      "province": "สกลนคร",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%95%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%84%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสามัคคีพัฒนา",
+      "district": "อากาศอำนวย",
+      "id": "151a7a1e6318d8ce58c4110e",
+      "maskedId": "147xxxxxx1796",
+      "name": "ณัฏฐ์ดนัย เนตรทองคำ",
+      "province": "สกลนคร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B9%8C%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วานรนิวาส",
+      "district": "วานรนิวาส",
+      "id": "63dcac82adc0a747d34354a1",
+      "maskedId": "143xxxxxx7291",
+      "name": "ณัฐชุดา จําปาศรี",
+      "province": "สกลนคร",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%9B%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกุดเรือคํา",
+      "district": "วานรนิวาส",
+      "id": "75a98eaeaac1f36848c939e1",
+      "maskedId": "147xxxxxx6786",
+      "name": "ทศพล นามวงษา",
+      "province": "สกลนคร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A5-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาตาล",
+      "district": "เต่างอย",
+      "id": "237d85727d2378e2d2f33b6e",
+      "maskedId": "148xxxxxx7193",
+      "name": "ทักษ์ดนัย สุวรรณสาร",
+      "province": "สกลนคร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบงใต้",
+      "district": "สว่างแดนดิน",
+      "id": "520ecc0dba83c252c15ea100",
+      "maskedId": "143xxxxxx9279",
+      "name": "ทัศนชัย สุวิชัย",
+      "province": "สกลนคร",
+      "scoreChange": 8,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วานรนิวาส",
+      "district": "วานรนิวาส",
+      "id": "854752c59e8ec01ed9cf09f6",
+      "maskedId": "147xxxxxx3761",
+      "name": "ธนะยชญ์ แก้วลา",
+      "province": "สกลนคร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B0%E0%B8%A2%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกุดไห",
+      "district": "กุดบาก",
+      "id": "d85052e4b38e6c8b707febdc",
+      "maskedId": "141xxxxxx1908",
+      "name": "ธนัชชา บุตรอินทร์",
+      "province": "สกลนคร",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกุดไห",
+      "district": "กุดบาก",
+      "id": "3752f71cb208b0d5a1ad2d06",
+      "maskedId": "147xxxxxx6975",
+      "name": "ธรรมนูญ ตันติศิริธนากร",
+      "province": "สกลนคร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%8D-%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวาใหญ่",
+      "district": "อากาศอำนวย",
+      "id": "98106e1228e70c6a8b646629",
+      "maskedId": "147xxxxxx8797",
+      "name": "ปฐมาวดี มาสขาว",
+      "province": "สกลนคร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "4ac15cf11b66ace5ccc58e45",
+      "maskedId": "143xxxxxx7931",
+      "name": "ปานวาส อัครพีรยา",
+      "province": "สกลนคร",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%AA-%E0%B8%AD%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาใน",
+      "district": "พรรณานิคม",
+      "id": "1a0255722a562493a126d419",
+      "maskedId": "146xxxxxx3477",
+      "name": "ปิยธิดา สุพรม",
+      "province": "สกลนคร",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเชียงสือ",
+      "district": "โพนนาแก้ว",
+      "id": "e4c8391d46a02e8423f1b62e",
+      "maskedId": "347xxxxxx1410",
+      "name": "พิณนภา นามนนท์",
+      "province": "สกลนคร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%93%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วานรนิวาส",
+      "district": "วานรนิวาส",
+      "id": "71adbc66328c75f13be12283",
+      "maskedId": "143xxxxxx9127",
+      "name": "พิมลพรรณ แพงน้อย",
+      "province": "สกลนคร",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "fc3832b94f61d395e81ba49e",
+      "maskedId": "147xxxxxx0700",
+      "name": "พีนาพียา สื่อกลาง",
+      "province": "สกลนคร",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มาย",
+      "district": "บ้านม่วง",
+      "id": "da2d32815932e480e000b7d8",
+      "maskedId": "147xxxxxx3337",
+      "name": "ฟาริดา ดวงสิมมา",
+      "province": "สกลนคร",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กกปลาซิว",
+      "district": "ภูพาน",
+      "id": "e289d60f32ecddba042ffc75",
+      "maskedId": "147xxxxxx1095",
+      "name": "ภูริวัฒน์ วัฒนวงศ์",
+      "province": "สกลนคร",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพนแพง",
+      "district": "อากาศอำนวย",
+      "id": "5522486993be99a42399ddd6",
+      "maskedId": "141xxxxxx7316",
+      "name": "มิถุนา สนิทชน",
+      "province": "สกลนคร",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B4%E0%B8%96%E0%B8%B8%E0%B8%99%E0%B8%B2-%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%8A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จันทร์เพ็ญ",
+      "district": "เต่างอย",
+      "id": "06a01b6fff8fc39cce738361",
+      "maskedId": "147xxxxxx8577",
+      "name": "รุ่งทิวา สังกฤษ",
+      "province": "สกลนคร",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จันทร์เพ็ญ",
+      "district": "เต่างอย",
+      "id": "2257fea5ec600f5beef63d9b",
+      "maskedId": "143xxxxxx4384",
+      "name": "วสันต์ แก้วเทพ",
+      "province": "สกลนคร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%97%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "064340bf782551256550b624",
+      "maskedId": "141xxxxxx2793",
+      "name": "วารุณี บุตรอินทร์",
+      "province": "สกลนคร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "f41c9667ff868e7aba051c59",
+      "maskedId": "141xxxxxx9861",
+      "name": "วิมลศรี เหลาผา",
+      "province": "สกลนคร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B8%A8%E0%B8%A3%E0%B8%B5-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%9C%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสร้างค้อ",
+      "district": "ภูพาน",
+      "id": "2b02f51e138c47997c02649a",
+      "maskedId": "130xxxxxx6661",
+      "name": "ศุภรัตน์ ทองเกษม",
+      "province": "สกลนคร",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อินทร์แปลง",
+      "district": "วานรนิวาส",
+      "id": "aac3b92bd4696f65c8a98282",
+      "maskedId": "343xxxxxx1209",
+      "name": "สริดา เจริญจิตร",
+      "province": "สกลนคร",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพนแพง",
+      "district": "อากาศอำนวย",
+      "id": "dece50b73beecfe28b661b60",
+      "maskedId": "147xxxxxx0314",
+      "name": "สุดาพร อินธิฤทธิ์",
+      "province": "สกลนคร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสว่างแดนดิน",
+      "district": "สว่างแดนดิน",
+      "id": "20605601d43480cc7d0403ce",
+      "maskedId": "141xxxxxx2952",
+      "name": "สุธารดี อ้อมนอก",
+      "province": "สกลนคร",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B5-%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาฮี",
+      "district": "อากาศอำนวย",
+      "id": "ae9371db23dad53928dabc48",
+      "maskedId": "143xxxxxx2266",
+      "name": "สุรเดช อยู่เย็น",
+      "province": "สกลนคร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "da9e79a15a97c1cfa2d7aa93",
+      "maskedId": "141xxxxxx1043",
+      "name": "อนนต์ โพธิ์สอน",
+      "province": "สกลนคร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสร้างค้อ",
+      "district": "ภูพาน",
+      "id": "d39e3740282e7e97cb848fa0",
+      "maskedId": "145xxxxxx6727",
+      "name": "อภิญญา สิทธิศักดิ์",
+      "province": "สกลนคร",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเจริญศิลป์",
+      "district": "เจริญศิลป์",
+      "id": "94e759ced9e7c0a50bb1d4c0",
+      "maskedId": "143xxxxxx2423",
+      "name": "อภิรัฐ หงษ์ชูตา",
+      "province": "สกลนคร",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%AB%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%8A%E0%B8%B9%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วานรนิวาส",
+      "district": "วานรนิวาส",
+      "id": "303aaf9acc55794867f20680",
+      "maskedId": "546xxxxxx4404",
+      "name": "เมธาวี ทองพัด",
+      "province": "สกลนคร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%B5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อากาศ",
+      "district": "อากาศอำนวย",
+      "id": "2f27c4c0a523270949e16dff",
+      "maskedId": "343xxxxxx3771",
+      "name": "โสภา กุลชาติ",
+      "province": "สกลนคร",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

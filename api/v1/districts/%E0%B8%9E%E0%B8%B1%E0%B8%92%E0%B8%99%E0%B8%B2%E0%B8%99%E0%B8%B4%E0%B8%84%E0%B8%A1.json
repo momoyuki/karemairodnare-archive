@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "count": 11,
+    "kind": "district",
+    "name": "พัฒนานิคม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พัฒนานิคม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.มะนาวหวาน",
+      "district": "พัฒนานิคม",
+      "id": "5fd7d9fbfc81d4f747e518e7",
+      "maskedId": "116xxxxxx2096",
+      "name": "ธฤต สีฉายยา",
+      "province": "ลพบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A4%E0%B8%95-%E0%B8%AA%E0%B8%B5%E0%B8%89%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะนาวหวาน",
+      "district": "พัฒนานิคม",
+      "id": "c6a5c77a6c21f2ece8a4060c",
+      "maskedId": "116xxxxxx3124",
+      "name": "นฤมล จำนงค์ศรี",
+      "province": "ลพบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะนาวหวาน",
+      "district": "พัฒนานิคม",
+      "id": "c2da5df3c43c7d5061f4c8d0",
+      "maskedId": "133xxxxxx0420",
+      "name": "ปวีณา จันทเสน",
+      "province": "ลพบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะนาวหวาน",
+      "district": "พัฒนานิคม",
+      "id": "75d280634573aa67559808b5",
+      "maskedId": "133xxxxxx6541",
+      "name": "พิสมัย หารไชย",
+      "province": "ลพบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%A2-%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกสลุง",
+      "district": "พัฒนานิคม",
+      "id": "b7d88640506513eeb743ed05",
+      "maskedId": "165xxxxxx7313",
+      "name": "พุธิตา ใบเตย",
+      "province": "ลพบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%83%E0%B8%9A%E0%B9%80%E0%B8%95%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกสลุง",
+      "district": "พัฒนานิคม",
+      "id": "dd1fa4a2cef02bc39dbe1751",
+      "maskedId": "113xxxxxx5010",
+      "name": "วัลวิภา ธนปริพัฒน์",
+      "province": "ลพบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%98%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาพระยาเดินธง",
+      "district": "พัฒนานิคม",
+      "id": "286f7c98dd6e9d0fcd9b14b4",
+      "maskedId": "119xxxxxx9158",
+      "name": "วารุณี อําพันทอง",
+      "province": "ลพบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B8%AD%E0%B9%8D%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ช่องสาริกา",
+      "district": "พัฒนานิคม",
+      "id": "1ca61534e46b7ae4d1ef5cf7",
+      "maskedId": "137xxxxxx8917",
+      "name": "วิภาวดี ยิ่งนอก",
+      "province": "ลพบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ช่องสาริกา",
+      "district": "พัฒนานิคม",
+      "id": "a85b7f863bd66991cee23a26",
+      "maskedId": "151xxxxxx1021",
+      "name": "วิลาสินี ฟูตั้ง",
+      "province": "ลพบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%9F%E0%B8%B9%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ช่องสาริกา",
+      "district": "พัฒนานิคม",
+      "id": "55f2df7755bd04736a775b2c",
+      "maskedId": "123xxxxxx6825",
+      "name": "เบญจมาภรณ์ เจริญทรง",
+      "province": "ลพบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%97%E0%B8%A3%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยขุนราม",
+      "district": "พัฒนานิคม",
+      "id": "db3ddc91fcc594c45e3ce8d7",
+      "maskedId": "116xxxxxx4541",
+      "name": "เพชรนรินทร์ เจริญสุข",
+      "province": "ลพบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

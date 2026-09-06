@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "สากเหล็ก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สากเหล็ก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คลองทราย",
+      "district": "สากเหล็ก",
+      "id": "2f1214e254fdf89fe703b955",
+      "maskedId": "118xxxxxx1263",
+      "name": "ชัณยา เขียวผึ้ง",
+      "province": "พิจิตร",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลสากเหล็ก",
+      "district": "สากเหล็ก",
+      "id": "c31af76e79ae7e8684704b15",
+      "maskedId": "167xxxxxx8010",
+      "name": "ธันยนันท์ จันทร์ศรีนภา",
+      "province": "พิจิตร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองหญ้าไทร",
+      "district": "สากเหล็ก",
+      "id": "6c1556d4faaa8eee82710e2e",
+      "maskedId": "366xxxxxx0783",
+      "name": "รุ่งนภา ทองแก้ว",
+      "province": "พิจิตร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสากเหล็ก",
+      "district": "สากเหล็ก",
+      "id": "ac84bf269f7fc329e18355b3",
+      "maskedId": "114xxxxxx1908",
+      "name": "วรพงษ์ แจ่มเจริญ",
+      "province": "พิจิตร",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองทราย",
+      "district": "สากเหล็ก",
+      "id": "062bfdbc89866cf1b8c7e3dc",
+      "maskedId": "110xxxxxx5438",
+      "name": "วิภารัตน์ พุ่มพูล",
+      "province": "พิจิตร",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.คลองทราย",
+      "district": "สากเหล็ก",
+      "id": "ce028178d8ce0224dcf98420",
+      "maskedId": "165xxxxxx8762",
+      "name": "อาภัสรา ชื่นอารมย์",
+      "province": "พิจิตร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

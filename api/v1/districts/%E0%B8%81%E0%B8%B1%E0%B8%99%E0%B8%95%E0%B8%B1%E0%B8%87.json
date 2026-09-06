@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "count": 11,
+    "kind": "district",
+    "name": "กันตัง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "กันตัง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลควนธานี",
+      "district": "กันตัง",
+      "id": "ab51547d867ad33e07654bf8",
+      "maskedId": "193xxxxxx0898",
+      "name": "กัญชลิกา สัจจะบุตร",
+      "province": "ตรัง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลควนธานี",
+      "district": "กันตัง",
+      "id": "12785de8b2b67a5820e3c7e1",
+      "maskedId": "191xxxxxx6180",
+      "name": "จิตนภา ธรรมทินโณ",
+      "province": "ตรัง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%97%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางหมาก",
+      "district": "กันตัง",
+      "id": "4a6894ddb2b9f215e14e79d1",
+      "maskedId": "110xxxxxx5911",
+      "name": "ฉัตรชัย เพ็งสุวรรณ์",
+      "province": "ตรัง",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กันตังใต้",
+      "district": "กันตัง",
+      "id": "5cec960c4adbbbcb3f118939",
+      "maskedId": "190xxxxxx8384",
+      "name": "ณัฐนรี หมวดเพชร",
+      "province": "ตรัง",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%99%E0%B8%A3%E0%B8%B5-%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ย่านซื่อ",
+      "district": "กันตัง",
+      "id": "c0ce42ac3eefe15656a727d4",
+      "maskedId": "195xxxxxx0373",
+      "name": "ณัสนิน หะยีเด",
+      "province": "ตรัง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%99-%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B9%80%E0%B8%94",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บางสัก",
+      "district": "กันตัง",
+      "id": "da8acfbc35d1e7fc5cbfd933",
+      "maskedId": "190xxxxxx9387",
+      "name": "นรินทร์ เสมอวงศ์",
+      "province": "ตรัง",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกันตัง",
+      "district": "กันตัง",
+      "id": "2f31baae33cb362e10f2cda7",
+      "maskedId": "192xxxxxx3561",
+      "name": "พิลาวัลย์ ธรรมรัตน์",
+      "province": "ตรัง",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางเป้า",
+      "district": "กันตัง",
+      "id": "f65c869a01c64d69c16d6bc9",
+      "maskedId": "192xxxxxx0388",
+      "name": "ภูมิ วิสุทธิกาญจน์",
+      "province": "ตรัง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4-%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กันตังใต้",
+      "district": "กันตัง",
+      "id": "5d6dab580211026221c91ae8",
+      "maskedId": "190xxxxxx9039",
+      "name": "วันเฉลิม ผ่องสุวรรณ์",
+      "province": "ตรัง",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางหมาก",
+      "district": "กันตัง",
+      "id": "0c2eee7fc6eb6b732a85d8ac",
+      "maskedId": "192xxxxxx6313",
+      "name": "อนิตยา สุขกาว",
+      "province": "ตรัง",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%81%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางเป้า",
+      "district": "กันตัง",
+      "id": "ed025a0c54b339051bde0c9f",
+      "maskedId": "193xxxxxx9964",
+      "name": "ฮาดีย์ หนูหนุด",
+      "province": "ตรัง",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B2%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

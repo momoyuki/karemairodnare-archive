@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลเมืองชะอํา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองชะอํา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองชะอํา",
+      "district": "ชะอำ",
+      "id": "f841e7ca10f04fe751a71a40",
+      "maskedId": "177xxxxxx3101",
+      "name": "ธนโชติ กุณฑีทอง",
+      "province": "เพชรบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4-%E0%B8%81%E0%B8%B8%E0%B8%93%E0%B8%91%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชะอํา",
+      "district": "ชะอำ",
+      "id": "a23b6ac357b1069940364a8c",
+      "maskedId": "173xxxxxx4901",
+      "name": "สุรศักดิ์ โทนทอง",
+      "province": "เพชรบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

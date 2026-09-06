@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "เมืองมหาสารคาม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองมหาสารคาม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองปลิง",
+      "district": "เมืองมหาสารคาม",
+      "id": "a1cb53af7a92caefa87260a9",
+      "maskedId": "117xxxxxx3573",
+      "name": "กฤติยาภรณ์ เทียนบาง",
+      "province": "มหาสารคาม",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองปลิง",
+      "district": "เมืองมหาสารคาม",
+      "id": "1bae30d265bed34d4b5f095a",
+      "maskedId": "172xxxxxx7639",
+      "name": "กุลิสรา เที่ยงธรรม",
+      "province": "มหาสารคาม",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ท่าสองคอน",
+      "district": "เมืองมหาสารคาม",
+      "id": "725cfd4be626b3c6052ce09a",
+      "maskedId": "140xxxxxx0413",
+      "name": "ธิดารัตน์ นามวงษ์",
+      "province": "มหาสารคาม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขวา",
+      "district": "เมืองมหาสารคาม",
+      "id": "505cbe68a96463a7da2b5853",
+      "maskedId": "331xxxxxx9053",
+      "name": "น้ําผึ้ง เชียงแสน",
+      "province": "มหาสารคาม",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87-%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

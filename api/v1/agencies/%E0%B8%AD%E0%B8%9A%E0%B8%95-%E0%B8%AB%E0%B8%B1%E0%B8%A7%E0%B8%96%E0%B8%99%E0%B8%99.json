@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.หัวถนน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-หัวถนน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หัวถนน",
+      "district": "ท่าตะโก",
+      "id": "c69f6f4808a9be2f8b1c2e61",
+      "maskedId": "163xxxxxx9152",
+      "name": "ธีริทธ์ ทองแดง",
+      "province": "นครสวรรค์",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หัวถนน",
+      "district": "คลองขลุง",
+      "id": "f4b02087e52de3cef6c1c5e2",
+      "maskedId": "110xxxxxx7455",
+      "name": "พิรดา สินสุข",
+      "province": "กำแพงเพชร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ถ้ำสิงห์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ถ้ำสิงห์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ถ้ำสิงห์",
+      "district": "เมืองชุมพร",
+      "id": "159ab2847ff88c115a9d10ac",
+      "maskedId": "386xxxxxx4737",
+      "name": "ชัยวัฒน์ อัมพวัน",
+      "province": "ชุมพร",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%A7%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ถ้ำสิงห์",
+      "district": "เมืองชุมพร",
+      "id": "3be33da4c248f52a8cf92f5a",
+      "maskedId": "180xxxxxx3985",
+      "name": "สุนิษา ลิ่นล้วน",
+      "province": "ชุมพร",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,4077 @@
+{
+  "_meta": {
+    "count": 239,
+    "kind": "province",
+    "name": "สุราษฎร์ธานี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สุราษฎร์ธานี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลคลองปราบ",
+      "district": "บ้านนาสาร",
+      "id": "98a945539151ab2739c29f19",
+      "maskedId": "180xxxxxx3677",
+      "name": "กชกร จินา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลขุนทะเล",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "b525d8bbbf294a760d6d5e67",
+      "maskedId": "380xxxxxx0277",
+      "name": "กชณิชา นิธิชวนากร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองปากแพรก",
+      "district": "ดอนสัก",
+      "id": "3247909853aff4e0cf8b9e52",
+      "maskedId": "186xxxxxx2859",
+      "name": "กมลชนก ยุวัฒนะ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%A2%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "f2ed0197390f5394c7777fa2",
+      "maskedId": "110xxxxxx5956",
+      "name": "กมลชนก อบแพทย์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านทำเนียบ",
+      "district": "คีรีรัฐนิคม",
+      "id": "78c940b5ac498f1d3f34d722",
+      "maskedId": "190xxxxxx3935",
+      "name": "กรรณิการ์ รักนุ้ย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเตาใหม่",
+      "district": "บ้านนาสาร",
+      "id": "74453becd538632c327cea32",
+      "maskedId": "184xxxxxx3505",
+      "name": "กรวิชญ์ แจ่มสะอาด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "b65e015b3c8e83bc896fbd3d",
+      "maskedId": "193xxxxxx7199",
+      "name": "กฤษฎา ชูรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%8A%E0%B8%B9%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองปราบ",
+      "district": "บ้านนาสาร",
+      "id": "2edd51bc873d9c238a5118cb",
+      "maskedId": "184xxxxxx2780",
+      "name": "กวินนาฎ สังข์ทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%8E-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พุนพิน",
+      "district": "พุนพิน",
+      "id": "28afe50d106ae3073b155bea",
+      "maskedId": "186xxxxxx7854",
+      "name": "กษิดิศ เจาะขาว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A9%E0%B8%B4%E0%B8%94%E0%B8%B4%E0%B8%A8-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "7713088c7f139ba540c7e425",
+      "maskedId": "180xxxxxx6330",
+      "name": "กัญญาภัค รอบคอบ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%AD%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "0fb6efff8c48d2b0fb127070",
+      "maskedId": "193xxxxxx0720",
+      "name": "กัลยา นุ้ยหนู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B2-%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าฉาง",
+      "district": "ท่าฉาง",
+      "id": "d43e0141fb1cf433e007dbaa",
+      "maskedId": "193xxxxxx6891",
+      "name": "กาญจนา เชาะปลอด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%8A%E0%B8%B2%E0%B8%B0%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อรัญคามวารี",
+      "district": "เคียนซา",
+      "id": "3360a1e83d8a1a56c77507ea",
+      "maskedId": "180xxxxxx1238",
+      "name": "กิตติศักดิ์ ศรีขวัญแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรัพย์ทวี",
+      "district": "บ้านนาเดิม",
+      "id": "934916eb440201e8846ed426",
+      "maskedId": "180xxxxxx2596",
+      "name": "กิตติศักดิ์ สุขศรีแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สินปุน",
+      "district": "พระแสง",
+      "id": "43131e1a15cee8dad68d1e10",
+      "maskedId": "180xxxxxx6733",
+      "name": "คณาวุฒิ รัตนะ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%93%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ชลคราม",
+      "district": "ดอนสัก",
+      "id": "7694c267c56df8acce4a25e0",
+      "maskedId": "180xxxxxx1105",
+      "name": "ครองขวัญ จินตรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สองแพรก",
+      "district": "ชัยบุรี",
+      "id": "a62a1972bcce499be37b2a10",
+      "maskedId": "196xxxxxx3253",
+      "name": "คอลีเยาะ ตาเยะ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%AD%E0%B8%A5%E0%B8%B5%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%B0-%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "3ddadbd99e9a1720649c41d4",
+      "maskedId": "195xxxxxx7744",
+      "name": "คุณัญญารัตน์ ทองเอียด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "e8bc20094ef0b966923f19aa",
+      "maskedId": "181xxxxxx4291",
+      "name": "จตุพร เพชรประเสริฐ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกใต้",
+      "district": "วิภาวดี",
+      "id": "372276d6f0c1184b8e749a3a",
+      "maskedId": "184xxxxxx8492",
+      "name": "จตุรพร สิทธิชู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "de832470c8af09c36b209828",
+      "maskedId": "186xxxxxx7710",
+      "name": "จรินทร์ภรณ์ พรหมรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกาะพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "4f0cea4b17eec5edc6dce225",
+      "maskedId": "140xxxxxx5623",
+      "name": "จักรพรรดิ เล้าเจริญชัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%94%E0%B8%B4-%E0%B9%80%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "4879d7b51f5486f509942069",
+      "maskedId": "195xxxxxx1454",
+      "name": "จักริน สามห้วย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากหมาก",
+      "district": "ไชยา",
+      "id": "bbd0177735965b7cd7a686bd",
+      "maskedId": "193xxxxxx9763",
+      "name": "จันจิรา จันทร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "b84332292f7ff08297038e20",
+      "maskedId": "193xxxxxx2146",
+      "name": "จันจิรา สังคะโน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B0%E0%B9%82%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลําพูน",
+      "district": "บ้านนาสาร",
+      "id": "5792839865086b5a0d0daf1f",
+      "maskedId": "193xxxxxx3433",
+      "name": "จันทร์ทิมา สีน้อย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนสัก",
+      "district": "ดอนสัก",
+      "id": "477e48d7a58711d0b5c709a2",
+      "maskedId": "180xxxxxx3555",
+      "name": "จันทิมา มีเดช",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกาะพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "184db2bddc4a877377046672",
+      "maskedId": "191xxxxxx5639",
+      "name": "จิรวัฒน์ ชูหนู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "4f2d30ebdcd81a668517dcd8",
+      "maskedId": "184xxxxxx7678",
+      "name": "จุฑาภรณ์ ตรียวง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชลคราม",
+      "district": "ดอนสัก",
+      "id": "23c005c40219e1d59752ea9b",
+      "maskedId": "193xxxxxx1080",
+      "name": "จุรารัตน์ ชูทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งกง",
+      "district": "กาญจนดิษฐ์",
+      "id": "5a7bcc8d95f72696b8dbabb4",
+      "maskedId": "192xxxxxx9980",
+      "name": "ชนกานต์ สมาธิ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "b5c8e435f54474e5751bad1e",
+      "maskedId": "190xxxxxx4264",
+      "name": "ชนัฎพิศุทร์ ชูแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%8E%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลควนศรี",
+      "district": "บ้านนาสาร",
+      "id": "1a420f7ac8a63b907133829c",
+      "maskedId": "190xxxxxx0891",
+      "name": "ชนากานต์ นวลพรหม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกรบ",
+      "district": "ไชยา",
+      "id": "0476c7febf79078e11e80483",
+      "maskedId": "246xxxxxx9639",
+      "name": "ชนากานต์ สกุลเดช",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B9%80%E0%B8%94%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "b44be4d12babd5ee2ec03860",
+      "maskedId": "190xxxxxx3822",
+      "name": "ชยุตพงศ์ ชูแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสวียด",
+      "district": "ท่าฉาง",
+      "id": "2827f86f29a769cc8a7690e5",
+      "maskedId": "193xxxxxx8422",
+      "name": "ชลธิชา เรืองรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "84952a74b41164bf911b7517",
+      "maskedId": "184xxxxxx0768",
+      "name": "ชลิตา คงทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองไทร",
+      "district": "ท่าฉาง",
+      "id": "1bc862632686e86bb952d612",
+      "maskedId": "180xxxxxx3869",
+      "name": "ชวนากร หล่อสุพรรณพร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "f84950a8f31fa68f25cb3a10",
+      "maskedId": "171xxxxxx4433",
+      "name": "ชาคริต มีทรัพย์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%95-%E0%B8%A1%E0%B8%B5%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "fef248e5c6e47a41f1f3a248",
+      "maskedId": "193xxxxxx3496",
+      "name": "ชาญวิทย์ สุดแป้น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.น้ําหัก",
+      "district": "คีรีรัฐนิคม",
+      "id": "b868e5cfc42a1e035ce6c587",
+      "maskedId": "184xxxxxx0021",
+      "name": "ชิติสรรค์ สิทธิชู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "a3286cd91af940d8ffbcec6a",
+      "maskedId": "193xxxxxx2145",
+      "name": "ชุติมา ช่วยบำรุง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%9A%E0%B8%B3%E0%B8%A3%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.คลองน้อย",
+      "district": "ชัยบุรี",
+      "id": "7d46a76b4beb58d823384bc3",
+      "maskedId": "193xxxxxx9344",
+      "name": "ซัยดี แหละหมัน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B1%E0%B8%A2%E0%B8%94%E0%B8%B5-%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B8%B0%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ชลคราม",
+      "district": "ดอนสัก",
+      "id": "4a90e39c8f66ab9030014c99",
+      "maskedId": "133xxxxxx1758",
+      "name": "ฐรินดา พรชัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "5f2392de88d6c416edf8731b",
+      "maskedId": "186xxxxxx7539",
+      "name": "ฐานิดา ไหมพรหม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "3e549bb4c43de51809bce725",
+      "maskedId": "186xxxxxx9891",
+      "name": "ฐิติวัฒน์ ศิริภิรมย์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กรูด",
+      "district": "พุนพิน",
+      "id": "d3f3d30b69d343163de6a577",
+      "maskedId": "180xxxxxx6172",
+      "name": "ฐิรกานต์ หนูนวล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "d715e7a91db92efc11a80c7a",
+      "maskedId": "193xxxxxx0256",
+      "name": "ฑิตฐิยา ย้อยด้วง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%91%E0%B8%B4%E0%B8%95%E0%B8%90%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนสัก",
+      "district": "ดอนสัก",
+      "id": "b1ab71c0e24f7a3727df19e0",
+      "maskedId": "180xxxxxx1300",
+      "name": "ณัฎฐา กลับทับลังค์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทรโสภา",
+      "district": "พระแสง",
+      "id": "02b1d57e90cfb115b41525e1",
+      "maskedId": "184xxxxxx5761",
+      "name": "ณัฏฐวี มงคลพันธ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%A7%E0%B8%B5-%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเพชรพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "4845d09424127da9025055a5",
+      "maskedId": "191xxxxxx9314",
+      "name": "ณัฐกฤตา เกื้อสกุล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนสัก",
+      "district": "ดอนสัก",
+      "id": "cb0bc30d51a8f9b724f489c4",
+      "maskedId": "186xxxxxx0338",
+      "name": "ณัฐณิชา กลับ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "a3dc0e4b4e9737f3e8b17ed2",
+      "maskedId": "173xxxxxx4688",
+      "name": "ณัฐดนัย วิเชียร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พลายวาส",
+      "district": "กาญจนดิษฐ์",
+      "id": "9d5742c20739037c675fe269",
+      "maskedId": "180xxxxxx1884",
+      "name": "ณัฐติกานต์ จันทร์ทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สองแพรก",
+      "district": "ชัยบุรี",
+      "id": "6382541ea5f680b1934bfe5d",
+      "maskedId": "180xxxxxx5901",
+      "name": "ณัฐธิดา จันทร์นิ่ม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "b37cfa99f58a8d2018c37fb3",
+      "maskedId": "180xxxxxx7191",
+      "name": "ณัฐธิดา สมเชื้อ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทรทอง",
+      "district": "ชัยบุรี",
+      "id": "a5b5ede1e5d2abb0729c7aef",
+      "maskedId": "180xxxxxx7430",
+      "name": "ณัฐนันท์ เซ่งอั้น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%8B%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%B1%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าโรงช้าง",
+      "district": "พุนพิน",
+      "id": "ba268d828551ba1bf06b3bf1",
+      "maskedId": "180xxxxxx0344",
+      "name": "ณัฐภัทร โพธิพฤกษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เลม็ด",
+      "district": "ไชยา",
+      "id": "373d5d0c1de700a8adfd392f",
+      "maskedId": "184xxxxxx5876",
+      "name": "ณัฐรดี ทิพย์บรรพต",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A3%E0%B8%94%E0%B8%B5-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเพชรพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "9544c22c5bacb58c9aea3462",
+      "maskedId": "193xxxxxx1843",
+      "name": "ณัฐริกา เกตุมณี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเคียนซา",
+      "district": "เคียนซา",
+      "id": "798b731058f71d1d8ad0d361",
+      "maskedId": "190xxxxxx3416",
+      "name": "ณิชกมล ราชสุวรรณ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%81%E0%B8%A1%E0%B8%A5-%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลีเล็ด",
+      "district": "พุนพิน",
+      "id": "e376f43647a8324e357f248c",
+      "maskedId": "186xxxxxx8081",
+      "name": "ดาราพร คงทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "9cfb40f5b29835c4face18ec",
+      "maskedId": "190xxxxxx1706",
+      "name": "ตรีชนา อร่ามชัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%99%E0%B8%B2-%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ต้นยวน",
+      "district": "พนม",
+      "id": "cee3f7d64c2e5ae04ce29557",
+      "maskedId": "180xxxxxx9721",
+      "name": "ตรีเพชร เขียวบุญจันทร์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กรูด",
+      "district": "พุนพิน",
+      "id": "45a076731ae0cfbb690b1e97",
+      "maskedId": "193xxxxxx5400",
+      "name": "ตวิษา ณ พัทลุง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%93-%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%A5%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปากแพรก",
+      "district": "ดอนสัก",
+      "id": "b7b3fa9298b6a947730f533f",
+      "maskedId": "284xxxxxx3445",
+      "name": "ติณห์นภัส ปานสังข์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%B4%E0%B8%93%E0%B8%AB%E0%B9%8C%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.คันธุลี",
+      "district": "ท่าชนะ",
+      "id": "d9ac3633e49224045bba32b2",
+      "maskedId": "190xxxxxx7770",
+      "name": "ทิตยา ส่งเสริม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "df00a82669ed1159a564aff7",
+      "maskedId": "184xxxxxx3995",
+      "name": "ทิพย์สุดา ไสวพันธ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B9%84%E0%B8%AA%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่ง",
+      "district": "ไชยา",
+      "id": "7b3c92e4972853c009d92d11",
+      "maskedId": "193xxxxxx6991",
+      "name": "ธนพร อ่อนรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A3-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองน้อย",
+      "district": "ชัยบุรี",
+      "id": "aa1f403b93e0c1c425edaae9",
+      "maskedId": "196xxxxxx2520",
+      "name": "ธนาพันธ์ ประพันธ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "0938dca5620003689f020b8a",
+      "maskedId": "190xxxxxx4662",
+      "name": "ธรรมธิมา สีไหม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B9%84%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คันธุลี",
+      "district": "ท่าชนะ",
+      "id": "4120bad45d311dbf7f332e1a",
+      "maskedId": "377xxxxxx8114",
+      "name": "ธวัชชัย ไกรแคว้น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B9%81%E0%B8%84%E0%B8%A7%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกใต้",
+      "district": "วิภาวดี",
+      "id": "2917a7d006fd6bbc6382960f",
+      "maskedId": "190xxxxxx1370",
+      "name": "ธิญาดา ด้วงเอียด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "7e780867860ea49f45eebf1a",
+      "maskedId": "193xxxxxx2141",
+      "name": "ธีระ เกื้อสกุล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "37678d6ec0ae4d1dc13897f1",
+      "maskedId": "193xxxxxx1034",
+      "name": "ธีระพงค์ คงทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โมถ่าย",
+      "district": "ไชยา",
+      "id": "f456f2780ef3a340be9e9c00",
+      "maskedId": "193xxxxxx5343",
+      "name": "นพพร คงกลับ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปา",
+      "district": "คีรีรัฐนิคม",
+      "id": "7bfcfa46a5120ef1e46cde7f",
+      "maskedId": "181xxxxxx4111",
+      "name": "นพัสกร คงสกุล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%A3-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาใต้",
+      "district": "บ้านนาเดิม",
+      "id": "ee48301a2de02899d9d6b014",
+      "maskedId": "193xxxxxx6613",
+      "name": "นภัส รอดชุม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองชะอุ่น",
+      "district": "พนม",
+      "id": "6736fe4cb531ba7aa68355ab",
+      "maskedId": "384xxxxxx5291",
+      "name": "นภาพร สนธิศักดิ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "554b8733f89ca20ffb8ba8a5",
+      "maskedId": "180xxxxxx5502",
+      "name": "นรวิชญ์ พรหมสุทธิ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทรทอง",
+      "district": "ชัยบุรี",
+      "id": "2542f0f59922c4d4f641cce9",
+      "maskedId": "181xxxxxx7967",
+      "name": "นรารัตน์ จุลมัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B8%E0%B8%A5%E0%B8%A1%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ไทรขึง",
+      "district": "พระแสง",
+      "id": "c848b98188e4a094b2141625",
+      "maskedId": "180xxxxxx7315",
+      "name": "นฤมล ไชยผดุง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%9C%E0%B8%94%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่ง",
+      "district": "ไชยา",
+      "id": "bf5f48ed132e6b4316731097",
+      "maskedId": "186xxxxxx0191",
+      "name": "นันทชัย ไหมพรหม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "1ab056c5fde24b798dda153e",
+      "maskedId": "191xxxxxx7138",
+      "name": "นันทิตา หมีดโสะ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B8%94%E0%B9%82%E0%B8%AA%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เลม็ด",
+      "district": "ไชยา",
+      "id": "4479412ca6c5e103d0483de6",
+      "maskedId": "184xxxxxx2627",
+      "name": "นาฏอนงค์ ทองสุข",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B8%8F%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "13bfc91aedcdbabe8c7b542d",
+      "maskedId": "192xxxxxx7842",
+      "name": "นิปัจการ ปานยัง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกใต้",
+      "district": "วิภาวดี",
+      "id": "70e6780cbe41cf3f217226eb",
+      "maskedId": "193xxxxxx6160",
+      "name": "นิศากร ชูปาน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%8A%E0%B8%B9%E0%B8%9B%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาวง",
+      "district": "บ้านตาขุน",
+      "id": "517a56a249db6ca33b141e04",
+      "maskedId": "193xxxxxx3691",
+      "name": "นุชรีย์ ทองสม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ไทรขึง",
+      "district": "พระแสง",
+      "id": "0af7932a5f4a2df8a2a11b83",
+      "maskedId": "194xxxxxx3300",
+      "name": "นูรไลลา สาและ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B9%84%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทรโสภา",
+      "district": "พระแสง",
+      "id": "073b2f8f967005ca7f8c8c3a",
+      "maskedId": "393xxxxxx3273",
+      "name": "บุณยวีร์ ธานีรัตนาภิบาล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B9%8C-%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%B4%E0%B8%9A%E0%B8%B2%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรัพย์ทวี",
+      "district": "บ้านนาเดิม",
+      "id": "8e81a855b4f8c995f21beffe",
+      "maskedId": "184xxxxxx9521",
+      "name": "ประกายดาว พินิจอักษร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B2%E0%B8%A7-%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%88%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสวียด",
+      "district": "ท่าฉาง",
+      "id": "656f6c40902d8c1db6d44466",
+      "maskedId": "180xxxxxx0404",
+      "name": "ปรินดา นาคแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "8a8dcf03595efbe36c5131eb",
+      "maskedId": "193xxxxxx1123",
+      "name": "ปริวัตร ดําเพชร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%94%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากหมาก",
+      "district": "ไชยา",
+      "id": "1a17d6467fc0676dbdb89637",
+      "maskedId": "184xxxxxx1185",
+      "name": "ปรียาภรณ์ ลูกมณี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "61ea8ce75e8357029159a49d",
+      "maskedId": "384xxxxxx3081",
+      "name": "ปวิชญาดา รักกะเปา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ท่าสะท้อน",
+      "district": "พุนพิน",
+      "id": "8fc9b5395599a377d5583f12",
+      "maskedId": "190xxxxxx7424",
+      "name": "ปัฐมาวดี ขวัญเนียม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าข้าม",
+      "district": "พุนพิน",
+      "id": "81f3e6dffc824ff7b4863343",
+      "maskedId": "184xxxxxx1398",
+      "name": "ปาณัสม์ นาคสุวรรณ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%AA%E0%B8%A1%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โมถ่าย",
+      "district": "ไชยา",
+      "id": "fe7be80093c848d89b851967",
+      "maskedId": "193xxxxxx1664",
+      "name": "ปาลิตา เรืองแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "5d1ecbcd089961de8d8bbce2",
+      "maskedId": "193xxxxxx1647",
+      "name": "ปิติกร หมุนรอด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3-%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากหมาก",
+      "district": "ไชยา",
+      "id": "9b6800c7593a5f5472e1ffe8",
+      "maskedId": "193xxxxxx5274",
+      "name": "ปิยธิดา บุญญานุวัตร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทรโสภา",
+      "district": "พระแสง",
+      "id": "76c6a94eeeee8828b749a727",
+      "maskedId": "193xxxxxx0034",
+      "name": "ปิยะธิดา เสนทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "1bcb748fa89defc7e0be0595",
+      "maskedId": "184xxxxxx1310",
+      "name": "ปิยะพร ตรีเล็ก",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%9E%E0%B8%A3-%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากหมาก",
+      "district": "ไชยา",
+      "id": "f93dc15ee854b342f3246b82",
+      "maskedId": "184xxxxxx5626",
+      "name": "ปุณณัตถ์ คงธานี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%93%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "44c7dd5778aff6f2600f1910",
+      "maskedId": "110xxxxxx7327",
+      "name": "พงศกร พุทธิปิลันธน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%81%E0%B8%A3-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลขุนทะเล",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "baaeb4b4f4663a1914303bf5",
+      "maskedId": "184xxxxxx7691",
+      "name": "พงศพัฒน์ พันธเสน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ไทรทอง",
+      "district": "ชัยบุรี",
+      "id": "bff6965e6ef28b9dac8e67e5",
+      "maskedId": "181xxxxxx2245",
+      "name": "พงศ์ศิริ ชุมศรี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "837c215d8c7457ec5bb6e1f0",
+      "maskedId": "186xxxxxx5954",
+      "name": "พงศ์อมร สุขบันเทิง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AD%E0%B8%A1%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "270670f402201cdeefd42b04",
+      "maskedId": "174xxxxxx2083",
+      "name": "พรทิพย์ สุนทร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เคียนซา",
+      "district": "เคียนซา",
+      "id": "0ad0e4642f02e461f67f1c37",
+      "maskedId": "192xxxxxx9422",
+      "name": "พรพิชญ์ เดชอรัญ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สินเจริญ",
+      "district": "พระแสง",
+      "id": "3eb880938437501d8e33b94a",
+      "maskedId": "180xxxxxx3779",
+      "name": "พรรณวกร สุทิน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A7%E0%B8%81%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "2a59d0487d885db524c72509",
+      "maskedId": "193xxxxxx6874",
+      "name": "พรสวรรค์ ทองไซร้",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B8%A3%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สินปุน",
+      "district": "พระแสง",
+      "id": "30f8181584b5e48b3c6049cf",
+      "maskedId": "193xxxxxx8395",
+      "name": "พศิณ กุลพัทธ์สร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A8%E0%B8%B4%E0%B8%93-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B9%8C%E0%B8%AA%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "7282680ac0b1c4ab0889a7a7",
+      "maskedId": "193xxxxxx1280",
+      "name": "พสพล เพชรเพ็ง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%AA%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพนม",
+      "district": "พนม",
+      "id": "79a95e055fc7103f78bece20",
+      "maskedId": "190xxxxxx3251",
+      "name": "พัชณาภรณ์ โสมปาน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%93%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%A1%E0%B8%9B%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "0e580bbe99db12a4371b0ef2",
+      "maskedId": "193xxxxxx0916",
+      "name": "พัชรพร ทองร่วง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทรขึง",
+      "district": "พระแสง",
+      "id": "65589699c64f43cd980edd3b",
+      "maskedId": "184xxxxxx1614",
+      "name": "พาณิชา วงศ์ณาศรี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%93%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "a2ffed7940d557f8c3d3480d",
+      "maskedId": "184xxxxxx0338",
+      "name": "พิชชา เจริญผล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเพชรพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "4152d24c8649ea35db7680be",
+      "maskedId": "390xxxxxx2638",
+      "name": "พินิต จันทพัฒน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%95-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนสัก",
+      "district": "ดอนสัก",
+      "id": "df781c1720922ee78fbaa817",
+      "maskedId": "186xxxxxx1510",
+      "name": "พิพัฒน์ คงนวล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเวียง",
+      "district": "ไชยา",
+      "id": "60600360422f1eba279b2aa0",
+      "maskedId": "184xxxxxx9545",
+      "name": "พิมานมาศ ธรรมรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "46051f20f844f217cd38df37",
+      "maskedId": "180xxxxxx5214",
+      "name": "พิสิฐ รักษาแสง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%90-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สินเจริญ",
+      "district": "พระแสง",
+      "id": "a824bddff361faceade00f63",
+      "maskedId": "184xxxxxx7242",
+      "name": "ภัทรพงศ์ มาเพ็ง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 71,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สมอทอง",
+      "district": "ท่าชนะ",
+      "id": "2547606bf538a6b51791a772",
+      "maskedId": "184xxxxxx5428",
+      "name": "ภัทราวดี ศรียาภัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากหมาก",
+      "district": "ไชยา",
+      "id": "cb861e854d96bbb7feb7f732",
+      "maskedId": "186xxxxxx4981",
+      "name": "ภาณุพงศ์ นาคแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เลม็ด",
+      "district": "ไชยา",
+      "id": "378abdbd25e2560f9dce65c9",
+      "maskedId": "384xxxxxx4342",
+      "name": "ภิรภา เหมียน้ําดํา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%B2-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%94%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเตา",
+      "district": "บ้านนาสาร",
+      "id": "43457715dd374ea41258cbec",
+      "maskedId": "292xxxxxx1138",
+      "name": "ภิรมย์ยา เพ็งทะ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%97%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "18299183e28933d302b7e9c8",
+      "maskedId": "193xxxxxx8661",
+      "name": "ภูริตา ไชยพันธ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ํารอบ",
+      "district": "พุนพิน",
+      "id": "c78ddb1805f5898d222cfa92",
+      "maskedId": "190xxxxxx4508",
+      "name": "ภูวดล อุนตรีจันทร์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A7%E0%B8%94%E0%B8%A5-%E0%B8%AD%E0%B8%B8%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ต้นยวน",
+      "district": "พนม",
+      "id": "85f77d68f2845bc444f997fe",
+      "maskedId": "184xxxxxx6457",
+      "name": "มณีรัตน์ หอมรูป",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B8%9B",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "331e40ce1ee44c9c6f5f1dbb",
+      "maskedId": "184xxxxxx5051",
+      "name": "มนธวัล วิเชียร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%A5-%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเวียง",
+      "district": "ไชยา",
+      "id": "c1986b3d93ec26617a052fbe",
+      "maskedId": "184xxxxxx6530",
+      "name": "มัณฑณา บุตรเริ่ม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%93%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองปากแพรก",
+      "district": "ดอนสัก",
+      "id": "8d0a49c46e6367691d5626bf",
+      "maskedId": "380xxxxxx5096",
+      "name": "มาลี ลีหล้าน้อย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B5-%E0%B8%A5%E0%B8%B5%E0%B8%AB%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "2baf713570c7d9e0b0d76b98",
+      "maskedId": "193xxxxxx6456",
+      "name": "มุทิตา เหล่าทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "9ee001c0bd3d6bd75dbbd0d2",
+      "maskedId": "293xxxxxx7032",
+      "name": "ยศยง เปียคง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%A8%E0%B8%A2%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "39f7ec44b71735c732b4b0e9",
+      "maskedId": "190xxxxxx0328",
+      "name": "ยศวดี ขุนศรีแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%A8%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "95e02aa6d3200c0a0f097ab6",
+      "maskedId": "180xxxxxx0926",
+      "name": "ยุทธศักดิ์ บุญวงศ์วิวัฒน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเคียนซา",
+      "district": "เคียนซา",
+      "id": "1cf881df355d34511864bbb8",
+      "maskedId": "184xxxxxx5490",
+      "name": "รณยุทธ ดีทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%93%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%94%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งกง",
+      "district": "กาญจนดิษฐ์",
+      "id": "3850e34a4eda536b6f9cc943",
+      "maskedId": "184xxxxxx5424",
+      "name": "ระพีพรรณ สังข์สำราญ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากฉลุย",
+      "district": "ท่าฉาง",
+      "id": "28d850260e85de17dfad8afb",
+      "maskedId": "190xxxxxx7516",
+      "name": "รัชชนก คําทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "00b76b71bb7b16cc43be0ef2",
+      "maskedId": "284xxxxxx5266",
+      "name": "รัชฎาภรณ์ ภิรมย์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8E%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "46d960f0d13e362b1f5a30ef",
+      "maskedId": "177xxxxxx3823",
+      "name": "รัตติยา อำไพรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%AD%E0%B8%B3%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พนม",
+      "district": "พนม",
+      "id": "0fc490186bfa1f054ea35d99",
+      "maskedId": "180xxxxxx1626",
+      "name": "รัตนาภรณ์ สิทธี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเคียนซา",
+      "district": "เคียนซา",
+      "id": "5363144ae23506bc4ad4983e",
+      "maskedId": "184xxxxxx7564",
+      "name": "รุ่งนภารัตน์ ชมภูนุช",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%A1%E0%B8%A0%E0%B8%B9%E0%B8%99%E0%B8%B8%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พลายวาส",
+      "district": "กาญจนดิษฐ์",
+      "id": "19a3b9018421c17795ff6c01",
+      "maskedId": "193xxxxxx1625",
+      "name": "ลดาวัลย์ แก้วอุบล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "e04fe6d9acb0b102a5322bef",
+      "maskedId": "193xxxxxx8778",
+      "name": "ลักขณา พรหมสกุล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%93%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางโพธิ์",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "b7c50929933b10e430661fdd",
+      "maskedId": "195xxxxxx6930",
+      "name": "ลักษณา สุวรรณรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรัพย์ทวี",
+      "district": "บ้านนาเดิม",
+      "id": "bab2f26f8e9af3f441af0ed3",
+      "maskedId": "192xxxxxx7506",
+      "name": "ลีลานุช หนูวงศ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านใต้",
+      "district": "เกาะพะงัน",
+      "id": "4973e2197a3c614eb1ef3d0e",
+      "maskedId": "180xxxxxx9015",
+      "name": "วนิดา ขาวพิชัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "f29c3711afba107ecb8f72ae",
+      "maskedId": "196xxxxxx0946",
+      "name": "วนิตา ดีพาส",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%94%E0%B8%B5%E0%B8%9E%E0%B8%B2%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชัยบุรี",
+      "district": "ชัยบุรี",
+      "id": "18879d9d5a2abd6861f0f9a4",
+      "maskedId": "193xxxxxx1811",
+      "name": "วรพล เพชรพูล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "1c3a7e3ec578fad8093e5be9",
+      "maskedId": "190xxxxxx0068",
+      "name": "วรรณษา ดำขุนนุ้ย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A9%E0%B8%B2-%E0%B8%94%E0%B8%B3%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พลูเถื่อน",
+      "district": "พนม",
+      "id": "0f5e2c909aa4722779887d2e",
+      "maskedId": "180xxxxxx5674",
+      "name": "วรินทร์ลดา จิรักษา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "82c19975c7d6b004eefae091",
+      "maskedId": "180xxxxxx8327",
+      "name": "วริศรา เนาวโคอักษร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%84%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าข้าม",
+      "district": "พุนพิน",
+      "id": "91b4b49da668c60fc96292fb",
+      "maskedId": "190xxxxxx0641",
+      "name": "วสุรัตน์ เทพทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "9d6d8ef89d73eee1c4937790",
+      "maskedId": "131xxxxxx3928",
+      "name": "วัชรินทร์ โสนาคา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "f24b74471dca8d8304c4da3e",
+      "maskedId": "190xxxxxx2051",
+      "name": "วันวิสาข์ สวนอินทร์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาใต้",
+      "district": "บ้านนาเดิม",
+      "id": "ee10266533160685d342d76d",
+      "maskedId": "180xxxxxx4258",
+      "name": "วัลภา ร่มเย็น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A0%E0%B8%B2-%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งกง",
+      "district": "กาญจนดิษฐ์",
+      "id": "10efec15e7a0011b916ac8d6",
+      "maskedId": "193xxxxxx3886",
+      "name": "วัลภา แก้วหนูนวล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A0%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "b67cbfc1fd1cb00c62348d25",
+      "maskedId": "184xxxxxx8730",
+      "name": "วัลภา ใจจร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A0%E0%B8%B2-%E0%B9%83%E0%B8%88%E0%B8%88%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าข้าม",
+      "district": "พุนพิน",
+      "id": "d8b91c9a59838bd06c6b16ee",
+      "maskedId": "195xxxxxx2013",
+      "name": "วาสนา เสรีชาญพงษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "63b262901da20aae2d1da0ab",
+      "maskedId": "392xxxxxx0910",
+      "name": "วินัย ไกรทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชัยบุรี",
+      "district": "ชัยบุรี",
+      "id": "747fc25ddecd040503abca28",
+      "maskedId": "110xxxxxx4764",
+      "name": "วิริยา แสนพยุหะ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%9E%E0%B8%A2%E0%B8%B8%E0%B8%AB%E0%B8%B0",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ทุ่งเตาใหม่",
+      "district": "บ้านนาสาร",
+      "id": "8b15e7a6cb1fe661cbce2875",
+      "maskedId": "393xxxxxx7635",
+      "name": "วีระยุทธ ศศิธร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "aeec67844010ade84dc97eaa",
+      "maskedId": "190xxxxxx1243",
+      "name": "ศราวุฒิ ทรงสกูล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปา",
+      "district": "คีรีรัฐนิคม",
+      "id": "f5498c5ceb0830b52e6093ec",
+      "maskedId": "193xxxxxx6356",
+      "name": "ศศิกานต์ สุวรรณตรี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%95%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "5bcdf403a4850c1e04248a8e",
+      "maskedId": "193xxxxxx0335",
+      "name": "ศศิธร ฉิมรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "c586b61c7929f28cb9e5afea",
+      "maskedId": "186xxxxxx0564",
+      "name": "ศศิพิมพ์ รัตนพิทย์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาใต้",
+      "district": "บ้านนาเดิม",
+      "id": "bf797c79f7ba335db7e31cda",
+      "maskedId": "193xxxxxx0666",
+      "name": "ศหัสชาย กรุงแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พลูเถื่อน",
+      "district": "พนม",
+      "id": "7709915c5d21a461d336a388",
+      "maskedId": "190xxxxxx7221",
+      "name": "ศิริกัลยา ขุนอักษร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B2-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าฉาง",
+      "district": "ท่าฉาง",
+      "id": "81c943051dbd3d232ed617ea",
+      "maskedId": "284xxxxxx1823",
+      "name": "ศิรินภา เจริญผล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "c298529e339d2b7a471460ce",
+      "maskedId": "193xxxxxx4644",
+      "name": "ศิรินาถ ส่งแสง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเกาะเต่า",
+      "district": "เกาะพะงัน",
+      "id": "709ec902ea14319d8df3d379",
+      "maskedId": "193xxxxxx0331",
+      "name": "ศิริลักษณ์ หนูชู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%8A%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกาะพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "d0bdf57507c6ccc4c073d7c7",
+      "maskedId": "180xxxxxx7695",
+      "name": "ศิวพร ชุมพล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%9E%E0%B8%A3-%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พุนพิน",
+      "district": "พุนพิน",
+      "id": "a28b2b5454247a275e4f4e2e",
+      "maskedId": "190xxxxxx4149",
+      "name": "ศิวาพร ทุ่มขุน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B8%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "6997e99f9696a6ed6cdf753a",
+      "maskedId": "184xxxxxx1732",
+      "name": "สมโภชน์ เพ็ชรวงค์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B9%82%E0%B8%A0%E0%B8%8A%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าสะท้อน",
+      "district": "พุนพิน",
+      "id": "7da57997a7c3520bf843fbb3",
+      "maskedId": "184xxxxxx3968",
+      "name": "สัจจพร สงวนพิมพ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "b90a714124cce6feb65ffe67",
+      "maskedId": "195xxxxxx4191",
+      "name": "สาริศ หนูเจริญ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A8-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พลายวาส",
+      "district": "กาญจนดิษฐ์",
+      "id": "2e74ed6e46a776f8c565aa6b",
+      "maskedId": "193xxxxxx7934",
+      "name": "สาวิตรี สีราช",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B5-%E0%B8%AA%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าขนอน",
+      "district": "คีรีรัฐนิคม",
+      "id": "707f88ae94dca579372c6285",
+      "maskedId": "192xxxxxx1705",
+      "name": "สินีพร หวังชัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5%E0%B8%9E%E0%B8%A3-%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อรัญคามวารี",
+      "district": "เคียนซา",
+      "id": "9939d8b65a2181c1efe09c7d",
+      "maskedId": "184xxxxxx3405",
+      "name": "สุกฤษฎิ์ ยอดราช",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 70,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B4%E0%B9%8C-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองไทร",
+      "district": "พุนพิน",
+      "id": "17e87323e4d35e9debe87259",
+      "maskedId": "180xxxxxx0992",
+      "name": "สุชาดา สัจจารักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "d69b3d07e80981efe049603e",
+      "maskedId": "193xxxxxx9616",
+      "name": "สุชานาถ เรืองนิ่ม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พนม",
+      "district": "พนม",
+      "id": "697e452f8c11ea3e2681959e",
+      "maskedId": "193xxxxxx6134",
+      "name": "สุดาทิพย์ เพชรแท้",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B9%81%E0%B8%97%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "d657048d362cd8822e45f44d",
+      "maskedId": "180xxxxxx2804",
+      "name": "สุดารัตน์ อรชร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%A3%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากหมาก",
+      "district": "ไชยา",
+      "id": "6d84d02de1aa383bf00d11c9",
+      "maskedId": "184xxxxxx2386",
+      "name": "สุดารัตน์ แดงชนะ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เพิ่มพูนทรัพย์",
+      "district": "บ้านนาสาร",
+      "id": "5008443d6a6a7291ed424122",
+      "maskedId": "184xxxxxx9539",
+      "name": "สุทธิดา พุทธารักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเกาะเต่า",
+      "district": "เกาะพะงัน",
+      "id": "785a63dccbf14ac018e4dd8f",
+      "maskedId": "393xxxxxx6997",
+      "name": "สุทิศา แสงมิ่ง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกรูด",
+      "district": "กาญจนดิษฐ์",
+      "id": "fc2ad46428160af47026c9cb",
+      "maskedId": "180xxxxxx6855",
+      "name": "สุธาธรรม ชุมชู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1-%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "096b0c52ae2ca3ef2da679f0",
+      "maskedId": "180xxxxxx8933",
+      "name": "สุธาสินี หนูหนอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อรัญคามวารี",
+      "district": "เคียนซา",
+      "id": "ed46a2a532fc6e3fd26a2be0",
+      "maskedId": "190xxxxxx7138",
+      "name": "สุธิดา ชุมภูทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%A0%E0%B8%B9%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าขนอน",
+      "district": "คีรีรัฐนิคม",
+      "id": "36268ec4fb77156efac9ca63",
+      "maskedId": "193xxxxxx6871",
+      "name": "สุนิสา สุภเพียร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โมถ่าย",
+      "district": "ไชยา",
+      "id": "32264c6cbf7b9181a4dbef07",
+      "maskedId": "193xxxxxx3220",
+      "name": "สุพรรษา ศรีสวัสดิ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนสัก",
+      "district": "ดอนสัก",
+      "id": "bc93f3d4819f302d0e4d9555",
+      "maskedId": "145xxxxxx6503",
+      "name": "สุพัตรา จอมคําศรี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองน้อย",
+      "district": "ชัยบุรี",
+      "id": "093e174398bd0a977c22fcaa",
+      "maskedId": "190xxxxxx7036",
+      "name": "สุพัตรา ชุมแสง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลเพชรพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "6393c4aa6d08eb1e00748d57",
+      "maskedId": "193xxxxxx6461",
+      "name": "สุภาณี เพชร์ทองเกลี้ยง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองปราบ",
+      "district": "บ้านนาสาร",
+      "id": "c641cb228fd9c67704fedf24",
+      "maskedId": "196xxxxxx2250",
+      "name": "สุภาวดี ศิริรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "54add481f390c604723109ff",
+      "maskedId": "193xxxxxx2448",
+      "name": "สุภาวดี อนุวัฒนวงศ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "a54d6978c2d90a1534b7b65d",
+      "maskedId": "186xxxxxx5486",
+      "name": "สุวนันท์ สุดรอด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%A3%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางสวรรค์",
+      "district": "พระแสง",
+      "id": "449a2cec8c90d2427d1b7aa2",
+      "maskedId": "193xxxxxx6182",
+      "name": "สุวรรณา ไชยสุด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "08d2d28836c5302482ebb125",
+      "maskedId": "180xxxxxx3835",
+      "name": "สุวรรณี ถาวรสุข",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B5-%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนสัก",
+      "district": "ดอนสัก",
+      "id": "1bd43e5bb9212984bcf6407d",
+      "maskedId": "191xxxxxx8427",
+      "name": "หัตยา มรรคาเขต",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองน้อย",
+      "district": "ชัยบุรี",
+      "id": "b01009f18d4298ffc205be44",
+      "maskedId": "193xxxxxx6162",
+      "name": "อชิรญา รักจันทร์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%8D%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ป่าเว",
+      "district": "ไชยา",
+      "id": "9f8e06a3cf1f4ce9a07d6b1a",
+      "maskedId": "193xxxxxx4445",
+      "name": "อทิตยา ทองหนู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพนม",
+      "district": "พนม",
+      "id": "0325ea8e48bc6af8e7274401",
+      "maskedId": "180xxxxxx2723",
+      "name": "อธิวัฒน์ ทองอุ่น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลีเล็ด",
+      "district": "พุนพิน",
+      "id": "94f62809d38c2eb63fed89a5",
+      "maskedId": "184xxxxxx8834",
+      "name": "อภิชัย ทิพย์ประชาบาล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "4519ae79d8707f4000911140",
+      "maskedId": "186xxxxxx5395",
+      "name": "อมรรัตน์ ศรียิ้ม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรัพย์ทวี",
+      "district": "บ้านนาเดิม",
+      "id": "814cfa24a4c211295e1dca5f",
+      "maskedId": "180xxxxxx1376",
+      "name": "อรณี ศิริรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%93%E0%B8%B5-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สินเจริญ",
+      "district": "พระแสง",
+      "id": "0b491e703933e8d2132eaee4",
+      "maskedId": "180xxxxxx8794",
+      "name": "อรรถพล รอดพ้น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%9E%E0%B8%A5-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%9E%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "9db53d6da53e7db52c8b9f72",
+      "maskedId": "184xxxxxx9629",
+      "name": "อรรถพล โสภาผล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%9E%E0%B8%A5-%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าข้าม",
+      "district": "พุนพิน",
+      "id": "a235fa52da96d5cce74a5fe0",
+      "maskedId": "190xxxxxx8947",
+      "name": "อรรถสิทธิ์ ผิวเหลือง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนสัก",
+      "district": "ดอนสัก",
+      "id": "8da42a8a0354ab3b08499924",
+      "maskedId": "184xxxxxx6691",
+      "name": "อลิสา คงสุทธิ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเกาะเต่า",
+      "district": "เกาะพะงัน",
+      "id": "5c34328375666e5ce4fce0a1",
+      "maskedId": "186xxxxxx4817",
+      "name": "อัจฉรา พุ่มพะเนิน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B2-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะกุกเหนือ",
+      "district": "วิภาวดี",
+      "id": "9f0819d50e389df27a6bdc6f",
+      "maskedId": "195xxxxxx6246",
+      "name": "อัฟฮัม วาแม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%9F%E0%B8%AE%E0%B8%B1%E0%B8%A1-%E0%B8%A7%E0%B8%B2%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กรูด",
+      "district": "พุนพิน",
+      "id": "c53090879c13664075e91629",
+      "maskedId": "284xxxxxx6762",
+      "name": "อาทิตยา สุดจิตร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเพชรพะงัน",
+      "district": "เกาะพะงัน",
+      "id": "88116a47ddd757d5a5a01ef4",
+      "maskedId": "180xxxxxx8512",
+      "name": "อามีเลีย วงศ์สวัสดิ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าทองใหม่",
+      "district": "กาญจนดิษฐ์",
+      "id": "7535273d1416ce9f56e99428",
+      "maskedId": "184xxxxxx7361",
+      "name": "อุดมศักดิ์ หทัยวสีวงศ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากฉลุย",
+      "district": "ท่าฉาง",
+      "id": "bf017059f592b337116a84df",
+      "maskedId": "191xxxxxx5521",
+      "name": "อุษา ใจดี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%A9%E0%B8%B2-%E0%B9%83%E0%B8%88%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาใต้",
+      "district": "บ้านนาเดิม",
+      "id": "3ca0eb7bc78718240c386e40",
+      "maskedId": "193xxxxxx5792",
+      "name": "อุษาวดี แย้มรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%A9%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเวียง",
+      "district": "ไชยา",
+      "id": "279fda5738553dfe67e20808",
+      "maskedId": "193xxxxxx3080",
+      "name": "เกียรติศักดิ์ แท่นประมูล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%81%E0%B8%97%E0%B9%88%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทรัพย์ทวี",
+      "district": "บ้านนาเดิม",
+      "id": "20fee5261ceca9a164ac4b2d",
+      "maskedId": "184xxxxxx6943",
+      "name": "เจษฎา นิลจินดา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "46fcf1fb0a661b4f52c94e4b",
+      "maskedId": "193xxxxxx8702",
+      "name": "เฉลิมชัย ขุนภักดี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเตา",
+      "district": "บ้านนาสาร",
+      "id": "70e9378ced53d76201f8e8a5",
+      "maskedId": "195xxxxxx5507",
+      "name": "เนตรนภา แก้วบุตร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "8556b196f5eb32718fc7b063",
+      "maskedId": "177xxxxxx2711",
+      "name": "เบญจวรรณ เกตุกระจ่าง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ต้นยวน",
+      "district": "พนม",
+      "id": "a4e0e7fcf41adf8653548f66",
+      "maskedId": "184xxxxxx9378",
+      "name": "เบญญทิพย์ ปาคะเชนทร์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9B%E0%B8%B2%E0%B8%84%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดไชยา",
+      "district": "ไชยา",
+      "id": "5c45c9fddbe04736c925c2c2",
+      "maskedId": "186xxxxxx0304",
+      "name": "เบญญา แคล่วคล่อง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%A7%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางสวรรค์",
+      "district": "พระแสง",
+      "id": "dfc451e474981f10f6ee88e2",
+      "maskedId": "182xxxxxx1411",
+      "name": "เปรมิกา เนียมเกตุ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าขนอน",
+      "district": "คีรีรัฐนิคม",
+      "id": "0c8fb3d1f45c1c9979ac8b72",
+      "maskedId": "147xxxxxx2457",
+      "name": "เมธารา ทองเจิม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "829e89445f7bdbfc8a013c71",
+      "maskedId": "193xxxxxx9025",
+      "name": "เรวดี คงอิน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A3%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%84%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อิปัน",
+      "district": "พระแสง",
+      "id": "2167f3679e297839c2b21eed",
+      "maskedId": "184xxxxxx8011",
+      "name": "เสาวณีย์ พรหมเมือง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 70,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "1e9a0806d756d8b299bafe39",
+      "maskedId": "193xxxxxx3751",
+      "name": "เสาวรัตน์ พงศ์พันธ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สองแพรก",
+      "district": "ชัยบุรี",
+      "id": "83dca4b61d82becc5172d3b5",
+      "maskedId": "280xxxxxx0721",
+      "name": "เอกวิทย์ รุ่งรังศรี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสวียด",
+      "district": "ท่าฉาง",
+      "id": "5e6e6c50404f1e23075af637",
+      "maskedId": "184xxxxxx7857",
+      "name": "โชติกา เสียมสกุล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "8459be23e80a6715e67a2117",
+      "maskedId": "180xxxxxx1187",
+      "name": "โศธยา ชูแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%A8%E0%B8%98%E0%B8%A2%E0%B8%B2-%E0%B8%8A%E0%B8%B9%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สินเจริญ",
+      "district": "พระแสง",
+      "id": "277b58672a89f4c8720473b5",
+      "maskedId": "190xxxxxx3040",
+      "name": "โสรญา ปราบณรงค์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A3%E0%B8%8D%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรุพี",
+      "district": "บ้านนาสาร",
+      "id": "e3d618f97f263660faa36a37",
+      "maskedId": "184xxxxxx5244",
+      "name": "โสรญา สุวรรณโชติ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A3%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "4d3af2f83259c115149b68e9",
+      "maskedId": "186xxxxxx8464",
+      "name": "โสวรรณ พุ่มคง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าข้าม",
+      "district": "พุนพิน",
+      "id": "a663980ccfd86afcca9ed88e",
+      "maskedId": "193xxxxxx4161",
+      "name": "ไกรฤทธิ์ รักษาแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทรทอง",
+      "district": "ชัยบุรี",
+      "id": "2f83b9135e69247c59b7a66b",
+      "maskedId": "193xxxxxx8738",
+      "name": "ไกรวิทย์ ชุมแก่น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.กรูด",
+      "district": "พุนพิน",
+      "id": "e596e8486edd2a4f04f30c5a",
+      "maskedId": "396xxxxxx4262",
+      "name": "ไยน๊ะ หะยีลาดอ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%A2%E0%B8%99%E0%B9%8A%E0%B8%B0-%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

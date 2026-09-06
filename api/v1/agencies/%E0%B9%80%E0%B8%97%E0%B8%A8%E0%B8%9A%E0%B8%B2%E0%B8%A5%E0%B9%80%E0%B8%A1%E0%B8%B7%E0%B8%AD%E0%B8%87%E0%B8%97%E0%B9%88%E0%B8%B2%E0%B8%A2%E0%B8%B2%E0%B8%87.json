@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลเมืองท่ายาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองท่ายาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองท่ายาง",
+      "district": "เมืองชุมพร",
+      "id": "cbe09f4ba0c8e6eb93d89c06",
+      "maskedId": "180xxxxxx4936",
+      "name": "นฤนาท ศรีประดู่",
+      "province": "ชุมพร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%99%E0%B8%B2%E0%B8%97-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B9%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่ายาง",
+      "district": "เมืองชุมพร",
+      "id": "2c9c7ccc59767f04b1cdecfd",
+      "maskedId": "191xxxxxx2004",
+      "name": "โรจนา สัสดี",
+      "province": "ชุมพร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

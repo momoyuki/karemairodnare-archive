@@ -1,0 +1,1170 @@
+{
+  "_meta": {
+    "count": 68,
+    "kind": "province",
+    "name": "สงขลา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สงขลา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ทุ่งหมอ",
+      "district": "สะเดา",
+      "id": "258c6a34d146bda570c20358",
+      "maskedId": "194xxxxxx4121",
+      "name": "กนิดา โสภา",
+      "province": "สงขลา",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่าขาด",
+      "district": "สิงหนคร",
+      "id": "75f528ba939a44cd86359d0d",
+      "maskedId": "190xxxxxx4742",
+      "name": "กมลวรรณ จันคง",
+      "province": "สงขลา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพา",
+      "district": "เทพา",
+      "id": "3463d50e41dc1fcab4a7a6d0",
+      "maskedId": "195xxxxxx9536",
+      "name": "กฤษณพงศ์ ถมทอง",
+      "province": "สงขลา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%96%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสะบ้าย้อย",
+      "district": "สะบ้าย้อย",
+      "id": "dce8e48e73ff84abd30c8c7a",
+      "maskedId": "190xxxxxx3081",
+      "name": "กัณณิกา เส็นอาลามีน",
+      "province": "สงขลา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสิงหนคร",
+      "district": "สิงหนคร",
+      "id": "bbeecaaae324833818239933",
+      "maskedId": "190xxxxxx4737",
+      "name": "กิตติยา ประยูรเต็ม",
+      "province": "สงขลา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B9%E0%B8%A3%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "จะนะ",
+      "id": "6c8266673620fd5ca3b9ef38",
+      "maskedId": "190xxxxxx2241",
+      "name": "กิตติศักดิ์ ปรมัตถ์ศักดิ์",
+      "province": "สงขลา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลปริก",
+      "district": "สะเดา",
+      "id": "b5fe76c80cac65c06d29f175",
+      "maskedId": "195xxxxxx0864",
+      "name": "จักรกฤษณ์ เสรีรัตน์ยืนยง",
+      "province": "สงขลา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ท่าโพธิ์",
+      "district": "สะเดา",
+      "id": "dcad687b360c89d28669b929",
+      "maskedId": "190xxxxxx1295",
+      "name": "จิราภัทร ศิริรักษ์",
+      "province": "สงขลา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าโพธิ์",
+      "district": "สะเดา",
+      "id": "c881530534e59c86c5cb2f25",
+      "maskedId": "193xxxxxx8996",
+      "name": "จุฑามาศ ทิพย์กองลาศ",
+      "province": "สงขลา",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพานไม้แก่น",
+      "district": "จะนะ",
+      "id": "4e248c70e903c698a20ca72c",
+      "maskedId": "195xxxxxx9830",
+      "name": "ชารีฟ สุนทรมาลาตี",
+      "province": "สงขลา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%9F-%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%95%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปาดัง",
+      "district": "สะเดา",
+      "id": "2eeb598bf746be256981ef69",
+      "maskedId": "194xxxxxx6564",
+      "name": "ซามีรา วาเด็ง",
+      "province": "สงขลา",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองแดน",
+      "district": "ระโนด",
+      "id": "8d7741b68337592c90d4d348",
+      "maskedId": "195xxxxxx3918",
+      "name": "ซูไรยา หะยีเตะ",
+      "province": "สงขลา",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B9%E0%B9%84%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B9%80%E0%B8%95%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสิงหนคร",
+      "district": "สิงหนคร",
+      "id": "8252314a28fbfd6c09acd519",
+      "maskedId": "190xxxxxx8962",
+      "name": "ญารูนี ดอเส็ง",
+      "province": "สงขลา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B8%99%E0%B8%B5-%E0%B8%94%E0%B8%AD%E0%B9%80%E0%B8%AA%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพระยา",
+      "district": "สะบ้าย้อย",
+      "id": "1e7d1333b795581100f26974",
+      "maskedId": "193xxxxxx1800",
+      "name": "ณภัทร เพชรชนะ",
+      "province": "สงขลา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพระยา",
+      "district": "สะบ้าย้อย",
+      "id": "f2f14f4abcd9f20a01ce4c54",
+      "maskedId": "195xxxxxx9651",
+      "name": "ณรงค์ศักดิ์ บุญสนอง",
+      "province": "สงขลา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วัดขนุน",
+      "district": "สิงหนคร",
+      "id": "130734eb319445ea14c624e1",
+      "maskedId": "190xxxxxx7071",
+      "name": "ณัฐกฤตา พิพัฒฉวี",
+      "province": "สงขลา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B2-%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%89%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งขมิ้น",
+      "district": "นาหม่อม",
+      "id": "67d55e1c1100790ed0bbcbb1",
+      "maskedId": "190xxxxxx7356",
+      "name": "ณัฐวุฒิ ไชยยาน",
+      "province": "สงขลา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%A2%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าม่วง",
+      "district": "เทพา",
+      "id": "fde9352c4245346112a8161c",
+      "maskedId": "195xxxxxx9550",
+      "name": "ณัทริกา จันทร์ยก",
+      "province": "สงขลา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A2%E0%B8%81",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.สะพานไม้แก่น",
+      "district": "จะนะ",
+      "id": "13c15cabe6d7a23bb91e3ea6",
+      "maskedId": "190xxxxxx9490",
+      "name": "ดารารัตน์ จอดเมือง",
+      "province": "สงขลา",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธารคีรี",
+      "district": "สะบ้าย้อย",
+      "id": "5da602cda67b2de587f08d28",
+      "maskedId": "195xxxxxx7686",
+      "name": "ตอริก เจ๊ะแวดอเล๊าะ",
+      "province": "สงขลา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%81-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B9%81%E0%B8%A7%E0%B8%94%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B9%8A%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าโพธิ์",
+      "district": "สะเดา",
+      "id": "388d31c98c487b43c454f288",
+      "maskedId": "190xxxxxx8811",
+      "name": "ตาลติมา กาญจนมุณีย์",
+      "province": "สงขลา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%A1%E0%B8%B8%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพานไม้แก่น",
+      "district": "จะนะ",
+      "id": "5a63a307fad00116312e9bb2",
+      "maskedId": "180xxxxxx5511",
+      "name": "ทศพร เจริญสุข",
+      "province": "สงขลา",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสะบ้าย้อย",
+      "district": "สะบ้าย้อย",
+      "id": "d9fe99f4e043ecd979284d21",
+      "maskedId": "190xxxxxx0980",
+      "name": "ทศพล พรหมศรีผ่อง",
+      "province": "สงขลา",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A5-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพะวง",
+      "district": "เมืองสงขลา",
+      "id": "e9ef8e873ea9eae38d1aaa21",
+      "maskedId": "190xxxxxx5291",
+      "name": "ทาริกา ล่องชุม",
+      "province": "สงขลา",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองแดน",
+      "district": "ระโนด",
+      "id": "558247a9d75172ef1133807c",
+      "maskedId": "192xxxxxx4820",
+      "name": "ธงชัย นะวะกะ",
+      "province": "สงขลา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%99%E0%B8%B0%E0%B8%A7%E0%B8%B0%E0%B8%81%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าโพธิ์",
+      "district": "สะเดา",
+      "id": "b293fe6a3d8cd801d2949654",
+      "maskedId": "190xxxxxx4219",
+      "name": "ธีระพงศ์ เสียงดัง",
+      "province": "สงขลา",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพะวง",
+      "district": "เมืองสงขลา",
+      "id": "aff30d3d381681903f336c7f",
+      "maskedId": "190xxxxxx5267",
+      "name": "นภัทร ชายะพันธ์",
+      "province": "สงขลา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาทวีนอก",
+      "district": "นาทวี",
+      "id": "eabd2b458b8bf4726c3cafdd",
+      "maskedId": "190xxxxxx3701",
+      "name": "นัชนันตา ไกรสุวรรณ",
+      "province": "สงขลา",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดีหลวง",
+      "district": "สทิงพระ",
+      "id": "4ed6996eab70f3cf0ec45aca",
+      "maskedId": "194xxxxxx2501",
+      "name": "นัสรียา ตาเละ",
+      "province": "สงขลา",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูขุด",
+      "district": "สทิงพระ",
+      "id": "a071044e8f533e2b26e2ce0d",
+      "maskedId": "194xxxxxx4302",
+      "name": "นูรียะห์ ขุนคีรี",
+      "province": "สงขลา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปริก",
+      "district": "สะเดา",
+      "id": "d068d1181123210a383c363b",
+      "maskedId": "193xxxxxx1408",
+      "name": "ปฐมพร รักนุ้ย",
+      "province": "สงขลา",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพะวง",
+      "district": "เมืองสงขลา",
+      "id": "ee132b8d25e0360191f5434d",
+      "maskedId": "190xxxxxx8397",
+      "name": "ปิยะนุช แก้วสุกข์",
+      "province": "สงขลา",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ระวะ",
+      "district": "ระโนด",
+      "id": "896bb13d5b379db343372017",
+      "maskedId": "195xxxxxx5641",
+      "name": "พงศกรณ์ ซ้วนล่อง",
+      "province": "สงขลา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%8B%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประกอบ",
+      "district": "นาทวี",
+      "id": "5820d07bf773f8c5b733c416",
+      "maskedId": "190xxxxxx1082",
+      "name": "พศวัต เมืองใหม่",
+      "province": "สงขลา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A8%E0%B8%A7%E0%B8%B1%E0%B8%95-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านพรุ",
+      "district": "หาดใหญ่",
+      "id": "f7f0c8c17bf23d3c7dde090e",
+      "maskedId": "190xxxxxx3111",
+      "name": "ภูวเดช เพ็ชรรัตน์",
+      "province": "สงขลา",
+      "scoreChange": 4,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A7%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดีหลวง",
+      "district": "สทิงพระ",
+      "id": "92a23dd674db8348c664ece8",
+      "maskedId": "194xxxxxx3481",
+      "name": "มาดีฮะห์ มาหะมะ",
+      "province": "สงขลา",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B5%E0%B8%AE%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B0%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพานไม้แก่น",
+      "district": "จะนะ",
+      "id": "134aa05d740cc6f0bccedbd8",
+      "maskedId": "195xxxxxx2201",
+      "name": "มารียัม สาเมาะ",
+      "province": "สงขลา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B1%E0%B8%A1-%E0%B8%AA%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองกวาง",
+      "district": "นาทวี",
+      "id": "e6c53761320fbc04c5c0253b",
+      "maskedId": "390xxxxxx9964",
+      "name": "ยงยุทธ จันทรสง่า",
+      "province": "สงขลา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%87%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสะบ้าย้อย",
+      "district": "สะบ้าย้อย",
+      "id": "9bf6431b6e7bd963ddc6e88b",
+      "maskedId": "394xxxxxx0936",
+      "name": "รอซาลี มะแอ",
+      "province": "สงขลา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AD%E0%B8%8B%E0%B8%B2%E0%B8%A5%E0%B8%B5-%E0%B8%A1%E0%B8%B0%E0%B9%81%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปริก",
+      "district": "สะเดา",
+      "id": "e5a1aadf467046d5787e30ca",
+      "maskedId": "194xxxxxx1799",
+      "name": "รอฮานา มะแซ",
+      "province": "สงขลา",
+      "scoreChange": 72,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AD%E0%B8%AE%E0%B8%B2%E0%B8%99%E0%B8%B2-%E0%B8%A1%E0%B8%B0%E0%B9%81%E0%B8%8B",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.คลองแดน",
+      "district": "ระโนด",
+      "id": "c345a9668c572ef153902a72",
+      "maskedId": "193xxxxxx0412",
+      "name": "รังสิพล ศรีคะนอง",
+      "province": "สงขลา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%9E%E0%B8%A5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%84%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพานไม้แก่น",
+      "district": "จะนะ",
+      "id": "6fd294e1c21aed91d55ed6ba",
+      "maskedId": "190xxxxxx2696",
+      "name": "วรรณวิศา มากเมือง",
+      "province": "สงขลา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จะทิ้งพระ",
+      "district": "สทิงพระ",
+      "id": "614c057e70a47f234999c941",
+      "maskedId": "196xxxxxx4004",
+      "name": "วันเดียนา มาปะ",
+      "province": "สงขลา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%B2-%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลชะแล้",
+      "district": "สิงหนคร",
+      "id": "c1a340ac2a5abf778ad15281",
+      "maskedId": "390xxxxxx5114",
+      "name": "วิศิษฐ์ ศรีคงทอง",
+      "province": "สงขลา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%84%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพา",
+      "district": "เทพา",
+      "id": "13b099ded59ecda78d6aa2bd",
+      "maskedId": "193xxxxxx5989",
+      "name": "วีรชัย ชูกลิ่น",
+      "province": "สงขลา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%8A%E0%B8%B9%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาทวีนอก",
+      "district": "นาทวี",
+      "id": "373a1e4965fb838fc80b0e72",
+      "maskedId": "180xxxxxx0351",
+      "name": "ศดายุ สมยัง",
+      "province": "สงขลา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%94%E0%B8%B2%E0%B8%A2%E0%B8%B8-%E0%B8%AA%E0%B8%A1%E0%B8%A2%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วัดสน",
+      "district": "ระโนด",
+      "id": "3f35664cf2955c47f76f20b7",
+      "maskedId": "190xxxxxx9558",
+      "name": "ศศิพร รัตนวารี",
+      "province": "สงขลา",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "จะนะ",
+      "id": "e203ebdf6a7470787bfd054f",
+      "maskedId": "180xxxxxx4918",
+      "name": "ศักดิ์ดา ศรีธรรมโชติ",
+      "province": "สงขลา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%94%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลเมืองสิงหนคร",
+      "district": "สิงหนคร",
+      "id": "565e8e3db4582194d1025fb0",
+      "maskedId": "190xxxxxx0088",
+      "name": "ศิริลักษณ์ ชูลิตร",
+      "province": "สงขลา",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประกอบ",
+      "district": "นาทวี",
+      "id": "fb1da26c5cde5abb4b96d479",
+      "maskedId": "190xxxxxx5777",
+      "name": "ศุภฤกษ์ คีรี",
+      "province": "สงขลา",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าม่วง",
+      "district": "เทพา",
+      "id": "9da64d90737db599fcb8136d",
+      "maskedId": "190xxxxxx9967",
+      "name": "สถาพร ไชยขวัญ",
+      "province": "สงขลา",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.พังยาง",
+      "district": "ระโนด",
+      "id": "b97e948466a521ad98189341",
+      "maskedId": "131xxxxxx0582",
+      "name": "สมฤทัย ตามสีรัมย์",
+      "province": "สงขลา",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งพอ",
+      "district": "สะบ้าย้อย",
+      "id": "264e6fc5562074a4abaaf83d",
+      "maskedId": "190xxxxxx7573",
+      "name": "สายนที คงชุม",
+      "province": "สงขลา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%97%E0%B8%B5-%E0%B8%84%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าหมอไทร",
+      "district": "จะนะ",
+      "id": "fc465d865ac45692c128b443",
+      "maskedId": "190xxxxxx0678",
+      "name": "สุทธิดา ทองพรม",
+      "province": "สงขลา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ่อแดง",
+      "district": "สทิงพระ",
+      "id": "78533f326ce7787393319e30",
+      "maskedId": "390xxxxxx7562",
+      "name": "สุภาพร แก้วแมว",
+      "province": "สงขลา",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%81%E0%B8%A1%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าชะมวง",
+      "district": "รัตภูมิ",
+      "id": "df107f50f519bd2453faf0dc",
+      "maskedId": "196xxxxxx8625",
+      "name": "หนึ่งฤทัย ชูชาติ",
+      "province": "สงขลา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%8A%E0%B8%B9%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าชะมวง",
+      "district": "รัตภูมิ",
+      "id": "e1bdb89b3a8567e59ebc24e2",
+      "maskedId": "190xxxxxx4095",
+      "name": "อรพรรณ สายแก้ว",
+      "province": "สงขลา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะยอ",
+      "district": "เมืองสงขลา",
+      "id": "0453c44279974c1a049b88b0",
+      "maskedId": "193xxxxxx1881",
+      "name": "อลิษา รัตนพันธ์",
+      "province": "สงขลา",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สงขลา",
+      "district": "เมืองสงขลา",
+      "id": "972ea9695244fe8bc66b91a2",
+      "maskedId": "190xxxxxx4681",
+      "name": "อักษรา อักษรชู",
+      "province": "สงขลา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%B2-%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%8A%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพระยา",
+      "district": "สะบ้าย้อย",
+      "id": "6477a459dd2adc4cb52d2c3f",
+      "maskedId": "195xxxxxx8113",
+      "name": "อาสบะห์ ดอเล๊าะ",
+      "province": "สงขลา",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%9A%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%94%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B9%8A%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองแดน",
+      "district": "ระโนด",
+      "id": "ed6be9c2d3be7517032cff84",
+      "maskedId": "195xxxxxx0315",
+      "name": "อาอีเซาะห์ หะยีมะ",
+      "province": "สงขลา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%8B%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าหมอไทร",
+      "district": "จะนะ",
+      "id": "8c21268f4f2461b6e6d45293",
+      "maskedId": "193xxxxxx4102",
+      "name": "อิทธิพล มาสวัสดิ์",
+      "province": "สงขลา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A5-%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาพระ",
+      "district": "รัตภูมิ",
+      "id": "daffaecc53ba832659cae8d4",
+      "maskedId": "195xxxxxx4336",
+      "name": "อิสมาแอ อภิบาลแบ",
+      "province": "สงขลา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%AD-%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B9%81%E0%B8%9A",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.เทพา",
+      "district": "เทพา",
+      "id": "ddd0ac02d8a226d06134df0a",
+      "maskedId": "190xxxxxx8112",
+      "name": "อุสา นุ้ยสมัน",
+      "province": "สงขลา",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%AA%E0%B8%B2-%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสิงหนคร",
+      "district": "สิงหนคร",
+      "id": "fd38e5330edba980e247d717",
+      "maskedId": "195xxxxxx2956",
+      "name": "ฮานีซะห์ เจะมะ",
+      "province": "สงขลา",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%8B%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพระยา",
+      "district": "สะบ้าย้อย",
+      "id": "3374fb551e82397bb2888bb7",
+      "maskedId": "194xxxxxx6083",
+      "name": "เจะนากาซะห์ เจะอามะห์",
+      "province": "สงขลา",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%8B%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปริก",
+      "district": "สะเดา",
+      "id": "3c0e4ceb5796b99fcd2d3c3a",
+      "maskedId": "394xxxxxx8634",
+      "name": "เฉลิมพร ขุนฤทธิ์",
+      "province": "สงขลา",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.คลองแดน",
+      "district": "ระโนด",
+      "id": "80e9438122b1d7cbc3a56f8c",
+      "maskedId": "190xxxxxx9041",
+      "name": "โชติวัฒน์ ชาติเจริญ",
+      "province": "สงขลา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

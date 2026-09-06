@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "สะบ้าย้อย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สะบ้าย้อย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลสะบ้าย้อย",
+      "district": "สะบ้าย้อย",
+      "id": "dce8e48e73ff84abd30c8c7a",
+      "maskedId": "190xxxxxx3081",
+      "name": "กัณณิกา เส็นอาลามีน",
+      "province": "สงขลา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพระยา",
+      "district": "สะบ้าย้อย",
+      "id": "1e7d1333b795581100f26974",
+      "maskedId": "193xxxxxx1800",
+      "name": "ณภัทร เพชรชนะ",
+      "province": "สงขลา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพระยา",
+      "district": "สะบ้าย้อย",
+      "id": "f2f14f4abcd9f20a01ce4c54",
+      "maskedId": "195xxxxxx9651",
+      "name": "ณรงค์ศักดิ์ บุญสนอง",
+      "province": "สงขลา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธารคีรี",
+      "district": "สะบ้าย้อย",
+      "id": "5da602cda67b2de587f08d28",
+      "maskedId": "195xxxxxx7686",
+      "name": "ตอริก เจ๊ะแวดอเล๊าะ",
+      "province": "สงขลา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%81-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B9%81%E0%B8%A7%E0%B8%94%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B9%8A%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสะบ้าย้อย",
+      "district": "สะบ้าย้อย",
+      "id": "d9fe99f4e043ecd979284d21",
+      "maskedId": "190xxxxxx0980",
+      "name": "ทศพล พรหมศรีผ่อง",
+      "province": "สงขลา",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A5-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสะบ้าย้อย",
+      "district": "สะบ้าย้อย",
+      "id": "9bf6431b6e7bd963ddc6e88b",
+      "maskedId": "394xxxxxx0936",
+      "name": "รอซาลี มะแอ",
+      "province": "สงขลา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AD%E0%B8%8B%E0%B8%B2%E0%B8%A5%E0%B8%B5-%E0%B8%A1%E0%B8%B0%E0%B9%81%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งพอ",
+      "district": "สะบ้าย้อย",
+      "id": "264e6fc5562074a4abaaf83d",
+      "maskedId": "190xxxxxx7573",
+      "name": "สายนที คงชุม",
+      "province": "สงขลา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%97%E0%B8%B5-%E0%B8%84%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพระยา",
+      "district": "สะบ้าย้อย",
+      "id": "6477a459dd2adc4cb52d2c3f",
+      "maskedId": "195xxxxxx8113",
+      "name": "อาสบะห์ ดอเล๊าะ",
+      "province": "สงขลา",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%9A%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%94%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B9%8A%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพระยา",
+      "district": "สะบ้าย้อย",
+      "id": "3374fb551e82397bb2888bb7",
+      "maskedId": "194xxxxxx6083",
+      "name": "เจะนากาซะห์ เจะอามะห์",
+      "province": "สงขลา",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%8B%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

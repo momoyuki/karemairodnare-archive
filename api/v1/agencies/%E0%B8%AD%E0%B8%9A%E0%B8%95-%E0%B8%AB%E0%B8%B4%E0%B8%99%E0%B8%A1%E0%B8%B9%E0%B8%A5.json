@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.หินมูล",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-หินมูล",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หินมูล",
+      "district": "บางเลน",
+      "id": "d225d01db6de286dac73eec6",
+      "maskedId": "171xxxxxx9351",
+      "name": "ประภัสสร ปทุมสูตร",
+      "province": "นครปฐม",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3-%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินมูล",
+      "district": "บางเลน",
+      "id": "3b34c1fbefce5501cc686fa9",
+      "maskedId": "110xxxxxx9531",
+      "name": "พิมพ์ลภัส อภินันท์ธนากร",
+      "province": "นครปฐม",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%A5%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินมูล",
+      "district": "บางเลน",
+      "id": "b38b673ae18b79cbd888ae5a",
+      "maskedId": "171xxxxxx1201",
+      "name": "พีรพล เถลิงศรี",
+      "province": "นครปฐม",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%96%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินมูล",
+      "district": "บางเลน",
+      "id": "0634e9c826a29ba828ce8911",
+      "maskedId": "142xxxxxx2456",
+      "name": "ภัทรภร ปัญโญนันท์",
+      "province": "นครปฐม",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A0%E0%B8%A3-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B9%82%E0%B8%8D%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

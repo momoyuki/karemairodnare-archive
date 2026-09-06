@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "เดชอุดม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เดชอุดม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองเดชอุดม",
+      "district": "เดชอุดม",
+      "id": "163bf4c86bdd090636d9a5ce",
+      "maskedId": "134xxxxxx1080",
+      "name": "ณัฐพงษ์ แก้วสิงห์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลนาส่วง",
+      "district": "เดชอุดม",
+      "id": "fd6e1d451eefb04d1775c1ab",
+      "maskedId": "134xxxxxx0551",
+      "name": "ปราณิสา หมวกทอง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%81%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกุดประทาย",
+      "district": "เดชอุดม",
+      "id": "12befdd85305670cc78c882d",
+      "maskedId": "334xxxxxx0444",
+      "name": "ภมรมาศ พันธุ์เพ็ง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A1%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเทิง",
+      "district": "เดชอุดม",
+      "id": "d2bd29666f22f1179c4afcd4",
+      "maskedId": "134xxxxxx2341",
+      "name": "มุทิตา อินสอน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตบหู",
+      "district": "เดชอุดม",
+      "id": "07d4ba86bd6e8bf24461ccbc",
+      "maskedId": "134xxxxxx5308",
+      "name": "รณชัย ราชประทุม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%93%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กลาง",
+      "district": "เดชอุดม",
+      "id": "9bb28c32fd10b9fc4b890a6b",
+      "maskedId": "149xxxxxx1901",
+      "name": "วรรณยุพา แซ่ลิ้ม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A2%E0%B8%B8%E0%B8%9E%E0%B8%B2-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเทิง",
+      "district": "เดชอุดม",
+      "id": "6e0f9db3c911a93a7f9549de",
+      "maskedId": "233xxxxxx1713",
+      "name": "วีระชาติ สายสินธุ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สมสะอาด",
+      "district": "เดชอุดม",
+      "id": "b337f6a02a6e5e7d515fb4fb",
+      "maskedId": "145xxxxxx6844",
+      "name": "ศิริลักษณ์ แวงวาสิต",
+      "province": "อุบลราชธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}

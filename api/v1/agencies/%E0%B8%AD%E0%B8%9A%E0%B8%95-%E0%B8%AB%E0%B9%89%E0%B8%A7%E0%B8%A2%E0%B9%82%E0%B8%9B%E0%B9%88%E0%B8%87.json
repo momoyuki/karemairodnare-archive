@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ห้วยโป่ง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ห้วยโป่ง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ห้วยโป่ง",
+      "district": "โคกสำโรง",
+      "id": "9fdac0037844e10f0b88a7d8",
+      "maskedId": "110xxxxxx5463",
+      "name": "จันทร์จิรา นวลหวาน",
+      "province": "ลพบุรี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยโป่ง",
+      "district": "หนองไผ่",
+      "id": "4851b2a38b2de942bfab9f5d",
+      "maskedId": "167xxxxxx1079",
+      "name": "อภิญญา กองมูล",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยโป่ง",
+      "district": "หนองไผ่",
+      "id": "642622c5dd78ed10e6d5a75a",
+      "maskedId": "167xxxxxx3327",
+      "name": "เฉลิมพร ช่างพรหม",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

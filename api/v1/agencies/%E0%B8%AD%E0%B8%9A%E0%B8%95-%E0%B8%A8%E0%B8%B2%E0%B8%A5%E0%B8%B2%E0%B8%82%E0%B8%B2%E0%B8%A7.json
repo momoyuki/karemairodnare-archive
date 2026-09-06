@@ -1,0 +1,69 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ศาลาขาว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ศาลาขาว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ศาลาขาว",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "83aa56e12e8d256d02f1e608",
+      "maskedId": "173xxxxxx7237",
+      "name": "ณัฐณิชา วัฒนพิทักษ์พงศ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        },
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาขาว",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "4de45f740fb2c90ed6e4958c",
+      "maskedId": "171xxxxxx5885",
+      "name": "นรินทร เที่ยงธรรม",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาขาว",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "112cd7274aa0b5308788b98f",
+      "maskedId": "370xxxxxx6235",
+      "name": "วนิดา จิตมะกล่ํา",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%B0%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

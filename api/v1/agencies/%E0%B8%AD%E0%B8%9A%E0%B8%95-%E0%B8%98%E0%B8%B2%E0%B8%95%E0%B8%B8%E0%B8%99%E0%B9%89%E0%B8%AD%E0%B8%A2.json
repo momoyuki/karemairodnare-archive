@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ธาตุน้อย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ธาตุน้อย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ธาตุน้อย",
+      "district": "เขื่องใน",
+      "id": "b4ae2b0b8de7d53d7681ef0b",
+      "maskedId": "134xxxxxx2751",
+      "name": "มะขิ่น แสงใบ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B0%E0%B8%82%E0%B8%B4%E0%B9%88%E0%B8%99-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%83%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธาตุน้อย",
+      "district": "เขื่องใน",
+      "id": "6cfef89e7b9b251e4fec7b87",
+      "maskedId": "135xxxxxx1327",
+      "name": "ศักดิ์ชัย แนวน้อย",
+      "province": "อุบลราชธานี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธาตุน้อย",
+      "district": "เขื่องใน",
+      "id": "1bd9736295ed77bdbc6691c9",
+      "maskedId": "334xxxxxx4243",
+      "name": "ศิริวรรณ วงษ์พานิชย์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

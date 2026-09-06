@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบต.โคกไทย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-โคกไทย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "741fff2ae672fd165857f9db",
+      "maskedId": "126xxxxxx3039",
+      "name": "ธีรภัทร อดุลยวัฒน์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AD%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "09839db54e53ceda19a26322",
+      "maskedId": "126xxxxxx0385",
+      "name": "บุษราวรรณ ปฐมัง",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "e85b0f4e3a8be3f5c5132a5a",
+      "maskedId": "126xxxxxx6973",
+      "name": "พงศธร ใจสอาด",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%98%E0%B8%A3-%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "65b5d5a4b633e6e6af056b5d",
+      "maskedId": "126xxxxxx7672",
+      "name": "ศิริพร สงเคราะห์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "82f8f066cbcb6e4a4a3cc44d",
+      "maskedId": "146xxxxxx3169",
+      "name": "สุพิมล ยี่วาศรี",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "843892d86b21f7996bd46d08",
+      "maskedId": "231xxxxxx6251",
+      "name": "อภิรักษ์ มณีเทพ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%9E",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

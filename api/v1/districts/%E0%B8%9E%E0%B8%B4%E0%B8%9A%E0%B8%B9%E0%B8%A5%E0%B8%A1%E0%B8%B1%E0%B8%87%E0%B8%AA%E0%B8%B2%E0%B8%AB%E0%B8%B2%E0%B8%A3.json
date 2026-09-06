@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "พิบูลมังสาหาร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พิบูลมังสาหาร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลกุดชมภู",
+      "district": "พิบูลมังสาหาร",
+      "id": "f5caef2ed1fed8819ca09486",
+      "maskedId": "134xxxxxx1386",
+      "name": "ญาณัจฉรา คำหล้า",
+      "province": "อุบลราชธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่างศิลา",
+      "district": "พิบูลมังสาหาร",
+      "id": "656e0716dfaf7f5388bbe569",
+      "maskedId": "132xxxxxx6813",
+      "name": "ณัลช์วีณา คุณภัทรโภควินท์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%A5%E0%B8%8A%E0%B9%8C%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%82%E0%B8%A0%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแขม",
+      "district": "พิบูลมังสาหาร",
+      "id": "ef826063964044d1f91c9a6e",
+      "maskedId": "133xxxxxx3625",
+      "name": "ธัญญารัตน์ ชิณวงศ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B4%E0%B8%93%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแขม",
+      "district": "พิบูลมังสาหาร",
+      "id": "9b69e9ab39059f5b98c30be7",
+      "maskedId": "134xxxxxx0198",
+      "name": "ธีรารัตน์ อัจฉฤกษ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ระเว",
+      "district": "พิบูลมังสาหาร",
+      "id": "976db7fa86632e0c205442c9",
+      "maskedId": "157xxxxxx2500",
+      "name": "นาแก วันนาพ่อ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%81-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนกาหลง",
+      "district": "พิบูลมังสาหาร",
+      "id": "8715b8111b6f8408d1b9499f",
+      "maskedId": "146xxxxxx4250",
+      "name": "ภาณุวิชญ์ จุฬารี",
+      "province": "อุบลราชธานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ระเว",
+      "district": "พิบูลมังสาหาร",
+      "id": "af28e6f1acdad63deafa829e",
+      "maskedId": "534xxxxxx5608",
+      "name": "ศิวปรียา ศรัทธาพันธ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนจิก",
+      "district": "พิบูลมังสาหาร",
+      "id": "dfeb05a211f9afaf215e5ab5",
+      "maskedId": "130xxxxxx1916",
+      "name": "อนุสรณ์ โทแหล่ง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%97%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

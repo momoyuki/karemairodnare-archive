@@ -1,0 +1,269 @@
+{
+  "_meta": {
+    "count": 15,
+    "kind": "district",
+    "name": "บางแก้ว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางแก้ว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โคกสัก",
+      "district": "บางแก้ว",
+      "id": "b79c88b4a7a82419cc445a66",
+      "maskedId": "193xxxxxx3141",
+      "name": "ขนิษฐา ยิ่งขํา",
+      "province": "พัทลุง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%82%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาปะขอ",
+      "district": "บางแก้ว",
+      "id": "2c8d965cd0907e99c767f444",
+      "maskedId": "193xxxxxx5608",
+      "name": "ณัฐพงษ์ เพ็งมาก",
+      "province": "พัทลุง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาปะขอ",
+      "district": "บางแก้ว",
+      "id": "b301c4fc09743890a607213a",
+      "maskedId": "390xxxxxx9754",
+      "name": "นฤมล จงไพบูลย์",
+      "province": "พัทลุง",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%88%E0%B8%87%E0%B9%84%E0%B8%9E%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาปะขอ",
+      "district": "บางแก้ว",
+      "id": "417c2644ca45170e988873ee",
+      "maskedId": "193xxxxxx7339",
+      "name": "นิโลมล สุวรรณรัตน์",
+      "province": "พัทลุง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B9%82%E0%B8%A5%E0%B8%A1%E0%B8%A5-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางแก้ว",
+      "district": "บางแก้ว",
+      "id": "1beedc8525a1b17e156be95e",
+      "maskedId": "193xxxxxx0868",
+      "name": "ปณิตา ด้วงรัตน์",
+      "province": "พัทลุง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลท่ามะเดื่อ",
+      "district": "บางแก้ว",
+      "id": "5cbc8a21d1dffb28efbf9e3f",
+      "maskedId": "194xxxxxx5744",
+      "name": "ฟารีดะ หะดีมอ",
+      "province": "พัทลุง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B0-%E0%B8%AB%E0%B8%B0%E0%B8%94%E0%B8%B5%E0%B8%A1%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาปะขอ",
+      "district": "บางแก้ว",
+      "id": "26abfcbcb199c7aae7197ac5",
+      "maskedId": "193xxxxxx8924",
+      "name": "รัฐนันท์ จันตุลัง",
+      "province": "พัทลุง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกสัก",
+      "district": "บางแก้ว",
+      "id": "6a2411f874c9550a958edc69",
+      "maskedId": "190xxxxxx3111",
+      "name": "ศศิกานต์ ศิริวัง",
+      "province": "พัทลุง",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่ามะเดื่อ",
+      "district": "บางแก้ว",
+      "id": "e7817b2d11c0d7efbb47faba",
+      "maskedId": "196xxxxxx8784",
+      "name": "ศุภรัตน์ อักษรพิมพ์",
+      "province": "พัทลุง",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาปะขอ",
+      "district": "บางแก้ว",
+      "id": "b7ac502102cc36406e44b8ca",
+      "maskedId": "194xxxxxx4319",
+      "name": "สัยนุน กาแมแล",
+      "province": "พัทลุง",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%B8%E0%B8%99-%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%81%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกสัก",
+      "district": "บางแก้ว",
+      "id": "e854da09117a20f571621a51",
+      "maskedId": "195xxxxxx5141",
+      "name": "อนุสรา บาฮะ",
+      "province": "พัทลุง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%9A%E0%B8%B2%E0%B8%AE%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาปะขอ",
+      "district": "บางแก้ว",
+      "id": "5e89d1131f08bb44be31109a",
+      "maskedId": "110xxxxxx7877",
+      "name": "อภิชาติ เทพหนู",
+      "province": "พัทลุง",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกสัก",
+      "district": "บางแก้ว",
+      "id": "eb50c596d743f9a1a3497d02",
+      "maskedId": "193xxxxxx8947",
+      "name": "อัฒพล เกื้อสุวรรณ",
+      "province": "พัทลุง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%92%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่ามะเดื่อ",
+      "district": "บางแก้ว",
+      "id": "5b81b380af24268f991a37d2",
+      "maskedId": "196xxxxxx5226",
+      "name": "เกรียงไกร จันทร",
+      "province": "พัทลุง",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%84%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่ามะเดื่อ",
+      "district": "บางแก้ว",
+      "id": "55dc0e9e04506aa14a048147",
+      "maskedId": "180xxxxxx4935",
+      "name": "โชติกา ไชยเจริญ",
+      "province": "พัทลุง",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

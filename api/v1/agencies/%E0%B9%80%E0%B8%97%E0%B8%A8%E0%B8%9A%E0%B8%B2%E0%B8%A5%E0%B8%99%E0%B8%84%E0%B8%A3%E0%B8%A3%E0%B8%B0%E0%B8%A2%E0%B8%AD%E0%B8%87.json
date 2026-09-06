@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "agency",
+    "name": "เทศบาลนครระยอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลนครระยอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "02b1d0ea249d7903f9a9f9b9",
+      "maskedId": "110xxxxxx5612",
+      "name": "ธิดารัตน์ ชูเชื้อ",
+      "province": "ระยอง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "289e6f04921374ba314ae834",
+      "maskedId": "149xxxxxx0967",
+      "name": "ธีระยุทธ พิกุลศรี",
+      "province": "ระยอง",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "5edf437ef12d8e67b1fda4dc",
+      "maskedId": "121xxxxxx8539",
+      "name": "ปาณิสรา พงษ์รามัญ",
+      "province": "ระยอง",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "c5123d2f6c8d5c903aa8f923",
+      "maskedId": "131xxxxxx8354",
+      "name": "พิชญ์ชา บุญหลาย",
+      "province": "ระยอง",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C%E0%B8%8A%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "b42b5cc88c5f42b8be941ff9",
+      "maskedId": "177xxxxxx8741",
+      "name": "ว่านหวาย เมืองนารถ",
+      "province": "ระยอง",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%A2-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%96",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "0870f2d8806e95632053221c",
+      "maskedId": "331xxxxxx9006",
+      "name": "สฤษดิ์ เสงี่ยมศักดิ์",
+      "province": "ระยอง",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A4%E0%B8%A9%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B8%87%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "fa9d18cc4889f1d26dadb742",
+      "maskedId": "137xxxxxx2356",
+      "name": "เบญจมาส กัลยารัตน์",
+      "province": "ระยอง",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%AA-%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

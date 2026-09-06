@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.หนองละลอก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-หนองละลอก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองละลอก",
+      "district": "บ้านค่าย",
+      "id": "164b0cf0310c6b70365d0f69",
+      "maskedId": "131xxxxxx8788",
+      "name": "กิตตินันทน์ จอมคำสิงห์",
+      "province": "ระยอง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองละลอก",
+      "district": "บ้านค่าย",
+      "id": "22d6152499002246572345ec",
+      "maskedId": "131xxxxxx3811",
+      "name": "วุฒิชัย นวลนาค",
+      "province": "ระยอง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองละลอก",
+      "district": "บ้านค่าย",
+      "id": "95100da3aeb190e9c7d4f03c",
+      "maskedId": "110xxxxxx7394",
+      "name": "สรวิศ แพใหญ่",
+      "province": "ระยอง",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%A8-%E0%B9%81%E0%B8%9E%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

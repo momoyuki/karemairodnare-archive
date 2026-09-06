@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.พะโต๊ะ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-พะโต๊ะ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.พะโต๊ะ",
+      "district": "พะโต๊ะ",
+      "id": "3990547f42b4dae3d420260a",
+      "maskedId": "186xxxxxx3292",
+      "name": "พจนีย์ ณีระภัย",
+      "province": "ชุมพร",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%88%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%93%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พะโต๊ะ",
+      "district": "พะโต๊ะ",
+      "id": "485b6f0a0b09f8a1e7a0c643",
+      "maskedId": "186xxxxxx2513",
+      "name": "วราภรณ์ อินสตุล",
+      "province": "ชุมพร",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%95%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พะโต๊ะ",
+      "district": "พะโต๊ะ",
+      "id": "93503d474f5a58233b79af3a",
+      "maskedId": "186xxxxxx3129",
+      "name": "วิลาสินี มณีบุญยัง",
+      "province": "ชุมพร",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พะโต๊ะ",
+      "district": "พะโต๊ะ",
+      "id": "9d8e450bc1e49d417deda896",
+      "maskedId": "186xxxxxx6984",
+      "name": "สุขทวี ทวีสุข",
+      "province": "ชุมพร",
+      "scoreChange": 77,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%97%E0%B8%A7%E0%B8%B5-%E0%B8%97%E0%B8%A7%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

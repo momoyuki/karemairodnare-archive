@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.บ้านแป้ง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บ้านแป้ง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "บางปะอิน",
+      "id": "dcd67b7d784ce2b28684df90",
+      "maskedId": "110xxxxxx9711",
+      "name": "จิราพร ทีจันทึก",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "บางปะอิน",
+      "id": "f99e44592e0350fa42ef5e5b",
+      "maskedId": "110xxxxxx0037",
+      "name": "ศรัณยู นะราศรี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B8%B9-%E0%B8%99%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "พรหมบุรี",
+      "id": "ecff888a42c804b38a376bc6",
+      "maskedId": "110xxxxxx6198",
+      "name": "ศิริชัย ศรีสุนทร",
+      "province": "สิงห์บุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "บางปะอิน",
+      "id": "8e71a6f03a9261d84ab66546",
+      "maskedId": "130xxxxxx8308",
+      "name": "สุธิดา โคตรโนนกอก",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%82%E0%B8%99%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "พรหมบุรี",
+      "id": "0bed305eb0c43d2a7a72a1f0",
+      "maskedId": "217xxxxxx1039",
+      "name": "อรวรรณ วรรณรัตน์",
+      "province": "สิงห์บุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

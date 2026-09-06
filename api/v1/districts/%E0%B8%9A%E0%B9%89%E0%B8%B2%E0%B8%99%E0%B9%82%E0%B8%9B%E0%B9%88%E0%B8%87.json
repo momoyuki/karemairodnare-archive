@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "district",
+    "name": "บ้านโป่ง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บ้านโป่ง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ปากแรต",
+      "district": "บ้านโป่ง",
+      "id": "e328af683d4ff4c8d55179c7",
+      "maskedId": "170xxxxxx6578",
+      "name": "ชยานันต์ หริวงศ์จงเจริญ",
+      "province": "ราชบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลกรับใหญ่",
+      "district": "บ้านโป่ง",
+      "id": "e05be97800b3e149615166a1",
+      "maskedId": "120xxxxxx2363",
+      "name": "นาถตินันท์ ศรีอุ่นศรี",
+      "province": "ราชบุรี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B8%96%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านม่วง",
+      "district": "บ้านโป่ง",
+      "id": "da4b501e4e0c072023dde4c5",
+      "maskedId": "141xxxxxx8820",
+      "name": "นิธินัย สิมสีพิมพ์",
+      "province": "ราชบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%B5%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองกบ",
+      "district": "บ้านโป่ง",
+      "id": "3e815c6bf880babeb2ad95b6",
+      "maskedId": "371xxxxxx3481",
+      "name": "นิสา อัมพบุตร",
+      "province": "ราชบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.สวนกล้วย",
+      "district": "บ้านโป่ง",
+      "id": "d83cb49aa3d4828bfb8a9c2d",
+      "maskedId": "371xxxxxx5356",
+      "name": "วรรณิภา องศุลาภะ",
+      "province": "ราชบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%A0%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านโป่ง",
+      "district": "บ้านโป่ง",
+      "id": "7b6ba4456ad653cb3c429a10",
+      "maskedId": "172xxxxxx0893",
+      "name": "สุกฤตา คุ้มภัย",
+      "province": "ราชบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%A0%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวนกล้วย",
+      "district": "บ้านโป่ง",
+      "id": "8b01458fad524abc308eab47",
+      "maskedId": "170xxxxxx6821",
+      "name": "สุดารัตน์ สุดาโมกข์",
+      "province": "ราชบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%81%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกระจับ",
+      "district": "บ้านโป่ง",
+      "id": "35473d3159b2811f2f8a87ea",
+      "maskedId": "176xxxxxx3058",
+      "name": "สุธีกานต์ เครือเหลา",
+      "province": "ราชบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเบิกไพร",
+      "district": "บ้านโป่ง",
+      "id": "7e4ace00d621c002421e89a6",
+      "maskedId": "173xxxxxx5871",
+      "name": "สุภัสสรา ศุภสหโชค",
+      "province": "ราชบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%AA%E0%B8%AB%E0%B9%82%E0%B8%8A%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากแรต",
+      "district": "บ้านโป่ง",
+      "id": "044ccf8470b35e6f8c3bbbd6",
+      "maskedId": "110xxxxxx3618",
+      "name": "อภิชฌา จรูญเรือง",
+      "province": "ราชบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%8C%E0%B8%B2-%E0%B8%88%E0%B8%A3%E0%B8%B9%E0%B8%8D%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "เทศบาลตำบลบ้านเสด็จ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลบ้านเสด็จ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "3ddadbd99e9a1720649c41d4",
+      "maskedId": "195xxxxxx7744",
+      "name": "คุณัญญารัตน์ ทองเอียด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "4879d7b51f5486f509942069",
+      "maskedId": "195xxxxxx1454",
+      "name": "จักริน สามห้วย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "1ab056c5fde24b798dda153e",
+      "maskedId": "191xxxxxx7138",
+      "name": "นันทิตา หมีดโสะ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B8%94%E0%B9%82%E0%B8%AA%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "13bfc91aedcdbabe8c7b542d",
+      "maskedId": "192xxxxxx7842",
+      "name": "นิปัจการ ปานยัง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "2a59d0487d885db524c72509",
+      "maskedId": "193xxxxxx6874",
+      "name": "พรสวรรค์ ทองไซร้",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B8%A3%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเสด็จ",
+      "district": "เคียนซา",
+      "id": "a2ffed7940d557f8c3d3480d",
+      "maskedId": "184xxxxxx0338",
+      "name": "พิชชา เจริญผล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

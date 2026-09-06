@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.ไม้ขาว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ไม้ขาว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ไม้ขาว",
+      "district": "ถลาง",
+      "id": "a0dcab424a5d15c2a8e0b196",
+      "maskedId": "180xxxxxx1822",
+      "name": "ชัชรินทร์ แดงเอียด",
+      "province": "ภูเก็ต",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไม้ขาว",
+      "district": "ถลาง",
+      "id": "ec45bbc6690233904af3d22f",
+      "maskedId": "180xxxxxx6606",
+      "name": "ภณิญา มีวงศ์",
+      "province": "ภูเก็ต",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%93%E0%B8%B4%E0%B8%8D%E0%B8%B2-%E0%B8%A1%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไม้ขาว",
+      "district": "ถลาง",
+      "id": "0af0ce7c184485050efe575c",
+      "maskedId": "193xxxxxx2313",
+      "name": "มลิณี อ่อนหนู",
+      "province": "ภูเก็ต",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%A5%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไม้ขาว",
+      "district": "ถลาง",
+      "id": "c73285714d6776376f2fc2d1",
+      "maskedId": "190xxxxxx9720",
+      "name": "อัซมาวตี ตุวันปุเต๊ะ",
+      "province": "ภูเก็ต",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8B%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%95%E0%B8%B5-%E0%B8%95%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%B8%E0%B9%80%E0%B8%95%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไม้ขาว",
+      "district": "ถลาง",
+      "id": "20ef5b06d5d2d5de3a49be1b",
+      "maskedId": "193xxxxxx3307",
+      "name": "โสภิดา ชูแก้ว",
+      "province": "ภูเก็ต",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%8A%E0%B8%B9%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

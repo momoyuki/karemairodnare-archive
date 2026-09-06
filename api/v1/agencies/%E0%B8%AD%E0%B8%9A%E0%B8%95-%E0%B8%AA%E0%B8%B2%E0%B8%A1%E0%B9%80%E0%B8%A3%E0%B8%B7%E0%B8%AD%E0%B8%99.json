@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.สามเรือน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-สามเรือน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.สามเรือน",
+      "district": "เมืองราชบุรี",
+      "id": "5a59cf2933e5b51913a6a519",
+      "maskedId": "110xxxxxx8676",
+      "name": "ชนัญชิดา กิจเจริญ",
+      "province": "ราชบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.สามเรือน",
+      "district": "เมืองราชบุรี",
+      "id": "c5b0646aa6180576e9f02b29",
+      "maskedId": "170xxxxxx9181",
+      "name": "ธนวัฒน์ เหลืองขมิ้น",
+      "province": "ราชบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%A1%E0%B8%B4%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}

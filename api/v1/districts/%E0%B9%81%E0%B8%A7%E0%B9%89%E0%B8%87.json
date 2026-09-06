@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "แว้ง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "แว้ง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ฆอเลาะ",
+      "district": "แว้ง",
+      "id": "c046c65e305a60fcea002662",
+      "maskedId": "196xxxxxx1862",
+      "name": "นูรมานีย๊ะ เจ๊ะอาแซ",
+      "province": "นราธิวาส",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8A%E0%B8%B0-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B9%81%E0%B8%8B",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เอราวัณ",
+      "district": "แว้ง",
+      "id": "c02f81b4b674a9ebd2a851d6",
+      "maskedId": "394xxxxxx3762",
+      "name": "มัสณา หะยีเมาะสาแม",
+      "province": "นราธิวาส",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%AA%E0%B8%93%E0%B8%B2-%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

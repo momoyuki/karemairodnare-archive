@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "วังชิ้น",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "วังชิ้น",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แม่พุง",
+      "district": "วังชิ้น",
+      "id": "c0ba998dafa46a816caa4c60",
+      "maskedId": "152xxxxxx6292",
+      "name": "อนุชา แก้งสุยะ",
+      "province": "แพร่",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "42_แพร่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ป้าก",
+      "district": "วังชิ้น",
+      "id": "3d5f6ad30f92b349bec0a6c5",
+      "maskedId": "122xxxxxx0187",
+      "name": "อภิชัย อุทัยเสวก",
+      "province": "แพร่",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "42_แพร่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%AA%E0%B8%A7%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

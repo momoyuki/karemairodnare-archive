@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "ขลุง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ขลุง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองขลุง",
+      "district": "ขลุง",
+      "id": "745c78aa398d518de466f894",
+      "maskedId": "131xxxxxx3004",
+      "name": "ทันตพัฒน์ พิมทอง",
+      "province": "จันทบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองขลุง",
+      "district": "ขลุง",
+      "id": "63d49b71bc7122f86f637607",
+      "maskedId": "126xxxxxx1219",
+      "name": "ภัทรนันท์ วงศ์เอี่ยมสวัสดิ์",
+      "province": "จันทบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตกพรม",
+      "district": "ขลุง",
+      "id": "67d997aedbe41881bfe5a842",
+      "maskedId": "145xxxxxx9520",
+      "name": "วริทธิ์ พุทธลา",
+      "province": "จันทบุรี",
+      "scoreChange": 7,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางชัน",
+      "district": "ขลุง",
+      "id": "ca71cd056d43cbbe29eb8323",
+      "maskedId": "110xxxxxx8577",
+      "name": "อานนท์ เจิมประเสริฐ",
+      "province": "จันทบุรี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

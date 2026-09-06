@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "เทศบาลเมืองลัดหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองลัดหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองลัดหลวง",
+      "district": "พระประแดง",
+      "id": "6f7fc1e13ef719d4493e4b1f",
+      "maskedId": "110xxxxxx4538",
+      "name": "ชนะชัย สินทับเจริญ",
+      "province": "สมุทรปราการ",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองลัดหลวง",
+      "district": "พระประแดง",
+      "id": "fcdbf89c134de260704f62fd",
+      "maskedId": "311xxxxxx7910",
+      "name": "รภัทร พุทธาโชติวัตร",
+      "province": "สมุทรปราการ",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B2%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองลัดหลวง",
+      "district": "พระประแดง",
+      "id": "88c38b30e91e516b7ec037e4",
+      "maskedId": "130xxxxxx9837",
+      "name": "ศรันยา ชมเชย",
+      "province": "สมุทรปราการ",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B2-%E0%B8%8A%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองลัดหลวง",
+      "district": "พระประแดง",
+      "id": "73e7d4ef885e31d296e24181",
+      "maskedId": "110xxxxxx3256",
+      "name": "ศศิวิมล ธรรมวิญญา",
+      "province": "สมุทรปราการ",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองลัดหลวง",
+      "district": "พระประแดง",
+      "id": "33ce777e278c4f5325ef61c6",
+      "maskedId": "110xxxxxx2144",
+      "name": "ศักดิ์ดา แช่มอุษา",
+      "province": "สมุทรปราการ",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%94%E0%B8%B2-%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองลัดหลวง",
+      "district": "พระประแดง",
+      "id": "d7bbc6b73ad01eecae08e51d",
+      "maskedId": "145xxxxxx1561",
+      "name": "ศุภากร อ่อนดี",
+      "province": "สมุทรปราการ",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

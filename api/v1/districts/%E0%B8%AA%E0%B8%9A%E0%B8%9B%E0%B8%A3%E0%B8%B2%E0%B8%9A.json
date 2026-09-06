@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "สบปราบ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สบปราบ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.สบปราบ",
+      "district": "สบปราบ",
+      "id": "30cec13880ad0d12b7f5f57a",
+      "maskedId": "156xxxxxx0907",
+      "name": "พิมพ์ผกา จิตตะคำ",
+      "province": "ลำปาง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9C%E0%B8%81%E0%B8%B2-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B0%E0%B8%84%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นายาง",
+      "district": "สบปราบ",
+      "id": "7dc13ffa7c9db6a93695c733",
+      "maskedId": "154xxxxxx0465",
+      "name": "ศิริวรรณ ศรีวงค์",
+      "province": "ลำปาง",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

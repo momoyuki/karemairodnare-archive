@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "ครบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ครบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลครบุรีใต้",
+      "district": "ครบุรี",
+      "id": "b3c99db1f065ba762438d04d",
+      "maskedId": "146xxxxxx0020",
+      "name": "จันทร์จิรา เครือสุวรรณ",
+      "province": "นครราชสีมา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลําเพียก",
+      "district": "ครบุรี",
+      "id": "4adbc54ebbfecd84debc6cbc",
+      "maskedId": "130xxxxxx6207",
+      "name": "ศุภกานต์ ดอกไม้",
+      "province": "นครราชสีมา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอรพิมพ์",
+      "district": "ครบุรี",
+      "id": "dea9b1456cb64e63df0f23a0",
+      "maskedId": "186xxxxxx4681",
+      "name": "สุมิตรา บุญผุย",
+      "province": "นครราชสีมา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9C%E0%B8%B8%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอรพิมพ์",
+      "district": "ครบุรี",
+      "id": "b848362901c2829f470012b6",
+      "maskedId": "110xxxxxx5641",
+      "name": "อธิวัฒน์ ศรีแก้ว",
+      "province": "นครราชสีมา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

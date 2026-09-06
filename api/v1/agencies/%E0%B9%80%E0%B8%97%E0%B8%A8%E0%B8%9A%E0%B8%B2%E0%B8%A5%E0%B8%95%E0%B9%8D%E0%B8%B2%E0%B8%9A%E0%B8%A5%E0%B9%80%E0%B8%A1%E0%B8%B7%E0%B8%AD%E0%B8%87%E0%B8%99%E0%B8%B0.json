@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "เทศบาลตําบลเมืองนะ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลเมืองนะ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "c543436ec44eb3c730e3858e",
+      "maskedId": "150xxxxxx0262",
+      "name": "กุลพัชร ราชคม",
+      "province": "เชียงใหม่",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%84%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "9701d60fe4db593b57db6c9c",
+      "maskedId": "858xxxxxx2596",
+      "name": "ชัชชญา อัทรารัตน์",
+      "province": "เชียงใหม่",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%AD%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "3f6262cabd1b67bce72edc16",
+      "maskedId": "150xxxxxx1423",
+      "name": "ธัญยภรณ์ ธรรมเทศน์",
+      "province": "เชียงใหม่",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "91762ecdeb0901f2302f011f",
+      "maskedId": "150xxxxxx4804",
+      "name": "บุญฑริกา นาราช",
+      "province": "เชียงใหม่",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%91%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "214ca09f8ecbf1afda5464c7",
+      "maskedId": "150xxxxxx9163",
+      "name": "วรินทร แปงแสง",
+      "province": "เชียงใหม่",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B9%81%E0%B8%9B%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "e7b34faedcbcb95019ded1e8",
+      "maskedId": "150xxxxxx7690",
+      "name": "อริสา วงศ์คำแสน",
+      "province": "เชียงใหม่",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.เขาดิน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-เขาดิน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เขาดิน",
+      "district": "บางปะกง",
+      "id": "fae2cd808c8a63a25ba072bd",
+      "maskedId": "120xxxxxx0231",
+      "name": "กรรณิกา ประพันธ์วงค์",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เขาดิน",
+      "district": "เขาพนม",
+      "id": "76859b6431c589cc738965d1",
+      "maskedId": "180xxxxxx8247",
+      "name": "เพ็ญนภา จันแก้ว",
+      "province": "กระบี่",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "_meta": {
+    "count": 13,
+    "kind": "province",
+    "name": "จันทบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "จันทบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังโตนด",
+      "district": "นายายอาม",
+      "id": "966b3d42855972e84bce592c",
+      "maskedId": "141xxxxxx1313",
+      "name": "จักรวาล จันทร์งาม",
+      "province": "จันทบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างข้าม",
+      "district": "นายายอาม",
+      "id": "605c5135ed3a4e2244f53c42",
+      "maskedId": "121xxxxxx8135",
+      "name": "ตะวัน แพทย์รักษา",
+      "province": "จันทบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองขลุง",
+      "district": "ขลุง",
+      "id": "745c78aa398d518de466f894",
+      "maskedId": "131xxxxxx3004",
+      "name": "ทันตพัฒน์ พิมทอง",
+      "province": "จันทบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังโตนด",
+      "district": "นายายอาม",
+      "id": "ab251c50105ff844f9e50dfc",
+      "maskedId": "117xxxxxx7957",
+      "name": "ธนาทิพย์ บัวพนัส",
+      "province": "จันทบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรายขาว",
+      "district": "สอยดาว",
+      "id": "e7d6942ddaf4970bd2e23250",
+      "maskedId": "122xxxxxx4594",
+      "name": "ธนาบดินทร์ ปนารักษ์",
+      "province": "จันทบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%9B%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างข้าม",
+      "district": "นายายอาม",
+      "id": "5a67ec8eeff530b4f09901a2",
+      "maskedId": "134xxxxxx4855",
+      "name": "ธัชพล เดชป้องหา",
+      "province": "จันทบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างข้าม",
+      "district": "นายายอาม",
+      "id": "d754908b861f9657cd2fcf8e",
+      "maskedId": "130xxxxxx1130",
+      "name": "ธัญวิชญ์ ปิยมิตรธรรม",
+      "province": "จันทบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองขลุง",
+      "district": "ขลุง",
+      "id": "63d49b71bc7122f86f637607",
+      "maskedId": "126xxxxxx1219",
+      "name": "ภัทรนันท์ วงศ์เอี่ยมสวัสดิ์",
+      "province": "จันทบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลแสลง",
+      "district": "เมืองจันทบุรี",
+      "id": "6150c6d771737f0838ea8ed0",
+      "maskedId": "134xxxxxx2364",
+      "name": "ระวีวรรณ ตินทอง",
+      "province": "จันทบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตกพรม",
+      "district": "ขลุง",
+      "id": "67d997aedbe41881bfe5a842",
+      "maskedId": "145xxxxxx9520",
+      "name": "วริทธิ์ พุทธลา",
+      "province": "จันทบุรี",
+      "scoreChange": 7,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รําพัน",
+      "district": "ท่าใหม่",
+      "id": "dd14f6d4843958ca6cf38b65",
+      "maskedId": "124xxxxxx3288",
+      "name": "วรุณลักขณา พรหมศาสตร์",
+      "province": "จันทบุรี",
+      "scoreChange": 71,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%93%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาบายศรี",
+      "district": "ท่าใหม่",
+      "id": "e196f0cb138c7a52af6ab9b6",
+      "maskedId": "141xxxxxx5463",
+      "name": "สิรินธรา กลางประพันธ์",
+      "province": "จันทบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%A3%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางชัน",
+      "district": "ขลุง",
+      "id": "ca71cd056d43cbbe29eb8323",
+      "maskedId": "110xxxxxx8577",
+      "name": "อานนท์ เจิมประเสริฐ",
+      "province": "จันทบุรี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "13_จันทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

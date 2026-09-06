@@ -1,0 +1,337 @@
+{
+  "_meta": {
+    "count": 19,
+    "kind": "district",
+    "name": "สามพราน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สามพราน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองไร่ขิง",
+      "district": "สามพราน",
+      "id": "501561d0b11e98f9d8e2abf3",
+      "maskedId": "170xxxxxx7571",
+      "name": "กชกร สุกใส",
+      "province": "นครปฐม",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B9%83%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรงคนอง",
+      "district": "สามพราน",
+      "id": "cb0b9312ca5bc5c1d5f25405",
+      "maskedId": "112xxxxxx5982",
+      "name": "กนกวรรณ จูเกตุ",
+      "province": "นครปฐม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%88%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ทรงคนอง",
+      "district": "สามพราน",
+      "id": "8173c83921939326e7a71776",
+      "maskedId": "180xxxxxx5859",
+      "name": "กัตติกา สุขประเสริฐ",
+      "province": "นครปฐม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "b763a13ef0f2aae265ba926e",
+      "maskedId": "167xxxxxx4794",
+      "name": "จุฑานันท์ เรืองซ้อน",
+      "province": "นครปฐม",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "589128369a98a5216aa1ebca",
+      "maskedId": "170xxxxxx9671",
+      "name": "จุฬาลักษณ์ ใจอดทน",
+      "province": "นครปฐม",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%83%E0%B8%88%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "616b58bee7f230afc4e4adba",
+      "maskedId": "177xxxxxx5848",
+      "name": "ฉัตรลดา นามนา",
+      "province": "นครปฐม",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "60ca11d2891c0e7e85e417a2",
+      "maskedId": "175xxxxxx8661",
+      "name": "ชื่นสุมน รุ่งเหมือนฟ้า",
+      "province": "นครปฐม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%99-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสามพราน",
+      "district": "สามพราน",
+      "id": "a955fd6cc35383a8fbb13b40",
+      "maskedId": "172xxxxxx4321",
+      "name": "ทักษพร จันทร์สง",
+      "province": "นครปฐม",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%9E%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระทุ่มล้ม",
+      "district": "สามพราน",
+      "id": "49ef9fc86060ae3473bc6868",
+      "maskedId": "170xxxxxx4574",
+      "name": "ธภัทรสันต์ สำราญ",
+      "province": "นครปฐม",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "681a3703b99da72899adb4f2",
+      "maskedId": "166xxxxxx5781",
+      "name": "บุษกร ศรีสิงห์",
+      "province": "นครปฐม",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%81%E0%B8%A3-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางช้าง",
+      "district": "สามพราน",
+      "id": "09b57f17d0dd1e2e75a478b7",
+      "maskedId": "171xxxxxx6998",
+      "name": "พิมพ์ชนก ฉันทะ",
+      "province": "นครปฐม",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลบางกระทึก",
+      "district": "สามพราน",
+      "id": "16cd49352010d572d88a9608",
+      "maskedId": "110xxxxxx4979",
+      "name": "รัสรินทร์ รัฐพงศ์กิตติกร",
+      "province": "นครปฐม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรงคนอง",
+      "district": "สามพราน",
+      "id": "7f2218d8ed6a3f981998881c",
+      "maskedId": "373xxxxxx6372",
+      "name": "ฤทัยรัตน์ ตาสุวรรณ",
+      "province": "นครปฐม",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%95%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากหน้าบุคลากรทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "fc21e37330a81da3fcec8d07",
+      "maskedId": "170xxxxxx0452",
+      "name": "ลาภวัต สิมารักษ์",
+      "province": "นครปฐม",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B2%E0%B8%A0%E0%B8%A7%E0%B8%B1%E0%B8%95-%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองไร่ขิง",
+      "district": "สามพราน",
+      "id": "8384793554b2fc850540b2e2",
+      "maskedId": "170xxxxxx3384",
+      "name": "สุพัตรา ชินเวช",
+      "province": "นครปฐม",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "50794f19d0f28dfa12e0055b",
+      "maskedId": "110xxxxxx3220",
+      "name": "หัฎฐกรณ์ ทองสวัสดิ์",
+      "province": "นครปฐม",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "5ae39bdddc9526ceec87d894",
+      "maskedId": "110xxxxxx9131",
+      "name": "อรกัญญา พึ่งแสวงผล",
+      "province": "นครปฐม",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%9E%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%A7%E0%B8%87%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยายชา",
+      "district": "สามพราน",
+      "id": "2abc9cabdf5f85556ff1c206",
+      "maskedId": "110xxxxxx2183",
+      "name": "อสิภรณ์ ธีรเกษตร",
+      "province": "นครปฐม",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หอมเกร็ด",
+      "district": "สามพราน",
+      "id": "a142b9dbee6638f874b81da9",
+      "maskedId": "171xxxxxx0437",
+      "name": "เมย์วรินทร์ จินดาพลอย",
+      "province": "นครปฐม",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

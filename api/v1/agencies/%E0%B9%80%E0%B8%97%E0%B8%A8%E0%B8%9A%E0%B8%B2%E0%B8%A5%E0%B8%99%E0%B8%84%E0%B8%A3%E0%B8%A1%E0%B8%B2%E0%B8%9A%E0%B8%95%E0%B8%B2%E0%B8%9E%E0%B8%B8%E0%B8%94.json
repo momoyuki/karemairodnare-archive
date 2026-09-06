@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "เทศบาลนครมาบตาพุด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลนครมาบตาพุด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครมาบตาพุด",
+      "district": "เมืองระยอง",
+      "id": "8a4596e48cdec6b1cadb6440",
+      "maskedId": "121xxxxxx8571",
+      "name": "นวพร แสนศิริ",
+      "province": "ระยอง",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A7%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครมาบตาพุด",
+      "district": "เมืองระยอง",
+      "id": "3fd0caa2bc59fd1f377e7fe2",
+      "maskedId": "140xxxxxx2425",
+      "name": "ภูมินทร์ ไชยบุรี",
+      "province": "ระยอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครมาบตาพุด",
+      "district": "เมืองระยอง",
+      "id": "1adb242f743092619d2ecd69",
+      "maskedId": "123xxxxxx3120",
+      "name": "ศิรินภา มณฑาสกุล",
+      "province": "ระยอง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%93%E0%B8%91%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครมาบตาพุด",
+      "district": "เมืองระยอง",
+      "id": "6c7d72e038ca63a03de5282a",
+      "maskedId": "364xxxxxx5487",
+      "name": "สติพงษ์ สิทธิคำฟู",
+      "province": "ระยอง",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%84%E0%B8%B3%E0%B8%9F%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครมาบตาพุด",
+      "district": "เมืองระยอง",
+      "id": "8bc5d225080ade8d978536cb",
+      "maskedId": "120xxxxxx0465",
+      "name": "อภิสรักษ์ เขียวสม",
+      "province": "ระยอง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

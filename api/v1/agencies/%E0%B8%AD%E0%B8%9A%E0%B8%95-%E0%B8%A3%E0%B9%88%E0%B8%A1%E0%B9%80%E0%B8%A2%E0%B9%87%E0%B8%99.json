@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ร่มเย็น",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ร่มเย็น",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ร่มเย็น",
+      "district": "เชียงคำ",
+      "id": "40f91c2183497b4c8ecc22a8",
+      "maskedId": "155xxxxxx2069",
+      "name": "จิรภัทร วงศ์ใจ",
+      "province": "พะเยา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ร่มเย็น",
+      "district": "เชียงคำ",
+      "id": "19617c291335163bec52292a",
+      "maskedId": "156xxxxxx3989",
+      "name": "ธนวินท์ มาสุข",
+      "province": "พะเยา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

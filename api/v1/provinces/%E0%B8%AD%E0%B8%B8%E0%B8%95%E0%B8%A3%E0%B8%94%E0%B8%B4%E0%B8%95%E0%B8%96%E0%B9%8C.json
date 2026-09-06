@@ -1,0 +1,303 @@
+{
+  "_meta": {
+    "count": 17,
+    "kind": "province",
+    "name": "อุตรดิตถ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อุตรดิตถ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แสนตอ",
+      "district": "น้ำปาด",
+      "id": "251036a0ea6eee775c18185a",
+      "maskedId": "170xxxxxx1451",
+      "name": "กรรภิรมย์ พุฒอินทร์",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%B8%E0%B8%92%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านฝาย",
+      "district": "น้ำปาด",
+      "id": "9d8b7e977498f487b5b20a44",
+      "maskedId": "130xxxxxx1437",
+      "name": "กฤตภาส บอขุนทด",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%A0%E0%B8%B2%E0%B8%AA-%E0%B8%9A%E0%B8%AD%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยมุ่น",
+      "district": "น้ำปาด",
+      "id": "1b81a619d27dacd62eadf353",
+      "maskedId": "166xxxxxx7590",
+      "name": "จารุวรรณ สุขโข",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%82%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คอรุม",
+      "district": "พิชัย",
+      "id": "e8b807d8bfee57c1f25224ca",
+      "maskedId": "153xxxxxx1768",
+      "name": "จิดาภา แก้วกลิ่น",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าแฝก",
+      "district": "น้ำปาด",
+      "id": "685ddfa6c2a58e8c214dfd7d",
+      "maskedId": "147xxxxxx4864",
+      "name": "ชนาธิป ขันละ",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลฟากท่า",
+      "district": "ฟากท่า",
+      "id": "47cb20e42a1c43d1b27bafdc",
+      "maskedId": "167xxxxxx2866",
+      "name": "ณัฏฐิกุล บุญจิตร",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเสา",
+      "district": "เมืองอุตรดิตถ์",
+      "id": "44cc60b1610005574202cace",
+      "maskedId": "156xxxxxx7962",
+      "name": "นพพร สรงสุวรรณ",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.คอรุม",
+      "district": "พิชัย",
+      "id": "8391338287abc0649455e5c1",
+      "maskedId": "131xxxxxx2302",
+      "name": "พุดกรอง เตยสระน้อย",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B8%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87-%E0%B9%80%E0%B8%95%E0%B8%A2%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าเซ่า",
+      "district": "เมืองอุตรดิตถ์",
+      "id": "df0119f059a4183d408eb74e",
+      "maskedId": "165xxxxxx8941",
+      "name": "ภัทรวัต สุขอยู่",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%95-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเสา",
+      "district": "เมืองอุตรดิตถ์",
+      "id": "d0e708cc4e3acff11bd0986c",
+      "maskedId": "153xxxxxx2855",
+      "name": "รังสิมา สอนสังข์",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านด่านนาขาม",
+      "district": "เมืองอุตรดิตถ์",
+      "id": "7baa28dddf9dca39107b2906",
+      "maskedId": "196xxxxxx9271",
+      "name": "วณัชดา ทองรมย์",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%94%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สองคอน",
+      "district": "ฟากท่า",
+      "id": "12ad8ccda35f03fa52cb2ee9",
+      "maskedId": "140xxxxxx4741",
+      "name": "ศิริวรรณ วงค์จำปา",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าเซ่า",
+      "district": "เมืองอุตรดิตถ์",
+      "id": "fa6de53159d215eff342396e",
+      "maskedId": "153xxxxxx4242",
+      "name": "สินีนาฎ ทิพงษ์",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%8E-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าสัก",
+      "district": "พิชัย",
+      "id": "4fc228f2e663595e4585defc",
+      "maskedId": "162xxxxxx1384",
+      "name": "สินีรัตน์ เชิดเมืองปัก",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าแฝก",
+      "district": "น้ำปาด",
+      "id": "6f170ef1673d5ed262422544",
+      "maskedId": "167xxxxxx7513",
+      "name": "อํานาจ แสงฤทธิ์",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B9%8D%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%88-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นางพญา",
+      "district": "ท่าปลา",
+      "id": "f8c526e1f99209f2c68bce5e",
+      "maskedId": "164xxxxxx1543",
+      "name": "เก็จมณี อินแก้วเครือ",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%88%E0%B8%A1%E0%B8%93%E0%B8%B5-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านหม้อ",
+      "district": "พิชัย",
+      "id": "5fa228f037872fcf6270a2d7",
+      "maskedId": "165xxxxxx6886",
+      "name": "เดือนเต็ม แสงนาค",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

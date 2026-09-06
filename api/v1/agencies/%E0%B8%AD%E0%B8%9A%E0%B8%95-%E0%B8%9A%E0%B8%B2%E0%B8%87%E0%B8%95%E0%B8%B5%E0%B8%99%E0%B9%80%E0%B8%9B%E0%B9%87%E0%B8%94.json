@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.บางตีนเป็ด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางตีนเป็ด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางตีนเป็ด",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "ddfa21c17a52e12e11453531",
+      "maskedId": "114xxxxxx7670",
+      "name": "ฐณิชา หอมสวัสดิ์",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตีนเป็ด",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "b94bd04a085fa36a52db4927",
+      "maskedId": "226xxxxxx6715",
+      "name": "ภูริวัฒน์ เพชรด้วง",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตีนเป็ด",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "b917c17b74afbe5fce20c529",
+      "maskedId": "120xxxxxx1034",
+      "name": "วัชรวิชย์ ดิษฐพงษ์",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B9%8C-%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

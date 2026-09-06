@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "นาเยีย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นาเยีย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นาดี",
+      "district": "นาเยีย",
+      "id": "4a1cb47dc3431c7ba1be32ac",
+      "maskedId": "135xxxxxx2212",
+      "name": "ฉัตราภรณ์ กิตติพร",
+      "province": "อุบลราชธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาดี",
+      "district": "นาเยีย",
+      "id": "5ef1e000d19762a04e1f8e3f",
+      "maskedId": "133xxxxxx9102",
+      "name": "นฤมล จันทร์เพ็ง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนาเรือง",
+      "district": "นาเยีย",
+      "id": "0300ec26ce751b8b786fd73f",
+      "maskedId": "134xxxxxx9881",
+      "name": "อรุณรัตน์ ชนะกุล",
+      "province": "อุบลราชธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

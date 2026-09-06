@@ -1,0 +1,779 @@
+{
+  "_meta": {
+    "count": 45,
+    "kind": "district",
+    "name": "เมืองปทุมธานี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองปทุมธานี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลบางพูน",
+      "district": "เมืองปทุมธานี",
+      "id": "1bf4c3af343eef4317283528",
+      "maskedId": "141xxxxxx2477",
+      "name": "กชกร วรรณกุล",
+      "province": "ปทุมธานี",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "38db9bb5d414287ab992ee38",
+      "maskedId": "130xxxxxx0931",
+      "name": "กอแก้ว กลิ่นศรีสุข",
+      "province": "ปทุมธานี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%AD%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7-%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "3550f8b0f05eca041c382b42",
+      "maskedId": "110xxxxxx2018",
+      "name": "จารุวัฒน์ มีเปรม",
+      "province": "ปทุมธานี",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวนพริกไทย",
+      "district": "เมืองปทุมธานี",
+      "id": "e9a725ed9fd8e1f8d00a2efd",
+      "maskedId": "174xxxxxx1958",
+      "name": "จิรเมธ แก้วมาลัย",
+      "province": "ปทุมธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%98-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "6046536b559d1bbf0780ea67",
+      "maskedId": "119xxxxxx9248",
+      "name": "ชนิตพล ธาราวรรณ",
+      "province": "ปทุมธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%9E%E0%B8%A5-%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "d468af8e6b63f42ef61f63b0",
+      "maskedId": "113xxxxxx7221",
+      "name": "ณัฐธยาน์ เย็นทรวง",
+      "province": "ปทุมธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางหลวง",
+      "district": "เมืองปทุมธานี",
+      "id": "e722eb4fcb4aeb32c2bccf4d",
+      "maskedId": "150xxxxxx4210",
+      "name": "ณัฐธิชา ม่วงชุมสม",
+      "province": "ปทุมธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านกลาง",
+      "district": "เมืองปทุมธานี",
+      "id": "75aeecf101f8c11a913d8408",
+      "maskedId": "172xxxxxx9502",
+      "name": "ดวงมณี เมฆะ",
+      "province": "ปทุมธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%A1%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%B0",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "fc601d9e85d5bb5446147a97",
+      "maskedId": "120xxxxxx5109",
+      "name": "ทรงยศ แจ่มแป้น",
+      "province": "ปทุมธานี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%A2%E0%B8%A8-%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวนพริกไทย",
+      "district": "เมืองปทุมธานี",
+      "id": "43400cde8422db57f3153310",
+      "maskedId": "110xxxxxx6247",
+      "name": "ทราย มีพันธุ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A2-%E0%B8%A1%E0%B8%B5%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "181b945e0475ebc5ad416dce",
+      "maskedId": "317xxxxxx1748",
+      "name": "ธวัลรัตน์ แจ่มสำราญ",
+      "province": "ปทุมธานี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางคูวัด",
+      "district": "เมืองปทุมธานี",
+      "id": "fd9f51a2ca3fce773657e2ca",
+      "maskedId": "112xxxxxx0909",
+      "name": "ธัชชัย ตาดสุวรรณ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%95%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "d569dd1641af246b9ba3b013",
+      "maskedId": "134xxxxxx9730",
+      "name": "ธิดาพร ฉายละออ",
+      "province": "ปทุมธานี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%89%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "bf61b302789f4671da16e108",
+      "maskedId": "130xxxxxx4883",
+      "name": "ธีรพงศ์ ทองธานี",
+      "province": "ปทุมธานี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "7567e41ef2f2d8b351fa2340",
+      "maskedId": "116xxxxxx5446",
+      "name": "ธีระเดช ศรีสุข",
+      "province": "ปทุมธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "9500a337aee4c519337b8ebf",
+      "maskedId": "113xxxxxx1338",
+      "name": "ธเนศร์ ผ่องประพันธ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B9%80%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B9%8C-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "dec0d2f8e416c701d86078e9",
+      "maskedId": "110xxxxxx7324",
+      "name": "นพคุณ บุญเรือง",
+      "province": "ปทุมธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%84%E0%B8%B8%E0%B8%93-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "fa5cf0785647f539b5da4a70",
+      "maskedId": "115xxxxxx4675",
+      "name": "นิจจารีย์ คุ้มพันธุ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%88%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "4c52f3b4078e74c8cc3f1e5a",
+      "maskedId": "110xxxxxx7177",
+      "name": "นิภาพร ปาณะลักษณ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%B2%E0%B8%93%E0%B8%B0%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางหลวง",
+      "district": "เมืองปทุมธานี",
+      "id": "ab76d56da1029ac467c4a855",
+      "maskedId": "112xxxxxx2313",
+      "name": "นิรุตน์ บุญเกิด",
+      "province": "ปทุมธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองบางคูวัด",
+      "district": "เมืองปทุมธานี",
+      "id": "513731aaa6eea8d8633f0999",
+      "maskedId": "118xxxxxx4644",
+      "name": "ปวีจิรวิชญ์ พานทอง",
+      "province": "ปทุมธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "c9fa37beda37f5790e320cc6",
+      "maskedId": "177xxxxxx6008",
+      "name": "ปวีณ์กร อบเทียน",
+      "province": "ปทุมธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B9%8C%E0%B8%81%E0%B8%A3-%E0%B8%AD%E0%B8%9A%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "742219f70733ed480455f259",
+      "maskedId": "114xxxxxx3986",
+      "name": "ปิยธิดา ดาวสอน",
+      "province": "ปทุมธานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "7774845ad830ec490dfbfc67",
+      "maskedId": "331xxxxxx1452",
+      "name": "พงศ์ภรณ์ พงศ์พรหมนาถ",
+      "province": "ปทุมธานี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%96",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "336f483ecf7f0280392df17d",
+      "maskedId": "119xxxxxx9613",
+      "name": "พรรณภัทร บุญศิลป์",
+      "province": "ปทุมธานี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "0a3c59610036fc7ed037f572",
+      "maskedId": "131xxxxxx3728",
+      "name": "พรสุดา เอี่ยมพันธ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางเดื่อ",
+      "district": "เมืองปทุมธานี",
+      "id": "b75ec793c87031ae075be190",
+      "maskedId": "110xxxxxx2361",
+      "name": "พิสิษฐ์ ศรีอินทสุทธิ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางคูวัด",
+      "district": "เมืองปทุมธานี",
+      "id": "132b883a3867a6de2340a97e",
+      "maskedId": "131xxxxxx6167",
+      "name": "พุฒิเมธ โพธิ์ภักดี",
+      "province": "ปทุมธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%98-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านกลาง",
+      "district": "เมืองปทุมธานี",
+      "id": "649cab38c2bb19ed2381a908",
+      "maskedId": "112xxxxxx3786",
+      "name": "มะลิ ต่างใจ",
+      "province": "ปทุมธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B0%E0%B8%A5%E0%B8%B4-%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "41553751b6fb1c847af057b0",
+      "maskedId": "140xxxxxx1892",
+      "name": "วชิรนันท์ แคนชัย",
+      "province": "ปทุมธานี",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%84%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "dc15e21a9b7543f3a79927e6",
+      "maskedId": "110xxxxxx3931",
+      "name": "วศิน ปิ่นเย็น",
+      "province": "ปทุมธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A8%E0%B8%B4%E0%B8%99-%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านใหม่",
+      "district": "เมืองปทุมธานี",
+      "id": "931d7eec0ef950b985da9830",
+      "maskedId": "366xxxxxx7488",
+      "name": "วานิตย์ หอมขุนทศ",
+      "province": "ปทุมธานี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A8",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "c0633b073d21a093212ea412",
+      "maskedId": "410xxxxxx9461",
+      "name": "วินัย จำนงค์ศิลป์",
+      "province": "ปทุมธานี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "f025e60f394294dd2530aea6",
+      "maskedId": "140xxxxxx6804",
+      "name": "ศริญญา เหล็กสูงเนิน",
+      "province": "ปทุมธานี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "988be3a93eec17303e8d535f",
+      "maskedId": "116xxxxxx0458",
+      "name": "ศิริมา เจือทอง",
+      "province": "ปทุมธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "ed9e7c748e3e0c142e948b01",
+      "maskedId": "132xxxxxx8651",
+      "name": "สมพร สันทะ",
+      "province": "ปทุมธานี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวนพริกไทย",
+      "district": "เมืองปทุมธานี",
+      "id": "10ad0384aaa97fcd9c72b446",
+      "maskedId": "140xxxxxx4463",
+      "name": "สมัชญา จันทาสี",
+      "province": "ปทุมธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%AA%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "3026555d254751bf63513576",
+      "maskedId": "193xxxxxx9928",
+      "name": "สิริญาภา พันธ์ศิริ",
+      "province": "ปทุมธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางคูวัด",
+      "district": "เมืองปทุมธานี",
+      "id": "781fb271bc008f4e2f2a2738",
+      "maskedId": "113xxxxxx6203",
+      "name": "สุดาวรรณ พานทอง",
+      "province": "ปทุมธานี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "69f2f46700eabd58765519d3",
+      "maskedId": "140xxxxxx7231",
+      "name": "อธิพงษ์ชัย โคตรยอด",
+      "province": "ปทุมธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%A2%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านกลาง",
+      "district": "เมืองปทุมธานี",
+      "id": "e4113fb9ff270760edca8aee",
+      "maskedId": "174xxxxxx2987",
+      "name": "อนุพงศ์ เพ็งเจริญ",
+      "province": "ปทุมธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกะดี",
+      "district": "เมืองปทุมธานี",
+      "id": "e62f8a4196f134c45b23daa8",
+      "maskedId": "113xxxxxx6551",
+      "name": "อภิชาต สุขวนชัย",
+      "province": "ปทุมธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A7%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "b071d110341cb56474cb9f26",
+      "maskedId": "117xxxxxx6476",
+      "name": "อัญชิสา สุกใส",
+      "province": "ปทุมธานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B9%83%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "3efe42511539e7fcbf6b9163",
+      "maskedId": "110xxxxxx0697",
+      "name": "อินทัช มะลิใหม่",
+      "province": "ปทุมธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%8A-%E0%B8%A1%E0%B8%B0%E0%B8%A5%E0%B8%B4%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปทุมธานี",
+      "district": "เมืองปทุมธานี",
+      "id": "c8c77c91fdc9d670ca6a099f",
+      "maskedId": "110xxxxxx8934",
+      "name": "เขมญา ปวรวรินทร์",
+      "province": "ปทุมธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%8D%E0%B8%B2-%E0%B8%9B%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

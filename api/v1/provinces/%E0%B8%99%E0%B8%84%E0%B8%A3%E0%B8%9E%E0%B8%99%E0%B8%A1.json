@@ -1,0 +1,881 @@
+{
+  "_meta": {
+    "count": 51,
+    "kind": "province",
+    "name": "นครพนม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นครพนม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.รามราช",
+      "district": "ท่าอุเทน",
+      "id": "d16d64d1928ddc7c134a55a5",
+      "maskedId": "534xxxxxx1872",
+      "name": "กรวรรณ ดาดวง",
+      "province": "นครพนม",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%94%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองเทา",
+      "district": "ท่าอุเทน",
+      "id": "85af9f8ea0cc2cc14d2f34d4",
+      "maskedId": "147xxxxxx5504",
+      "name": "กฤษณะ ศรีโคตร",
+      "province": "นครพนม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%B0-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกสูง",
+      "district": "ปลาปาก",
+      "id": "171a82c1d1bdb4bd8395d918",
+      "maskedId": "148xxxxxx3551",
+      "name": "กุหลาบ วงศ์ไชยา",
+      "province": "นครพนม",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%9A-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โพนทอง",
+      "district": "เรณูนคร",
+      "id": "d33bc7fdcc7d7db2db47f291",
+      "maskedId": "148xxxxxx9361",
+      "name": "จาตุรนต์ พลแก้ว",
+      "province": "นครพนม",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%9E%E0%B8%A5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนาหนาด",
+      "district": "ธาตุพนม",
+      "id": "d984d315b70362ac5e97f7b7",
+      "maskedId": "348xxxxxx2527",
+      "name": "จิราพร จันทร์นคร",
+      "province": "นครพนม",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%84%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพนจาน",
+      "district": "โพนสวรรค์",
+      "id": "484e7fa7ed7850b7544a9281",
+      "maskedId": "147xxxxxx1427",
+      "name": "จิราพร วงค์เตชะ",
+      "province": "นครพนม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B9%80%E0%B8%95%E0%B8%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพนทอง",
+      "district": "เรณูนคร",
+      "id": "32f86e3c42b73a12f5296d40",
+      "maskedId": "143xxxxxx5446",
+      "name": "จิราภรณ์ แสงเขียว",
+      "province": "นครพนม",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.อาจสามารถ",
+      "district": "เมืองนครพนม",
+      "id": "9fef9b7267d40e15d7241923",
+      "maskedId": "145xxxxxx5409",
+      "name": "จีรนุช หารพละ",
+      "province": "นครพนม",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B5%E0%B8%A3%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.กุตาไก้",
+      "district": "ปลาปาก",
+      "id": "cb4f25ac95d0d09afb362464",
+      "maskedId": "147xxxxxx4345",
+      "name": "ฉัตรฑริกา ศรีโคตร",
+      "province": "นครพนม",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%91%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นางัว",
+      "district": "นาหว้า",
+      "id": "8a58456bca293782e637b2d7",
+      "maskedId": "352xxxxxx4106",
+      "name": "ชณิดาภา โมยะ",
+      "province": "นครพนม",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%93%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B9%82%E0%B8%A1%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองซน",
+      "district": "นาทม",
+      "id": "1c40402cd5933db1529c5ba8",
+      "maskedId": "143xxxxxx8845",
+      "name": "ชนิดาภา คุณาคม",
+      "province": "นครพนม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%84%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พะทาย",
+      "district": "ท่าอุเทน",
+      "id": "1f3c2f22ef49e976d330fe0b",
+      "maskedId": "140xxxxxx3996",
+      "name": "ณัฐธร สมาธยานนท์",
+      "province": "นครพนม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%A3-%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%98%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นางัว",
+      "district": "นาหว้า",
+      "id": "4a7304ea04fe2e1175517f29",
+      "maskedId": "142xxxxxx5771",
+      "name": "ณัฐธีรา โสภาภักดิ์",
+      "province": "นครพนม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านเอื้อง",
+      "district": "ศรีสงคราม",
+      "id": "4b55eb4e37e244afffe3a5ba",
+      "maskedId": "141xxxxxx7799",
+      "name": "ณัฐวุฒิ ยศสงคราม",
+      "province": "นครพนม",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%A2%E0%B8%A8%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนนางหงส์",
+      "district": "ธาตุพนม",
+      "id": "7f6a785690dcc23cd7ccc8e0",
+      "maskedId": "148xxxxxx1451",
+      "name": "ธณณ ธนโชติพิพิธ",
+      "province": "นครพนม",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%93%E0%B8%93-%E0%B8%98%E0%B8%99%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาทม",
+      "district": "นาทม",
+      "id": "cbba0c1eff3949bad0a30bad",
+      "maskedId": "143xxxxxx3999",
+      "name": "ธนัต ทุยหล้า",
+      "province": "นครพนม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%95-%E0%B8%97%E0%B8%B8%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองซน",
+      "district": "นาทม",
+      "id": "a4b1ade127b74e255edf3504",
+      "maskedId": "147xxxxxx5031",
+      "name": "ธนัตถ์ สุรารักษ์",
+      "province": "นครพนม",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกสี",
+      "district": "วังยาง",
+      "id": "ac717461480e636e9126118d",
+      "maskedId": "148xxxxxx9997",
+      "name": "ธวัชชัย จางจันทร์",
+      "province": "นครพนม",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%88%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองซน",
+      "district": "นาทม",
+      "id": "9d2e3cc397510ab5c1ade7cc",
+      "maskedId": "143xxxxxx1138",
+      "name": "ธัญลักษณ์ แสงสุวรรณ",
+      "province": "นครพนม",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รามราช",
+      "district": "ท่าอุเทน",
+      "id": "04e3eda63e161eccf89dc92a",
+      "maskedId": "148xxxxxx0937",
+      "name": "ธิติยา คําพระรัตนตรัย",
+      "province": "นครพนม",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รามราช",
+      "district": "ท่าอุเทน",
+      "id": "280a0cd4381f70472e2a45bb",
+      "maskedId": "143xxxxxx4892",
+      "name": "นนทพัทธ์ มณีรัตน์",
+      "province": "นครพนม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รามราช",
+      "district": "ท่าอุเทน",
+      "id": "592968448df407cab1ce323d",
+      "maskedId": "143xxxxxx1742",
+      "name": "นภัสรา เพชรพา",
+      "province": "นครพนม",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลศรีสงคราม",
+      "district": "ศรีสงคราม",
+      "id": "a9e5bcf30483596cb101f89a",
+      "maskedId": "143xxxxxx7044",
+      "name": "นันทลักษณ์ เข็มศิริ",
+      "province": "นครพนม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B9%87%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โพนทอง",
+      "district": "เรณูนคร",
+      "id": "e9364973f38c105d71413812",
+      "maskedId": "149xxxxxx0138",
+      "name": "ปณิตา วงษ์กาฬสินธุ์",
+      "province": "นครพนม",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาเลียง",
+      "district": "นาแก",
+      "id": "9ac31123e1e683c20161224c",
+      "maskedId": "149xxxxxx0418",
+      "name": "ปริษา พาลึก",
+      "province": "นครพนม",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B8%A5%E0%B8%B6%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าอุเทน",
+      "district": "ท่าอุเทน",
+      "id": "b2abdfa45cb0641d0f626136",
+      "maskedId": "148xxxxxx5027",
+      "name": "ปรเมศวร์ อ่อนพุทธ",
+      "province": "นครพนม",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%A8%E0%B8%A7%E0%B8%A3%E0%B9%8C-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนนางหงส์",
+      "district": "ธาตุพนม",
+      "id": "eae148b81a353ee5a7a669d7",
+      "maskedId": "146xxxxxx1759",
+      "name": "ปิยณัฐ ศรีเมือง",
+      "province": "นครพนม",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุรุคุ",
+      "district": "เมืองนครพนม",
+      "id": "444eff74fd0580edb695806c",
+      "maskedId": "110xxxxxx5730",
+      "name": "ปิยพร ถิ่นประสาท",
+      "province": "นครพนม",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%9E%E0%B8%A3-%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%97",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหาดแพง",
+      "district": "ศรีสงคราม",
+      "id": "54773353e4501c2a12ff6964",
+      "maskedId": "146xxxxxx9752",
+      "name": "พงศ์พัฒน์ ภูขาว",
+      "province": "นครพนม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พะทาย",
+      "district": "ท่าอุเทน",
+      "id": "392f963aa4279d9878c063d9",
+      "maskedId": "143xxxxxx3278",
+      "name": "พลอยไพลิน ทะราษฎร์",
+      "province": "นครพนม",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B9%84%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%99-%E0%B8%97%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาขมิ้น",
+      "district": "โพนสวรรค์",
+      "id": "0e1f9f503d89c113d48f2c0b",
+      "maskedId": "141xxxxxx5100",
+      "name": "พัชราพร กุลวงศ์",
+      "province": "นครพนม",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุตาไก้",
+      "district": "ปลาปาก",
+      "id": "d695d955663e9fe73b86006d",
+      "maskedId": "147xxxxxx0005",
+      "name": "พัฒนพงศ์ จันทรโคตร",
+      "province": "นครพนม",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนนางหงส์",
+      "district": "ธาตุพนม",
+      "id": "ac8479f5e5ef629ca51ed58e",
+      "maskedId": "148xxxxxx1763",
+      "name": "ภีชานนท์ จักรเครือ",
+      "province": "นครพนม",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหาดแพง",
+      "district": "ศรีสงคราม",
+      "id": "717cb965af9a25346e65f83f",
+      "maskedId": "143xxxxxx3280",
+      "name": "ภูมิพัฒน์ รัตนศรี",
+      "province": "นครพนม",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุรุคุ",
+      "district": "เมืองนครพนม",
+      "id": "e46984d885b8d026b422d3a3",
+      "maskedId": "112xxxxxx4105",
+      "name": "มัลลิกา จุมปาแฝด",
+      "province": "นครพนม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%88%E0%B8%B8%E0%B8%A1%E0%B8%9B%E0%B8%B2%E0%B9%81%E0%B8%9D%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเวินพระบาท",
+      "district": "ท่าอุเทน",
+      "id": "110258d68ac708187b7c50a6",
+      "maskedId": "546xxxxxx8668",
+      "name": "ลักณ์คณา บุญวงษ์",
+      "province": "นครพนม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%93%E0%B9%8C%E0%B8%84%E0%B8%93%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านผึ้ง",
+      "district": "เมืองนครพนม",
+      "id": "37f0ac9b78ea3172137d104d",
+      "maskedId": "147xxxxxx5241",
+      "name": "วสิน ฮุงสาย",
+      "province": "นครพนม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B4%E0%B8%99-%E0%B8%AE%E0%B8%B8%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุตาไก้",
+      "district": "ปลาปาก",
+      "id": "d00350656a2190f0bc32c576",
+      "maskedId": "147xxxxxx2448",
+      "name": "วิศวะ บุบผา",
+      "province": "นครพนม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%B0-%E0%B8%9A%E0%B8%B8%E0%B8%9A%E0%B8%9C%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เรณูใต้",
+      "district": "เรณูนคร",
+      "id": "f53b9e612afebaecf9616c7a",
+      "maskedId": "148xxxxxx0504",
+      "name": "ศุภลักษณ์ โยลัย",
+      "province": "นครพนม",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เรณูใต้",
+      "district": "เรณูนคร",
+      "id": "cb2888d8b0e60d3cf83b6c02",
+      "maskedId": "148xxxxxx3368",
+      "name": "สุนิสา พรหมดี",
+      "province": "นครพนม",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังยาง",
+      "district": "วังยาง",
+      "id": "4982cc8dfcada01cf97f2520",
+      "maskedId": "167xxxxxx8073",
+      "name": "สุพัตรา รุ่งฉัตร",
+      "province": "นครพนม",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นางัว",
+      "district": "นาหว้า",
+      "id": "1bdcbdadf98233bc233e32dd",
+      "maskedId": "147xxxxxx0208",
+      "name": "สุวณี เพียภักดิ์",
+      "province": "นครพนม",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาทม",
+      "district": "นาทม",
+      "id": "7422cd5471cb6107b363fe52",
+      "maskedId": "143xxxxxx9536",
+      "name": "อชิตะ กะริอุณะ",
+      "province": "นครพนม",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%B0-%E0%B8%81%E0%B8%B0%E0%B8%A3%E0%B8%B4%E0%B8%AD%E0%B8%B8%E0%B8%93%E0%B8%B0",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.นาหัวบ่อ",
+      "district": "โพนสวรรค์",
+      "id": "b78ea320eebb9c4e281207b9",
+      "maskedId": "347xxxxxx6890",
+      "name": "อดิศักดิ์ คุณาวุฒิ",
+      "province": "นครพนม",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าบ่อสงคราม",
+      "district": "ศรีสงคราม",
+      "id": "fcd0f1a230c6743962f2d2ca",
+      "maskedId": "147xxxxxx3533",
+      "name": "อัญชลี ขวัญดี",
+      "province": "นครพนม",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A5%E0%B8%B5-%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รามราช",
+      "district": "ท่าอุเทน",
+      "id": "dbbce715d514a51aa84d88f3",
+      "maskedId": "141xxxxxx6750",
+      "name": "อานันท์ วันชัย",
+      "province": "นครพนม",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นางาม",
+      "district": "เรณูนคร",
+      "id": "7cce67bf22a94364462a5d43",
+      "maskedId": "110xxxxxx5083",
+      "name": "อารยา ภูมลา",
+      "province": "นครพนม",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลหาดแพง",
+      "district": "ศรีสงคราม",
+      "id": "c13a32bda079214a036f96a4",
+      "maskedId": "143xxxxxx3073",
+      "name": "อินทุอร บุ่งนาม",
+      "province": "นครพนม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B8%AD%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนนางหงส์",
+      "district": "ธาตุพนม",
+      "id": "e9ae9b8a1194ffcdb3947661",
+      "maskedId": "131xxxxxx2360",
+      "name": "อิศริยา วารีประโคน",
+      "province": "นครพนม",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%84%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองซน",
+      "district": "นาทม",
+      "id": "dc6009320541d8862c3be897",
+      "maskedId": "348xxxxxx6953",
+      "name": "เทพฤทธิ์ สมดีตี",
+      "province": "นครพนม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%94%E0%B8%B5%E0%B8%95%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านผึ้ง",
+      "district": "เมืองนครพนม",
+      "id": "cf3b9d2a478a9e0ce7adabc9",
+      "maskedId": "143xxxxxx0479",
+      "name": "เรืองศักดิ์ ปัดสำราญ",
+      "province": "นครพนม",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

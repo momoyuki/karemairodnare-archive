@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตําบลลําลูกกา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลลําลูกกา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลลําลูกกา",
+      "district": "ลำลูกกา",
+      "id": "0f9fa35bc8ef9111b7401462",
+      "maskedId": "392xxxxxx7781",
+      "name": "ณัชชา รักราวี",
+      "province": "ปทุมธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลลําลูกกา",
+      "district": "ลำลูกกา",
+      "id": "25182a5bf4174689574cb7c5",
+      "maskedId": "140xxxxxx6562",
+      "name": "รุ่งนภา ทองอ่อน",
+      "province": "ปทุมธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

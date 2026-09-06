@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ท่าแฝก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ท่าแฝก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ท่าแฝก",
+      "district": "น้ำปาด",
+      "id": "685ddfa6c2a58e8c214dfd7d",
+      "maskedId": "147xxxxxx4864",
+      "name": "ชนาธิป ขันละ",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าแฝก",
+      "district": "น้ำปาด",
+      "id": "6f170ef1673d5ed262422544",
+      "maskedId": "167xxxxxx7513",
+      "name": "อํานาจ แสงฤทธิ์",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B9%8D%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%88-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

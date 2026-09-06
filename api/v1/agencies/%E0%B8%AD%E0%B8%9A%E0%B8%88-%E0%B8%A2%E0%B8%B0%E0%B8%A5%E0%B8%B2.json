@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบจ.ยะลา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบจ-ยะลา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.ยะลา",
+      "district": "เมืองยะลา",
+      "id": "fa892b7b1b49a3b1f848458a",
+      "maskedId": "195xxxxxx9340",
+      "name": "สิริมา แซ่ชั้น",
+      "province": "ยะลา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ยะลา",
+      "district": "เมืองยะลา",
+      "id": "c3a0d9452838ada9ac5d8b8f",
+      "maskedId": "190xxxxxx4981",
+      "name": "สุธาสินี กุ้งทุ่ม",
+      "province": "ยะลา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

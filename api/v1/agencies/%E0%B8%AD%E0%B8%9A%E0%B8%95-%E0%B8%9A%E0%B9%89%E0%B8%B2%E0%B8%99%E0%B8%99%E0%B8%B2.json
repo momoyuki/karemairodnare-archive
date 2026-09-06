@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "agency",
+    "name": "อบต.บ้านนา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บ้านนา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "บ้านนา",
+      "id": "2a1368b88a83f37eba52e8b9",
+      "maskedId": "146xxxxxx0709",
+      "name": "จินตนา วาริบ่อ",
+      "province": "นครนายก",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B9%88%E0%B8%AD",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กะเปอร์",
+      "id": "165ceffcc1a9e6c3ba296b89",
+      "maskedId": "185xxxxxx1568",
+      "name": "ณัฐรียา ชิดเอื้อ",
+      "province": "ระนอง",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%AD%E0%B8%B7%E0%B9%89%E0%B8%AD",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กะเปอร์",
+      "id": "4495c702d7741a74cab0259c",
+      "maskedId": "193xxxxxx9475",
+      "name": "ธนภรณ์ เพ็งบูรณ์",
+      "province": "ระนอง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กบินทร์บุรี",
+      "id": "506e4f579c7b9f30431713b9",
+      "maskedId": "148xxxxxx0247",
+      "name": "บุษบง อุบัวบล",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%9A%E0%B8%87-%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "ปะเหลียน",
+      "id": "3198f2902e466ec47f3d5ff1",
+      "maskedId": "192xxxxxx5405",
+      "name": "ภราดรณ์ เดชอรัญ",
+      "province": "ตรัง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กะเปอร์",
+      "id": "ff2e19026fb11f69d3dd7931",
+      "maskedId": "186xxxxxx1728",
+      "name": "มณทิวา วงศ์สุวรรณ",
+      "province": "ระนอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กะเปอร์",
+      "id": "43a719fe61a2ca2401b529f4",
+      "maskedId": "193xxxxxx0460",
+      "name": "สรวิศ เต็มดี",
+      "province": "ระนอง",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%A8-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "เมืองชุมพร",
+      "id": "fbc5444625318e3429131f4f",
+      "maskedId": "186xxxxxx2981",
+      "name": "สุชาดา พรหมฤทธิ์",
+      "province": "ชุมพร",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กะเปอร์",
+      "id": "c3cd6a34d11bacaa147a5397",
+      "maskedId": "193xxxxxx4473",
+      "name": "โสภณัฐ พุมนวล",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%9E%E0%B8%B8%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

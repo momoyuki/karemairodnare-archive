@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "เมืองราชบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองราชบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ดอนตะโก",
+      "district": "เมืองราชบุรี",
+      "id": "20a5b32c94b1a9a48b42ebac",
+      "maskedId": "170xxxxxx6039",
+      "name": "กนกวรรณ อัชชนะลิมภากรณ์",
+      "province": "ราชบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AD%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.สามเรือน",
+      "district": "เมืองราชบุรี",
+      "id": "5a59cf2933e5b51913a6a519",
+      "maskedId": "110xxxxxx8676",
+      "name": "ชนัญชิดา กิจเจริญ",
+      "province": "ราชบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เจดีย์หัก",
+      "district": "เมืองราชบุรี",
+      "id": "470469e8405a963edd2b04ff",
+      "maskedId": "176xxxxxx6266",
+      "name": "ณฐวรรญษ์ ใช่ทอง",
+      "province": "ราชบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%90%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%8D%E0%B8%A9%E0%B9%8C-%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สามเรือน",
+      "district": "เมืองราชบุรี",
+      "id": "c5b0646aa6180576e9f02b29",
+      "maskedId": "170xxxxxx9181",
+      "name": "ธนวัฒน์ เหลืองขมิ้น",
+      "province": "ราชบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%A1%E0%B8%B4%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลเขางู",
+      "district": "เมืองราชบุรี",
+      "id": "15e600bb9324ed6b7784495f",
+      "maskedId": "171xxxxxx1736",
+      "name": "พิชยา กิจสมัย",
+      "province": "ราชบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B8%B2-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ราชบุรี",
+      "district": "เมืองราชบุรี",
+      "id": "c7b1318e59127dc4384f70c9",
+      "maskedId": "170xxxxxx0604",
+      "name": "พิริยาภรณ์ หลวงพล",
+      "province": "ราชบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาแร้ง",
+      "district": "เมืองราชบุรี",
+      "id": "9d764d63c5767c4d9d8bb443",
+      "maskedId": "176xxxxxx9264",
+      "name": "ภาคิน วงศ์คำจันทร์",
+      "province": "ราชบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%B4%E0%B8%99-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%84%E0%B8%B3%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ราชบุรี",
+      "district": "เมืองราชบุรี",
+      "id": "e6db1811aa7eb6d59b4a4d72",
+      "maskedId": "170xxxxxx8378",
+      "name": "อุมาวรรณ อยู่ผาสุข",
+      "province": "ราชบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9C%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ราชบุรี",
+      "district": "เมืองราชบุรี",
+      "id": "51d455e8529d1b4116d982d3",
+      "maskedId": "176xxxxxx0030",
+      "name": "ใบเฟิร์น วาดเขียน",
+      "province": "ราชบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%83%E0%B8%9A%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99-%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

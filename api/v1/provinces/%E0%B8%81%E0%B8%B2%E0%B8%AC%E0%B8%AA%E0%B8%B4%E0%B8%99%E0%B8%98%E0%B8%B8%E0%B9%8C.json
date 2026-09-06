@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "province",
+    "name": "กาฬสินธุ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "กาฬสินธุ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.สมสะอาด",
+      "district": "กุฉินารายณ์",
+      "id": "81d6bbf3196d4afeba0192aa",
+      "maskedId": "133xxxxxx9602",
+      "name": "จิราภรณ์ แก้วมุกดา",
+      "province": "กาฬสินธุ์",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "34_กาฬสินธุ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B8%E0%B8%81%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลแซงบาดาล",
+      "district": "สมเด็จ",
+      "id": "c3d83fca20fa21abe31f7494",
+      "maskedId": "146xxxxxx8411",
+      "name": "ธงชัย สุริยสาร",
+      "province": "กาฬสินธุ์",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "34_กาฬสินธุ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาคู",
+      "district": "นาคู",
+      "id": "7d86d8deb835a697b1a7a16f",
+      "maskedId": "171xxxxxx8111",
+      "name": "นิสากร มั่งคั่ง",
+      "province": "กาฬสินธุ์",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "34_กาฬสินธุ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นาคู",
+      "district": "นาคู",
+      "id": "081f842d34bf65a6b5a94ca6",
+      "maskedId": "172xxxxxx4123",
+      "name": "รัสยา เมตตาประชารักษ์",
+      "province": "กาฬสินธุ์",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "34_กาฬสินธุ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%A1%E0%B8%95%E0%B8%95%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นาคู",
+      "district": "นาคู",
+      "id": "17eb2fc7c9b5ee93e097461e",
+      "maskedId": "140xxxxxx6890",
+      "name": "ศุภวิชญ์ สุครีพ",
+      "province": "กาฬสินธุ์",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "34_กาฬสินธุ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%9E",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลแซงบาดาล",
+      "district": "สมเด็จ",
+      "id": "237f7080a3b6d2895f192695",
+      "maskedId": "146xxxxxx4216",
+      "name": "สกุนตลา ปัตบุศย์",
+      "province": "กาฬสินธุ์",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "34_กาฬสินธุ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%99%E0%B8%95%E0%B8%A5%E0%B8%B2-%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%9A%E0%B8%B8%E0%B8%A8%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสงเปลือย",
+      "district": "เขาวง | นามน",
+      "id": "b5c247f936a4e21b3b697aaf",
+      "maskedId": "146xxxxxx7939",
+      "name": "สิริราชย์ จงประสม",
+      "province": "กาฬสินธุ์",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "34_กาฬสินธุ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A2%E0%B9%8C-%E0%B8%88%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลดงสมบูรณ์",
+      "district": "ท่าคันโท",
+      "id": "9d7943d2d5902772bcd60e1c",
+      "maskedId": "140xxxxxx1404",
+      "name": "สุรเดช แสงโพธิ์ดา",
+      "province": "กาฬสินธุ์",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "34_กาฬสินธุ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสงเปลือย",
+      "district": "เขาวง | นามน",
+      "id": "941e9577e49d83b39e2291c8",
+      "maskedId": "140xxxxxx9910",
+      "name": "เมย์ธิรินทร์ โพธิ์ศรี",
+      "province": "กาฬสินธุ์",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "34_กาฬสินธุ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%A2%E0%B9%8C%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

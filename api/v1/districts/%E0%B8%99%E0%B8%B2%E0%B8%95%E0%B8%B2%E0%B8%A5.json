@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "นาตาล",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นาตาล",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.พะลาน",
+      "district": "นาตาล",
+      "id": "fb3b594818f36c2436d11800",
+      "maskedId": "145xxxxxx0692",
+      "name": "ธีระศักดิ์ ศิริวงศ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พังเคน",
+      "district": "นาตาล",
+      "id": "1d3ddc53bbbe27a86d5dcd47",
+      "maskedId": "145xxxxxx9774",
+      "name": "ภูธเนศ ขจรสมบัติ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%98%E0%B9%80%E0%B8%99%E0%B8%A8-%E0%B8%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พะลาน",
+      "district": "นาตาล",
+      "id": "4eef2e28e6e0c84fe44b8761",
+      "maskedId": "145xxxxxx7360",
+      "name": "สุธิดา อินทรกัมพล",
+      "province": "อุบลราชธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

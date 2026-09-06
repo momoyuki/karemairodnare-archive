@@ -1,0 +1,31 @@
+{
+  "_meta": {
+    "count": 1,
+    "kind": "agency",
+    "name": "อบต.อาซ่อง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-อาซ่อง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.อาซ่อง",
+      "district": "รามัน",
+      "id": "9df6bf35d0223c6dbcc6e2f9",
+      "maskedId": "195xxxxxx3819",
+      "name": "มาหามะรอมลี สิมะยอ",
+      "province": "ยะลา",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%B0%E0%B8%A3%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B8%B5-%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%B0%E0%B8%A2%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

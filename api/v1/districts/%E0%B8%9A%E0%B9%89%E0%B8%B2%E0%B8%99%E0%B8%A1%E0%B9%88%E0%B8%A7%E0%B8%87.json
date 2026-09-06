@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "บ้านม่วง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บ้านม่วง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ดงหม้อทอง",
+      "district": "บ้านม่วง",
+      "id": "3e5d513b5726c0bf0e02a1dc",
+      "maskedId": "143xxxxxx4097",
+      "name": "จินตนา รัตนมงคล",
+      "province": "สกลนคร",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มาย",
+      "district": "บ้านม่วง",
+      "id": "da2d32815932e480e000b7d8",
+      "maskedId": "147xxxxxx3337",
+      "name": "ฟาริดา ดวงสิมมา",
+      "province": "สกลนคร",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

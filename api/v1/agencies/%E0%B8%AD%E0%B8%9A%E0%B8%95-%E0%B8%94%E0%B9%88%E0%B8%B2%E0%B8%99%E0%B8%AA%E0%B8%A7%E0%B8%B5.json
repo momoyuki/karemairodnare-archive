@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.ด่านสวี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ด่านสวี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ด่านสวี",
+      "district": "สวี",
+      "id": "75084b6aa65178a25f33f27b",
+      "maskedId": "186xxxxxx4419",
+      "name": "จุฑารัตน์ แคล่วคล่อง",
+      "province": "ชุมพร",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%A7%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านสวี",
+      "district": "สวี",
+      "id": "5f5edbf9cdb8fc241e35e82f",
+      "maskedId": "190xxxxxx8926",
+      "name": "ชาลินี รักนิ่ม",
+      "province": "ชุมพร",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านสวี",
+      "district": "สวี",
+      "id": "896446bb361780c97d9ebed4",
+      "maskedId": "186xxxxxx8586",
+      "name": "ณรงค์ กาญจนดิษฐ์",
+      "province": "ชุมพร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านสวี",
+      "district": "สวี",
+      "id": "ece46089f88ffd6abcc7973e",
+      "maskedId": "186xxxxxx3852",
+      "name": "ธิดารัตน์ ทวีศรี",
+      "province": "ชุมพร",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%A7%E0%B8%B5%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านสวี",
+      "district": "สวี",
+      "id": "328b9e63cdb18f003108a96b",
+      "maskedId": "186xxxxxx7819",
+      "name": "ภาณุวัฒน์ ชูทอง",
+      "province": "ชุมพร",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

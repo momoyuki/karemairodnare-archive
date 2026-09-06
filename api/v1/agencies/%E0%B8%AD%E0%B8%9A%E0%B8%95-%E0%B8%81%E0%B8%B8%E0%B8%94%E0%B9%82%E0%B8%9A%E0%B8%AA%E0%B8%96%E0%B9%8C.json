@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.กุดโบสถ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-กุดโบสถ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.กุดโบสถ์",
+      "district": "เสิงสาง",
+      "id": "90bea2aafb2f27fec20eb0b2",
+      "maskedId": "130xxxxxx6539",
+      "name": "พิทยา เชื้อจอหอ",
+      "province": "นครราชสีมา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุดโบสถ์",
+      "district": "เสิงสาง",
+      "id": "59a3fdb4958153134d0de5b3",
+      "maskedId": "180xxxxxx8777",
+      "name": "สุทธินนท์ บุญโต",
+      "province": "นครราชสีมา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุดโบสถ์",
+      "district": "เสิงสาง",
+      "id": "f3dcd40dacd145fb337c6cdc",
+      "maskedId": "153xxxxxx0591",
+      "name": "สุพัตรา วิชัย",
+      "province": "นครราชสีมา",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุดโบสถ์",
+      "district": "เสิงสาง",
+      "id": "eb381bb6fd3251eda809eed6",
+      "maskedId": "131xxxxxx3281",
+      "name": "อภิวัฒน์ อยู่เย็น",
+      "province": "นครราชสีมา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

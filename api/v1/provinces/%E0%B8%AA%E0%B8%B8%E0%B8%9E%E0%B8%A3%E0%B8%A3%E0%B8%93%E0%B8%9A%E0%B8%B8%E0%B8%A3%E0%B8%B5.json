@@ -1,0 +1,1922 @@
+{
+  "_meta": {
+    "count": 112,
+    "kind": "province",
+    "name": "สุพรรณบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สุพรรณบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลบ้านดอน",
+      "district": "อู่ทอง",
+      "id": "81569daba1d06faafd788271",
+      "maskedId": "172xxxxxx7762",
+      "name": "กมลทิพย์ เชื้อฉ่ำหลวง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%89%E0%B9%88%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตะเคียน",
+      "district": "สองพี่น้อง",
+      "id": "c8928c9632c03acf366a57cd",
+      "maskedId": "270xxxxxx0651",
+      "name": "กรภัทร์ เปรมสุข",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนคา",
+      "district": "อู่ทอง",
+      "id": "1de2cf59b60ac4d7b6280bc4",
+      "maskedId": "171xxxxxx4690",
+      "name": "กฤตยา อินทรกุล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังคัน",
+      "district": "ด่านช้าง",
+      "id": "1f2680fc8a738531da9f30db",
+      "maskedId": "166xxxxxx8830",
+      "name": "กฤษศิวะนนท์ ประเสริฐ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%B0%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองราชวัตร",
+      "district": "หนองหญ้าไซ",
+      "id": "5cb03160579979f8eaf2ae69",
+      "maskedId": "172xxxxxx5624",
+      "name": "กานต์พิชชา เพ็ชร์วงษ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เนินพระปรางค์",
+      "district": "สองพี่น้อง",
+      "id": "f8013a2edca464cfc880c9eb",
+      "maskedId": "172xxxxxx0855",
+      "name": "กิจติการ หงษ์โต",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%AB%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "c2aa7ef6b65dadb896210904",
+      "maskedId": "166xxxxxx8599",
+      "name": "ขจรศักดิ์ พงษ์ประไพ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%88%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%84%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีประจันต์",
+      "district": "ศรีประจันต์",
+      "id": "27a96404e86e553d41a9be83",
+      "maskedId": "110xxxxxx0619",
+      "name": "คงพล จันทนา",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%87%E0%B8%9E%E0%B8%A5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.องค์พระ",
+      "district": "ด่านช้าง",
+      "id": "07b81bb0780ca7e3a84db0f5",
+      "maskedId": "172xxxxxx7422",
+      "name": "ฆรวัณณ์ พลเสน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%86%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A5%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกช้าง",
+      "district": "เดิมบางนางบวช",
+      "id": "fc8197cd1fe76e59f8d6a934",
+      "maskedId": "172xxxxxx3171",
+      "name": "จักรพงษ์ กาละพงศ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองสองพี่น้อง",
+      "district": "สองพี่น้อง",
+      "id": "7f029ae777e2438801907223",
+      "maskedId": "172xxxxxx1287",
+      "name": "จันทร์จิรา เรือนทองดี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กฤษณา",
+      "district": "บางปลาม้า",
+      "id": "6f46475caa28e7948fc385a4",
+      "maskedId": "172xxxxxx3904",
+      "name": "จันทิมา พุ่มมาลี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นิคมกระเสียว",
+      "district": "ด่านช้าง",
+      "id": "9bb604e7773b1dcc9f5cd08d",
+      "maskedId": "172xxxxxx7736",
+      "name": "จารุวรรณ ท่วงที",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%97%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนกํายาน",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "9c4ff79f229eddf22d91f901",
+      "maskedId": "172xxxxxx1662",
+      "name": "จินดารัตน์ รักอู่",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AD%E0%B8%B9%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งคอก",
+      "district": "สองพี่น้อง",
+      "id": "dca0826f44e54cfbdd061a27",
+      "maskedId": "173xxxxxx1281",
+      "name": "จินดารัตน์ สุพรรณชาติ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตาเถร",
+      "district": "สองพี่น้อง",
+      "id": "651aa4523016ef08d7c8030f",
+      "maskedId": "117xxxxxx7418",
+      "name": "จุฬาลักษณ์ ไทยศรี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนคา",
+      "district": "อู่ทอง",
+      "id": "6d8160c424ba2211ddca46c9",
+      "maskedId": "371xxxxxx7306",
+      "name": "จุไรรัตน์ รักษี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B9%84%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "สามชุก",
+      "id": "e166462f2dd267816a7f9130",
+      "maskedId": "172xxxxxx7650",
+      "name": "ฉัตรฑริกา พานิช",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%91%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านดอน",
+      "district": "อู่ทอง",
+      "id": "27b324530a675422d877b950",
+      "maskedId": "172xxxxxx0243",
+      "name": "ชลธิชา เกิดประกอบ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาขาว",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "83aa56e12e8d256d02f1e608",
+      "maskedId": "173xxxxxx7237",
+      "name": "ณัฐณิชา วัฒนพิทักษ์พงศ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        },
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "f10815a64fccd3fff4f5da88",
+      "maskedId": "172xxxxxx2621",
+      "name": "ณัฐธีรา ทิพย์สุวรรณ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "a7a91b570d556deec20fbeb5",
+      "maskedId": "172xxxxxx5764",
+      "name": "ณัฐพล ขำขะวงค์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%82%E0%B8%B3%E0%B8%82%E0%B8%B0%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังยาว",
+      "district": "ด่านช้าง",
+      "id": "26c0a93d7096240f26cc1c2b",
+      "maskedId": "172xxxxxx8871",
+      "name": "ณัฐวุฒิ จิตต์กระจ่าง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 72,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%8C%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดอนคา",
+      "district": "อู่ทอง",
+      "id": "17a32b2e278a4cb66f71ff9d",
+      "maskedId": "172xxxxxx6416",
+      "name": "ณัฐวุฒิ เดชธนู",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%98%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางงาม",
+      "district": "ศรีประจันต์",
+      "id": "3580b481668b4bbc2c484d6e",
+      "maskedId": "115xxxxxx2058",
+      "name": "ดวงใจ คําศิริ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%83%E0%B8%88-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลไผ่กองดิน",
+      "district": "บางปลาม้า",
+      "id": "d3e75ce6a51e28d0837e15b9",
+      "maskedId": "110xxxxxx2605",
+      "name": "ทศพร ธรรมราช",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A3-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเสด็จ",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "6d237f6ffca5eccafe837557",
+      "maskedId": "172xxxxxx6416",
+      "name": "ทิพย์นภา หนูหน่าย",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.องค์พระ",
+      "district": "ด่านช้าง",
+      "id": "0eb5db833f7e7b79a44e6912",
+      "maskedId": "271xxxxxx7860",
+      "name": "ธงชัย เอมแบน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B9%81%E0%B8%9A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สุพรรณบุรี",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "a8a2d7d993d18c785ed24048",
+      "maskedId": "171xxxxxx9565",
+      "name": "ธนพล อินทร์สว่าง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังยาว",
+      "district": "ด่านช้าง",
+      "id": "37a26c98bafbfda6eb749e9a",
+      "maskedId": "170xxxxxx4378",
+      "name": "ธนวรรณ มุยเจริญ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A1%E0%B8%B8%E0%B8%A2%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังยาว",
+      "district": "ด่านช้าง",
+      "id": "52b6052e67f303cfbc4384f6",
+      "maskedId": "175xxxxxx6021",
+      "name": "ธนาเขตต์ สุวรรณพันธ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองบ่อ",
+      "district": "สองพี่น้อง",
+      "id": "431bbeb1a72aca6df7393610",
+      "maskedId": "347xxxxxx3584",
+      "name": "ธัญญลักษณ์ แคล่วคล่อง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%A7%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังยาว",
+      "district": "ด่านช้าง",
+      "id": "5b4a934b5aac8f94a7eb647e",
+      "maskedId": "149xxxxxx1055",
+      "name": "ธัญพร ไชยายงค์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%9E%E0%B8%A3-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลสามชุก",
+      "district": "สามชุก",
+      "id": "33059ebd8826001a1b6c37b8",
+      "maskedId": "172xxxxxx6964",
+      "name": "ธันว์ เปรมทอง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B9%8C-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นิคมกระเสียว",
+      "district": "ด่านช้าง",
+      "id": "25ad1eea1f7f72ee2f581c2b",
+      "maskedId": "172xxxxxx3253",
+      "name": "ธีรพงศ์ ธรรมธีรภัทร์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเดิมบาง",
+      "district": "เดิมบางนางบวช",
+      "id": "b4ee738c02d83ad7671220a4",
+      "maskedId": "172xxxxxx6881",
+      "name": "ธีรวุฒิ เวียงธีรวัฒน์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาขาว",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "4de45f740fb2c90ed6e4958c",
+      "maskedId": "171xxxxxx5885",
+      "name": "นรินทร เที่ยงธรรม",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองสะเดา",
+      "district": "สามชุก",
+      "id": "02f5db74cc8ffa5bbc45583d",
+      "maskedId": "172xxxxxx1346",
+      "name": "นวดล นวมทอง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A7%E0%B8%94%E0%B8%A5-%E0%B8%99%E0%B8%A7%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองมะค่าโมง",
+      "district": "ด่านช้าง",
+      "id": "173538842d8354457cdacde1",
+      "maskedId": "180xxxxxx5666",
+      "name": "นวพร มีเดชา",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A7%E0%B8%9E%E0%B8%A3-%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านกุ่ม",
+      "district": "สองพี่น้อง",
+      "id": "8e17b3ede21b13d2a9cc0a92",
+      "maskedId": "172xxxxxx8587",
+      "name": "นาตยา วารีรัตน์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "สามชุก",
+      "id": "6d592c2fd9917e02597be6d4",
+      "maskedId": "172xxxxxx1934",
+      "name": "นิธิพร คุ้มทรัพย์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดอนมะสังข์",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "eb33efba0924b1ea260629e1",
+      "maskedId": "172xxxxxx7670",
+      "name": "นิศามณี กาบแก้ว",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%A1%E0%B8%93%E0%B8%B5-%E0%B8%81%E0%B8%B2%E0%B8%9A%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเสด็จ",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "10dc05fcd791bdffb6a83967",
+      "maskedId": "172xxxxxx9401",
+      "name": "น้ําผึ้ง ยศวิชัย",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87-%E0%B8%A2%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านช้าง",
+      "district": "ด่านช้าง",
+      "id": "f5513ee2f33d30779d9d2e2c",
+      "maskedId": "136xxxxxx5568",
+      "name": "ประยูร รวยทุน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B9%E0%B8%A3-%E0%B8%A3%E0%B8%A7%E0%B8%A2%E0%B8%97%E0%B8%B8%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลวังหว้า",
+      "district": "ศรีประจันต์",
+      "id": "616e35c3748969c7cdfb0107",
+      "maskedId": "171xxxxxx9222",
+      "name": "ปิยนุช ใจมั่น",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B9%83%E0%B8%88%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "สามชุก",
+      "id": "0918b9ff02dd85220abaf17f",
+      "maskedId": "172xxxxxx7241",
+      "name": "พชรพล ศรีวิเชียร",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.มะขามล้ม",
+      "district": "บางปลาม้า",
+      "id": "a1ab6cc7b0e35855c56c5ef2",
+      "maskedId": "170xxxxxx6677",
+      "name": "พรไพลิน ผูกพันธ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B9%84%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%99-%E0%B8%9C%E0%B8%B9%E0%B8%81%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "ab6d5c41073a4e400d54175d",
+      "maskedId": "172xxxxxx5923",
+      "name": "พัชราภา ปานสุวรรณ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "d2bbab90e7b9b9ed28606941",
+      "maskedId": "172xxxxxx3176",
+      "name": "พัชราภา รักชาติ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไผ่กองดิน",
+      "district": "บางปลาม้า",
+      "id": "efd01213241a3710bd06707d",
+      "maskedId": "345xxxxxx9919",
+      "name": "พิมพ์จุฑา เบญจเจริญรัตน์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2-%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองราชวัตร",
+      "district": "หนองหญ้าไซ",
+      "id": "451b467e781ec8bdef0655a0",
+      "maskedId": "170xxxxxx0874",
+      "name": "พุธิตา อิ่มแสงจันทร์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตะเคียน",
+      "district": "สองพี่น้อง",
+      "id": "19249d7753f854badfffdc20",
+      "maskedId": "172xxxxxx5154",
+      "name": "ภนิตา ปานจันทร์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวังหว้า",
+      "district": "ศรีประจันต์",
+      "id": "3f65ae6e1bc216a36711bffe",
+      "maskedId": "372xxxxxx4250",
+      "name": "ภรณ์ชนก ผลวงค์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%9C%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านโข้ง",
+      "district": "อู่ทอง",
+      "id": "9a277138880ea7fd9271290c",
+      "maskedId": "172xxxxxx2141",
+      "name": "ภัคพิชา เนื่องนุ้ย",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%84%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แจงงาม",
+      "district": "หนองหญ้าไซ",
+      "id": "48de0661cdb575eef0cdcef3",
+      "maskedId": "172xxxxxx0708",
+      "name": "ภัทชา กลิ่นอุบล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%8A%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นิคมกระเสียว",
+      "district": "ด่านช้าง",
+      "id": "411800fb332176a81b12487a",
+      "maskedId": "223xxxxxx7566",
+      "name": "ภัทรวดี วรวงษ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "สามชุก",
+      "id": "ef627ece8f2ea42e94b47b3b",
+      "maskedId": "119xxxxxx1111",
+      "name": "ภาคภูมิ ใช้เทียมวงษ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางเลน",
+      "district": "สองพี่น้อง",
+      "id": "cd5467cb1197f9ceed7075b0",
+      "maskedId": "173xxxxxx0541",
+      "name": "ภาติยะ มีราศรี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B0-%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลต้นคราม",
+      "district": "บางปลาม้า",
+      "id": "36a05e3040c8375cce29518e",
+      "maskedId": "172xxxxxx6937",
+      "name": "ภานุธัตน์ หันสังข์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%98%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองหญ้าไซพัฒนา",
+      "district": "หนองหญ้าไซ",
+      "id": "60f0d87c4ebf0c9bdfa7e54b",
+      "maskedId": "172xxxxxx8678",
+      "name": "ภิญญดา แซ่จัง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%94%E0%B8%B2-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จรเข้ใหญ่",
+      "district": "บางปลาม้า",
+      "id": "9910558d21c9cd1f16569077",
+      "maskedId": "110xxxxxx2017",
+      "name": "มนทิพย์ ทองธรรมชาติ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางใหญ่",
+      "district": "บางปลาม้า",
+      "id": "0468743641d7f1b46c6852cd",
+      "maskedId": "172xxxxxx2273",
+      "name": "มัณฑนา เรืองขจร",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%88%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังยาว",
+      "district": "ด่านช้าง",
+      "id": "16b0540924331bbadb0c1183",
+      "maskedId": "171xxxxxx0164",
+      "name": "มัลลิกา ทองรอด",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ่อสุพรรณ",
+      "district": "สองพี่น้อง",
+      "id": "73aa9ceda8d5ddefd0ef0451",
+      "maskedId": "173xxxxxx8264",
+      "name": "มัลลิกา สุขเจริญ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.องค์พระ",
+      "district": "ด่านช้าง",
+      "id": "372211a4e16b4ea8f5fc4857",
+      "maskedId": "172xxxxxx4381",
+      "name": "ยุทธพิชัย สงวนทรัพย์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองมะค่าโมง",
+      "district": "ด่านช้าง",
+      "id": "8550db37428a22223ebb1bbb",
+      "maskedId": "272xxxxxx6676",
+      "name": "รุ่งทิวา ขุมทอง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางกุ้ง",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "2e7283b1d3eca8e251818774",
+      "maskedId": "172xxxxxx8848",
+      "name": "วนัชพร บูรณเทศ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%A3-%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%80%E0%B8%97%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาขาว",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "112cd7274aa0b5308788b98f",
+      "maskedId": "370xxxxxx6235",
+      "name": "วนิดา จิตมะกล่ํา",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%B0%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกระจัน",
+      "district": "อู่ทอง",
+      "id": "61675200e48d2b3c3ff31cd4",
+      "maskedId": "172xxxxxx2617",
+      "name": "วรากร แย้มวงษ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองกระทุ่ม",
+      "district": "เดิมบางนางบวช",
+      "id": "e43ce90a3aa4d0e985248494",
+      "maskedId": "172xxxxxx3907",
+      "name": "วริศรา อินทร์แตง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%95%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งคอก",
+      "district": "สองพี่น้อง",
+      "id": "3814d337e6dab336d75b8380",
+      "maskedId": "272xxxxxx8231",
+      "name": "วสุฬส กิจฉลอง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%AC%E0%B8%AA-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%89%E0%B8%A5%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองมะค่าโมง",
+      "district": "ด่านช้าง",
+      "id": "21416ec0146e76a9fadcd8f5",
+      "maskedId": "174xxxxxx4191",
+      "name": "วัฒนชัย สงสกุล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หัวนา",
+      "district": "เดิมบางนางบวช",
+      "id": "95a159ad5e238e54284c929b",
+      "maskedId": "172xxxxxx6521",
+      "name": "วันเฉลิม ปานสุวรรณ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนางบวช",
+      "district": "เดิมบางนางบวช",
+      "id": "c1b5475110c3c5515b38a642",
+      "maskedId": "117xxxxxx3806",
+      "name": "วิภาดา ชั่งยั่งยืน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังยาว",
+      "district": "ด่านช้าง",
+      "id": "a8ee6c4fa33031852d755ed8",
+      "maskedId": "172xxxxxx8261",
+      "name": "วิลาวัณย์ แช่มช้อย",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B8%A1%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "สามชุก",
+      "id": "5f9e04c3881e1c735e35c5c4",
+      "maskedId": "110xxxxxx4724",
+      "name": "ศราวุฒิ การะภาพ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%9E",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองโอ่ง",
+      "district": "อู่ทอง",
+      "id": "5f5548e7a058389ce8dfa9da",
+      "maskedId": "172xxxxxx7540",
+      "name": "ศรีกฤติยา จารุรังษีทิพย์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A9%E0%B8%B5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสวนแตง",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "f5c091b3161c7648dbb38057",
+      "maskedId": "172xxxxxx7677",
+      "name": "ศิริวรรณ แจ้งโพธิ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "46b62e7566348af68678b18a",
+      "maskedId": "172xxxxxx7397",
+      "name": "ศิวพร โพธิ์สุวรรณ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%9E%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังน้ําเย็น",
+      "district": "บางปลาม้า",
+      "id": "d5fef4ebe86884e15e41ca94",
+      "maskedId": "171xxxxxx3353",
+      "name": "สมัย ผิวนวล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%A2-%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยขมิ้น",
+      "district": "ด่านช้าง",
+      "id": "ffc803889e57bf71f531d8b8",
+      "maskedId": "173xxxxxx9932",
+      "name": "สมเกียรติ เอกพรรณ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 6,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4-%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลกระจัน",
+      "district": "อู่ทอง",
+      "id": "f9ae5844d1faa1ca85f8a9c9",
+      "maskedId": "171xxxxxx5649",
+      "name": "สรยุทธ อัศวินะกุล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B0%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จรเข้ใหญ่",
+      "district": "บางปลาม้า",
+      "id": "c1c9749927d200bdb49df813",
+      "maskedId": "172xxxxxx1823",
+      "name": "สลินดา เจริญสุข",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองมะค่าโมง",
+      "district": "ด่านช้าง",
+      "id": "b74171356bb384440fbabdc6",
+      "maskedId": "157xxxxxx5751",
+      "name": "สลิลทิพย์ สกุลสุขมงคล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%A5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาพระ",
+      "district": "เดิมบางนางบวช",
+      "id": "79abedd9a074cfd11e635f82",
+      "maskedId": "172xxxxxx3277",
+      "name": "สวรรยา นุ่มดี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งคอก",
+      "district": "สองพี่น้อง",
+      "id": "43479478fe0e6bb19c4fed85",
+      "maskedId": "171xxxxxx2995",
+      "name": "สิริพร พงษ์สุทัศน์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ต้นตาล",
+      "district": "สองพี่น้อง",
+      "id": "bcbca0a4fcc7bb93e834b78f",
+      "maskedId": "172xxxxxx3974",
+      "name": "สุกัญญา วารีนิล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หัวเขา",
+      "district": "เดิมบางนางบวช",
+      "id": "111658b84b2b795b08177cc3",
+      "maskedId": "118xxxxxx6226",
+      "name": "สุกัญญา สีสวัสดิ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งคลี",
+      "district": "เดิมบางนางบวช",
+      "id": "46c730ade43db57aab80a59a",
+      "maskedId": "172xxxxxx6442",
+      "name": "สุจิตรา เรียนจันทร์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านแหลม",
+      "district": "บางปลาม้า",
+      "id": "1513ed9cd713a15f15102184",
+      "maskedId": "170xxxxxx6505",
+      "name": "สุดารัตน์ สวนเพลง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.พลับพลาไชย",
+      "district": "อู่ทอง",
+      "id": "e26cefcf445536511facc842",
+      "maskedId": "171xxxxxx0147",
+      "name": "สุนิตา โตอาจ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%82%E0%B8%95%E0%B8%AD%E0%B8%B2%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แจงงาม",
+      "district": "หนองหญ้าไซ",
+      "id": "4c824b6623e2cf24f1847128",
+      "maskedId": "171xxxxxx5394",
+      "name": "สุนิสา ทองเหม",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางนอน",
+      "district": "เดิมบางนางบวช",
+      "id": "422d068fa6f3072ce1199017",
+      "maskedId": "171xxxxxx6597",
+      "name": "สุภภนิดา สืบสอน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%A0%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยขมิ้น",
+      "district": "ด่านช้าง",
+      "id": "cb5de9d516e19d7abd73a2d8",
+      "maskedId": "171xxxxxx9106",
+      "name": "สุภัทรา ฟักโต",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2-%E0%B8%9F%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.องค์พระ",
+      "district": "ด่านช้าง",
+      "id": "07fa5f9c33bd6f0573dd2c4b",
+      "maskedId": "172xxxxxx9411",
+      "name": "สุภาพร เสนาพิทักษ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านกร่าง",
+      "district": "ศรีประจันต์",
+      "id": "43c793b4ed45ea0b8635b094",
+      "maskedId": "172xxxxxx5581",
+      "name": "สุภารัตน์ เกิดวงศ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาดิน",
+      "district": "เดิมบางนางบวช",
+      "id": "5fdc40c7e37712dab6278854",
+      "maskedId": "172xxxxxx1905",
+      "name": "สุภาวดี จันทา",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เนินพระปรางค์",
+      "district": "สองพี่น้อง",
+      "id": "f4cf69c0e67b78cdea03a5ff",
+      "maskedId": "172xxxxxx1699",
+      "name": "สุวรรณา สาลีผล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%A5%E0%B8%B5%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสวนแตง",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "f64fbe96037046681274130e",
+      "maskedId": "170xxxxxx3332",
+      "name": "สโรชา ทองอินทร์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B9%82%E0%B8%A3%E0%B8%8A%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนกํายาน",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "c1c0d2eb153fcfce9a5020ab",
+      "maskedId": "172xxxxxx4034",
+      "name": "อดิศร พันธุ์เณร",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%A8%E0%B8%A3-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%80%E0%B8%93%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองบ่อ",
+      "district": "สองพี่น้อง",
+      "id": "fd082a6bae5079cc856cb4ea",
+      "maskedId": "171xxxxxx0109",
+      "name": "อภิญญา สืบสอน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองมะค่าโมง",
+      "district": "ด่านช้าง",
+      "id": "cc4d903ebefafea9b268a0f8",
+      "maskedId": "173xxxxxx0121",
+      "name": "อภิวัฑฒ์ จันทร์เต็มดวง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%91%E0%B8%92%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%94%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วัดดาว",
+      "district": "บางปลาม้า",
+      "id": "f4b74ad42480a2255f497bb1",
+      "maskedId": "173xxxxxx7621",
+      "name": "อมรเทพ ดอกอัญชัน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%9E-%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนมะสังข์",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "fbdde43bd4c1182daf5c2e25",
+      "maskedId": "176xxxxxx6709",
+      "name": "อรอุษา อินเทศ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%B8%E0%B8%A9%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระเสียว",
+      "district": "สามชุก",
+      "id": "d0197e29aeec08d215c7a1e2",
+      "maskedId": "167xxxxxx9818",
+      "name": "อริญภร อมรปัญวัชร",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A0%E0%B8%A3-%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนกํายาน",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "6a800f4cf0720c458dfb5332",
+      "maskedId": "110xxxxxx4423",
+      "name": "อาณกร จันทร์นิยม",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลด่านช้าง",
+      "district": "ด่านช้าง",
+      "id": "de9e5af5b28fceca3165211c",
+      "maskedId": "372xxxxxx5802",
+      "name": "เกตุมาลา มะลิอ่อง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2-%E0%B8%A1%E0%B8%B0%E0%B8%A5%E0%B8%B4%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนมะสังข์",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "8e2be553421977e47f8362c3",
+      "maskedId": "172xxxxxx2828",
+      "name": "เกศกนก โมพันธ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A8%E0%B8%81%E0%B8%99%E0%B8%81-%E0%B9%82%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยขมิ้น",
+      "district": "ด่านช้าง",
+      "id": "818802cb1423acbe26422a3f",
+      "maskedId": "172xxxxxx5020",
+      "name": "เกษณี ช้างวงค์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B5-%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ต้นตาล",
+      "district": "สองพี่น้อง",
+      "id": "0b306e4cf320586b7f4f3ae3",
+      "maskedId": "172xxxxxx6491",
+      "name": "เกษรา คุ้มทรัพย์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หัวนา",
+      "district": "เดิมบางนางบวช",
+      "id": "ad1eb8310199cf65c7d0721c",
+      "maskedId": "172xxxxxx1541",
+      "name": "เบญจวรรณ ขาวพันธ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยขมิ้น",
+      "district": "ด่านช้าง",
+      "id": "22dba2f2aeb762aa42b1c8de",
+      "maskedId": "130xxxxxx6633",
+      "name": "โสภณ วิทยายนตร์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%93-%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "เมืองลำปาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองลำปาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองเขลางค์นคร",
+      "district": "เมืองลำปาง",
+      "id": "bca64ab134995ab760aa816e",
+      "maskedId": "190xxxxxx3549",
+      "name": "กรชนก ช่วยเล็ก",
+      "province": "ลำปาง",
+      "scoreChange": 4,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านเอื้อม",
+      "district": "เมืองลำปาง",
+      "id": "fbc02ae2c5c376600b0d9b0a",
+      "maskedId": "140xxxxxx4433",
+      "name": "ณัฐฐาพร คํามูลมี",
+      "province": "ลำปาง",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%90%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บุญนาคพัฒนา",
+      "district": "เมืองลำปาง",
+      "id": "4666856840063bdf185018e7",
+      "maskedId": "152xxxxxx1335",
+      "name": "ทรงวุฒิ ยอดอินต๊ะ",
+      "province": "ลำปาง",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครลําปาง",
+      "district": "เมืองลำปาง",
+      "id": "754dcdf0527c07ebf698da07",
+      "maskedId": "155xxxxxx7383",
+      "name": "ภูริณัฐ เพชรวีระ",
+      "province": "ลำปาง",
+      "scoreChange": 7,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครลําปาง",
+      "district": "เมืองลำปาง",
+      "id": "c2ac69260e667ec70c003c36",
+      "maskedId": "151xxxxxx1451",
+      "name": "ศุภลักษณ์ มูลสม",
+      "province": "ลำปาง",
+      "scoreChange": 3,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลต้นธงชัย",
+      "district": "เมืองลำปาง",
+      "id": "930f52beddadbfc2b1b6e1bf",
+      "maskedId": "152xxxxxx8667",
+      "name": "สุธิดา โพธิ์ทอง",
+      "province": "ลำปาง",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บุญนาคพัฒนา",
+      "district": "เมืองลำปาง",
+      "id": "d6febda3a289a0ee339d9d00",
+      "maskedId": "355xxxxxx6103",
+      "name": "สุวิชา อ้อพิมาย",
+      "province": "ลำปาง",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

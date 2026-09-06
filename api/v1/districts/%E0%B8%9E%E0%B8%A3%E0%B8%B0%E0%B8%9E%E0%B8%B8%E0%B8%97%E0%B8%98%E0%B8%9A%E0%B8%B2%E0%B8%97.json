@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "พระพุทธบาท",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พระพุทธบาท",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลหนองแก",
+      "district": "พระพุทธบาท",
+      "id": "ec014ea28c6497415c6bd284",
+      "maskedId": "147xxxxxx9222",
+      "name": "กมลนาถ แดนราช",
+      "province": "สระบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.พุคําจาน",
+      "district": "พระพุทธบาท",
+      "id": "2fbe4a8ac24c1427653008ca",
+      "maskedId": "112xxxxxx7354",
+      "name": "ชลาลัย ศรีสุข",
+      "province": "สระบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาวง",
+      "district": "พระพุทธบาท",
+      "id": "783f661e9a71e84e7ae2ee89",
+      "maskedId": "113xxxxxx6991",
+      "name": "ชินท์ณภัทร ปริยสกุล",
+      "province": "สระบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เขาวง",
+      "district": "พระพุทธบาท",
+      "id": "1182a55f864aee6e73d44718",
+      "maskedId": "119xxxxxx9599",
+      "name": "ธัญรัตน์ ท้าวหลวง",
+      "province": "สระบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองแก",
+      "district": "พระพุทธบาท",
+      "id": "1feae4d1738e8f53413fc36b",
+      "maskedId": "146xxxxxx7974",
+      "name": "ปณิตา อยู่พิทักษ์สกุล",
+      "province": "สระบุรี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.พุคําจาน",
+      "district": "พระพุทธบาท",
+      "id": "1bdc141eaa9c56accec415e2",
+      "maskedId": "110xxxxxx5180",
+      "name": "ภูวดล แผนจันทึก",
+      "province": "สระบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A7%E0%B8%94%E0%B8%A5-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาวง",
+      "district": "พระพุทธบาท",
+      "id": "366dd769bf42eb8e63a7df9a",
+      "maskedId": "180xxxxxx9833",
+      "name": "วัลลญา ห้องเม่ง",
+      "province": "สระบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%8D%E0%B8%B2-%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองแก",
+      "district": "พระพุทธบาท",
+      "id": "349dae3427476b5135984e06",
+      "maskedId": "130xxxxxx9431",
+      "name": "วิภาวรรณ วินฉิมพลี",
+      "province": "สระบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองแก",
+      "district": "พระพุทธบาท",
+      "id": "cdfcb24ba591e1caf45c9413",
+      "maskedId": "112xxxxxx2269",
+      "name": "อนุวัฒน์ แจ่มเหมือน",
+      "province": "สระบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}

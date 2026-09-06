@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "โพธิ์ไทร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "โพธิ์ไทร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.สําโรง",
+      "district": "โพธิ์ไทร",
+      "id": "34ef92bb7345d55854a92ee5",
+      "maskedId": "134xxxxxx4855",
+      "name": "ชาญณรงค์ ทองบุ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B8",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เหล่างาม",
+      "district": "โพธิ์ไทร",
+      "id": "9a5012116d29c178d0b0c19f",
+      "maskedId": "173xxxxxx2078",
+      "name": "พิยาดา ภูมิเรศสุนทร",
+      "province": "อุบลราชธานี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสารภี",
+      "district": "โพธิ์ไทร",
+      "id": "19c1bd795ebd36174ea1268b",
+      "maskedId": "130xxxxxx1475",
+      "name": "ภาณุพงศ์ ล้อจิโรภาส",
+      "province": "อุบลราชธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%88%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%AA",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

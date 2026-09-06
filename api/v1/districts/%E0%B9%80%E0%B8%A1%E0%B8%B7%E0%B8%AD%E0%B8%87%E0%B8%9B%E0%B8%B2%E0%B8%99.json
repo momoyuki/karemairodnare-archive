@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "เมืองปาน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองปาน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลบ้านขอ",
+      "district": "เมืองปาน",
+      "id": "ed79f50e629e94b382111dcd",
+      "maskedId": "158xxxxxx5684",
+      "name": "ตระกูล ชมภูใส",
+      "province": "ลำปาง",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B9%E0%B8%A5-%E0%B8%8A%E0%B8%A1%E0%B8%A0%E0%B8%B9%E0%B9%83%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองปาน",
+      "district": "เมืองปาน",
+      "id": "5eb5846323b72085d423c08d",
+      "maskedId": "110xxxxxx8076",
+      "name": "มณฑิรา เสริมสิทธิพร",
+      "province": "ลำปาง",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

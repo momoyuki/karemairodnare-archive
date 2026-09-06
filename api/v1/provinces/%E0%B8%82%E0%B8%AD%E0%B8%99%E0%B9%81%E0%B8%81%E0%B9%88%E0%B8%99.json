@@ -1,0 +1,779 @@
+{
+  "_meta": {
+    "count": 45,
+    "kind": "province",
+    "name": "ขอนแก่น",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ขอนแก่น",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แดงใหญ่",
+      "district": "เมืองขอนแก่น",
+      "id": "c5177a4e48e84cb8603408af",
+      "maskedId": "344xxxxxx8400",
+      "name": "กมลพิชญ์ สุรินทราช",
+      "province": "ขอนแก่น",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลแคนเหนือ",
+      "district": "บ้านไผ่",
+      "id": "b8d8c903830619f4c39f8af9",
+      "maskedId": "131xxxxxx9984",
+      "name": "กัญญา แก้วศรี",
+      "province": "ขอนแก่น",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนพะยอม",
+      "district": "ชนบท",
+      "id": "0a50ca1ef3a7b4fb9964bfa4",
+      "maskedId": "136xxxxxx4910",
+      "name": "กัลยรัตน์ วงศ์เพชร",
+      "province": "ขอนแก่น",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโคกสูง",
+      "district": "อุบลรัตน์",
+      "id": "9d11a919bf06b4578ebeaeb1",
+      "maskedId": "147xxxxxx7105",
+      "name": "จรินทร์ยา กองแก้ว",
+      "province": "ขอนแก่น",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A2%E0%B8%B2-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ดงลาน",
+      "district": "สีชมพู",
+      "id": "5359468647baf29bdd5913ad",
+      "maskedId": "140xxxxxx0612",
+      "name": "จิรกิตต์ ชัยฉิมพลี",
+      "province": "ขอนแก่น",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%8C-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลลําน้ําพอง",
+      "district": "น้ำพอง",
+      "id": "a22dba087ac8059789e85f83",
+      "maskedId": "140xxxxxx6656",
+      "name": "จุฑาภรณ์ ผาภู",
+      "province": "ขอนแก่น",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9C%E0%B8%B2%E0%B8%A0%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านไผ่",
+      "district": "บ้านไผ่",
+      "id": "76e4a5693bee7ded934f1d00",
+      "maskedId": "146xxxxxx9942",
+      "name": "จุฑารัตน์ โพธิ์สุวรรณ",
+      "province": "ขอนแก่น",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลนาข่า",
+      "district": "มัญจาคีรี",
+      "id": "11e34a77bd10d6e061ebf59b",
+      "maskedId": "110xxxxxx2599",
+      "name": "ชลลดา พันธกนก",
+      "province": "ขอนแก่น",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%81%E0%B8%99%E0%B8%81",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นางิ้ว",
+      "district": "เขาสวนกวาง",
+      "id": "0eb4cc04096ff88701b8d310",
+      "maskedId": "142xxxxxx0461",
+      "name": "ช่อเอื้อง ศรีสุวอ",
+      "province": "ขอนแก่น",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%AD%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเม็ง",
+      "district": "หนองเรือ",
+      "id": "eb68736643f84635cd821706",
+      "maskedId": "140xxxxxx4983",
+      "name": "ณัฐชา วันอุดม",
+      "province": "ขอนแก่น",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%8A%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังหิน",
+      "district": "หนองสองห้อง",
+      "id": "25c989434866632015f5044c",
+      "maskedId": "130xxxxxx1154",
+      "name": "ธนทัต เราสูงเนิน",
+      "province": "ขอนแก่น",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%95-%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ทุ่งโป่ง",
+      "district": "อุบลรัตน์",
+      "id": "12e4e2cd39d96bb24e7dd264",
+      "maskedId": "144xxxxxx2425",
+      "name": "ธนภัทร มาตย์คำมี",
+      "province": "ขอนแก่น",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%B3%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โจดหนองแก",
+      "district": "พล",
+      "id": "391b83a1e00f04c6792d0cd4",
+      "maskedId": "146xxxxxx7248",
+      "name": "ธนากร แสงเพชร",
+      "province": "ขอนแก่น",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านไผ่",
+      "district": "บ้านไผ่",
+      "id": "28d6cc9575625c23d009222a",
+      "maskedId": "340xxxxxx1675",
+      "name": "ธัญญกานต์ สันเพาะ",
+      "province": "ขอนแก่น",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ขอนแก่น",
+      "district": "เมืองขอนแก่น",
+      "id": "26547d98dab0cabef58b02c3",
+      "maskedId": "143xxxxxx0263",
+      "name": "ธัญญาลักษณ์ เหล่าสุวรรณ",
+      "province": "ขอนแก่น",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ขอนแก่น",
+      "district": "เมืองขอนแก่น",
+      "id": "21101ebac23ea708eef1e545",
+      "maskedId": "133xxxxxx1878",
+      "name": "นภสร น้ําหวาน",
+      "province": "ขอนแก่น",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%AA%E0%B8%A3-%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีบุญเรือง",
+      "district": "ชนบท",
+      "id": "ba101e01d888e74178710f46",
+      "maskedId": "140xxxxxx5591",
+      "name": "นิภาพร วารีศรี",
+      "province": "ขอนแก่น",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ดงเมืองแอม",
+      "district": "เขาสวนกวาง",
+      "id": "1c50a4c9eec1f121818c5b03",
+      "maskedId": "146xxxxxx8973",
+      "name": "ประภาพร ชินวงศ์สา",
+      "province": "ขอนแก่น",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีสุขสําราญ",
+      "district": "อุบลรัตน์",
+      "id": "850c0ddedf0f89b51fbc96d1",
+      "maskedId": "145xxxxxx1017",
+      "name": "ปราบดา บุศย์รัศมี",
+      "province": "ขอนแก่น",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%94%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%A8%E0%B8%A2%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองเรือ",
+      "district": "หนองเรือ",
+      "id": "003fef4a4b1e1f251caeed0b",
+      "maskedId": "140xxxxxx5361",
+      "name": "พิชัย เวียงวิเศษ",
+      "province": "ขอนแก่น",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านไผ่",
+      "district": "บ้านไผ่",
+      "id": "a553428c3bc219114ddba356",
+      "maskedId": "140xxxxxx2460",
+      "name": "พิพิธพร พร้อมพรั่ง",
+      "province": "ขอนแก่น",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านดง",
+      "district": "อุบลรัตน์",
+      "id": "987da40a732140d1229248cd",
+      "maskedId": "131xxxxxx6051",
+      "name": "ภูดิศ จันทบูรณ์",
+      "province": "ขอนแก่น",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B8%A8-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านโคก",
+      "district": "โคกโพธิ์ไชย",
+      "id": "4d7cf56f2c938828104d3514",
+      "maskedId": "136xxxxxx2123",
+      "name": "ภูษิตา นาขามป้อม",
+      "province": "ขอนแก่น",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A9%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.แดงใหญ่",
+      "district": "เมืองขอนแก่น",
+      "id": "adad666367b3b794f375d31d",
+      "maskedId": "130xxxxxx7750",
+      "name": "รัชดาภรณ์ การัมย์",
+      "province": "ขอนแก่น",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%94%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โนนทอง",
+      "district": "แวงใหญ่",
+      "id": "cbcd1342ad78836d019cda92",
+      "maskedId": "132xxxxxx7128",
+      "name": "รุ่งทิพย์ สุวงศ์",
+      "province": "ขอนแก่น",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หินตั้ง",
+      "district": "บ้านไผ่",
+      "id": "144ac7988c6de40505806bfc",
+      "maskedId": "131xxxxxx5556",
+      "name": "รุ่งนภา ศรีวิศร",
+      "province": "ขอนแก่น",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดินดํา",
+      "district": "ภูเวียง",
+      "id": "b63cb9e62c9302e082ae817d",
+      "maskedId": "140xxxxxx2168",
+      "name": "วรรณนภา ชินพะวอ",
+      "province": "ขอนแก่น",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B0%E0%B8%A7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่าปอ",
+      "district": "บ้านไผ่",
+      "id": "7c0c1f4ede032cd672491802",
+      "maskedId": "140xxxxxx8487",
+      "name": "วันเพ็ญ พงษ์เพียจันทร์",
+      "province": "ขอนแก่น",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองเสาเล้า",
+      "district": "ชุมแพ",
+      "id": "8fc0a2a2b9de6a6cb73e1329",
+      "maskedId": "145xxxxxx8467",
+      "name": "วีรวัฒน์ นีลพัฒน์",
+      "province": "ขอนแก่น",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%99%E0%B8%B5%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนธาตุ",
+      "district": "หนองสองห้อง",
+      "id": "b8f522ef3ea874142329c043",
+      "maskedId": "130xxxxxx8925",
+      "name": "ศรัณยา บุญเอี่ยม",
+      "province": "ขอนแก่น",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บริบูรณ์",
+      "district": "สีชมพู",
+      "id": "d72f63b596fc2a5ec62b22b4",
+      "maskedId": "140xxxxxx3584",
+      "name": "ศิริศักดิ์ ภูมิภักดิ์",
+      "province": "ขอนแก่น",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังหิน",
+      "district": "หนองสองห้อง",
+      "id": "53470fee1960aac23e717372",
+      "maskedId": "130xxxxxx2226",
+      "name": "สามารถ ทุมนาหาด",
+      "province": "ขอนแก่น",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96-%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองเม็ก",
+      "district": "หนองสองห้อง",
+      "id": "408d7749c1e524d064ceddcb",
+      "maskedId": "131xxxxxx7648",
+      "name": "สุทธิชาติ พันธ์ศรี",
+      "province": "ขอนแก่น",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองแดง",
+      "district": "สีชมพู",
+      "id": "11960fff4c4c8a418ace31ce",
+      "maskedId": "344xxxxxx9214",
+      "name": "สุปราณี พรนิคม",
+      "province": "ขอนแก่น",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B8%9E%E0%B8%A3%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านไผ่",
+      "district": "บ้านไผ่",
+      "id": "b9cb98afcafc5dc99465f801",
+      "maskedId": "140xxxxxx4133",
+      "name": "สุริชา หลอดสว่าง",
+      "province": "ขอนแก่น",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชุมแพ",
+      "district": "ชุมแพ",
+      "id": "6b300e471f44cdb38a928844",
+      "maskedId": "135xxxxxx8506",
+      "name": "สุเมธ อุดมพันธ์",
+      "province": "ขอนแก่น",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B9%80%E0%B8%A1%E0%B8%98-%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดงเมืองแอม",
+      "district": "เขาสวนกวาง",
+      "id": "547afd3f0f9d2297aa037379",
+      "maskedId": "131xxxxxx4885",
+      "name": "อดิศักดิ์ ธนะวิริยะศักดิ์",
+      "province": "ขอนแก่น",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%98%E0%B8%99%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีสุขสําราญ",
+      "district": "อุบลรัตน์",
+      "id": "a0a36dfc8e4720958c53a6c6",
+      "maskedId": "146xxxxxx4326",
+      "name": "อรัญญา ภูนบผา",
+      "province": "ขอนแก่น",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A0%E0%B8%B9%E0%B8%99%E0%B8%9A%E0%B8%9C%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งโป่ง",
+      "district": "อุบลรัตน์",
+      "id": "16b9d971861ca78bb2af7e9d",
+      "maskedId": "140xxxxxx0768",
+      "name": "อริสา สีแสน",
+      "province": "ขอนแก่น",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวังสวรรค์",
+      "district": "บ้านแฮด",
+      "id": "4362fa7eece1053d5ba0f4d7",
+      "maskedId": "140xxxxxx5101",
+      "name": "เจนจิรา มะณีจันทร์",
+      "province": "ขอนแก่น",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%A1%E0%B8%B0%E0%B8%93%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บริบูรณ์",
+      "district": "สีชมพู",
+      "id": "724db3e5a6bff3a43c666270",
+      "maskedId": "141xxxxxx1504",
+      "name": "เบญจพร สอนถึง",
+      "province": "ขอนแก่น",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%96%E0%B8%B6%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านเรือ",
+      "district": "ภูเวียง",
+      "id": "423ffed98044865cb742e66d",
+      "maskedId": "136xxxxxx4841",
+      "name": "เสาวนิตย์ ลึบแบร์ท",
+      "province": "ขอนแก่น",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C-%E0%B8%A5%E0%B8%B6%E0%B8%9A%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B9%8C%E0%B8%97",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านดง",
+      "district": "อุบลรัตน์",
+      "id": "4db87e8b2847754bcd866107",
+      "maskedId": "134xxxxxx9369",
+      "name": "แทนไท สุวรรณกูฏ",
+      "province": "ขอนแก่น",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%97%E0%B8%99%E0%B9%84%E0%B8%97-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%81%E0%B8%B9%E0%B8%8F",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ทุ่งชมพู",
+      "district": "ภูเวียง",
+      "id": "3edd6dc0fe8775cbd21bb76c",
+      "maskedId": "137xxxxxx6671",
+      "name": "ไตรภูมิ คงถาวร",
+      "province": "ขอนแก่น",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4-%E0%B8%84%E0%B8%87%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพระบุ",
+      "district": "พระยืน",
+      "id": "0380fd56ffae7f4b08c7f4cd",
+      "maskedId": "140xxxxxx9427",
+      "name": "ไตรเทพ เวียงวิเศษ",
+      "province": "ขอนแก่น",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%97%E0%B8%9E-%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

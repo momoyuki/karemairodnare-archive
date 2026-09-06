@@ -1,0 +1,320 @@
+{
+  "_meta": {
+    "count": 18,
+    "kind": "district",
+    "name": "คลองหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "คลองหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คลองสาม",
+      "district": "คลองหลวง",
+      "id": "236afac07aa91b45e374025b",
+      "maskedId": "123xxxxxx4023",
+      "name": "กิตติศักดิ์ บุญขํา",
+      "province": "ปทุมธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%82%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าโขลง",
+      "district": "คลองหลวง",
+      "id": "c8e06396f6ed3166898824bf",
+      "maskedId": "144xxxxxx9397",
+      "name": "จิราภรณ์ พยมพฤกษ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A2%E0%B8%A1%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าโขลง",
+      "district": "คลองหลวง",
+      "id": "6102d24ed285d999101915c4",
+      "maskedId": "113xxxxxx9678",
+      "name": "นิภาวรรณ เรืองอรุณ",
+      "province": "ปทุมธานี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองหก",
+      "district": "คลองหลวง",
+      "id": "9cc279d15c73bfaa58bbf9fa",
+      "maskedId": "112xxxxxx4366",
+      "name": "นีรนุช แซ่ลิ้ม",
+      "province": "ปทุมธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B5%E0%B8%A3%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองห้า",
+      "district": "คลองหลวง",
+      "id": "9824676b1ba312c904e19cf7",
+      "maskedId": "160xxxxxx6647",
+      "name": "ปพน กริ่นจันทร์",
+      "province": "ปทุมธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%9E%E0%B8%99-%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าโขลง",
+      "district": "คลองหลวง",
+      "id": "4ebfb80c9479a3761e2029cb",
+      "maskedId": "112xxxxxx3556",
+      "name": "ปิยะพล จันทรโอทาน",
+      "province": "ปทุมธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%9E%E0%B8%A5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%82%E0%B8%AD%E0%B8%97%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าโขลง",
+      "district": "คลองหลวง",
+      "id": "c4d75b4b80d851898030eb9e",
+      "maskedId": "112xxxxxx6232",
+      "name": "พชกร ดวงแสงฤทธิ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองสาม",
+      "district": "คลองหลวง",
+      "id": "65d5a2e4764cdaaa0c2da28f",
+      "maskedId": "143xxxxxx8482",
+      "name": "พัชราภรณ์ ปะวะโก",
+      "province": "ปทุมธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9B%E0%B8%B0%E0%B8%A7%E0%B8%B0%E0%B9%82%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าโขลง",
+      "district": "คลองหลวง",
+      "id": "3c50977c2f83f95772b03c16",
+      "maskedId": "256xxxxxx1615",
+      "name": "พิษณุ ธะดวงศร",
+      "province": "ปทุมธานี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8-%E0%B8%98%E0%B8%B0%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าโขลง",
+      "district": "คลองหลวง",
+      "id": "bef049bdd3fd016a3b9ce646",
+      "maskedId": "131xxxxxx7154",
+      "name": "มาริสา กันเกศ",
+      "province": "ปทุมธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองห้า",
+      "district": "คลองหลวง",
+      "id": "bf765d9ffb8ec2d3dc614cd7",
+      "maskedId": "110xxxxxx8338",
+      "name": "วนันต์ชัย ศิริเวชพันธ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองสาม",
+      "district": "คลองหลวง",
+      "id": "4572f5e359dede0cba618165",
+      "maskedId": "171xxxxxx3517",
+      "name": "วนาลี บํารุงสุข",
+      "province": "ปทุมธานี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%A5%E0%B8%B5-%E0%B8%9A%E0%B9%8D%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าโขลง",
+      "district": "คลองหลวง",
+      "id": "90249048704d8f9fb644cda2",
+      "maskedId": "110xxxxxx7648",
+      "name": "วสวัตติ์ เดชประดิษฐ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าโขลง",
+      "district": "คลองหลวง",
+      "id": "e1f73046d3c92079e76c1d5e",
+      "maskedId": "212xxxxxx1484",
+      "name": "วิทวัส สังข์ทอง",
+      "province": "ปทุมธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A7%E0%B8%B1%E0%B8%AA-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองหก",
+      "district": "คลองหลวง",
+      "id": "6dd3e70f3311cd3e07aba9e7",
+      "maskedId": "131xxxxxx2853",
+      "name": "ศศิโสภา จ๋าพิมาย",
+      "province": "ปทุมธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2-%E0%B8%88%E0%B9%8B%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองห้า",
+      "district": "คลองหลวง",
+      "id": "e9100206015fe485fce53ac4",
+      "maskedId": "110xxxxxx3874",
+      "name": "สุภัทรา สุดสายบัว",
+      "province": "ปทุมธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%9A%E0%B8%B1%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าโขลง",
+      "district": "คลองหลวง",
+      "id": "48a6c29b6f9abcede7ff7f55",
+      "maskedId": "119xxxxxx5973",
+      "name": "สุวิมล ทองมาก",
+      "province": "ปทุมธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองหก",
+      "district": "คลองหลวง",
+      "id": "05657749af9674a73e465ae7",
+      "maskedId": "156xxxxxx7854",
+      "name": "อลงกรณ์ ฝันนิมิตร",
+      "province": "ปทุมธานี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

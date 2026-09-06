@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "ไทรงาม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ไทรงาม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ไทรงาม",
+      "district": "ไทรงาม",
+      "id": "30957a5d23af289c9cfefaec",
+      "maskedId": "154xxxxxx3074",
+      "name": "กัญญาณี ศรีโพธิ์",
+      "province": "กำแพงเพชร",
+      "scoreChange": 5,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองคล้า",
+      "district": "ไทรงาม",
+      "id": "7493b43b49f7b1147f554117",
+      "maskedId": "165xxxxxx1203",
+      "name": "จิรัชญา เถื่อนด้วง",
+      "province": "กำแพงเพชร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มหาชัย",
+      "district": "ไทรงาม",
+      "id": "eedd860422ca5372c3c1cca1",
+      "maskedId": "164xxxxxx6854",
+      "name": "ธนัฏฐา บุญธานี",
+      "province": "กำแพงเพชร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองไม้กอง",
+      "district": "ไทรงาม",
+      "id": "db6b9aa7f369d3e47c5243e3",
+      "maskedId": "160xxxxxx4523",
+      "name": "สัจมิตร น้อยเอี่ยม",
+      "province": "กำแพงเพชร",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทอง",
+      "district": "ไทรงาม",
+      "id": "4d5897caff09647e3d485048",
+      "maskedId": "162xxxxxx4948",
+      "name": "เพชรรัตน์ พวงผรากา",
+      "province": "กำแพงเพชร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B8%9C%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

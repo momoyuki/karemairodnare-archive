@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "เทศบาลตําบลคลองจิก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลคลองจิก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "5932db76a02a5f897498cbfc",
+      "maskedId": "112xxxxxx3913",
+      "name": "ฉัตรชนก ไตรวงศ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "c85fdcc856e9ac1e40150e7c",
+      "maskedId": "140xxxxxx3708",
+      "name": "ทัศนีย์ หลวงยา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "d2acd8c3504382e25f1dfa98",
+      "maskedId": "110xxxxxx7383",
+      "name": "ภิเษก สมคิด",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B4%E0%B9%80%E0%B8%A9%E0%B8%81-%E0%B8%AA%E0%B8%A1%E0%B8%84%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "6300bcc699006a255358b5f5",
+      "maskedId": "114xxxxxx6481",
+      "name": "อารยา เข็มนาค",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%82%E0%B9%87%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

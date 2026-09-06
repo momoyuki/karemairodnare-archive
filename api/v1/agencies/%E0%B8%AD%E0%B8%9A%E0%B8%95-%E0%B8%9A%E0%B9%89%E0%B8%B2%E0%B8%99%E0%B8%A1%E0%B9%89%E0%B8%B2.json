@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.บ้านม้า",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บ้านม้า",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านม้า",
+      "district": "บางไทร",
+      "id": "8775dbebda8dec9dcdf3a9db",
+      "maskedId": "110xxxxxx2884",
+      "name": "จารุธัช จิตต์สว่าง",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%98%E0%B8%B1%E0%B8%8A-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%8C%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านม้า",
+      "district": "บางไทร",
+      "id": "51973cfd4ea8087ed93c738a",
+      "maskedId": "110xxxxxx0019",
+      "name": "อัมธิกา นิมา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

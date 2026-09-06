@@ -1,0 +1,286 @@
+{
+  "_meta": {
+    "count": 16,
+    "kind": "district",
+    "name": "บางพลี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางพลี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองบางแก้ว",
+      "district": "บางพลี",
+      "id": "8268bc226c8d743464ff2e43",
+      "maskedId": "380xxxxxx0214",
+      "name": "กชวรรณ บัวแก้ว",
+      "province": "สมุทรปราการ",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองปรือ",
+      "district": "บางพลี",
+      "id": "644f7acb413df4c8c6b66f01",
+      "maskedId": "311xxxxxx7127",
+      "name": "ขวัญนภา ฉิมพลี",
+      "province": "สมุทรปราการ",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "0c82a86bef2c5740ac103487",
+      "maskedId": "345xxxxxx2223",
+      "name": "ชิติพัทธ์ บุตรชน",
+      "province": "สมุทรปราการ",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%8A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางแก้ว",
+      "district": "บางพลี",
+      "id": "e7b6e7d734d71bf4207887bf",
+      "maskedId": "184xxxxxx0191",
+      "name": "ณัฐภัทร เชาวลิต",
+      "province": "สมุทรปราการ",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "96302382ccd10723a83c3b4f",
+      "maskedId": "113xxxxxx4211",
+      "name": "ธัญภัทร แสงน้ํา",
+      "province": "สมุทรปราการ",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางปลา",
+      "district": "บางพลี",
+      "id": "8cc2efc900708647b0bdca5a",
+      "maskedId": "167xxxxxx7693",
+      "name": "นลินทิพย์ บูรณทอง",
+      "province": "สมุทรปราการ",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองปรือ",
+      "district": "บางพลี",
+      "id": "f764172096980d8fc2ea0283",
+      "maskedId": "171xxxxxx5549",
+      "name": "พัชชา ดาปาน",
+      "province": "สมุทรปราการ",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%94%E0%B8%B2%E0%B8%9B%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ราชาเทวะ",
+      "district": "บางพลี",
+      "id": "4adddbdd12545f30f68052fa",
+      "maskedId": "110xxxxxx3431",
+      "name": "พีรภาว์ ทรงอยู่",
+      "province": "สมุทรปราการ",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B9%8C-%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางโฉลง",
+      "district": "บางพลี",
+      "id": "211d28f301456933a5908353",
+      "maskedId": "135xxxxxx9735",
+      "name": "ภัทรจิตรา เปล่งอารมณ์",
+      "province": "สมุทรปราการ",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางโฉลง",
+      "district": "บางพลี",
+      "id": "deda12422769139d0ff83ff0",
+      "maskedId": "147xxxxxx2731",
+      "name": "ภัทรุตม์ เพ็งพุฒ",
+      "province": "สมุทรปราการ",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B8%E0%B8%95%E0%B8%A1%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%9E%E0%B8%B8%E0%B8%92",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "2a62734c809669caa1f8234a",
+      "maskedId": "134xxxxxx4861",
+      "name": "ละอองดาว บุญประสิทธิ์",
+      "province": "สมุทรปราการ",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%A7-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "6909b7971d4de541da203fc4",
+      "maskedId": "111xxxxxx2376",
+      "name": "วาสนา พลเยี่ยม",
+      "province": "สมุทรปราการ",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2-%E0%B8%9E%E0%B8%A5%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "3d806973d5eabc34c179b696",
+      "maskedId": "111xxxxxx1007",
+      "name": "สิรภพ ชาญพานิช",
+      "province": "สมุทรปราการ",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%9E-%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางแก้ว",
+      "district": "บางพลี",
+      "id": "58d9f6b14a71689649698185",
+      "maskedId": "132xxxxxx6980",
+      "name": "สุตาภัทร ทุมทอง",
+      "province": "สมุทรปราการ",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%95%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "92a80cd1135408af872ff148",
+      "maskedId": "311xxxxxx2357",
+      "name": "อภิชาติ ชิดสนิท",
+      "province": "สมุทรปราการ",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%97",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางโฉลง",
+      "district": "บางพลี",
+      "id": "f15e620cd4c9ea80ed565a29",
+      "maskedId": "171xxxxxx6881",
+      "name": "เกศกนก ผึ่งผาย",
+      "province": "สมุทรปราการ",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A8%E0%B8%81%E0%B8%99%E0%B8%81-%E0%B8%9C%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

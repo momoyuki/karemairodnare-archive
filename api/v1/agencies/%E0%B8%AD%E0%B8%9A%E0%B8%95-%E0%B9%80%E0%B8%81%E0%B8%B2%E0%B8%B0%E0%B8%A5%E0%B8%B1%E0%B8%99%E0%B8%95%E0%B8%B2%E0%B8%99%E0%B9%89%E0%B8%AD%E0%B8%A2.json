@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.เกาะลันตาน้อย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-เกาะลันตาน้อย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เกาะลันตาน้อย",
+      "district": "เกาะลันตา",
+      "id": "d4be7857c48dd4aaf7401a9c",
+      "maskedId": "190xxxxxx7511",
+      "name": "ชุติกาญจน์ แซ่ชี",
+      "province": "กระบี่",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%8A%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะลันตาน้อย",
+      "district": "เกาะลันตา",
+      "id": "91de5137b2c619f097012142",
+      "maskedId": "190xxxxxx2705",
+      "name": "บัณฑิตา ปิติ",
+      "province": "กระบี่",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%9B%E0%B8%B4%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

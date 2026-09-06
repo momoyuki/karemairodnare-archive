@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.โพพระ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-โพพระ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โพพระ",
+      "district": "เมืองเพชรบุรี",
+      "id": "dfe5ca560d555b8146cac22d",
+      "maskedId": "177xxxxxx7861",
+      "name": "ณหทัย ศรีจันจรา",
+      "province": "เพชรบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพพระ",
+      "district": "เมืองเพชรบุรี",
+      "id": "ee95450f9437a65a229e6866",
+      "maskedId": "177xxxxxx4618",
+      "name": "ไอรีนรัตน์ เซ็นเสงี่ยม",
+      "province": "เพชรบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%87%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

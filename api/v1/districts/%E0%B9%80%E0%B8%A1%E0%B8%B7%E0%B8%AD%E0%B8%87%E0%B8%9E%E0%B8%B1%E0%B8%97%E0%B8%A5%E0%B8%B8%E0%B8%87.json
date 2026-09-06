@@ -1,0 +1,303 @@
+{
+  "_meta": {
+    "count": 17,
+    "kind": "district",
+    "name": "เมืองพัทลุง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองพัทลุง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองพัทลุง",
+      "district": "เมืองพัทลุง",
+      "id": "d04e6f49d397c21b6a3947b4",
+      "maskedId": "594xxxxxx9491",
+      "name": "กันตา จังคนิภา",
+      "province": "พัทลุง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาเจียก",
+      "district": "เมืองพัทลุง",
+      "id": "2027f55d900828379f532479",
+      "maskedId": "193xxxxxx4675",
+      "name": "จิราภรณ์ พูนชุม",
+      "province": "พัทลุง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พัทลุง",
+      "district": "เมืองพัทลุง",
+      "id": "a15a25b7a6ad03229cdad84a",
+      "maskedId": "190xxxxxx9782",
+      "name": "จุฑามณี ยอดรักษ์",
+      "province": "พัทลุง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A1%E0%B8%93%E0%B8%B5-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองพัทลุง",
+      "district": "เมืองพัทลุง",
+      "id": "9626894eef962de3d306775a",
+      "maskedId": "196xxxxxx3072",
+      "name": "ณัฐวุฒิ บัวแผ้ว",
+      "province": "พัทลุง",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B9%81%E0%B8%9C%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองพัทลุง",
+      "district": "เมืองพัทลุง",
+      "id": "4bec2ba46d992e3b4a83ce14",
+      "maskedId": "193xxxxxx5338",
+      "name": "ธงชัย จุลศรี",
+      "province": "พัทลุง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%88%E0%B8%B8%E0%B8%A5%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาเจียก",
+      "district": "เมืองพัทลุง",
+      "id": "ad5c68138440212ade7635f4",
+      "maskedId": "193xxxxxx4160",
+      "name": "ธรรมนูญ ดำด้วง",
+      "province": "พัทลุง",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%8D-%E0%B8%94%E0%B8%B3%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโคกชะงาย",
+      "district": "เมืองพัทลุง",
+      "id": "3688a7ef0e666b14c8666231",
+      "maskedId": "193xxxxxx2470",
+      "name": "ปัญญพร หนูกาฬ",
+      "province": "พัทลุง",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%9E%E0%B8%A3-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%81%E0%B8%B2%E0%B8%AC",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองพัทลุง",
+      "district": "เมืองพัทลุง",
+      "id": "1f09bce7a6e6c7f2600fc954",
+      "maskedId": "190xxxxxx6798",
+      "name": "พนิดา เพ็ชรรัตน์",
+      "province": "พัทลุง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาเจียก",
+      "district": "เมืองพัทลุง",
+      "id": "28e6a381fbeedb2d163ed806",
+      "maskedId": "193xxxxxx3051",
+      "name": "พโดมชัย อุดมกิจชววัฒน์",
+      "province": "พัทลุง",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B9%82%E0%B8%94%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%8A%E0%B8%A7%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองพัทลุง",
+      "district": "เมืองพัทลุง",
+      "id": "c5e3c2aa6dd6faf265c0abeb",
+      "maskedId": "190xxxxxx7694",
+      "name": "ภัททิญา หมวดพรมทอง",
+      "province": "พัทลุง",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%97%E0%B8%B4%E0%B8%8D%E0%B8%B2-%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พัทลุง",
+      "district": "เมืองพัทลุง",
+      "id": "5782788a4079b52f6e9ad911",
+      "maskedId": "193xxxxxx8244",
+      "name": "มานิตย์ เส็นบัติ",
+      "province": "พัทลุง",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B9%87%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตํานาน",
+      "district": "เมืองพัทลุง",
+      "id": "aa38d5553f0837f934d4c6e5",
+      "maskedId": "190xxxxxx1904",
+      "name": "วสุพล เรืองแก้ว",
+      "province": "พัทลุง",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พัทลุง",
+      "district": "เมืองพัทลุง",
+      "id": "9d152582421f5c5f117173a9",
+      "maskedId": "193xxxxxx3641",
+      "name": "วีระศักดิ์ ล่องวิเชียร",
+      "province": "พัทลุง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาโหนด",
+      "district": "เมืองพัทลุง",
+      "id": "8b946d39d18dc8e81a0bd48d",
+      "maskedId": "193xxxxxx7495",
+      "name": "สุธาทิพย์ วัตรขาว",
+      "province": "พัทลุง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองพัทลุง",
+      "district": "เมืองพัทลุง",
+      "id": "fcd380ac2525929e1c009d86",
+      "maskedId": "190xxxxxx1904",
+      "name": "อภิชาติ เอียดศรีชาย",
+      "province": "พัทลุง",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาโหนด",
+      "district": "เมืองพัทลุง",
+      "id": "06c760be915e613eeb361e90",
+      "maskedId": "393xxxxxx1744",
+      "name": "อรุณ ช่วยชู",
+      "province": "พัทลุง",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%8A%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองพัทลุง",
+      "district": "เมืองพัทลุง",
+      "id": "60eaac62b1d520105a3db6a2",
+      "maskedId": "194xxxxxx8634",
+      "name": "อารีนา เจ๊ะแวกูนิง",
+      "province": "พัทลุง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B9%81%E0%B8%A7%E0%B8%81%E0%B8%B9%E0%B8%99%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

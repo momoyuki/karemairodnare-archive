@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "agency",
+    "name": "เทศบาลตําบลระแหง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลระแหง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "455685fc930801492168e192",
+      "maskedId": "172xxxxxx2728",
+      "name": "กันติทัต จำรูญบวรรัตน์",
+      "province": "ปทุมธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%95-%E0%B8%88%E0%B8%B3%E0%B8%A3%E0%B8%B9%E0%B8%8D%E0%B8%9A%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "b8a50b20c3fe35d0a335f5f9",
+      "maskedId": "114xxxxxx6104",
+      "name": "ชวิน รัชตธาดา",
+      "province": "ปทุมธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%99-%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%95%E0%B8%98%E0%B8%B2%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "b187ff9d39e383be6bd4f189",
+      "maskedId": "193xxxxxx4871",
+      "name": "ณภัค หลีวิจิตร",
+      "province": "ปทุมธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "d00eaa9ca7996a1d4c3030e7",
+      "maskedId": "112xxxxxx4292",
+      "name": "ธนพล ตาดสุวรรณ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A5-%E0%B8%95%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "36b81f673ef72bf47f4dd047",
+      "maskedId": "110xxxxxx4994",
+      "name": "นริศรา อู๊ดน้อย",
+      "province": "ปทุมธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B8%AD%E0%B8%B9%E0%B9%8A%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "f4ad061653205185c28a97ef",
+      "maskedId": "121xxxxxx3189",
+      "name": "วิยะดา วงศ์พิน",
+      "province": "ปทุมธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%94%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "2f4fef22c9286c31d266d914",
+      "maskedId": "113xxxxxx4180",
+      "name": "อัมรินทร์ ตรงดี",
+      "province": "ปทุมธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "ea54e95b5a433b0fdd4ba0bd",
+      "maskedId": "111xxxxxx8582",
+      "name": "เดือน ศรีวงค์",
+      "province": "ปทุมธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

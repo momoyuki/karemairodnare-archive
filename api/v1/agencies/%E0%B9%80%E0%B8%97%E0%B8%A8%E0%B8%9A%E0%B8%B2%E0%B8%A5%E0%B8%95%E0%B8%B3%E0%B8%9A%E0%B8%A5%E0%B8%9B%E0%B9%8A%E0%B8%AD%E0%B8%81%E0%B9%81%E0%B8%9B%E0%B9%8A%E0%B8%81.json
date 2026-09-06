@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตำบลป๊อกแป๊ก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลป๊อกแป๊ก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลป๊อกแป๊ก",
+      "district": "เมืองสระบุรี",
+      "id": "f8ec03e8fb7e1a5e11d86a58",
+      "maskedId": "119xxxxxx3252",
+      "name": "นครินทร์ กำเนิดชาติ",
+      "province": "สระบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป๊อกแป๊ก",
+      "district": "เมืองสระบุรี",
+      "id": "c2731f82a135567698d0a587",
+      "maskedId": "119xxxxxx5421",
+      "name": "นฤมล แสงจันทร์",
+      "province": "สระบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป๊อกแป๊ก",
+      "district": "เมืองสระบุรี",
+      "id": "e5fbd0c7bccb34eadaf687a2",
+      "maskedId": "167xxxxxx9093",
+      "name": "มินตรา แสงรัตน์",
+      "province": "สระบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

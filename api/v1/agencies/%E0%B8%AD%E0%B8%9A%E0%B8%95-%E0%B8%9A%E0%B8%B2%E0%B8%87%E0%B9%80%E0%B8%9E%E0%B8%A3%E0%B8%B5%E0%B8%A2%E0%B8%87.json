@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.บางเพรียง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางเพรียง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางเพรียง",
+      "district": "บางบ่อ",
+      "id": "11bc371b7003c8dba258262b",
+      "maskedId": "136xxxxxx4195",
+      "name": "กนกวรรณ ป้อมอุ่นเรือน",
+      "province": "สมุทรปราการ",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเพรียง",
+      "district": "บางบ่อ",
+      "id": "32cc99b610fd9fefd3dbb7e4",
+      "maskedId": "155xxxxxx5171",
+      "name": "จรัสทิพย์ เจดีย์ขัติย์",
+      "province": "สมุทรปราการ",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%82%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเพรียง",
+      "district": "บางบ่อ",
+      "id": "37d8f7f2c060049980b414fe",
+      "maskedId": "110xxxxxx6996",
+      "name": "พฤหัส กลิ่นจันทร์กลั่น",
+      "province": "สมุทรปราการ",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A4%E0%B8%AB%E0%B8%B1%E0%B8%AA-%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเพรียง",
+      "district": "บางบ่อ",
+      "id": "cbb763fe81fd616d5743d845",
+      "maskedId": "110xxxxxx3423",
+      "name": "วสุ ภัทรนาวิก",
+      "province": "สมุทรปราการ",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B8-%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเพรียง",
+      "district": "บางบ่อ",
+      "id": "6f28edfb6bbcf2183c516b69",
+      "maskedId": "110xxxxxx2010",
+      "name": "เอกภูรี พวงพูล",
+      "province": "สมุทรปราการ",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B5-%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "_meta": {
+    "count": 16,
+    "kind": "agency",
+    "name": "เทศบาลนครแม่สอด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลนครแม่สอด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "e691579c6d3327a1c25e7664",
+      "maskedId": "155xxxxxx6889",
+      "name": "กัญญารัตน์ วิระขันคำ",
+      "province": "ตาก",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B0%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "bcd5e83adccf2434f9b6b0c8",
+      "maskedId": "155xxxxxx0555",
+      "name": "ชญานนท์ โนราช",
+      "province": "ตาก",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%82%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "fea97caad7abadd7343b5708",
+      "maskedId": "130xxxxxx4211",
+      "name": "ชนะพล ภักดิ์กระโทก",
+      "province": "ตาก",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%9E%E0%B8%A5-%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%97%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "6d8dd57bf5b8ff25f927070a",
+      "maskedId": "152xxxxxx8851",
+      "name": "ชนิกา ติดไชย",
+      "province": "ตาก",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "cf6f4b0cf76a8fbd042e33aa",
+      "maskedId": "167xxxxxx1273",
+      "name": "ชลธิชา ศรีแดน",
+      "province": "ตาก",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%94%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "9d412338bbd1fb80a46eebb5",
+      "maskedId": "162xxxxxx9651",
+      "name": "ฏิชิรา แผ่ทอง",
+      "province": "ตาก",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8F%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "7f4c11ad6e29cfe986cbf23a",
+      "maskedId": "158xxxxxx0193",
+      "name": "ปรีญานุช ปัญโญนันท์",
+      "province": "ตาก",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B9%82%E0%B8%8D%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "b9ffc412ed61c5a3faacfc88",
+      "maskedId": "167xxxxxx3023",
+      "name": "พิมพ์ประพร สุขจันทร์",
+      "province": "ตาก",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "8d4feb84ea2ed42dc3522a5d",
+      "maskedId": "166xxxxxx5826",
+      "name": "ภาวีนา เมืองสุข",
+      "province": "ตาก",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B5%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "7f7c81d64368125389bbef8c",
+      "maskedId": "162xxxxxx7751",
+      "name": "มนัสวี นิลประสิทธิ์",
+      "province": "ตาก",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%AA%E0%B8%A7%E0%B8%B5-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "eee7dee1d8e5cf8d32292834",
+      "maskedId": "147xxxxxx5646",
+      "name": "วรายุทธ์ เทือกตาหลอย",
+      "province": "ตาก",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "cfd32bc0026265b432a8cdbe",
+      "maskedId": "162xxxxxx5730",
+      "name": "สุธีรา ลีประเสริฐสุนทร",
+      "province": "ตาก",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B8%A5%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "fcc70c66db992206f683091e",
+      "maskedId": "132xxxxxx3328",
+      "name": "อภินันท์ จิรชนะกรชัย",
+      "province": "ตาก",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "5a7848255df8bf45005ae832",
+      "maskedId": "163xxxxxx0083",
+      "name": "อารีรัตน์ ทิมุมหิ",
+      "province": "ตาก",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%AB%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "e82194d956abdf1ae6ebd6da",
+      "maskedId": "167xxxxxx6701",
+      "name": "โชติกา รุ่งยิ้ม",
+      "province": "ตาก",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครแม่สอด",
+      "district": "แม่สอด",
+      "id": "2c55ea625d1f8daf7e3bd82a",
+      "maskedId": "152xxxxxx3409",
+      "name": "ไกรศร สิงห์ไฝแก้ว",
+      "province": "ตาก",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A8%E0%B8%A3-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%84%E0%B8%9D%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

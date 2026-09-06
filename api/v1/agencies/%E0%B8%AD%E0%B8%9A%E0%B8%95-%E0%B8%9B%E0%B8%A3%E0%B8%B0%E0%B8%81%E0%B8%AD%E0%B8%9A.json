@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ประกอบ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ประกอบ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ประกอบ",
+      "district": "นาทวี",
+      "id": "5820d07bf773f8c5b733c416",
+      "maskedId": "190xxxxxx1082",
+      "name": "พศวัต เมืองใหม่",
+      "province": "สงขลา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A8%E0%B8%A7%E0%B8%B1%E0%B8%95-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประกอบ",
+      "district": "นาทวี",
+      "id": "fb1da26c5cde5abb4b96d479",
+      "maskedId": "190xxxxxx5777",
+      "name": "ศุภฤกษ์ คีรี",
+      "province": "สงขลา",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

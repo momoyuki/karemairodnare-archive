@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "เมืองบึงกาฬ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองบึงกาฬ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลไคสี",
+      "district": "เมืองบึงกาฬ",
+      "id": "8d7df998193194d61160e68a",
+      "maskedId": "143xxxxxx4162",
+      "name": "ชฎาธาร เวียงสมุทร",
+      "province": "บึงกาฬ",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8E%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3-%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลไคสี",
+      "district": "เมืองบึงกาฬ",
+      "id": "0654f69e613d1403d710b8cd",
+      "maskedId": "143xxxxxx1350",
+      "name": "ณัฐกร หงษ์ชูตา",
+      "province": "บึงกาฬ",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%A3-%E0%B8%AB%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%8A%E0%B8%B9%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลโนนสว่าง",
+      "district": "เมืองบึงกาฬ",
+      "id": "8ae80a55a0d741bee69b2262",
+      "maskedId": "112xxxxxx9248",
+      "name": "ณัฐพงศ์ แสนพัน",
+      "province": "บึงกาฬ",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.องค์พระ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-องค์พระ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.องค์พระ",
+      "district": "ด่านช้าง",
+      "id": "07b81bb0780ca7e3a84db0f5",
+      "maskedId": "172xxxxxx7422",
+      "name": "ฆรวัณณ์ พลเสน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%86%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A5%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.องค์พระ",
+      "district": "ด่านช้าง",
+      "id": "0eb5db833f7e7b79a44e6912",
+      "maskedId": "271xxxxxx7860",
+      "name": "ธงชัย เอมแบน",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B9%81%E0%B8%9A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.องค์พระ",
+      "district": "ด่านช้าง",
+      "id": "372211a4e16b4ea8f5fc4857",
+      "maskedId": "172xxxxxx4381",
+      "name": "ยุทธพิชัย สงวนทรัพย์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.องค์พระ",
+      "district": "ด่านช้าง",
+      "id": "07fa5f9c33bd6f0573dd2c4b",
+      "maskedId": "172xxxxxx9411",
+      "name": "สุภาพร เสนาพิทักษ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

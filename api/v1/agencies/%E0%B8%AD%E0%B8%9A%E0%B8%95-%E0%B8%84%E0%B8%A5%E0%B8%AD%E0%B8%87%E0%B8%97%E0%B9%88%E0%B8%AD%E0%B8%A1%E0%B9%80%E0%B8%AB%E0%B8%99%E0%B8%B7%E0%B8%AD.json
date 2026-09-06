@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.คลองท่อมเหนือ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-คลองท่อมเหนือ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คลองท่อมเหนือ",
+      "district": "คลองท่อม",
+      "id": "d7f874cc3e921ca64e1bc51a",
+      "maskedId": "194xxxxxx3801",
+      "name": "ณภัชศภร ฐาณญาพัฐ",
+      "province": "กระบี่",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%8A%E0%B8%A8%E0%B8%A0%E0%B8%A3-%E0%B8%90%E0%B8%B2%E0%B8%93%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองท่อมเหนือ",
+      "district": "คลองท่อม",
+      "id": "e54629b0f96a36c6f39c4a37",
+      "maskedId": "196xxxxxx5293",
+      "name": "รุสนีดา อาแวเต๊ะ",
+      "province": "กระบี่",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B8%AA%E0%B8%99%E0%B8%B5%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B9%81%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

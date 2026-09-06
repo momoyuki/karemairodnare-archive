@@ -1,0 +1,371 @@
+{
+  "_meta": {
+    "count": 21,
+    "kind": "district",
+    "name": "เมืองสุราษฎร์ธานี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองสุราษฎร์ธานี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลขุนทะเล",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "b525d8bbbf294a760d6d5e67",
+      "maskedId": "380xxxxxx0277",
+      "name": "กชณิชา นิธิชวนากร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "f2ed0197390f5394c7777fa2",
+      "maskedId": "110xxxxxx5956",
+      "name": "กมลชนก อบแพทย์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "e8bc20094ef0b966923f19aa",
+      "maskedId": "181xxxxxx4291",
+      "name": "จตุพร เพชรประเสริฐ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "de832470c8af09c36b209828",
+      "maskedId": "186xxxxxx7710",
+      "name": "จรินทร์ภรณ์ พรหมรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "3e549bb4c43de51809bce725",
+      "maskedId": "186xxxxxx9891",
+      "name": "ฐิติวัฒน์ ศิริภิรมย์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "d715e7a91db92efc11a80c7a",
+      "maskedId": "193xxxxxx0256",
+      "name": "ฑิตฐิยา ย้อยด้วง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%91%E0%B8%B4%E0%B8%95%E0%B8%90%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "5d1ecbcd089961de8d8bbce2",
+      "maskedId": "193xxxxxx1647",
+      "name": "ปิติกร หมุนรอด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3-%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "44c7dd5778aff6f2600f1910",
+      "maskedId": "110xxxxxx7327",
+      "name": "พงศกร พุทธิปิลันธน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%81%E0%B8%A3-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลขุนทะเล",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "baaeb4b4f4663a1914303bf5",
+      "maskedId": "184xxxxxx7691",
+      "name": "พงศพัฒน์ พันธเสน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "270670f402201cdeefd42b04",
+      "maskedId": "174xxxxxx2083",
+      "name": "พรทิพย์ สุนทร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "2baf713570c7d9e0b0d76b98",
+      "maskedId": "193xxxxxx6456",
+      "name": "มุทิตา เหล่าทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางโพธิ์",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "b7c50929933b10e430661fdd",
+      "maskedId": "195xxxxxx6930",
+      "name": "ลักษณา สุวรรณรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "aeec67844010ade84dc97eaa",
+      "maskedId": "190xxxxxx1243",
+      "name": "ศราวุฒิ ทรงสกูล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "c298529e339d2b7a471460ce",
+      "maskedId": "193xxxxxx4644",
+      "name": "ศิรินาถ ส่งแสง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "54add481f390c604723109ff",
+      "maskedId": "193xxxxxx2448",
+      "name": "สุภาวดี อนุวัฒนวงศ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "08d2d28836c5302482ebb125",
+      "maskedId": "180xxxxxx3835",
+      "name": "สุวรรณี ถาวรสุข",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B5-%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "4519ae79d8707f4000911140",
+      "maskedId": "186xxxxxx5395",
+      "name": "อมรรัตน์ ศรียิ้ม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "46fcf1fb0a661b4f52c94e4b",
+      "maskedId": "193xxxxxx8702",
+      "name": "เฉลิมชัย ขุนภักดี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "8556b196f5eb32718fc7b063",
+      "maskedId": "177xxxxxx2711",
+      "name": "เบญจวรรณ เกตุกระจ่าง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "829e89445f7bdbfc8a013c71",
+      "maskedId": "193xxxxxx9025",
+      "name": "เรวดี คงอิน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A3%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%84%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครสุราษฎร์ธานี",
+      "district": "เมืองสุราษฎร์ธานี",
+      "id": "1e9a0806d756d8b299bafe39",
+      "maskedId": "193xxxxxx3751",
+      "name": "เสาวรัตน์ พงศ์พันธ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 6
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

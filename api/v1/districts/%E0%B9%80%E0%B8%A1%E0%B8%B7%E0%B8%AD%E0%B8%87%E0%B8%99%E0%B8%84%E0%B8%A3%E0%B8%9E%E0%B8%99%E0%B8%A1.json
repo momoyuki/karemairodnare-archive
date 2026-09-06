@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "เมืองนครพนม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองนครพนม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.อาจสามารถ",
+      "district": "เมืองนครพนม",
+      "id": "9fef9b7267d40e15d7241923",
+      "maskedId": "145xxxxxx5409",
+      "name": "จีรนุช หารพละ",
+      "province": "นครพนม",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B5%E0%B8%A3%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.กุรุคุ",
+      "district": "เมืองนครพนม",
+      "id": "444eff74fd0580edb695806c",
+      "maskedId": "110xxxxxx5730",
+      "name": "ปิยพร ถิ่นประสาท",
+      "province": "นครพนม",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%9E%E0%B8%A3-%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%97",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุรุคุ",
+      "district": "เมืองนครพนม",
+      "id": "e46984d885b8d026b422d3a3",
+      "maskedId": "112xxxxxx4105",
+      "name": "มัลลิกา จุมปาแฝด",
+      "province": "นครพนม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%88%E0%B8%B8%E0%B8%A1%E0%B8%9B%E0%B8%B2%E0%B9%81%E0%B8%9D%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านผึ้ง",
+      "district": "เมืองนครพนม",
+      "id": "37f0ac9b78ea3172137d104d",
+      "maskedId": "147xxxxxx5241",
+      "name": "วสิน ฮุงสาย",
+      "province": "นครพนม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B4%E0%B8%99-%E0%B8%AE%E0%B8%B8%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านผึ้ง",
+      "district": "เมืองนครพนม",
+      "id": "cf3b9d2a478a9e0ce7adabc9",
+      "maskedId": "143xxxxxx0479",
+      "name": "เรืองศักดิ์ ปัดสำราญ",
+      "province": "นครพนม",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

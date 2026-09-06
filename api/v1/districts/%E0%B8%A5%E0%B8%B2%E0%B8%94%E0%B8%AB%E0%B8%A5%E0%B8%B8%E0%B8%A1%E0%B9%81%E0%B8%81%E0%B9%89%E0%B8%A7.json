@@ -1,0 +1,592 @@
+{
+  "_meta": {
+    "count": 34,
+    "kind": "district",
+    "name": "ลาดหลุมแก้ว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ลาดหลุมแก้ว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "15bac13f0caef2bc0a072555",
+      "maskedId": "112xxxxxx0530",
+      "name": "กนกวรรณ บุตรสงเคราะห์",
+      "province": "ปทุมธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "455685fc930801492168e192",
+      "maskedId": "172xxxxxx2728",
+      "name": "กันติทัต จำรูญบวรรัตน์",
+      "province": "ปทุมธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%95-%E0%B8%88%E0%B8%B3%E0%B8%A3%E0%B8%B9%E0%B8%8D%E0%B8%9A%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ่อเงิน",
+      "district": "ลาดหลุมแก้ว",
+      "id": "1633cbe70bf430a520e41154",
+      "maskedId": "110xxxxxx0945",
+      "name": "กานต์พิชชา สังฆพรหม",
+      "province": "ปทุมธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%86%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หน้าไม้",
+      "district": "ลาดหลุมแก้ว",
+      "id": "2fd1010ec63f69d31491e33d",
+      "maskedId": "110xxxxxx2779",
+      "name": "จิราภา แย้มแฟง",
+      "province": "ปทุมธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%9F%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลาดหลุมแก้ว",
+      "district": "ลาดหลุมแก้ว",
+      "id": "8dc50ddc5731016b927f133e",
+      "maskedId": "130xxxxxx5581",
+      "name": "ชนะชัย กมลกลาง",
+      "province": "ปทุมธานี",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "b8a50b20c3fe35d0a335f5f9",
+      "maskedId": "114xxxxxx6104",
+      "name": "ชวิน รัชตธาดา",
+      "province": "ปทุมธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%99-%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%95%E0%B8%98%E0%B8%B2%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "b187ff9d39e383be6bd4f189",
+      "maskedId": "193xxxxxx4871",
+      "name": "ณภัค หลีวิจิตร",
+      "province": "ปทุมธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "d56fcc697843c1ea1c790509",
+      "maskedId": "112xxxxxx3426",
+      "name": "ณัฏฐ์ฐณภัค โตเอี่ยม",
+      "province": "ปทุมธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B9%8C%E0%B8%90%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคูขวาง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "e77b2d51c96b8339987a2c9d",
+      "maskedId": "113xxxxxx8215",
+      "name": "ณัฐนันท์ บุญเนตร",
+      "province": "ปทุมธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "64a2765b3ddfa381b22035e9",
+      "maskedId": "121xxxxxx0853",
+      "name": "ณิชกานต์ สังกฤษ",
+      "province": "ปทุมธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "e1bd043c465a9fc9b25e6129",
+      "maskedId": "130xxxxxx6848",
+      "name": "ธงชัย ไทยสูงเนิน",
+      "province": "ปทุมธานี",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "d00eaa9ca7996a1d4c3030e7",
+      "maskedId": "112xxxxxx4292",
+      "name": "ธนพล ตาดสุวรรณ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A5-%E0%B8%95%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพระอุดม",
+      "district": "ลาดหลุมแก้ว",
+      "id": "9c592a7ecff7318ebe2b6d12",
+      "maskedId": "113xxxxxx8341",
+      "name": "ธารีรัตน์ ประเสริฐสุข",
+      "province": "ปทุมธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "7f2a6388a355c5c87afd6957",
+      "maskedId": "110xxxxxx2899",
+      "name": "นภัส อมรรัตน์น้ำหนึ่ง",
+      "province": "ปทุมธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคูขวาง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "e5e457fd83af156882b069d9",
+      "maskedId": "171xxxxxx7771",
+      "name": "นราภรณ์ ศรีนวล",
+      "province": "ปทุมธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "36b81f673ef72bf47f4dd047",
+      "maskedId": "110xxxxxx4994",
+      "name": "นริศรา อู๊ดน้อย",
+      "province": "ปทุมธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B8%AD%E0%B8%B9%E0%B9%8A%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "939ae6116dcc92aee45d7584",
+      "maskedId": "312xxxxxx4596",
+      "name": "นำพล อ้นเพ็ง",
+      "province": "ปทุมธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B3%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ่อเงิน",
+      "district": "ลาดหลุมแก้ว",
+      "id": "f11700d3c7858292540428bf",
+      "maskedId": "134xxxxxx4063",
+      "name": "ปิยะพร ทำทอง",
+      "province": "ปทุมธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%B3%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "c729fea930c328e9fd1bf4ad",
+      "maskedId": "172xxxxxx6735",
+      "name": "พิชญานิน สอนสงวน",
+      "province": "ปทุมธานี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%99-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพระอุดม",
+      "district": "ลาดหลุมแก้ว",
+      "id": "e1deffcb8475249665cf686a",
+      "maskedId": "112xxxxxx1837",
+      "name": "พิมพ์วชิรา เดชเรืองศรี",
+      "province": "ปทุมธานี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "e9ab5e08e1bca98b2fdee029",
+      "maskedId": "173xxxxxx6816",
+      "name": "พิไลพร ไทรทองมี",
+      "province": "ปทุมธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B9%84%E0%B8%A5%E0%B8%9E%E0%B8%A3-%E0%B9%84%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "0d9800c297b90cee96ef1c4d",
+      "maskedId": "110xxxxxx8409",
+      "name": "รัชนก โนรี",
+      "province": "ปทุมธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%82%E0%B8%99%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "f4ad061653205185c28a97ef",
+      "maskedId": "121xxxxxx3189",
+      "name": "วิยะดา วงศ์พิน",
+      "province": "ปทุมธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%94%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพระอุดม",
+      "district": "ลาดหลุมแก้ว",
+      "id": "f4ac98c6ff840e50025369b1",
+      "maskedId": "118xxxxxx5394",
+      "name": "วิสิฏฐิทร พานทอง",
+      "province": "ปทุมธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%8F%E0%B8%90%E0%B8%B4%E0%B8%97%E0%B8%A3-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลาดหลุมแก้ว",
+      "district": "ลาดหลุมแก้ว",
+      "id": "25dba2b42f6d688159bdc23b",
+      "maskedId": "375xxxxxx1392",
+      "name": "ศุภเดช สุภัควิภาส",
+      "province": "ปทุมธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หน้าไม้",
+      "district": "ลาดหลุมแก้ว",
+      "id": "4fb34018fdcab340e338bbe7",
+      "maskedId": "110xxxxxx3091",
+      "name": "สุทธิ ผลไพบูลย์",
+      "province": "ปทุมธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4-%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%9E%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลาดหลุมแก้ว",
+      "district": "ลาดหลุมแก้ว",
+      "id": "e4d2fa11b16d2531cbed22a9",
+      "maskedId": "310xxxxxx1453",
+      "name": "อณุศักดิ์ ยอดสวัสดิ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%93%E0%B8%B8%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลาดหลุมแก้ว",
+      "district": "ลาดหลุมแก้ว",
+      "id": "68fd09f3fab724943920c57b",
+      "maskedId": "110xxxxxx4277",
+      "name": "อมีนันต์ ศรมณี",
+      "province": "ปทุมธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "2f4fef22c9286c31d266d914",
+      "maskedId": "113xxxxxx4180",
+      "name": "อัมรินทร์ ตรงดี",
+      "province": "ปทุมธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "ce58df6dcc9724f8a7f8db45",
+      "maskedId": "162xxxxxx2399",
+      "name": "เกวลิน กิติวรรณ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B8%99-%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลระแหง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "ea54e95b5a433b0fdd4ba0bd",
+      "maskedId": "111xxxxxx8582",
+      "name": "เดือน ศรีวงค์",
+      "province": "ปทุมธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "de12fa2ba5399efaae446924",
+      "maskedId": "113xxxxxx9727",
+      "name": "เต็มศิริ กฤษทิพย์",
+      "province": "ปทุมธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "ea93ed87a14fda5a3b62d012",
+      "maskedId": "310xxxxxx4307",
+      "name": "เบ็ญจมาส อํานวยโยธิน",
+      "province": "ปทุมธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B9%87%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%AA-%E0%B8%AD%E0%B9%8D%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%A2%E0%B9%82%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "3418efeb8e27da0f6f18b5b9",
+      "maskedId": "372xxxxxx6279",
+      "name": "โกสินทร์ ลาลุน",
+      "province": "ปทุมธานี",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B8%B8%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "_meta": {
+    "count": 12,
+    "kind": "agency",
+    "name": "อบต.อ่าวนาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-อ่าวนาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "00133b733e238e8dce80dd48",
+      "maskedId": "191xxxxxx4296",
+      "name": "ณฐพร ชูสุวรรณ",
+      "province": "กระบี่",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%90%E0%B8%9E%E0%B8%A3-%E0%B8%8A%E0%B8%B9%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "54b5b6110a9cde1667994947",
+      "maskedId": "180xxxxxx2554",
+      "name": "ณัฐติยา ดวงน้ำแก้ว",
+      "province": "กระบี่",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "0715a50c334c26a52e836efd",
+      "maskedId": "180xxxxxx7903",
+      "name": "ธนสรณ์ พิบูลย์",
+      "province": "กระบี่",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "b20da2d542780ff50906a108",
+      "maskedId": "193xxxxxx8771",
+      "name": "ปาริชาติ นวลเกลี้ยง",
+      "province": "กระบี่",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "254482428a391e8f4d2067b1",
+      "maskedId": "191xxxxxx2984",
+      "name": "พรพนา ซังทราสิต",
+      "province": "กระบี่",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%99%E0%B8%B2-%E0%B8%8B%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "961e7bc8e73c9296ad15d9d7",
+      "maskedId": "191xxxxxx5524",
+      "name": "มินตรา เพชรมาก",
+      "province": "กระบี่",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "61e68cb73eddd2fe75ea12e6",
+      "maskedId": "192xxxxxx2965",
+      "name": "ศักรินทร์ ตู้ดำ",
+      "province": "กระบี่",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%95%E0%B8%B9%E0%B9%89%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "62dde83627d3546e34245451",
+      "maskedId": "190xxxxxx6150",
+      "name": "สุภัสสรา เพ็งหมาน",
+      "province": "กระบี่",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "9d076634c47df8b26b35c038",
+      "maskedId": "193xxxxxx1248",
+      "name": "อรวรรณ หมุนหวาน",
+      "province": "กระบี่",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "7384a5812199eddd220b8ba1",
+      "maskedId": "196xxxxxx6269",
+      "name": "อัหลาม ดือรอปา",
+      "province": "กระบี่",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A1-%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "5590cf3a4a7c8a0a6e430d34",
+      "maskedId": "391xxxxxx3429",
+      "name": "เดชธนบดี หัสคุณ",
+      "province": "กระบี่",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%94%E0%B8%B5-%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่าวนาง",
+      "district": "เมืองกระบี่",
+      "id": "b075f8dcc1dc8e9e281819c1",
+      "maskedId": "190xxxxxx3974",
+      "name": "เมญาดา ถิระผลิกะ",
+      "province": "กระบี่",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%96%E0%B8%B4%E0%B8%A3%E0%B8%B0%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

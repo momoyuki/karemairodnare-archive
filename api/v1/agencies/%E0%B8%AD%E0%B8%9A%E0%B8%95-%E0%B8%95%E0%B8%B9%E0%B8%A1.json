@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ตูม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ตูม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตูม",
+      "district": "ปรางค์กู่ | ศรีรัตนะ",
+      "id": "ffebc521ae4f858d18b808bc",
+      "maskedId": "233xxxxxx8404",
+      "name": "กฤษฎา หนูลา",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตูม",
+      "district": "ปรางค์กู่ | ศรีรัตนะ",
+      "id": "49f93040bb20a7d3fb881205",
+      "maskedId": "133xxxxxx1951",
+      "name": "สุรชัย โสดาธาตุ",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%82%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

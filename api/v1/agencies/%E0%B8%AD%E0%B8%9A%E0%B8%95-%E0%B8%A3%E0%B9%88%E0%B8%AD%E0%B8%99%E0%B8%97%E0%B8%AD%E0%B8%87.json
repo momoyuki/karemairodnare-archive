@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.ร่อนทอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ร่อนทอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ร่อนทอง",
+      "district": "บางสะพาน",
+      "id": "2fadc76156250e47ddcda53e",
+      "maskedId": "180xxxxxx8725",
+      "name": "ดาราพร รัตนสุวรรณ",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ร่อนทอง",
+      "district": "สตึก",
+      "id": "50bec0bf0dcd2fff961327c4",
+      "maskedId": "131xxxxxx8671",
+      "name": "ภรณ์ทิพย์ ปุยะติ",
+      "province": "บุรีรัมย์",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9B%E0%B8%B8%E0%B8%A2%E0%B8%B0%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ร่อนทอง",
+      "district": "สตึก",
+      "id": "600b6ec7cfda0afc07c17100",
+      "maskedId": "131xxxxxx5255",
+      "name": "สลักจิต ม่วงทา",
+      "province": "บุรีรัมย์",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%88%E0%B8%B4%E0%B8%95-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ร่อนทอง",
+      "district": "สตึก",
+      "id": "d8da49bba0b7d22fac1954d7",
+      "maskedId": "110xxxxxx4070",
+      "name": "สุทธิพงษ์ สุรินสมบูรณ์",
+      "province": "บุรีรัมย์",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.บางตะไนย์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางตะไนย์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางตะไนย์",
+      "district": "ปากเกร็ด",
+      "id": "a46d79e95051bbe05b03d26b",
+      "maskedId": "110xxxxxx6600",
+      "name": "ธนทัต วรรณสาธพ",
+      "province": "นนทบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%95-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตะไนย์",
+      "district": "ปากเกร็ด",
+      "id": "db128931e2023c3b8c42729e",
+      "maskedId": "172xxxxxx6342",
+      "name": "อรณิชา ภูฆัง",
+      "province": "นนทบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A0%E0%B8%B9%E0%B8%86%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

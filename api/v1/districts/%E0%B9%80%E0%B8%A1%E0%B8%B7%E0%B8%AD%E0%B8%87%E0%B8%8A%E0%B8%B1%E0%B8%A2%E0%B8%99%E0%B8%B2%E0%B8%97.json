@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "เมืองชัยนาท",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองชัยนาท",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลหาดท่าเสา",
+      "district": "เมืองชัยนาท",
+      "id": "c039016bc102a1e39fb8ce01",
+      "maskedId": "172xxxxxx0876",
+      "name": "กฤษณะ แก้วศรีงาม",
+      "province": "ชัยนาท",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%B0-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยนาท",
+      "district": "เมืองชัยนาท",
+      "id": "552ebd794eaccdb21e9273b1",
+      "maskedId": "136xxxxxx4732",
+      "name": "กิตติพงษ์ บุตรวัง",
+      "province": "ชัยนาท",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยนาท",
+      "district": "เมืองชัยนาท",
+      "id": "97f0a1bd20b680c51d29643f",
+      "maskedId": "115xxxxxx3419",
+      "name": "พนธวิชญ์ พลมาลา",
+      "province": "ชัยนาท",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%9E%E0%B8%A5%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชัยนาท",
+      "district": "เมืองชัยนาท",
+      "id": "09e92e902148e9180b9af9f6",
+      "maskedId": "325xxxxxx6621",
+      "name": "วรรณภา วาริชา",
+      "province": "ชัยนาท",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A0%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

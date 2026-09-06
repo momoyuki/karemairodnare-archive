@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "agency",
+    "name": "อบต.โพนงาม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-โพนงาม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "381d16af1a454778f481a1bb",
+      "maskedId": "148xxxxxx8825",
+      "name": "กนิษฐา หลวงนันท์",
+      "province": "อุดรธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "58a53305e3077d7675fb8656",
+      "maskedId": "110xxxxxx3221",
+      "name": "ชลาลัย ชีวะเจริญยิ่ง",
+      "province": "อุดรธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "กุดชุม",
+      "id": "0a20da596bce86afb0c77d7a",
+      "maskedId": "145xxxxxx9900",
+      "name": "ณัฐพล อัตตะวิชา",
+      "province": "ยโสธร",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "บุณฑริก",
+      "id": "17262a115efc788e074f49c2",
+      "maskedId": "145xxxxxx5650",
+      "name": "ณิชาภัทร บุญสินชัย",
+      "province": "อุบลราชธานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากหน้าบุคลากรทางการ"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "บุณฑริก",
+      "id": "55c6cc2432486d6a265b22b2",
+      "maskedId": "133xxxxxx1642",
+      "name": "ปฏิภาณ แก้วเหลา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%93-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "cd593760ed457ca1022ebcad",
+      "maskedId": "145xxxxxx0571",
+      "name": "รพีพรรณ วันนู",
+      "province": "อุดรธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%9E%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "e1de47bb16e6b5fc88b1267e",
+      "maskedId": "153xxxxxx9124",
+      "name": "สุรยุทธ บุญใบ",
+      "province": "อุดรธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%83%E0%B8%9A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "9436c593efb9fb1b33d738ac",
+      "maskedId": "147xxxxxx4903",
+      "name": "หฤทัย พันธุ์จรุง",
+      "province": "อุดรธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%88%E0%B8%A3%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "9be4fb5e98844d0e7918d72f",
+      "maskedId": "110xxxxxx1741",
+      "name": "เพียงฟ้า คุยบุตร",
+      "province": "อุดรธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B8%A2%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

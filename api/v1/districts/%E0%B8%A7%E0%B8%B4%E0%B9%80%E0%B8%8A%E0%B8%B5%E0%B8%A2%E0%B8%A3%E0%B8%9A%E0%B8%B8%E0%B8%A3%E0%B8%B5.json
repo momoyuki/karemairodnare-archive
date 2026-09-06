@@ -1,0 +1,239 @@
+{
+  "_meta": {
+    "count": 13,
+    "kind": "district",
+    "name": "วิเชียรบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "วิเชียรบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ท่าโรง",
+      "district": "วิเชียรบุรี",
+      "id": "900086fdc6d18bf108a1542e",
+      "maskedId": "167xxxxxx1407",
+      "name": "กมลชนก จ่ายกระโทก",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%97%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าโรง",
+      "district": "วิเชียรบุรี",
+      "id": "46dd2a489d198d5b79d876ac",
+      "maskedId": "163xxxxxx8311",
+      "name": "ณรงค์เดช หมายชัย",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ซับน้อย",
+      "district": "วิเชียรบุรี",
+      "id": "ce340908971634edefe72776",
+      "maskedId": "167xxxxxx2035",
+      "name": "ณัฎฐณิชา คงคูณ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%84%E0%B8%B9%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บึงกระจับ",
+      "district": "วิเชียรบุรี",
+      "id": "b83c2c63546ed24aec752f65",
+      "maskedId": "167xxxxxx9891",
+      "name": "ธีรภัทร คุยสี",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%84%E0%B8%B8%E0%B8%A2%E0%B8%AA%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกปรง",
+      "district": "วิเชียรบุรี",
+      "id": "e3299ca1f1489bdffcc7b005",
+      "maskedId": "167xxxxxx5359",
+      "name": "นรีกานต์ คงคูณ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%84%E0%B8%B9%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ซับสมบูรณ์",
+      "district": "วิเชียรบุรี",
+      "id": "ed8beed61577c9f510d68d32",
+      "maskedId": "119xxxxxx9461",
+      "name": "ปณิธาน พลเสน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%98%E0%B8%B2%E0%B8%99-%E0%B8%9E%E0%B8%A5%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ่อรัง",
+      "district": "วิเชียรบุรี",
+      "id": "15a100ae0523a4b040118db4",
+      "maskedId": "167xxxxxx9347",
+      "name": "ประภัสสร จันทร์ทักษ์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพุเตย",
+      "district": "วิเชียรบุรี",
+      "id": "a8de352080f49d2f93169718",
+      "maskedId": "167xxxxxx4824",
+      "name": "ลลิตา กล่ําเจริญ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพุเตย",
+      "district": "วิเชียรบุรี",
+      "id": "9a00a11915d08e4ec3ca66d2",
+      "maskedId": "367xxxxxx7888",
+      "name": "วรางคณา บุญก่อน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%93%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าโรง",
+      "district": "วิเชียรบุรี",
+      "id": "9d03b8bb0c58b68dbfa3724f",
+      "maskedId": "267xxxxxx6556",
+      "name": "สุภากร ถมจอหอ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%96%E0%B8%A1%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พุขาม",
+      "district": "วิเชียรบุรี",
+      "id": "4ce4843b7648661d655e9eb2",
+      "maskedId": "173xxxxxx3973",
+      "name": "สุลิสา สีมาตา",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พุขาม",
+      "district": "วิเชียรบุรี",
+      "id": "e69e9bceb8e7db3e161d6cd6",
+      "maskedId": "167xxxxxx0524",
+      "name": "อธิป จันมโนวงษ์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        },
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B9%82%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยางสาว",
+      "district": "วิเชียรบุรี",
+      "id": "ebfbeea8945127769367ce5b",
+      "maskedId": "167xxxxxx8418",
+      "name": "เสรีภาพ รินทร์พรุ้ม",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%A0%E0%B8%B2%E0%B8%9E-%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

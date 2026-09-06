@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "เทศบาลตําบลเวียง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลเวียง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลเวียง",
+      "district": "ไชยา",
+      "id": "60600360422f1eba279b2aa0",
+      "maskedId": "184xxxxxx9545",
+      "name": "พิมานมาศ ธรรมรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลเวียง",
+      "district": "ไชยา",
+      "id": "c1986b3d93ec26617a052fbe",
+      "maskedId": "184xxxxxx6530",
+      "name": "มัณฑณา บุตรเริ่ม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%93%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลเวียง",
+      "district": "เชียงของ",
+      "id": "4440ca140ee1e886287e755e",
+      "maskedId": "152xxxxxx2142",
+      "name": "สุธิพงษ์ โสลิกี",
+      "province": "เชียงราย",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "45_เชียงราย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลเวียง",
+      "district": "ไชยา",
+      "id": "279fda5738553dfe67e20808",
+      "maskedId": "193xxxxxx3080",
+      "name": "เกียรติศักดิ์ แท่นประมูล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 7
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%81%E0%B8%97%E0%B9%88%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

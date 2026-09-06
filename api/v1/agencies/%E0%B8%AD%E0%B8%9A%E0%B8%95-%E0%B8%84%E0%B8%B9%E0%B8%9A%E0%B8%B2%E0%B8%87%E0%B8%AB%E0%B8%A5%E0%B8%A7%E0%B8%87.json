@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "agency",
+    "name": "อบต.คูบางหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-คูบางหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "15bac13f0caef2bc0a072555",
+      "maskedId": "112xxxxxx0530",
+      "name": "กนกวรรณ บุตรสงเคราะห์",
+      "province": "ปทุมธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "d56fcc697843c1ea1c790509",
+      "maskedId": "112xxxxxx3426",
+      "name": "ณัฏฐ์ฐณภัค โตเอี่ยม",
+      "province": "ปทุมธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B9%8C%E0%B8%90%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B9%82%E0%B8%95%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "64a2765b3ddfa381b22035e9",
+      "maskedId": "121xxxxxx0853",
+      "name": "ณิชกานต์ สังกฤษ",
+      "province": "ปทุมธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "7f2a6388a355c5c87afd6957",
+      "maskedId": "110xxxxxx2899",
+      "name": "นภัส อมรรัตน์น้ำหนึ่ง",
+      "province": "ปทุมธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "939ae6116dcc92aee45d7584",
+      "maskedId": "312xxxxxx4596",
+      "name": "นำพล อ้นเพ็ง",
+      "province": "ปทุมธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B3%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "e9ab5e08e1bca98b2fdee029",
+      "maskedId": "173xxxxxx6816",
+      "name": "พิไลพร ไทรทองมี",
+      "province": "ปทุมธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B9%84%E0%B8%A5%E0%B8%9E%E0%B8%A3-%E0%B9%84%E0%B8%97%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "de12fa2ba5399efaae446924",
+      "maskedId": "113xxxxxx9727",
+      "name": "เต็มศิริ กฤษทิพย์",
+      "province": "ปทุมธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "ea93ed87a14fda5a3b62d012",
+      "maskedId": "310xxxxxx4307",
+      "name": "เบ็ญจมาส อํานวยโยธิน",
+      "province": "ปทุมธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B9%87%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%AA-%E0%B8%AD%E0%B9%8D%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%A2%E0%B9%82%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูบางหลวง",
+      "district": "ลาดหลุมแก้ว",
+      "id": "3418efeb8e27da0f6f18b5b9",
+      "maskedId": "372xxxxxx6279",
+      "name": "โกสินทร์ ลาลุน",
+      "province": "ปทุมธานี",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B8%B8%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

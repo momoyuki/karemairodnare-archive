@@ -1,0 +1,783 @@
+{
+  "_meta": {
+    "count": 45,
+    "kind": "province",
+    "name": "ราชบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ราชบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ดอนตะโก",
+      "district": "เมืองราชบุรี",
+      "id": "20a5b32c94b1a9a48b42ebac",
+      "maskedId": "170xxxxxx6039",
+      "name": "กนกวรรณ อัชชนะลิมภากรณ์",
+      "province": "ราชบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AD%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองโพธาราม",
+      "district": "โพธาราม",
+      "id": "dfe2300c16a5b5aeb70f50be",
+      "maskedId": "177xxxxxx5619",
+      "name": "กัญญาณัฐ พิชัยชน",
+      "province": "ราชบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แพงพวย",
+      "district": "ดำเนินสะดวก",
+      "id": "6af53642ce6043954df2051c",
+      "maskedId": "170xxxxxx7795",
+      "name": "กุลวีณ์นันท์ เตี้ยเนตร",
+      "province": "ราชบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B9%8C%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองข่อย",
+      "district": "โพธาราม",
+      "id": "d2449c4608d660dc25188da8",
+      "maskedId": "170xxxxxx5741",
+      "name": "จงรัก ขําภักดี",
+      "province": "ราชบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%82%E0%B9%8D%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลเจ็ดเสมียน",
+      "district": "โพธาราม",
+      "id": "4e27ecac3bf7689b27ea12f4",
+      "maskedId": "110xxxxxx0796",
+      "name": "จริยา นิลบุตร",
+      "province": "ราชบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาชะงุ้ม",
+      "district": "โพธาราม",
+      "id": "c848856ad46da81ad9a7de73",
+      "maskedId": "171xxxxxx3649",
+      "name": "จุฑามาศ เชื้องาม",
+      "province": "ราชบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        },
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังมะนาว",
+      "district": "ปากท่อ",
+      "id": "9c4509c13564023ff63e4d29",
+      "maskedId": "176xxxxxx0037",
+      "name": "ชญานนท์ พรหมสี่หน้า",
+      "province": "ราชบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สามเรือน",
+      "district": "เมืองราชบุรี",
+      "id": "5a59cf2933e5b51913a6a519",
+      "maskedId": "110xxxxxx8676",
+      "name": "ชนัญชิดา กิจเจริญ",
+      "province": "ราชบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลศรีดอนไผ่",
+      "district": "ดำเนินสะดวก",
+      "id": "af91ed5e4873123597ce9e0d",
+      "maskedId": "196xxxxxx1318",
+      "name": "ชนัญชิดา เพชรเจริญ",
+      "province": "ราชบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนกรวย",
+      "district": "ดำเนินสะดวก",
+      "id": "e2cd0d0c0b2e2eea37c1c0c4",
+      "maskedId": "170xxxxxx0005",
+      "name": "ชนากานต์ แป้นกลัด",
+      "province": "ราชบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากแรต",
+      "district": "บ้านโป่ง",
+      "id": "e328af683d4ff4c8d55179c7",
+      "maskedId": "170xxxxxx6578",
+      "name": "ชยานันต์ หริวงศ์จงเจริญ",
+      "province": "ราชบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เจดีย์หัก",
+      "district": "เมืองราชบุรี",
+      "id": "470469e8405a963edd2b04ff",
+      "maskedId": "176xxxxxx6266",
+      "name": "ณฐวรรญษ์ ใช่ทอง",
+      "province": "ราชบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%90%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%8D%E0%B8%A9%E0%B9%8C-%E0%B9%83%E0%B8%8A%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่าหวาย",
+      "district": "สวนผึ้ง",
+      "id": "4f110f42f14f62a703e4af13",
+      "maskedId": "171xxxxxx8564",
+      "name": "ตริยาพร เจียมบุญ",
+      "province": "ราชบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สามเรือน",
+      "district": "เมืองราชบุรี",
+      "id": "c5b0646aa6180576e9f02b29",
+      "maskedId": "170xxxxxx9181",
+      "name": "ธนวัฒน์ เหลืองขมิ้น",
+      "province": "ราชบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%A1%E0%B8%B4%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ท่านัด",
+      "district": "ดำเนินสะดวก",
+      "id": "ed4aba8587d6e6a3e8d504cc",
+      "maskedId": "170xxxxxx7114",
+      "name": "ธนากร อินทร์จักร์",
+      "province": "ราชบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองพันจันทร์",
+      "district": "บ้านคา",
+      "id": "8490a3d30cb54a90338bb67f",
+      "maskedId": "170xxxxxx9871",
+      "name": "ธนากร เจริญผล",
+      "province": "ราชบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะนาวศรี",
+      "district": "สวนผึ้ง",
+      "id": "467cce4f9e0df4fe6d3ac4a6",
+      "maskedId": "174xxxxxx0319",
+      "name": "ธนิก ปั้นดี",
+      "province": "ราชบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B4%E0%B8%81-%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองพันจันทร์",
+      "district": "บ้านคา",
+      "id": "eb9260f9e151c6138e22d832",
+      "maskedId": "170xxxxxx1381",
+      "name": "ธนโชติ สุดเสือ",
+      "province": "ราชบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลกรับใหญ่",
+      "district": "บ้านโป่ง",
+      "id": "e05be97800b3e149615166a1",
+      "maskedId": "120xxxxxx2363",
+      "name": "นาถตินันท์ ศรีอุ่นศรี",
+      "province": "ราชบุรี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B8%96%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านม่วง",
+      "district": "บ้านโป่ง",
+      "id": "da4b501e4e0c072023dde4c5",
+      "maskedId": "141xxxxxx8820",
+      "name": "นิธินัย สิมสีพิมพ์",
+      "province": "ราชบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%B5%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองกบ",
+      "district": "บ้านโป่ง",
+      "id": "3e815c6bf880babeb2ad95b6",
+      "maskedId": "371xxxxxx3481",
+      "name": "นิสา อัมพบุตร",
+      "province": "ราชบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลเขางู",
+      "district": "เมืองราชบุรี",
+      "id": "15e600bb9324ed6b7784495f",
+      "maskedId": "171xxxxxx1736",
+      "name": "พิชยา กิจสมัย",
+      "province": "ราชบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B8%B2-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ราชบุรี",
+      "district": "เมืองราชบุรี",
+      "id": "c7b1318e59127dc4384f70c9",
+      "maskedId": "170xxxxxx0604",
+      "name": "พิริยาภรณ์ หลวงพล",
+      "province": "ราชบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาแร้ง",
+      "district": "เมืองราชบุรี",
+      "id": "9d764d63c5767c4d9d8bb443",
+      "maskedId": "176xxxxxx9264",
+      "name": "ภาคิน วงศ์คำจันทร์",
+      "province": "ราชบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%B4%E0%B8%99-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%84%E0%B8%B3%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนคลัง",
+      "district": "ดำเนินสะดวก",
+      "id": "203bcb2b4c699670b31053ea",
+      "maskedId": "170xxxxxx5801",
+      "name": "ลัดดาวัลย์ เข็มทอง",
+      "province": "ราชบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B9%87%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวนกล้วย",
+      "district": "บ้านโป่ง",
+      "id": "d83cb49aa3d4828bfb8a9c2d",
+      "maskedId": "371xxxxxx5356",
+      "name": "วรรณิภา องศุลาภะ",
+      "province": "ราชบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%A0%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่างหิน",
+      "district": "ปากท่อ",
+      "id": "6a32e48ac2f1fe7b08f9cfae",
+      "maskedId": "314xxxxxx6845",
+      "name": "วรรวิพา สนธิ",
+      "province": "ราชบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%9E%E0%B8%B2-%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนกรวย",
+      "district": "ดำเนินสะดวก",
+      "id": "48810a278787a689b9dd810b",
+      "maskedId": "172xxxxxx9733",
+      "name": "วศิธร ชาวหนองบอน",
+      "province": "ราชบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนใหญ่",
+      "district": "บางแพ",
+      "id": "68ac6345c59de5beab0d1490",
+      "maskedId": "114xxxxxx1505",
+      "name": "วันชนก ชำนิปั้น",
+      "province": "ราชบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%8A%E0%B8%B3%E0%B8%99%E0%B8%B4%E0%B8%9B%E0%B8%B1%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ด่านทับตะโก",
+      "district": "จอมบึง",
+      "id": "806f77dd89586f87b40468b8",
+      "maskedId": "577xxxxxx1734",
+      "name": "วิษณุศักดิ์ สุขหอม",
+      "province": "ราชบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AB%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองจอมพล",
+      "district": "จอมบึง",
+      "id": "95302adeef8bc84627cc88b7",
+      "maskedId": "170xxxxxx0929",
+      "name": "ศราวุฒิ พลอยชุม",
+      "province": "ราชบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะนาวศรี",
+      "district": "สวนผึ้ง",
+      "id": "032613b208576b301f43d13a",
+      "maskedId": "177xxxxxx3041",
+      "name": "สมัชญา เรือนจันทร์",
+      "province": "ราชบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากท่อ",
+      "district": "ปากท่อ",
+      "id": "3903d7e55de812b02a1b019a",
+      "maskedId": "176xxxxxx6164",
+      "name": "สหรัฐ พวงเพ็ชร",
+      "province": "ราชบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านบึง",
+      "district": "บ้านคา",
+      "id": "74495bea3715b6bb9cf39ab8",
+      "maskedId": "170xxxxxx2166",
+      "name": "สุกรีฑา อุ่นเรือน",
+      "province": "ราชบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%91%E0%B8%B2-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านโป่ง",
+      "district": "บ้านโป่ง",
+      "id": "7b6ba4456ad653cb3c429a10",
+      "maskedId": "172xxxxxx0893",
+      "name": "สุกฤตา คุ้มภัย",
+      "province": "ราชบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%A0%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวนกล้วย",
+      "district": "บ้านโป่ง",
+      "id": "8b01458fad524abc308eab47",
+      "maskedId": "170xxxxxx6821",
+      "name": "สุดารัตน์ สุดาโมกข์",
+      "province": "ราชบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B9%82%E0%B8%A1%E0%B8%81%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกระจับ",
+      "district": "บ้านโป่ง",
+      "id": "35473d3159b2811f2f8a87ea",
+      "maskedId": "176xxxxxx3058",
+      "name": "สุธีกานต์ เครือเหลา",
+      "province": "ราชบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เบิกไพร",
+      "district": "จอมบึง",
+      "id": "c63943943273fddf7ce70cea",
+      "maskedId": "170xxxxxx3017",
+      "name": "สุปราณี เนียมเตียง",
+      "province": "ราชบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเบิกไพร",
+      "district": "บ้านโป่ง",
+      "id": "7e4ace00d621c002421e89a6",
+      "maskedId": "173xxxxxx5871",
+      "name": "สุภัสสรา ศุภสหโชค",
+      "province": "ราชบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%AA%E0%B8%AB%E0%B9%82%E0%B8%8A%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากแรต",
+      "district": "บ้านโป่ง",
+      "id": "044ccf8470b35e6f8c3bbbd6",
+      "maskedId": "110xxxxxx3618",
+      "name": "อภิชฌา จรูญเรือง",
+      "province": "ราชบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%8C%E0%B8%B2-%E0%B8%88%E0%B8%A3%E0%B8%B9%E0%B8%8D%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากท่อ",
+      "district": "ปากท่อ",
+      "id": "87eb7dc95c052fdecf8986a7",
+      "maskedId": "170xxxxxx1382",
+      "name": "อภิชิต เขียวมาประเสริฐ",
+      "province": "ราชบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ราชบุรี",
+      "district": "เมืองราชบุรี",
+      "id": "e6db1811aa7eb6d59b4a4d72",
+      "maskedId": "170xxxxxx8378",
+      "name": "อุมาวรรณ อยู่ผาสุข",
+      "province": "ราชบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9C%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านคา",
+      "district": "บ้านคา",
+      "id": "b13c3714379e4a67e16c3939",
+      "maskedId": "176xxxxxx0414",
+      "name": "เทียนชัย รักเจียม",
+      "province": "ราชบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลศรีดอนไผ่",
+      "district": "ดำเนินสะดวก",
+      "id": "5405406d586d8b85206f9188",
+      "maskedId": "371xxxxxx2643",
+      "name": "เอกมัย มาลัย",
+      "province": "ราชบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ราชบุรี",
+      "district": "เมืองราชบุรี",
+      "id": "51d455e8529d1b4116d982d3",
+      "maskedId": "176xxxxxx0030",
+      "name": "ใบเฟิร์น วาดเขียน",
+      "province": "ราชบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%83%E0%B8%9A%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%99-%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

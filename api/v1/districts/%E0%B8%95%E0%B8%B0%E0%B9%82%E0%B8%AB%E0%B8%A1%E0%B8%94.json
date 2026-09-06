@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "ตะโหมด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ตะโหมด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลคลองใหญ่",
+      "district": "ตะโหมด",
+      "id": "9100c9e4d285d620fbab8b3f",
+      "maskedId": "190xxxxxx6528",
+      "name": "ธนพร แก้วทอง",
+      "province": "พัทลุง",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลควนเสาธง",
+      "district": "ตะโหมด",
+      "id": "9a56ff26fa8aa48a6bdd3966",
+      "maskedId": "195xxxxxx1587",
+      "name": "ธนากร คงบัณฑิต",
+      "province": "พัทลุง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%84%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่ขรี",
+      "district": "ตะโหมด",
+      "id": "a2c342173c34445388ec8e0c",
+      "maskedId": "190xxxxxx1998",
+      "name": "พิพิทพร ช่วยเกลี้ยง",
+      "province": "พัทลุง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%9E%E0%B8%A3-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตะโหมด",
+      "district": "ตะโหมด",
+      "id": "c2e48c7964736657d0a180a3",
+      "maskedId": "194xxxxxx4071",
+      "name": "มารีนี มะแซ",
+      "province": "พัทลุง",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B5-%E0%B8%A1%E0%B8%B0%E0%B9%81%E0%B8%8B",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตะโหมด",
+      "district": "ตะโหมด",
+      "id": "85177d2b20a2a09b5c2e51f2",
+      "maskedId": "190xxxxxx6516",
+      "name": "สุชานันท์ โต๊ะทรัพย์",
+      "province": "พัทลุง",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตะโหมด",
+      "district": "ตะโหมด",
+      "id": "1ade00047e3cb544bedd174a",
+      "maskedId": "195xxxxxx4358",
+      "name": "สุเปียน เด็งระกีนา",
+      "province": "พัทลุง",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B5%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองใหญ่",
+      "district": "ตะโหมด",
+      "id": "b46a0b680d5111b7cbcda797",
+      "maskedId": "193xxxxxx7203",
+      "name": "อิฐ ศิริรักษ์",
+      "province": "พัทลุง",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%90-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

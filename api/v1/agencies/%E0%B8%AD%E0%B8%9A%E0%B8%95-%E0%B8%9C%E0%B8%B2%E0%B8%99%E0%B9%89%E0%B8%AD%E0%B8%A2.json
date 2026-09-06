@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ผาน้อย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ผาน้อย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ผาน้อย",
+      "district": "วังสะพุง",
+      "id": "62ff7b962d458c20540ff009",
+      "maskedId": "142xxxxxx9986",
+      "name": "ธนภัทร ทองหล้า",
+      "province": "เลย",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "30_เลย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ผาน้อย",
+      "district": "วังสะพุง",
+      "id": "291aa92debd78cfc0226f707",
+      "maskedId": "142xxxxxx9781",
+      "name": "นุชจรี บุตรโยจันโท",
+      "province": "เลย",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "30_เลย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%88%E0%B8%A3%E0%B8%B5-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%82%E0%B8%A2%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%97",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "บ้านนาเดิม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บ้านนาเดิม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ทรัพย์ทวี",
+      "district": "บ้านนาเดิม",
+      "id": "934916eb440201e8846ed426",
+      "maskedId": "180xxxxxx2596",
+      "name": "กิตติศักดิ์ สุขศรีแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาใต้",
+      "district": "บ้านนาเดิม",
+      "id": "ee48301a2de02899d9d6b014",
+      "maskedId": "193xxxxxx6613",
+      "name": "นภัส รอดชุม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรัพย์ทวี",
+      "district": "บ้านนาเดิม",
+      "id": "8e81a855b4f8c995f21beffe",
+      "maskedId": "184xxxxxx9521",
+      "name": "ประกายดาว พินิจอักษร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B2%E0%B8%A7-%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%88%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรัพย์ทวี",
+      "district": "บ้านนาเดิม",
+      "id": "bab2f26f8e9af3f441af0ed3",
+      "maskedId": "192xxxxxx7506",
+      "name": "ลีลานุช หนูวงศ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาใต้",
+      "district": "บ้านนาเดิม",
+      "id": "ee10266533160685d342d76d",
+      "maskedId": "180xxxxxx4258",
+      "name": "วัลภา ร่มเย็น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A0%E0%B8%B2-%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาใต้",
+      "district": "บ้านนาเดิม",
+      "id": "bf797c79f7ba335db7e31cda",
+      "maskedId": "193xxxxxx0666",
+      "name": "ศหัสชาย กรุงแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรัพย์ทวี",
+      "district": "บ้านนาเดิม",
+      "id": "814cfa24a4c211295e1dca5f",
+      "maskedId": "180xxxxxx1376",
+      "name": "อรณี ศิริรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%93%E0%B8%B5-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาใต้",
+      "district": "บ้านนาเดิม",
+      "id": "3ca0eb7bc78718240c386e40",
+      "maskedId": "193xxxxxx5792",
+      "name": "อุษาวดี แย้มรัตน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%A9%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรัพย์ทวี",
+      "district": "บ้านนาเดิม",
+      "id": "20fee5261ceca9a164ac4b2d",
+      "maskedId": "184xxxxxx6943",
+      "name": "เจษฎา นิลจินดา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

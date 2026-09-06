@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "district",
+    "name": "กะทู้",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "กะทู้",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "119ee55708578125adf909fd",
+      "maskedId": "190xxxxxx3246",
+      "name": "ชวิกานต์ สโมทานทวี",
+      "province": "ภูเก็ต",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B9%82%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "6ebc4e149749ebadfcbb9d2d",
+      "maskedId": "190xxxxxx2076",
+      "name": "ธนพล นิลภูศรี",
+      "province": "ภูเก็ต",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A5-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A0%E0%B8%B9%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "0be0b1cbf751769492fde388",
+      "maskedId": "195xxxxxx2964",
+      "name": "นูรีฮัน แอบากอ",
+      "province": "ภูเก็ต",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%AE%E0%B8%B1%E0%B8%99-%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%B2%E0%B8%81%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองป่าตอง",
+      "district": "กะทู้",
+      "id": "91dcf3849686816316f52e56",
+      "maskedId": "383xxxxxx3137",
+      "name": "ปริวัฒน์ อุดมทรัพย์",
+      "province": "ภูเก็ต",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองป่าตอง",
+      "district": "กะทู้",
+      "id": "80b5baca42fd8e3edab8a595",
+      "maskedId": "180xxxxxx2597",
+      "name": "ภัทรวดี เพชรน้อย",
+      "province": "ภูเก็ต",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "882fc4352d0206843d88fdd1",
+      "maskedId": "191xxxxxx6357",
+      "name": "มณิสรา เลื่อนนก",
+      "province": "ภูเก็ต",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "fdabab8e22b7d1541fba1c6b",
+      "maskedId": "193xxxxxx7712",
+      "name": "วิลาสินี ฤทธิช่วย",
+      "province": "ภูเก็ต",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองป่าตอง",
+      "district": "กะทู้",
+      "id": "6a591def85588adb8726e545",
+      "maskedId": "192xxxxxx3261",
+      "name": "อารยา เพ็ชรหวน",
+      "province": "ภูเก็ต",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%AB%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "2999d5f65b9034747c9a8132",
+      "maskedId": "191xxxxxx8010",
+      "name": "อารีญา บูดีนุ้ย",
+      "province": "ภูเก็ต",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%8D%E0%B8%B2-%E0%B8%9A%E0%B8%B9%E0%B8%94%E0%B8%B5%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "bbdd5934ab5554b2b08160fa",
+      "maskedId": "191xxxxxx4727",
+      "name": "ไลลา รอดเสน",
+      "province": "ภูเก็ต",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

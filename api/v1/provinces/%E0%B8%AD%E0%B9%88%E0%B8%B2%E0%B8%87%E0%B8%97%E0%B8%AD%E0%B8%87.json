@@ -1,0 +1,728 @@
+{
+  "_meta": {
+    "count": 42,
+    "kind": "province",
+    "name": "อ่างทอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อ่างทอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลทางพระ",
+      "district": "โพธิ์ทอง",
+      "id": "e508e7a864a30c261972e596",
+      "maskedId": "115xxxxxx0235",
+      "name": "กนกพร โพนที",
+      "province": "อ่างทอง",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%9E%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%99%E0%B8%97%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแห",
+      "district": "เมืองอ่างทอง",
+      "id": "25278481ed79d986d3ec07a7",
+      "maskedId": "115xxxxxx9352",
+      "name": "กฤษณา ฮวบเจริญ",
+      "province": "อ่างทอง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%B2-%E0%B8%AE%E0%B8%A7%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เอกราช",
+      "district": "ป่าโมก",
+      "id": "31de4a5d358a6c2832b06d0c",
+      "maskedId": "135xxxxxx8781",
+      "name": "กัญชนา กมลรัตน์",
+      "province": "อ่างทอง",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%B2-%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าโมก",
+      "district": "ป่าโมก",
+      "id": "9533d6763f332178820c841f",
+      "maskedId": "115xxxxxx9559",
+      "name": "กัญญาภัค ผ่องโอภาศ",
+      "province": "อ่างทอง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B8%A0%E0%B8%B2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อบทม",
+      "district": "สามโก้",
+      "id": "b74a69e7220109536e375ca3",
+      "maskedId": "172xxxxxx4990",
+      "name": "กัตติกา ทองนุ่ม",
+      "province": "อ่างทอง",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังน้ําเย็น",
+      "district": "แสวงหา",
+      "id": "d9b1afb2e90814b5af2fffbf",
+      "maskedId": "172xxxxxx8763",
+      "name": "กาญจนา นูมหันต์",
+      "province": "อ่างทอง",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%99%E0%B8%B9%E0%B8%A1%E0%B8%AB%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลเพชรเมืองทอง",
+      "district": "แสวงหา",
+      "id": "1f4411b2811f9cda19a9e524",
+      "maskedId": "172xxxxxx9509",
+      "name": "กานต์ชนิภา โพธิ์เรือน",
+      "province": "อ่างทอง",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลไชโย",
+      "district": "ไชโย",
+      "id": "3c7f7cbbec66eb451f625464",
+      "maskedId": "115xxxxxx2280",
+      "name": "คมสัน พุ่มพวง",
+      "province": "อ่างทอง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B8%99-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางจัก",
+      "district": "วิเศษชัยชาญ",
+      "id": "8b3c0d27c0baac38ae61e105",
+      "maskedId": "143xxxxxx0545",
+      "name": "จิราภรณ์ สุพานพิมพ์",
+      "province": "อ่างทอง",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแห",
+      "district": "เมืองอ่างทอง",
+      "id": "bb4efad360c6cf0ca556de33",
+      "maskedId": "171xxxxxx7618",
+      "name": "ชนิตสิรี เรื่องลือ",
+      "province": "อ่างทอง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B5-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสาวร้องไห้",
+      "district": "วิเศษชัยชาญ",
+      "id": "117231dc06664d8b3d1bcf92",
+      "maskedId": "144xxxxxx5906",
+      "name": "ฐิติธัญญ์ รัตนไชยสีมา",
+      "province": "อ่างทอง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จำป่าหล่อ",
+      "district": "เมืองอ่างทอง",
+      "id": "5df0f0c1198619ee36781bad",
+      "maskedId": "112xxxxxx4664",
+      "name": "ณภัทร อยู่สุข",
+      "province": "อ่างทอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางจัก",
+      "district": "วิเศษชัยชาญ",
+      "id": "587f2af00618341c53c06666",
+      "maskedId": "110xxxxxx7230",
+      "name": "ณัฎฐรีณีย์ อินท่าเสา",
+      "province": "อ่างทอง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B8%A3%E0%B8%B5%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองขนาก",
+      "district": "วิเศษชัยชาญ",
+      "id": "7523373ab594ef37cd7771a7",
+      "maskedId": "177xxxxxx1739",
+      "name": "ณัฐศักดิ์ สุขสม",
+      "province": "อ่างทอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านพราน",
+      "district": "แสวงหา",
+      "id": "1009900730036ca22ce4b806",
+      "maskedId": "172xxxxxx9114",
+      "name": "ธนภัทร อิ่มรส",
+      "province": "อ่างทอง",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AD%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%A3%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเสด็จ",
+      "district": "ป่าโมก",
+      "id": "cb5aae1b77a313f7e5022089",
+      "maskedId": "114xxxxxx6569",
+      "name": "ธนากร มีแสงนิล",
+      "province": "อ่างทอง",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลไชโย",
+      "district": "ไชโย",
+      "id": "aa8ff8457c764d59365f9df2",
+      "maskedId": "110xxxxxx6677",
+      "name": "ธัญญาพร ทองเรือง",
+      "province": "อ่างทอง",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลม่วงคัน",
+      "district": "โพธิ์ทอง",
+      "id": "faca2fdea582df1f47293b10",
+      "maskedId": "115xxxxxx1396",
+      "name": "นงเยาว์ ไม้แก่น",
+      "province": "อ่างทอง",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%87%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B9%8C-%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลเจ้าโรงทอง",
+      "district": "วิเศษชัยชาญ",
+      "id": "b6f8cb98bd3cafbdb409f4e4",
+      "maskedId": "143xxxxxx8549",
+      "name": "นริศรา พิมสอน",
+      "province": "อ่างทอง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองวัว",
+      "district": "เมืองอ่างทอง",
+      "id": "6f78385904e0fbcf7e4e30e6",
+      "maskedId": "110xxxxxx2258",
+      "name": "นลินลิดา ศรีแสงทรัพย์",
+      "province": "อ่างทอง",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําหยาด",
+      "district": "โพธิ์ทอง",
+      "id": "e013667d1e1553fb4d29d16a",
+      "maskedId": "114xxxxxx0999",
+      "name": "นิตยา เกตุมุต",
+      "province": "อ่างทอง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%A1%E0%B8%B8%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกษไชโย",
+      "district": "ไชโย",
+      "id": "26585cf2bfe2fb3fc898f45b",
+      "maskedId": "115xxxxxx3658",
+      "name": "บวรรัตน์ ไม้เต็ง",
+      "province": "อ่างทอง",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลม่วงคัน",
+      "district": "โพธิ์ทอง",
+      "id": "98dcd3178469508ba6aa55a3",
+      "maskedId": "172xxxxxx0904",
+      "name": "บัณฑิตา สะราคํา",
+      "province": "อ่างทอง",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AA%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จําลอง",
+      "district": "แสวงหา",
+      "id": "27fc77b724d0031572be043a",
+      "maskedId": "184xxxxxx3385",
+      "name": "ปุญชรัสมิ์ เสียมสกุล",
+      "province": "อ่างทอง",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%A1%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าโมก",
+      "district": "ป่าโมก",
+      "id": "ca4b33a07c0ef50515c2fad5",
+      "maskedId": "110xxxxxx4291",
+      "name": "พชรพล เพิ่มทองคํา",
+      "province": "อ่างทอง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ราชสถิตย์",
+      "district": "ไชโย",
+      "id": "86a49ed9e87a8d7139b26cc2",
+      "maskedId": "115xxxxxx1257",
+      "name": "พลยุทธ ฮวบเจริญ",
+      "province": "อ่างทอง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%AE%E0%B8%A7%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไผ่วง",
+      "district": "วิเศษชัยชาญ",
+      "id": "24bb28bb19f4bfcb65754245",
+      "maskedId": "172xxxxxx5432",
+      "name": "ภาณุวัฒน์ สมงาม",
+      "province": "อ่างทอง",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลรํามะสัก",
+      "district": "โพธิ์ทอง",
+      "id": "f837eb77d0e27b37ffe040ad",
+      "maskedId": "185xxxxxx1211",
+      "name": "ฤกษ์ฤดี ทองคำ",
+      "province": "อ่างทอง",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเสด็จ",
+      "district": "ป่าโมก",
+      "id": "1bb9f3d321c0b564e8aa761f",
+      "maskedId": "119xxxxxx2211",
+      "name": "วรวรรณ สิงห์ไพร",
+      "province": "อ่างทอง",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%84%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตลาดกรวด",
+      "district": "เมืองอ่างทอง",
+      "id": "81a89b5e2ab7219e44cf428f",
+      "maskedId": "115xxxxxx8722",
+      "name": "วาสินี แพรเขียว",
+      "province": "อ่างทอง",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางระกํา",
+      "district": "โพธิ์ทอง",
+      "id": "c71146abffe583c1826314d4",
+      "maskedId": "373xxxxxx3838",
+      "name": "วิไล แก้วแจ้ง",
+      "province": "อ่างทอง",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B9%84%E0%B8%A5-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โผงเผง",
+      "district": "ป่าโมก",
+      "id": "e80bbab3e73c3c8b57205918",
+      "maskedId": "110xxxxxx2211",
+      "name": "สิทธิ์พจน์ บุญแย้ม",
+      "province": "อ่างทอง",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%9E%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกษไชโย",
+      "district": "ไชโย",
+      "id": "931ef7a0cc2aa01ed1411659",
+      "maskedId": "117xxxxxx5030",
+      "name": "สิริญลภัส นันทกูล",
+      "province": "อ่างทอง",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A5%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองแม่ไก่",
+      "district": "โพธิ์ทอง",
+      "id": "7c18035b7ec5af243ee12a79",
+      "maskedId": "115xxxxxx5427",
+      "name": "สิรินดา สวนมะม่วง",
+      "province": "อ่างทอง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B0%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ราชสถิตย์",
+      "district": "ไชโย",
+      "id": "bd13fe70b869625eef4ed19d",
+      "maskedId": "110xxxxxx7401",
+      "name": "สิริพรรณ ไกรทัต",
+      "province": "อ่างทอง",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่างิ้ว",
+      "district": "เมืองอ่างทอง",
+      "id": "ab6298d23f56f3ca51bcc916",
+      "maskedId": "163xxxxxx3597",
+      "name": "สุทธิกานต์ ต๊ะสุ",
+      "province": "อ่างทอง",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%AA%E0%B8%B8",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลโพสะ",
+      "district": "เมืองอ่างทอง",
+      "id": "7020d3822c0df21d527c6090",
+      "maskedId": "165xxxxxx2416",
+      "name": "สุพัตรา ทองอินทร์",
+      "province": "อ่างทอง",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางจัก",
+      "district": "วิเศษชัยชาญ",
+      "id": "277bcd1c83be510c89eed710",
+      "maskedId": "172xxxxxx9924",
+      "name": "สุภาพร อรุณโชติ",
+      "province": "อ่างทอง",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพสะ",
+      "district": "เมืองอ่างทอง",
+      "id": "83a15b332b032356f96bb4b0",
+      "maskedId": "112xxxxxx1525",
+      "name": "อมรารักษ์ เดชสงคราม",
+      "province": "อ่างทอง",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองอ่างทอง",
+      "district": "เมืองอ่างทอง",
+      "id": "827797dd73a789b2b9d3dbb1",
+      "maskedId": "111xxxxxx5443",
+      "name": "อรทัย ไหลสงวนงาม",
+      "province": "อ่างทอง",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่างิ้ว",
+      "district": "เมืองอ่างทอง",
+      "id": "f45e171802aeb6f4a2fa99bd",
+      "maskedId": "356xxxxxx9784",
+      "name": "โยธิน ทิพละ",
+      "province": "อ่างทอง",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%99-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลบางจัก",
+      "district": "วิเศษชัยชาญ",
+      "id": "a92f1cfd112742ef5f3ca782",
+      "maskedId": "112xxxxxx0972",
+      "name": "ไพรัช ทองเรือง",
+      "province": "อ่างทอง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%B1%E0%B8%8A-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

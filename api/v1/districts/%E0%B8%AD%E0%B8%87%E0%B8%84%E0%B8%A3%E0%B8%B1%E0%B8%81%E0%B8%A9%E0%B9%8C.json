@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "องครักษ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "องครักษ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คลองใหญ่",
+      "district": "องครักษ์",
+      "id": "c2e154337c265de0a49b9be3",
+      "maskedId": "110xxxxxx5949",
+      "name": "กนกวรรณ วงษ์กวน",
+      "province": "นครนายก",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ศีรษะกระบือ",
+      "district": "องครักษ์",
+      "id": "3c8b9e86f67d33285cf5c4a2",
+      "maskedId": "126xxxxxx5042",
+      "name": "ชไมพร แย้มกลิ่น",
+      "province": "นครนายก",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B9%84%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศีรษะกระบือ",
+      "district": "องครักษ์",
+      "id": "1d3357e3e9093ff831c1e532",
+      "maskedId": "126xxxxxx0865",
+      "name": "ณัฐพล เปี่ยมทอง",
+      "province": "นครนายก",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองใหญ่",
+      "district": "องครักษ์",
+      "id": "444963f6e35f09e3b69a9b9c",
+      "maskedId": "365xxxxxx5457",
+      "name": "พัทธนันท์ ติดชัย",
+      "province": "นครนายก",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ชุมพล",
+      "district": "องครักษ์",
+      "id": "e7b66fc83c73e163944ffa11",
+      "maskedId": "190xxxxxx8741",
+      "name": "สุธารัตน์ เจี้ยงเต็ม",
+      "province": "นครนายก",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ชุมพล",
+      "district": "องครักษ์",
+      "id": "5c3e440ed1da761f1b49e27c",
+      "maskedId": "196xxxxxx5286",
+      "name": "อามีดะ หารูมู",
+      "province": "นครนายก",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%94%E0%B8%B0-%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B8%A1%E0%B8%B9",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

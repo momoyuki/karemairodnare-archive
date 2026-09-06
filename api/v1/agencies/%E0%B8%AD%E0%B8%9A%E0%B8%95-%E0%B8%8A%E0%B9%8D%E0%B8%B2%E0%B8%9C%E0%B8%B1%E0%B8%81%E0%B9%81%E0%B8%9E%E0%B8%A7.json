@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ชําผักแพว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ชําผักแพว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ชําผักแพว",
+      "district": "แก่งคอย",
+      "id": "9e0839fa7533028de10a9d1d",
+      "maskedId": "171xxxxxx4901",
+      "name": "ณัฐธิดา นิยมพลอย",
+      "province": "สระบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชําผักแพว",
+      "district": "แก่งคอย",
+      "id": "07b8b71cdb205bc2cf7460a4",
+      "maskedId": "141xxxxxx7828",
+      "name": "สุวัจน์ พิรุณทอง",
+      "province": "สระบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชําผักแพว",
+      "district": "แก่งคอย",
+      "id": "bf1e98162c2de9311cddd7d6",
+      "maskedId": "110xxxxxx6669",
+      "name": "เพ็ญสุภา ทองปราง",
+      "province": "สระบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

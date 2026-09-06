@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.เขาพระ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-เขาพระ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เขาพระ",
+      "district": "เมืองนครนายก",
+      "id": "482713e1e5eb67d1dfaecdcf",
+      "maskedId": "190xxxxxx5295",
+      "name": "ปิยะวัฒน์ สีพุฒ",
+      "province": "นครนายก",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B5%E0%B8%9E%E0%B8%B8%E0%B8%92",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เขาพระ",
+      "district": "เมืองนครนายก",
+      "id": "d30cad1065c9dc5fc518d523",
+      "maskedId": "126xxxxxx3182",
+      "name": "สุภัค น้อยสองชั้น",
+      "province": "นครนายก",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "17_นครนายก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เขาพระ",
+      "district": "รัตภูมิ",
+      "id": "daffaecc53ba832659cae8d4",
+      "maskedId": "195xxxxxx4336",
+      "name": "อิสมาแอ อภิบาลแบ",
+      "province": "สงขลา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%AD-%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B9%81%E0%B8%9A",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}

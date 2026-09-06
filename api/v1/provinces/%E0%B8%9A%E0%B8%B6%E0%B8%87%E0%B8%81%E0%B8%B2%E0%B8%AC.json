@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "count": 11,
+    "kind": "province",
+    "name": "บึงกาฬ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บึงกาฬ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลบึงโขงหลง",
+      "district": "บึงโขงหลง",
+      "id": "aeea8a6139370e37bea62bd8",
+      "maskedId": "143xxxxxx3100",
+      "name": "กิตติยา เจียมศักดิ์",
+      "province": "บึงกาฬ",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปากคาด",
+      "district": "ปากคาด",
+      "id": "2270a0f7f9b7c4414280b1aa",
+      "maskedId": "115xxxxxx7802",
+      "name": "กุลณัฐ เฉลิมทรง",
+      "province": "บึงกาฬ",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลไคสี",
+      "district": "เมืองบึงกาฬ",
+      "id": "8d7df998193194d61160e68a",
+      "maskedId": "143xxxxxx4162",
+      "name": "ชฎาธาร เวียงสมุทร",
+      "province": "บึงกาฬ",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8E%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3-%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลไคสี",
+      "district": "เมืองบึงกาฬ",
+      "id": "0654f69e613d1403d710b8cd",
+      "maskedId": "143xxxxxx1350",
+      "name": "ณัฐกร หงษ์ชูตา",
+      "province": "บึงกาฬ",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%A3-%E0%B8%AB%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%8A%E0%B8%B9%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลโนนสว่าง",
+      "district": "เมืองบึงกาฬ",
+      "id": "8ae80a55a0d741bee69b2262",
+      "maskedId": "112xxxxxx9248",
+      "name": "ณัฐพงศ์ แสนพัน",
+      "province": "บึงกาฬ",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากคาด",
+      "district": "ปากคาด",
+      "id": "586c6f0f4e5f9619a234d329",
+      "maskedId": "143xxxxxx6689",
+      "name": "นิลุบล ดาจง",
+      "province": "บึงกาฬ",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%B8%E0%B8%9A%E0%B8%A5-%E0%B8%94%E0%B8%B2%E0%B8%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โซ่",
+      "district": "โซ่พิสัย",
+      "id": "398bb2bd164de2a26b5177b2",
+      "maskedId": "141xxxxxx6968",
+      "name": "นุชจรีย์ สะพังเงิน",
+      "province": "บึงกาฬ",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%88%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลศรีวิไล",
+      "district": "ศรีวิไล",
+      "id": "d0363468f357fa719a563906",
+      "maskedId": "149xxxxxx8001",
+      "name": "ปณิตา ปาวงษ์",
+      "province": "บึงกาฬ",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%9B%E0%B8%B2%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพรเจริญ",
+      "district": "พรเจริญ",
+      "id": "3b1c3c9d7f18514650d9e2c6",
+      "maskedId": "141xxxxxx3355",
+      "name": "รุจิราภรณ์ เมมาลี",
+      "province": "บึงกาฬ",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทุ่ม",
+      "district": "เซกา",
+      "id": "2d5a98225eafcd69dc6fe69a",
+      "maskedId": "147xxxxxx5854",
+      "name": "สุธิดา โคตรขํา",
+      "province": "บึงกาฬ",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%82%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลโซ่พิสัย",
+      "district": "โซ่พิสัย",
+      "id": "f635566b375bc4442f25b5d9",
+      "maskedId": "120xxxxxx2792",
+      "name": "สุนันทา ไกรรัตน์",
+      "province": "บึงกาฬ",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "77_บึงกาฬ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

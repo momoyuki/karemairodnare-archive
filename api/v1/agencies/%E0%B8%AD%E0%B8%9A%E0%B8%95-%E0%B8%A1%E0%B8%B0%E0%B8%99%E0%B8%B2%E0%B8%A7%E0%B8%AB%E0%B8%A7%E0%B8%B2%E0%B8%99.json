@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.มะนาวหวาน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-มะนาวหวาน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.มะนาวหวาน",
+      "district": "พัฒนานิคม",
+      "id": "5fd7d9fbfc81d4f747e518e7",
+      "maskedId": "116xxxxxx2096",
+      "name": "ธฤต สีฉายยา",
+      "province": "ลพบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A4%E0%B8%95-%E0%B8%AA%E0%B8%B5%E0%B8%89%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะนาวหวาน",
+      "district": "พัฒนานิคม",
+      "id": "c6a5c77a6c21f2ece8a4060c",
+      "maskedId": "116xxxxxx3124",
+      "name": "นฤมล จำนงค์ศรี",
+      "province": "ลพบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะนาวหวาน",
+      "district": "พัฒนานิคม",
+      "id": "c2da5df3c43c7d5061f4c8d0",
+      "maskedId": "133xxxxxx0420",
+      "name": "ปวีณา จันทเสน",
+      "province": "ลพบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะนาวหวาน",
+      "district": "พัฒนานิคม",
+      "id": "75d280634573aa67559808b5",
+      "maskedId": "133xxxxxx6541",
+      "name": "พิสมัย หารไชย",
+      "province": "ลพบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%A2-%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

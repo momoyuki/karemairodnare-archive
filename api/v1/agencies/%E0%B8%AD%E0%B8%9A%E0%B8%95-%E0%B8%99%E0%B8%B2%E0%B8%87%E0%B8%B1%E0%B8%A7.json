@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.นางัว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-นางัว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นางัว",
+      "district": "นาหว้า",
+      "id": "8a58456bca293782e637b2d7",
+      "maskedId": "352xxxxxx4106",
+      "name": "ชณิดาภา โมยะ",
+      "province": "นครพนม",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%93%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B9%82%E0%B8%A1%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นางัว",
+      "district": "นาหว้า",
+      "id": "4a7304ea04fe2e1175517f29",
+      "maskedId": "142xxxxxx5771",
+      "name": "ณัฐธีรา โสภาภักดิ์",
+      "province": "นครพนม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นางัว",
+      "district": "นาหว้า",
+      "id": "1bdcbdadf98233bc233e32dd",
+      "maskedId": "147xxxxxx0208",
+      "name": "สุวณี เพียภักดิ์",
+      "province": "นครพนม",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

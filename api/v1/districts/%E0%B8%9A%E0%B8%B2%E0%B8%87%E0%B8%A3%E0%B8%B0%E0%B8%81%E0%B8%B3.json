@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "บางระกำ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางระกำ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นิคมพัฒนา",
+      "district": "บางระกำ",
+      "id": "03ab0a9ba13a4b77cf300743",
+      "maskedId": "196xxxxxx7132",
+      "name": "ซูกอรนัย ตีเงาะ",
+      "province": "พิษณุโลก",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B9%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%95%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลบางระกํา",
+      "district": "บางระกำ",
+      "id": "9faa3101067084a7890f0a03",
+      "maskedId": "165xxxxxx5443",
+      "name": "บุษกร รังษีภโนดร",
+      "province": "พิษณุโลก",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%81%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A9%E0%B8%B5%E0%B8%A0%E0%B9%82%E0%B8%99%E0%B8%94%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บึงกอก",
+      "district": "บางระกำ",
+      "id": "870145d0f5b2a7495866b3f4",
+      "maskedId": "393xxxxxx5083",
+      "name": "พนิดา นักการรอง",
+      "province": "พิษณุโลก",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปลักแรด",
+      "district": "บางระกำ",
+      "id": "6002167e82b1318541a62d9e",
+      "maskedId": "165xxxxxx4077",
+      "name": "มลีรัตน์ แซ่อ๋อง",
+      "province": "พิษณุโลก",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%A5%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B9%8B%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นิคมพัฒนา",
+      "district": "บางระกำ",
+      "id": "c752f1db02201002f47b13ad",
+      "maskedId": "167xxxxxx4394",
+      "name": "วุฒิชัย มงคลวัจน์",
+      "province": "พิษณุโลก",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองกุลา",
+      "district": "บางระกำ",
+      "id": "e0f1faa44e80af30817a6be6",
+      "maskedId": "112xxxxxx9991",
+      "name": "ศิรินันท์ น้อยพงษ์",
+      "province": "พิษณุโลก",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปลักแรด",
+      "district": "บางระกำ",
+      "id": "fbfc401331852db2c54b0d82",
+      "maskedId": "167xxxxxx9406",
+      "name": "สุธินันท์ ประดับวงศ์",
+      "province": "พิษณุโลก",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

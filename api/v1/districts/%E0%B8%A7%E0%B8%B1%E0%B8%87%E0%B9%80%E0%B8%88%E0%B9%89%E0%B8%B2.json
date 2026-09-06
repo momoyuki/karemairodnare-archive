@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "วังเจ้า",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "วังเจ้า",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลวังเจ้า",
+      "district": "วังเจ้า",
+      "id": "227684ae9ff944efa02f729b",
+      "maskedId": "165xxxxxx2161",
+      "name": "นพรดา ผ่องโอ่ย",
+      "province": "ตาก",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%AD%E0%B9%88%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวังเจ้า",
+      "district": "วังเจ้า",
+      "id": "2471862485b67efa31a55e5d",
+      "maskedId": "162xxxxxx5633",
+      "name": "วรรณิภาพร มั่นกิจ",
+      "province": "ตาก",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวังเจ้า",
+      "district": "วังเจ้า",
+      "id": "5fd47c22311af8958c1279a1",
+      "maskedId": "162xxxxxx4154",
+      "name": "วิภาดา สู่สุข",
+      "province": "ตาก",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เชียงทอง",
+      "district": "วังเจ้า",
+      "id": "52be11e0ce4429ffd4ac2f30",
+      "maskedId": "163xxxxxx4485",
+      "name": "สามารถ กาฬภักดี",
+      "province": "ตาก",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96-%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาโบสถ์",
+      "district": "วังเจ้า",
+      "id": "bc916d60918c4147c2564ecb",
+      "maskedId": "164xxxxxx3984",
+      "name": "สุวภัทร ขวัญวงษ์",
+      "province": "ตาก",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

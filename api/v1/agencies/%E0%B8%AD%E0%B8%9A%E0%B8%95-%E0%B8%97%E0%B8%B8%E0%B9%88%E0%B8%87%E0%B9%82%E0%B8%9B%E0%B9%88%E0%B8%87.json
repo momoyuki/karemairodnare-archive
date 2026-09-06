@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ทุ่งโป่ง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ทุ่งโป่ง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ทุ่งโป่ง",
+      "district": "อุบลรัตน์",
+      "id": "12e4e2cd39d96bb24e7dd264",
+      "maskedId": "144xxxxxx2425",
+      "name": "ธนภัทร มาตย์คำมี",
+      "province": "ขอนแก่น",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%B3%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งโป่ง",
+      "district": "อุบลรัตน์",
+      "id": "16b9d971861ca78bb2af7e9d",
+      "maskedId": "140xxxxxx0768",
+      "name": "อริสา สีแสน",
+      "province": "ขอนแก่น",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.บางเลน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางเลน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางเลน",
+      "district": "สองพี่น้อง",
+      "id": "cd5467cb1197f9ceed7075b0",
+      "maskedId": "173xxxxxx0541",
+      "name": "ภาติยะ มีราศรี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B0-%E0%B8%A1%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางเลน",
+      "district": "บางเลน",
+      "id": "84b66fa74487ec7478a33043",
+      "maskedId": "171xxxxxx7883",
+      "name": "วัชรากร จําปาหอม",
+      "province": "นครปฐม",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%9B%E0%B8%B2%E0%B8%AB%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางเลน",
+      "district": "บางเลน",
+      "id": "5dd3d04aa5c24e5ca6c2a074",
+      "maskedId": "172xxxxxx9788",
+      "name": "อนัญญา ไกรสร",
+      "province": "นครปฐม",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

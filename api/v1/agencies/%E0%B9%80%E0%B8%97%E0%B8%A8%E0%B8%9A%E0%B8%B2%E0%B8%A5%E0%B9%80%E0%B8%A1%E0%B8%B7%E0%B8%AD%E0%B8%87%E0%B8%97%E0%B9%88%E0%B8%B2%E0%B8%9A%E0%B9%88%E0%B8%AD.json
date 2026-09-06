@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "เทศบาลเมืองท่าบ่อ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองท่าบ่อ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองท่าบ่อ",
+      "district": "ท่าบ่อ",
+      "id": "69b18e495d2f2eeba6c5b9a4",
+      "maskedId": "141xxxxxx9059",
+      "name": "จิราวัฒน์ ศิริพร",
+      "province": "หนองคาย",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าบ่อ",
+      "district": "ท่าบ่อ",
+      "id": "9af6c678b5f4de04bbf88d41",
+      "maskedId": "141xxxxxx5960",
+      "name": "ธันยา ใจบุญ",
+      "province": "หนองคาย",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B2-%E0%B9%83%E0%B8%88%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าบ่อ",
+      "district": "ท่าบ่อ",
+      "id": "f3c5c756b84737c4fdebf68e",
+      "maskedId": "143xxxxxx1168",
+      "name": "พงค์พัฒน์ วันตา",
+      "province": "หนองคาย",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าบ่อ",
+      "district": "ท่าบ่อ",
+      "id": "c58ed6f8a244fbcf97aef241",
+      "maskedId": "140xxxxxx8620",
+      "name": "พิชชาพร พิมพ์พิทักษ์กุล",
+      "province": "หนองคาย",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

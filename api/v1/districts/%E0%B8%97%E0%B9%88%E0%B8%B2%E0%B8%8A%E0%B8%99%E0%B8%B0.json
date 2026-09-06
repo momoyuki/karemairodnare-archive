@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "count": 11,
+    "kind": "district",
+    "name": "ท่าชนะ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ท่าชนะ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "84952a74b41164bf911b7517",
+      "maskedId": "184xxxxxx0768",
+      "name": "ชลิตา คงทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คันธุลี",
+      "district": "ท่าชนะ",
+      "id": "d9ac3633e49224045bba32b2",
+      "maskedId": "190xxxxxx7770",
+      "name": "ทิตยา ส่งเสริม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "0938dca5620003689f020b8a",
+      "maskedId": "190xxxxxx4662",
+      "name": "ธรรมธิมา สีไหม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%98%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B9%84%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คันธุลี",
+      "district": "ท่าชนะ",
+      "id": "4120bad45d311dbf7f332e1a",
+      "maskedId": "377xxxxxx8114",
+      "name": "ธวัชชัย ไกรแคว้น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B9%81%E0%B8%84%E0%B8%A7%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "7e780867860ea49f45eebf1a",
+      "maskedId": "193xxxxxx2141",
+      "name": "ธีระ เกื้อสกุล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "0e580bbe99db12a4371b0ef2",
+      "maskedId": "193xxxxxx0916",
+      "name": "พัชรพร ทองร่วง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สมอทอง",
+      "district": "ท่าชนะ",
+      "id": "2547606bf538a6b51791a772",
+      "maskedId": "184xxxxxx5428",
+      "name": "ภัทราวดี ศรียาภัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "39f7ec44b71735c732b4b0e9",
+      "maskedId": "190xxxxxx0328",
+      "name": "ยศวดี ขุนศรีแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%A8%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "6997e99f9696a6ed6cdf753a",
+      "maskedId": "184xxxxxx1732",
+      "name": "สมโภชน์ เพ็ชรวงค์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B9%82%E0%B8%A0%E0%B8%8A%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "9db53d6da53e7db52c8b9f72",
+      "maskedId": "184xxxxxx9629",
+      "name": "อรรถพล โสภาผล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%9E%E0%B8%A5-%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสงค์",
+      "district": "ท่าชนะ",
+      "id": "4d3af2f83259c115149b68e9",
+      "maskedId": "186xxxxxx8464",
+      "name": "โสวรรณ พุ่มคง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

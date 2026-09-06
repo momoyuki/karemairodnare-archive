@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ฉลุง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ฉลุง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ฉลุง",
+      "district": "เมืองสตูล",
+      "id": "4f00a4bbe510f3ddb7b3e033",
+      "maskedId": "194xxxxxx4557",
+      "name": "ซามีลา ดีเยาะ",
+      "province": "สตูล",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%A5%E0%B8%B2-%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ฉลุง",
+      "district": "เมืองสตูล",
+      "id": "763840410968cc44ab9df8f1",
+      "maskedId": "194xxxxxx4583",
+      "name": "อิฟฟาน อิบรอเห็น",
+      "province": "สตูล",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%9F%E0%B8%9F%E0%B8%B2%E0%B8%99-%E0%B8%AD%E0%B8%B4%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

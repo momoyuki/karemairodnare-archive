@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "ปากชม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ปากชม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลคอนสา",
+      "district": "ปากชม",
+      "id": "a0ff9ba034d054e143500aa6",
+      "maskedId": "142xxxxxx5695",
+      "name": "จักรพงษ์ แสนหาร",
+      "province": "เลย",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "30_เลย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%AB%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หาดคัมภีร์",
+      "district": "ปากชม",
+      "id": "f3fb702ce37ce10766b22abe",
+      "maskedId": "142xxxxxx4092",
+      "name": "นาตยา ภักมี",
+      "province": "เลย",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "30_เลย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชมเจริญ",
+      "district": "ปากชม",
+      "id": "3a168e001407dea8279bff06",
+      "maskedId": "142xxxxxx5914",
+      "name": "อภิวัฒน์ อาสาลิน",
+      "province": "เลย",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "30_เลย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หาดคัมภีร์",
+      "district": "ปากชม",
+      "id": "367796af7cb0b980e2b09635",
+      "maskedId": "147xxxxxx3105",
+      "name": "โชติภัทร อินทรมนตรี",
+      "province": "เลย",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "30_เลย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

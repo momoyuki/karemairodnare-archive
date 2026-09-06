@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.บ้านดง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บ้านดง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านดง",
+      "district": "อุบลรัตน์",
+      "id": "987da40a732140d1229248cd",
+      "maskedId": "131xxxxxx6051",
+      "name": "ภูดิศ จันทบูรณ์",
+      "province": "ขอนแก่น",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B8%A8-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านดง",
+      "district": "อุบลรัตน์",
+      "id": "4db87e8b2847754bcd866107",
+      "maskedId": "134xxxxxx9369",
+      "name": "แทนไท สุวรรณกูฏ",
+      "province": "ขอนแก่น",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%97%E0%B8%99%E0%B9%84%E0%B8%97-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%81%E0%B8%B9%E0%B8%8F",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}

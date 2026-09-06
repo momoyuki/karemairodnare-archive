@@ -1,0 +1,1544 @@
+{
+  "_meta": {
+    "count": 90,
+    "kind": "agency",
+    "name": "เทศบาลนครนนทบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลนครนนทบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "7ffa719a9170afeaf647c343",
+      "maskedId": "134xxxxxx5469",
+      "name": "กรวิภา ศิริสวัสดิ์",
+      "province": "นนทบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "ad993b8cad4385ed5a2776b8",
+      "maskedId": "118xxxxxx8426",
+      "name": "กฤตนัย อุ่นจิตร",
+      "province": "นนทบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "d61f56b956b9dd550e9477dc",
+      "maskedId": "110xxxxxx5560",
+      "name": "กฤติยาพร กลิ่นหอมหวล",
+      "province": "นนทบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%AB%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "07087861d8cbc8bbcf2e5abc",
+      "maskedId": "160xxxxxx6360",
+      "name": "กาญจนา พานิช",
+      "province": "นนทบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "87ef46965dfb9c62dcccf6a0",
+      "maskedId": "115xxxxxx4713",
+      "name": "กิตติยา จอมคำสิงห์",
+      "province": "นนทบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "8a4db288b7c26046b59ffe78",
+      "maskedId": "112xxxxxx1807",
+      "name": "กิติศักดิ์ โกศลจิตมนตรี",
+      "province": "นนทบุรี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%82%E0%B8%81%E0%B8%A8%E0%B8%A5%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "7294a1700bc5fe3fb9fbda8e",
+      "maskedId": "110xxxxxx0435",
+      "name": "จิตตรา มะนาวหวาน",
+      "province": "นนทบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A1%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "e52fa528c6d8029229de6602",
+      "maskedId": "110xxxxxx8775",
+      "name": "จิราพร กะสายเงิน",
+      "province": "นนทบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%81%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "f07c76ab83034de006a44035",
+      "maskedId": "340xxxxxx7410",
+      "name": "จุฬาลักษณ์ ลาแสง",
+      "province": "นนทบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A5%E0%B8%B2%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "ecb919517b20edc074599fb1",
+      "maskedId": "110xxxxxx5410",
+      "name": "จุไรรัตน์ แสนพลพัฒน์",
+      "province": "นนทบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B9%84%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "0499f7fe2b2f8226ebbe6b72",
+      "maskedId": "172xxxxxx9135",
+      "name": "ฉัตรฤดี สนธิเณร",
+      "province": "นนทบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B9%80%E0%B8%93%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "67aa77d239f55377d4bd2c1c",
+      "maskedId": "141xxxxxx8831",
+      "name": "ชัชพงศ์ มาเมือง",
+      "province": "นนทบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "a58ed6dabe0e60336e94ef7f",
+      "maskedId": "180xxxxxx9667",
+      "name": "ชิดชนก คงทน",
+      "province": "นนทบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%84%E0%B8%87%E0%B8%97%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "468f23fb2542d6da4fff1eb6",
+      "maskedId": "191xxxxxx7876",
+      "name": "ณปภัช รักขณิศธนกร",
+      "province": "นนทบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%9B%E0%B8%A0%E0%B8%B1%E0%B8%8A-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%93%E0%B8%B4%E0%B8%A8%E0%B8%98%E0%B8%99%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "9c90b8540931d6be5ad1ad87",
+      "maskedId": "116xxxxxx7065",
+      "name": "ณัฏฐณิชา บุตรหล้า",
+      "province": "นนทบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "c3534936decff1827b34eff1",
+      "maskedId": "170xxxxxx6747",
+      "name": "ณัฐชนน เนตรสว่าง",
+      "province": "นนทบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%8A%E0%B8%99%E0%B8%99-%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "8ac0abb43e7b508d428bbd48",
+      "maskedId": "110xxxxxx4660",
+      "name": "ณัฐชา แก้วอร่ามศรี",
+      "province": "นนทบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%8A%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "019bfc33e39f0f4632cc097b",
+      "maskedId": "110xxxxxx3383",
+      "name": "ณัฐพงศ์ ถนอมวงศ์",
+      "province": "นนทบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%96%E0%B8%99%E0%B8%AD%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "7e7de3c1b6efefdcc6c1ed1e",
+      "maskedId": "161xxxxxx3624",
+      "name": "ตรีรัตน์ จ่าวัง",
+      "province": "นนทบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "8c939e7d666cd9f13d26791c",
+      "maskedId": "170xxxxxx7785",
+      "name": "ธนทัต เกตุแก้ว",
+      "province": "นนทบุรี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%95-%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "09611444925f032661246346",
+      "maskedId": "146xxxxxx7567",
+      "name": "ธนพนธ์ สมานพันธ์",
+      "province": "นนทบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "b58abb1b80a2d7ebe4c475de",
+      "maskedId": "130xxxxxx9736",
+      "name": "ธนัญชัย เทพนอก",
+      "province": "นนทบุรี",
+      "scoreChange": 3,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "af0c5f5c5d85d1e36b6fe4cc",
+      "maskedId": "142xxxxxx7136",
+      "name": "ธนัฏฐา หอเจริญ",
+      "province": "นนทบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%B2-%E0%B8%AB%E0%B8%AD%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "2757ca21c3942d3e62d8649a",
+      "maskedId": "110xxxxxx3308",
+      "name": "ธนากร ทองจาด",
+      "province": "นนทบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "b3168475df0f015882658743",
+      "maskedId": "110xxxxxx0243",
+      "name": "ธีรภัทร ทวีวงศ์",
+      "province": "นนทบุรี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%97%E0%B8%A7%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "7cfba49c8d15fedf430491cd",
+      "maskedId": "165xxxxxx9146",
+      "name": "นราธิป สังวาลไชย",
+      "province": "นนทบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "c4f96f7eea406bc8ca111a8e",
+      "maskedId": "143xxxxxx6583",
+      "name": "นวรัตน์ เทพรัตน์",
+      "province": "นนทบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "db2558b7f0f24ab84df4fbec",
+      "maskedId": "393xxxxxx9250",
+      "name": "นันทนา ศรีละออง",
+      "province": "นนทบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "67b275d279f4332dd658eadd",
+      "maskedId": "114xxxxxx7471",
+      "name": "นิติรัฐ มหาเทียน",
+      "province": "นนทบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "5f908d87a77a5731ed58c3c4",
+      "maskedId": "113xxxxxx2728",
+      "name": "นิยพร เชี่ยวชาญ",
+      "province": "นนทบุรี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "de0e461ca95e5fcef4928276",
+      "maskedId": "193xxxxxx7805",
+      "name": "นิลาวัลย์ ทองราช",
+      "province": "นนทบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "d4f3ede0d90912a948575acb",
+      "maskedId": "110xxxxxx4175",
+      "name": "นุชนาฎ พนาพิทักษ์กุล",
+      "province": "นนทบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%8E-%E0%B8%9E%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "074a8c4da7dabe6fd2ac2959",
+      "maskedId": "162xxxxxx1835",
+      "name": "บัญชา จันคํา",
+      "province": "นนทบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "2f4ac793f1cb8e05fb4593b1",
+      "maskedId": "192xxxxxx0375",
+      "name": "บุรัสกร มานะกล้า",
+      "province": "นนทบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%A3-%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B0%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "ee55c3fcab925f5c66b4bc16",
+      "maskedId": "110xxxxxx0011",
+      "name": "ปราณี อุมานนท์",
+      "province": "นนทบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B8%AD%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "5af42f79d655d74fdf7f4ee4",
+      "maskedId": "212xxxxxx6503",
+      "name": "ปามิภา เรียงสาทร",
+      "province": "นนทบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "e647a3d3d0b6655ac659221c",
+      "maskedId": "113xxxxxx4249",
+      "name": "ปิยะพร ทองน้อย",
+      "province": "นนทบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "9f6230e9836612a27a55a8a0",
+      "maskedId": "150xxxxxx9914",
+      "name": "พลกฤต ปาหลวง",
+      "province": "นนทบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%9B%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "47204eb89c153eabeeb7ca54",
+      "maskedId": "367xxxxxx8247",
+      "name": "พิสิฐ โฉ่พลกรัง",
+      "province": "นนทบุรี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%90-%E0%B9%82%E0%B8%89%E0%B9%88%E0%B8%9E%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "ca8160e300d85a35b621c6b4",
+      "maskedId": "110xxxxxx6618",
+      "name": "พิสิษฐ์ สุทธิเสวันต์",
+      "province": "นนทบุรี",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%80%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "a5bd52a3a28c61212abe984d",
+      "maskedId": "113xxxxxx6136",
+      "name": "ภพพิพัฒน์ บุญช่วย",
+      "province": "นนทบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%9E%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "c83b4efe6e0fb78a4eee3ba4",
+      "maskedId": "310xxxxxx3563",
+      "name": "ภาณุวัฒณ์ เย็นประเสริฐ",
+      "province": "นนทบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "58c5dbc966c8b04ee21dbd19",
+      "maskedId": "112xxxxxx5681",
+      "name": "ภูธรัตต์ เชื้อผู้ดี",
+      "province": "นนทบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%98%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "19c17d4669e0fe410c498572",
+      "maskedId": "110xxxxxx1371",
+      "name": "มันตา สิงห์ใหญ่",
+      "province": "นนทบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "0350ba6b05266a5e90ac8e70",
+      "maskedId": "110xxxxxx8015",
+      "name": "มีนา ดีหลี",
+      "province": "นนทบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B2-%E0%B8%94%E0%B8%B5%E0%B8%AB%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "56b883d7d3a04ca26c79c6c2",
+      "maskedId": "120xxxxxx6624",
+      "name": "ยศยา แผ้วพลสง",
+      "province": "นนทบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%A8%E0%B8%A2%E0%B8%B2-%E0%B9%81%E0%B8%9C%E0%B9%89%E0%B8%A7%E0%B8%9E%E0%B8%A5%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "80e36a0cfef61563ee15db46",
+      "maskedId": "112xxxxxx5468",
+      "name": "รชท์นนท์ พงษ์ไพโรจน์",
+      "province": "นนทบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%8A%E0%B8%97%E0%B9%8C%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%84%E0%B8%9E%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "bcf1a93cae0a4fc2a3d0ee2b",
+      "maskedId": "143xxxxxx6505",
+      "name": "รัฐนิติ แสงสุวรรณ",
+      "province": "นนทบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B4-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "c4d8adb0accc88650569c350",
+      "maskedId": "110xxxxxx6845",
+      "name": "รัศม์วรรณ์ เพชรเจือสุข",
+      "province": "นนทบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "679aa1673a64663bbc4ea776",
+      "maskedId": "173xxxxxx7360",
+      "name": "รุ่งทิวา เณรบำรุง",
+      "province": "นนทบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B9%80%E0%B8%93%E0%B8%A3%E0%B8%9A%E0%B8%B3%E0%B8%A3%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "182cbe950e6b423517ca0233",
+      "maskedId": "110xxxxxx8175",
+      "name": "วรรณภา เปิงทะมัง",
+      "province": "นนทบุรี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A0%E0%B8%B2-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B8%A1%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "9b7850d77310bb4aa62785a0",
+      "maskedId": "156xxxxxx4543",
+      "name": "วราภรณ์ สิทธิตัน",
+      "province": "นนทบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "88d191511737e119cc045fb2",
+      "maskedId": "148xxxxxx1278",
+      "name": "วัชรพล แซงบุญเรือง",
+      "province": "นนทบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B9%81%E0%B8%8B%E0%B8%87%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "d967857c9674b27393a59cad",
+      "maskedId": "110xxxxxx1746",
+      "name": "วิชยุตม์ ชั้นบุญ",
+      "province": "นนทบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%A1%E0%B9%8C-%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "4fa95e31389fd77861bfe797",
+      "maskedId": "165xxxxxx5343",
+      "name": "วิริยะ บุญเปี่ยม",
+      "province": "นนทบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "f4aa458d88ecdc66287e938a",
+      "maskedId": "256xxxxxx1712",
+      "name": "วิษณุกรณ์ หาญชนะ",
+      "province": "นนทบุรี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AB%E0%B8%B2%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "d000c57faa9502d6c9e34e35",
+      "maskedId": "112xxxxxx5660",
+      "name": "ศศินันท์ โพธิ์แพ่งพุ่ม",
+      "province": "นนทบุรี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%81%E0%B8%9E%E0%B9%88%E0%B8%87%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "b4b24ee8842d924565061a47",
+      "maskedId": "133xxxxxx8780",
+      "name": "ศิริขวัญ แก้วจันทร์",
+      "province": "นนทบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "92778b2af37b2ac9c4dcb377",
+      "maskedId": "112xxxxxx4920",
+      "name": "ศิริลักษณ์ สอนคำ",
+      "province": "นนทบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "5934f6b9334b126d41c8a7f4",
+      "maskedId": "190xxxxxx4134",
+      "name": "ศุภณัฐ เจริญกิตติธรรม",
+      "province": "นนทบุรี",
+      "scoreChange": 1,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "8503374b78415f57d39779c8",
+      "maskedId": "193xxxxxx2314",
+      "name": "สนุช จันทร์แก้ว",
+      "province": "นนทบุรี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "aa4731f9f2988504cfb092d2",
+      "maskedId": "113xxxxxx7326",
+      "name": "สัมฤทธิ์ อ่อนอึ่ง",
+      "province": "นนทบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%B6%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "7eef7c82ebcf5394737df586",
+      "maskedId": "112xxxxxx5500",
+      "name": "สาครินทร์ คำหริ่ม",
+      "province": "นนทบุรี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%84%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "fb9511393e0f23186e3aa02c",
+      "maskedId": "190xxxxxx7761",
+      "name": "สิริญญาณ์ ทองช่วย",
+      "province": "นนทบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "b8d3ca9417ebe1b81ef1a7bf",
+      "maskedId": "272xxxxxx5331",
+      "name": "สุทธิภัทร งามยิ่ง",
+      "province": "นนทบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "a154fe9daa3b1e509a943517",
+      "maskedId": "110xxxxxx4203",
+      "name": "สุทัศน์ อุปมา",
+      "province": "นนทบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "8bb8f324cca2f7489e9d2d69",
+      "maskedId": "143xxxxxx6125",
+      "name": "สุนันทา เหล่าชาติ",
+      "province": "นนทบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "87db8201f27637feede756e6",
+      "maskedId": "148xxxxxx6771",
+      "name": "สุพัชชา ใสส่อง",
+      "province": "นนทบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B9%83%E0%B8%AA%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "3802a15068e0e72b0f6a99fe",
+      "maskedId": "380xxxxxx8591",
+      "name": "สุภาภรณ์ เรณุมาศ",
+      "province": "นนทบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%93%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "e578b3f13116f04805970ce6",
+      "maskedId": "110xxxxxx4580",
+      "name": "สุรเชษฐ์ ต่อเดชสกุล",
+      "province": "นนทบุรี",
+      "scoreChange": 3,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "238bb46e5fc2ff1fd8dac8c2",
+      "maskedId": "112xxxxxx3114",
+      "name": "สุวัฒน์ สุธิราธิกุล",
+      "province": "นนทบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "c6ed8a916f2fe1ea770316b2",
+      "maskedId": "110xxxxxx3635",
+      "name": "อติชาติ ประสงค์ศรี",
+      "province": "นนทบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "17820abb11492e4036ef0581",
+      "maskedId": "212xxxxxx8969",
+      "name": "อภิวัฒน์ ทับทิม",
+      "province": "นนทบุรี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "5ff107e9ddfbe1f0bd1a4a66",
+      "maskedId": "133xxxxxx7397",
+      "name": "อรนุช บุรมย์",
+      "province": "นนทบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "5e3b4e8d79635f0421154627",
+      "maskedId": "110xxxxxx3746",
+      "name": "อรรถพันธ์ บุญสม",
+      "province": "นนทบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "9de62aaa020e6855833f1609",
+      "maskedId": "245xxxxxx8869",
+      "name": "อรอุมา พันธ์โนราช",
+      "province": "นนทบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%B8%E0%B8%A1%E0%B8%B2-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B9%82%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "9129e88b8c7c23c53f9e6e02",
+      "maskedId": "110xxxxxx6548",
+      "name": "อัญชลี เลาแก้วหนู",
+      "province": "นนทบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A5%E0%B8%B5-%E0%B9%80%E0%B8%A5%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "a4e3ce957870f3300844c403",
+      "maskedId": "112xxxxxx8536",
+      "name": "อิทธิโชติ นิลฉาย",
+      "province": "นนทบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%89%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "447224846f1f13224a2a99aa",
+      "maskedId": "271xxxxxx9244",
+      "name": "อุไรวรรณ เกตุมอญ",
+      "province": "นนทบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B9%84%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%A1%E0%B8%AD%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "ba9f790f185c3621b991d082",
+      "maskedId": "112xxxxxx7142",
+      "name": "เจษฎา จิตรกล้า",
+      "province": "นนทบุรี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "6916fce23c2461819cf87588",
+      "maskedId": "367xxxxxx8843",
+      "name": "เชวงศักดิ์ ณ วิเชียร",
+      "province": "นนทบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%8A%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%93-%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "45a1940782a6a9be7377c281",
+      "maskedId": "145xxxxxx9379",
+      "name": "เนตรนภา เวฬุวนารักษ์",
+      "province": "นนทบุรี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B9%80%E0%B8%A7%E0%B8%AC%E0%B8%B8%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "c7158ccb17c132db539655c0",
+      "maskedId": "110xxxxxx4570",
+      "name": "เบญจพร ผ่องเสถียร",
+      "province": "นนทบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%9E%E0%B8%A3-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "7697741875c3fe3e2359d5cf",
+      "maskedId": "112xxxxxx8785",
+      "name": "เบญจมาศ โพธิ์เจริญ",
+      "province": "นนทบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "a79090deab084586462d70f9",
+      "maskedId": "112xxxxxx7465",
+      "name": "เพชรนรินทร์ สุขสอาด",
+      "province": "นนทบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "059f89d67d760555c5b29816",
+      "maskedId": "119xxxxxx4241",
+      "name": "เพชรินทร์ โกมลโรจน์",
+      "province": "นนทบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%82%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "adbd61de5dcd5fd005f53733",
+      "maskedId": "112xxxxxx9721",
+      "name": "เมธาสิทธิ์ สิงห์สาย",
+      "province": "นนทบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "933d76e14a36679077d1f73c",
+      "maskedId": "193xxxxxx8411",
+      "name": "เสาวลักษณ์ สุดมาตร",
+      "province": "นนทบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "e0e7f0de5575675df035aacb",
+      "maskedId": "190xxxxxx6734",
+      "name": "เอกลักษณ์ หมานหมอควาย",
+      "province": "นนทบุรี",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนนทบุรี",
+      "district": "เมืองนนทบุรี",
+      "id": "d555f99a0b9ce71a7c1ff23f",
+      "maskedId": "112xxxxxx7674",
+      "name": "โสภาพรรณ เสริฐสอน",
+      "province": "นนทบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

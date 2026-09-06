@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "เทศบาลเมืองบางรักน้อย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองบางรักน้อย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองบางรักน้อย",
+      "district": "เมืองนนทบุรี",
+      "id": "d9e677d9c9444cf71e91354d",
+      "maskedId": "110xxxxxx4836",
+      "name": "ธีรวุฒิ พุทธวงศ์",
+      "province": "นนทบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักน้อย",
+      "district": "เมืองนนทบุรี",
+      "id": "a9db9d62632492807eab89b1",
+      "maskedId": "176xxxxxx5290",
+      "name": "นพรุจ ศรีสวัสดิ์",
+      "province": "นนทบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%A3%E0%B8%B8%E0%B8%88-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักน้อย",
+      "district": "เมืองนนทบุรี",
+      "id": "e4a842cdb7f5b95ff5e4b9ae",
+      "maskedId": "110xxxxxx1235",
+      "name": "นันทยา มูลละม่อม",
+      "province": "นนทบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักน้อย",
+      "district": "เมืองนนทบุรี",
+      "id": "0cbefd6e11deabf943e8e755",
+      "maskedId": "112xxxxxx0291",
+      "name": "ปภัสสร กลิ่นนิ่มนวล",
+      "province": "นนทบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3-%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักน้อย",
+      "district": "เมืองนนทบุรี",
+      "id": "a3771bc5e0f896c752819cfd",
+      "maskedId": "110xxxxxx7363",
+      "name": "สุรางคนา อินทร์จันทร์",
+      "province": "นนทบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักน้อย",
+      "district": "เมืองนนทบุรี",
+      "id": "7dd73c0933b3b5bdd057d0aa",
+      "maskedId": "122xxxxxx7371",
+      "name": "เพ็ญพิมพ์ ขจรเจริญกิจ",
+      "province": "นนทบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-%E0%B8%82%E0%B8%88%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

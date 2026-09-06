@@ -1,0 +1,52 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.พุขาม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-พุขาม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.พุขาม",
+      "district": "วิเชียรบุรี",
+      "id": "4ce4843b7648661d655e9eb2",
+      "maskedId": "173xxxxxx3973",
+      "name": "สุลิสา สีมาตา",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พุขาม",
+      "district": "วิเชียรบุรี",
+      "id": "e69e9bceb8e7db3e161d6cd6",
+      "maskedId": "167xxxxxx0524",
+      "name": "อธิป จันมโนวงษ์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        },
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B9%82%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

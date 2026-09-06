@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.วังใหม่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-วังใหม่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังใหม่",
+      "district": "ป่าบอน",
+      "id": "716328ffdd2a0a9c458c7bd1",
+      "maskedId": "290xxxxxx5355",
+      "name": "จุฑามาศ สาเมาะ",
+      "province": "พัทลุง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%AA%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังใหม่",
+      "district": "ป่าบอน",
+      "id": "308bd84947d9e34e6eb4d6bb",
+      "maskedId": "194xxxxxx1259",
+      "name": "อับดุลเลาะ บือแน",
+      "province": "พัทลุง",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%B2%E0%B8%B0-%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

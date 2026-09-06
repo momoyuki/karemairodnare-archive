@@ -1,0 +1,252 @@
+{
+  "_meta": {
+    "count": 14,
+    "kind": "district",
+    "name": "ปะเหลียน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ปะเหลียน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ทุ่งยาว",
+      "district": "ปะเหลียน",
+      "id": "5b2e37fcf30c24788a035a82",
+      "maskedId": "191xxxxxx3145",
+      "name": "กานติมา ใจดี",
+      "province": "ตรัง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B9%83%E0%B8%88%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งยาว",
+      "district": "ปะเหลียน",
+      "id": "04a98eb5e4f0939f9752a2e4",
+      "maskedId": "193xxxxxx4798",
+      "name": "ฐิติรัตน์ รักราม",
+      "province": "ตรัง",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลิพัง",
+      "district": "ปะเหลียน",
+      "id": "2779e12fe244a639cd672c36",
+      "maskedId": "192xxxxxx5285",
+      "name": "ณิชากร ชัยศิริ",
+      "province": "ตรัง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าพญา",
+      "district": "ปะเหลียน",
+      "id": "c88834eb3bee39145066311c",
+      "maskedId": "296xxxxxx9906",
+      "name": "ต่วนดัรมา กาโฮง",
+      "province": "ตรัง",
+      "scoreChange": 68,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%A3%E0%B8%A1%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B9%82%E0%B8%AE%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "ปะเหลียน",
+      "id": "3198f2902e466ec47f3d5ff1",
+      "maskedId": "192xxxxxx5405",
+      "name": "ภราดรณ์ เดชอรัญ",
+      "province": "ตรัง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%B2%E0%B8%94%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.สุโสะ",
+      "district": "ปะเหลียน",
+      "id": "68c9696f7f351972040c609a",
+      "maskedId": "193xxxxxx8463",
+      "name": "ภาสิริ ศรีไทยแก้ว",
+      "province": "ตรัง",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งยาว",
+      "district": "ปะเหลียน",
+      "id": "fc6ff25730ba654d26ddb2a4",
+      "maskedId": "190xxxxxx7184",
+      "name": "ศศิณัฏฐ์ ศรีโอสถ",
+      "province": "ตรัง",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%96",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สุโสะ",
+      "district": "ปะเหลียน",
+      "id": "69a790eeef587088ae1017a8",
+      "maskedId": "192xxxxxx0196",
+      "name": "สันติราษฎร์ เพชรรัตน์",
+      "province": "ตรัง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งยาว",
+      "district": "ปะเหลียน",
+      "id": "24c8d58fcd0e87bf19873b25",
+      "maskedId": "150xxxxxx0301",
+      "name": "สุพิชชา มะโนจิตต์",
+      "province": "ตรัง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%A1%E0%B8%B0%E0%B9%82%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ท่าข้าม",
+      "district": "ปะเหลียน",
+      "id": "9d5f72c497b8bb56c63b31de",
+      "maskedId": "291xxxxxx7451",
+      "name": "สุวรรณี รอเกตุ",
+      "province": "ตรัง",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B5-%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.ปะเหลียน",
+      "district": "ปะเหลียน",
+      "id": "b008da9a504f70b533b88a06",
+      "maskedId": "194xxxxxx3931",
+      "name": "สุไรดา อุมาร์",
+      "province": "ตรัง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งยาว",
+      "district": "ปะเหลียน",
+      "id": "62dc629c1ce3d8de5018815c",
+      "maskedId": "191xxxxxx8973",
+      "name": "อดิศร เสียมไหม",
+      "province": "ตรัง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%A8%E0%B8%A3-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B9%84%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.ทุ่งยาว",
+      "district": "ปะเหลียน",
+      "id": "b486b9089abe51bbafa4d4b5",
+      "maskedId": "254xxxxxx1569",
+      "name": "อัมรา แสงสว่าง",
+      "province": "ตรัง",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%A3%E0%B8%B2-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ทุ่งยาว",
+      "district": "ปะเหลียน",
+      "id": "6a699b5db67ec2e6093cbc9b",
+      "maskedId": "191xxxxxx3481",
+      "name": "ฮาหรน นุ่งอาหลี",
+      "province": "ตรัง",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%99-%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

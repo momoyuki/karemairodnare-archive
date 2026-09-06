@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "ศรีสวัสดิ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ศรีสวัสดิ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นาสวน",
+      "district": "ศรีสวัสดิ์",
+      "id": "065d6e2246708725e95a09ed",
+      "maskedId": "170xxxxxx0025",
+      "name": "จันทรา รุ่งแย้ม",
+      "province": "กาญจนบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่กระบุง",
+      "district": "ศรีสวัสดิ์",
+      "id": "e7377f0526ad092ca4e463d7",
+      "maskedId": "121xxxxxx2758",
+      "name": "ณปภัช จันทร์เพ็ญ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%9B%E0%B8%A0%E0%B8%B1%E0%B8%8A-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่ากระดาน",
+      "district": "ศรีสวัสดิ์",
+      "id": "618da729da74967430e66105",
+      "maskedId": "140xxxxxx4797",
+      "name": "ตนุภัทร เคหฐาน",
+      "province": "กาญจนบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%84%E0%B8%AB%E0%B8%90%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาโจด",
+      "district": "ศรีสวัสดิ์",
+      "id": "b1719ed418011d01d6d08522",
+      "maskedId": "171xxxxxx0466",
+      "name": "ยิ่งลักษณ์ อินนา",
+      "province": "กาญจนบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่ากระดาน",
+      "district": "ศรีสวัสดิ์",
+      "id": "78707c9680defe289e658007",
+      "maskedId": "193xxxxxx8869",
+      "name": "รุจินันท์ ชูกาญชนะ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.แม่กระบุง",
+      "district": "ศรีสวัสดิ์",
+      "id": "e4eacbc5b6097a5096d6cf35",
+      "maskedId": "139xxxxxx5930",
+      "name": "สีน้ำเงิน แจ้งเศรษฐ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

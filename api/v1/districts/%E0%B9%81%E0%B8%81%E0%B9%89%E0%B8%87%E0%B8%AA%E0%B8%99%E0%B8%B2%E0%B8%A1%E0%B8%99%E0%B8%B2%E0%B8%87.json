@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "แก้งสนามนาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "แก้งสนามนาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โนนสําราญ",
+      "district": "แก้งสนามนาง",
+      "id": "9d1fd1670b6827f27cd633a8",
+      "maskedId": "140xxxxxx7471",
+      "name": "วาศณีรัตน์ ต่านุแฮ",
+      "province": "นครราชสีมา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A8%E0%B8%93%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B9%81%E0%B8%AE",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โนนสําราญ",
+      "district": "แก้งสนามนาง",
+      "id": "6fe3c717528b2d8cf15d83ae",
+      "maskedId": "136xxxxxx9792",
+      "name": "อาภาภรณ์ ปัดชา",
+      "province": "นครราชสีมา",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%94%E0%B8%8A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

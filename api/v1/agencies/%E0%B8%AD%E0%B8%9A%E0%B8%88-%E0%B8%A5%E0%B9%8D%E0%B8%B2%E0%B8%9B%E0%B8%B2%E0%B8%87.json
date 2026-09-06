@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบจ.ลําปาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบจ-ลําปาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "897df0d23325e9ebf073eca4",
+      "maskedId": "151xxxxxx8717",
+      "name": "กนกพร สิทธิชุม",
+      "province": "ลำปาง",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "9bf44efc8a163973720454d7",
+      "maskedId": "154xxxxxx3911",
+      "name": "กฤษณะพล จิณะโสต",
+      "province": "ลำปาง",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%B0%E0%B8%9E%E0%B8%A5-%E0%B8%88%E0%B8%B4%E0%B8%93%E0%B8%B0%E0%B9%82%E0%B8%AA%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "da842c45ea363e0d3ddf40e2",
+      "maskedId": "150xxxxxx6544",
+      "name": "ชนกภัทร กันทวี",
+      "province": "ลำปาง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%81%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "7fe90c6f731b693f98fbae53",
+      "maskedId": "152xxxxxx4127",
+      "name": "ณัฐกรปภา มะโนสม",
+      "province": "ลำปาง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%A3%E0%B8%9B%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%B0%E0%B9%82%E0%B8%99%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "94ba7269db4c87750b94203a",
+      "maskedId": "134xxxxxx4459",
+      "name": "วัชรพงษ์ ชนะกุล",
+      "province": "ลำปาง",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "9c6ad71611d82f29443b8b29",
+      "maskedId": "152xxxxxx0231",
+      "name": "เอื้อการย์ ปันศรี",
+      "province": "ลำปาง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,1051 @@
+{
+  "_meta": {
+    "count": 61,
+    "kind": "province",
+    "name": "อุดรธานี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อุดรธานี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "381d16af1a454778f481a1bb",
+      "maskedId": "148xxxxxx8825",
+      "name": "กนิษฐา หลวงนันท์",
+      "province": "อุดรธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลวังสามหมอ",
+      "district": "วังสามหมอ",
+      "id": "e7780653e156e7d7d50dc26c",
+      "maskedId": "147xxxxxx9383",
+      "name": "กัลยาณี โพธิ์คําพก",
+      "province": "อุดรธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%9E%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองไผ่",
+      "district": "หนองหาน",
+      "id": "3d7dd6ce81ddffe0dc9544aa",
+      "maskedId": "141xxxxxx2288",
+      "name": "กีรติ ศิริสวัสดิ์",
+      "province": "อุดรธานี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B5%E0%B8%A3%E0%B8%95%E0%B8%B4-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดูนคํา",
+      "district": "หนองหาน",
+      "id": "d4b703524ddea0e961e9f473",
+      "maskedId": "141xxxxxx1191",
+      "name": "ขนิษฐา อะนุ",
+      "province": "อุดรธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%AD%E0%B8%B0%E0%B8%99%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หมูม่น",
+      "district": "เมืองอุดรธานี",
+      "id": "7fe366bcaa55eb0c34d52d4d",
+      "maskedId": "147xxxxxx9678",
+      "name": "คุณากร กุลมา",
+      "province": "อุดรธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เพ็ญ",
+      "district": "เพ็ญ",
+      "id": "6a0c4e3dbc72c1151b19c9bf",
+      "maskedId": "143xxxxxx6170",
+      "name": "จักรพงศ์ พรมกมล",
+      "province": "อุดรธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%A1%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองไผ่",
+      "district": "หนองหาน",
+      "id": "0d6455b72969e496a87f1202",
+      "maskedId": "147xxxxxx5822",
+      "name": "จักรพงษ์ แสนสุริวงค์",
+      "province": "อุดรธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เชียงยืน",
+      "district": "เมืองอุดรธานี",
+      "id": "c7aea92fd0df2d6430f94fa5",
+      "maskedId": "141xxxxxx0187",
+      "name": "จักรพงษ์ โสภัย",
+      "province": "อุดรธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองหว้า",
+      "district": "กุมภวาปี",
+      "id": "f5d5f41881415db02c875887",
+      "maskedId": "146xxxxxx6153",
+      "name": "จารวี สาชะรุง",
+      "province": "อุดรธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B5-%E0%B8%AA%E0%B8%B2%E0%B8%8A%E0%B8%B0%E0%B8%A3%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองสําโรง",
+      "district": "เมืองอุดรธานี",
+      "id": "db21b3ebe36e4599db0c1214",
+      "maskedId": "140xxxxxx3581",
+      "name": "ชญา พิมพ์สวัสดิ์",
+      "province": "อุดรธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "58a53305e3077d7675fb8656",
+      "maskedId": "110xxxxxx3221",
+      "name": "ชลาลัย ชีวะเจริญยิ่ง",
+      "province": "อุดรธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B0%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองสําโรง",
+      "district": "เมืองอุดรธานี",
+      "id": "674d43565c4d8ef89ee2ce0a",
+      "maskedId": "149xxxxxx8884",
+      "name": "ดวงกมล คํามุงคุณ",
+      "province": "อุดรธานี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%A1%E0%B8%A5-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A1%E0%B8%B8%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขอนยูง",
+      "district": "กุดจับ",
+      "id": "2f131db36272ba7159440dd1",
+      "maskedId": "141xxxxxx0946",
+      "name": "ทัศวรรณ สนิมค้ํา",
+      "province": "อุดรธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%84%E0%B9%89%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลผักตบ",
+      "district": "หนองหาน",
+      "id": "2d38d16a3ce8b76c8088573d",
+      "maskedId": "141xxxxxx6471",
+      "name": "ธนาวิทย์ สีสา",
+      "province": "อุดรธานี",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลนาหนองทุ่ม",
+      "district": "กุดจับ",
+      "id": "3c4a7a1ca77a6341c5ce0491",
+      "maskedId": "143xxxxxx2643",
+      "name": "นงลักษณ์ ปัญญาศิริ",
+      "province": "อุดรธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%87%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นาชุมแสง",
+      "district": "ทุ่งฝน",
+      "id": "26c949c081784a9098b73e3c",
+      "maskedId": "147xxxxxx7531",
+      "name": "นัฐพล โฮมวงศ์",
+      "province": "อุดรธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองพาน",
+      "district": "บ้านผือ",
+      "id": "04bdeaf973a3902c6a8bb19a",
+      "maskedId": "557xxxxxx8271",
+      "name": "บรรจง ย่อลึ",
+      "province": "อุดรธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%87-%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A5%E0%B8%B6",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองไผ่",
+      "district": "เมืองอุดรธานี",
+      "id": "14d5eecd175c4cf0308d40f9",
+      "maskedId": "146xxxxxx0743",
+      "name": "ปกรณ์ พิมพ์พิทักษ์กุล",
+      "province": "อุดรธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลเพ็ญ",
+      "district": "เพ็ญ",
+      "id": "13ec5e4124bfcf34bb25bfe6",
+      "maskedId": "141xxxxxx3412",
+      "name": "ปนัดดา ไชยคุณ",
+      "province": "อุดรธานี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสอเพลอ",
+      "district": "กุมภวาปี",
+      "id": "49fcd2c6db1dd1a607d29c17",
+      "maskedId": "141xxxxxx0604",
+      "name": "ปรัชญา จันทะเมธิ",
+      "province": "อุดรธานี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านดุง",
+      "district": "บ้านดุง",
+      "id": "6a0b2b381723efc992a8a564",
+      "maskedId": "147xxxxxx7281",
+      "name": "พนิดา สุยะ",
+      "province": "อุดรธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หายโศก",
+      "district": "บ้านผือ",
+      "id": "6965eb40f8676b67095af35f",
+      "maskedId": "335xxxxxx9714",
+      "name": "พัสเกนทร์ วงษา",
+      "province": "อุดรธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%81%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านชัย",
+      "district": "บ้านดุง",
+      "id": "90c4aa7c904fade2e3d15a2e",
+      "maskedId": "147xxxxxx9544",
+      "name": "พุทธินันท์ จันทะแมด",
+      "province": "อุดรธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หมูม่น",
+      "district": "เมืองอุดรธานี",
+      "id": "75b641127f4e29f26f87d442",
+      "maskedId": "139xxxxxx9608",
+      "name": "มัลลิกา รัตนวงศ์",
+      "province": "อุดรธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองแวงแก้มหอม",
+      "district": "ไชยวาน",
+      "id": "e0b92b68aca9044103993e05",
+      "maskedId": "140xxxxxx4292",
+      "name": "ยศวดี เกียรตินันทน์",
+      "province": "อุดรธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%A8%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "cd593760ed457ca1022ebcad",
+      "maskedId": "145xxxxxx0571",
+      "name": "รพีพรรณ วันนู",
+      "province": "อุดรธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%9E%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นาบัว",
+      "district": "เพ็ญ",
+      "id": "53330bed2ebe5c724139c032",
+      "maskedId": "141xxxxxx4551",
+      "name": "รมย์ธีรา แก้วประกอบ",
+      "province": "อุดรธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองแวง",
+      "district": "บ้านผือ",
+      "id": "ad06447ccc285bb22dfad088",
+      "maskedId": "147xxxxxx4133",
+      "name": "รุ้งฟ้า สีพิมเมือง",
+      "province": "อุดรธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเชียง",
+      "district": "หนองหาน",
+      "id": "461b9bb1d2b5dc992c6eebb5",
+      "maskedId": "141xxxxxx3290",
+      "name": "ฤดี อดทน",
+      "province": "อุดรธานี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยสามพาด",
+      "district": "ประจักษ์ศิลปาคม",
+      "id": "89cb4d63a72971ea09dc1447",
+      "maskedId": "141xxxxxx9850",
+      "name": "วรรณสุดา ศรีบุญเรือง",
+      "province": "อุดรธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หมูม่น",
+      "district": "เมืองอุดรธานี",
+      "id": "d6c3befdc813cc013330f23d",
+      "maskedId": "143xxxxxx0613",
+      "name": "วรวัฒน์ รูปงาม",
+      "province": "อุดรธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาแค",
+      "district": "นายูง",
+      "id": "297b39d80786dae813644552",
+      "maskedId": "143xxxxxx6718",
+      "name": "วราลักษณ์ สุระถิตย์",
+      "province": "อุดรธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B0%E0%B8%96%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสอเพลอ",
+      "district": "กุมภวาปี",
+      "id": "d3668fd062567476a8061074",
+      "maskedId": "147xxxxxx8946",
+      "name": "วัชรนันท์ วารีย์",
+      "province": "อุดรธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ้อมกอ",
+      "district": "บ้านดุง",
+      "id": "c20e8a91215a4449d9276cac",
+      "maskedId": "143xxxxxx9143",
+      "name": "วัฒนา เวียงคํา",
+      "province": "อุดรธานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองหัวคู",
+      "district": "บ้านผือ",
+      "id": "4c2b348b41d0479ef886ec03",
+      "maskedId": "141xxxxxx6591",
+      "name": "วันวิสาข์ บุญสาร",
+      "province": "อุดรธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเชียง",
+      "district": "หนองหาน",
+      "id": "d107e969501f49fc0efcc00e",
+      "maskedId": "147xxxxxx3769",
+      "name": "วิทยา นนดารา",
+      "province": "อุดรธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%99%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นิคมสงเคราะห์",
+      "district": "เมืองอุดรธานี",
+      "id": "511edfb6cda3a5bb501b238b",
+      "maskedId": "144xxxxxx3720",
+      "name": "ศตพร ขาวอ่อน",
+      "province": "อุดรธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%95%E0%B8%9E%E0%B8%A3-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ำพ่น",
+      "district": "หนองวัวซอ",
+      "id": "1b42cf99c6a4f998ec5ef36f",
+      "maskedId": "141xxxxxx9485",
+      "name": "ศรีสุดา สิมพา",
+      "province": "อุดรธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หมูม่น",
+      "district": "เมืองอุดรธานี",
+      "id": "77dd0da2a0011de6f236ba8a",
+      "maskedId": "131xxxxxx2696",
+      "name": "ศิริลักษณ์ วิภาวิน",
+      "province": "อุดรธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านหินโงม",
+      "district": "สร้างคอม",
+      "id": "d616bc9531e9648b2fed6b60",
+      "maskedId": "141xxxxxx6846",
+      "name": "ศิริศักดิ์ เขียวเชย",
+      "province": "อุดรธานี",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%80%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลผักตบ",
+      "district": "หนองหาน",
+      "id": "38372f0bbaaebeddffc009aa",
+      "maskedId": "141xxxxxx2546",
+      "name": "สมปอง วงษ์เปลียว",
+      "province": "อุดรธานี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%9B%E0%B8%AD%E0%B8%87-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ำพ่น",
+      "district": "หนองวัวซอ",
+      "id": "efd727df1003651d9912623a",
+      "maskedId": "148xxxxxx9485",
+      "name": "สรัญญา ใสส่อง",
+      "province": "อุดรธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%83%E0%B8%AA%E0%B8%AA%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองแวง",
+      "district": "น้ำโสม",
+      "id": "596502c5f90eec01fe56eff5",
+      "maskedId": "146xxxxxx8474",
+      "name": "สารสิน นันจรัส",
+      "province": "อุดรธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%99-%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%AA",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ห้วยสามพาด",
+      "district": "ประจักษ์ศิลปาคม",
+      "id": "0b116e37ad1d926e69eec459",
+      "maskedId": "241xxxxxx1156",
+      "name": "สิทธิชัย ชนะบุญ",
+      "province": "อุดรธานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อุ่มจาน",
+      "district": "ประจักษ์ศิลปาคม",
+      "id": "5517533be6b06eb7b64b04ea",
+      "maskedId": "141xxxxxx6145",
+      "name": "สินีนาฎ ภูมิมิตร",
+      "province": "อุดรธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%8E-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองกุงทับม้า",
+      "district": "วังสามหมอ",
+      "id": "b748ec25e2d1a573b461d10a",
+      "maskedId": "141xxxxxx9542",
+      "name": "สุธีกานต์ พิมพ์สอน",
+      "province": "อุดรธานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนทองอินทร์",
+      "district": "กู่แก้ว",
+      "id": "5ccfe2ce8e1ad6734db60d9a",
+      "maskedId": "141xxxxxx7592",
+      "name": "สุนิสา สีแบน",
+      "province": "อุดรธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B9%81%E0%B8%9A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านตาด",
+      "district": "บ้านดุง",
+      "id": "9a8c896f6e8ddd92a9ab6957",
+      "maskedId": "143xxxxxx3128",
+      "name": "สุพรรณี แก้วเทพ",
+      "province": "อุดรธานี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B5-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%97%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อุ่มจาน",
+      "district": "ประจักษ์ศิลปาคม",
+      "id": "c6a2be4373760ce7f638fa56",
+      "maskedId": "241xxxxxx9241",
+      "name": "สุพัตรา คงประกอบ",
+      "province": "อุดรธานี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลคําบง",
+      "district": "บ้านผือ",
+      "id": "8f32ae6a7caad3112717b6cb",
+      "maskedId": "143xxxxxx7109",
+      "name": "สุพัตรา ศรีทะนีทอก",
+      "province": "อุดรธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%B0%E0%B8%99%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "e1de47bb16e6b5fc88b1267e",
+      "maskedId": "153xxxxxx9124",
+      "name": "สุรยุทธ บุญใบ",
+      "province": "อุดรธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%83%E0%B8%9A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "9436c593efb9fb1b33d738ac",
+      "maskedId": "147xxxxxx4903",
+      "name": "หฤทัย พันธุ์จรุง",
+      "province": "อุดรธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%88%E0%B8%A3%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านหยวก",
+      "district": "น้ำโสม",
+      "id": "3a7ac09470e46e3b00648ddd",
+      "maskedId": "143xxxxxx9432",
+      "name": "อดิศร นวนคำสิงห์",
+      "province": "อุดรธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%A8%E0%B8%A3-%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านตาด",
+      "district": "บ้านดุง",
+      "id": "4dcea1262a63e5a4c2a636d6",
+      "maskedId": "141xxxxxx5434",
+      "name": "อนุสรา นามโยธา",
+      "province": "อุดรธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A2%E0%B8%98%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีสําราญ",
+      "district": "น้ำโสม",
+      "id": "c36aee3a97de6297ce879687",
+      "maskedId": "173xxxxxx8522",
+      "name": "อนุสรา ผิวชะอุ่ม",
+      "province": "อุดรธานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%8A%E0%B8%B0%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านชัย",
+      "district": "บ้านดุง",
+      "id": "1193c1d79342be4388d61a5c",
+      "maskedId": "147xxxxxx3704",
+      "name": "อภิเชษฐ์ คึมยะราช",
+      "province": "อุดรธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%84%E0%B8%B6%E0%B8%A1%E0%B8%A2%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองวัวซอ",
+      "district": "หนองวัวซอ",
+      "id": "bb87b568d5b5273e61e925d7",
+      "maskedId": "141xxxxxx9602",
+      "name": "อมรรัตน์ รุนชนะ",
+      "province": "อุดรธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B8%E0%B8%99%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองบัวบาน",
+      "district": "หนองวัวซอ",
+      "id": "2ad83f985d92560692441dce",
+      "maskedId": "141xxxxxx2048",
+      "name": "อวิรุทธ์ แผนบุตร",
+      "province": "อุดรธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลภูผาแดง",
+      "district": "หนองวัวซอ",
+      "id": "490d864816e95b2674f1d104",
+      "maskedId": "146xxxxxx7755",
+      "name": "เกียรติศักดิ์ ภูกัน",
+      "province": "อุดรธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%81%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.กุดค้า",
+      "district": "ทุ่งฝน",
+      "id": "1fe5651007b35dbe82ed862a",
+      "maskedId": "141xxxxxx5600",
+      "name": "เจติยา แก้วขวัญ",
+      "province": "อุดรธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "หนองหาน",
+      "id": "9be4fb5e98844d0e7918d72f",
+      "maskedId": "110xxxxxx1741",
+      "name": "เพียงฟ้า คุยบุตร",
+      "province": "อุดรธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B8%A2%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

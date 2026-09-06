@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "agency",
+    "name": "อบต.เทพกระษัตรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-เทพกระษัตรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "0a79b25d418230dd4ed4e4ac",
+      "maskedId": "181xxxxxx4757",
+      "name": "ธมนวรรณ เย็บปัก",
+      "province": "ภูเก็ต",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%9A%E0%B8%9B%E0%B8%B1%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "3a2cd2b8e4cc07926c4e36b4",
+      "maskedId": "192xxxxxx9092",
+      "name": "นพดล ชัยศิริ",
+      "province": "ภูเก็ต",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%94%E0%B8%A5-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "a18da2c525c904dc2e56e226",
+      "maskedId": "190xxxxxx3039",
+      "name": "ปุณณภา วงศ์อุทัย",
+      "province": "ภูเก็ต",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%93%E0%B8%A0%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "5600cde9c65b5da883a6fa0e",
+      "maskedId": "180xxxxxx5908",
+      "name": "พรรษชล เที่ยงธรรม",
+      "province": "ภูเก็ต",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%8A%E0%B8%A5-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "b18d0f3d95e4823ed49d30cb",
+      "maskedId": "191xxxxxx2292",
+      "name": "ฟารีดา เศษระนํา",
+      "province": "ภูเก็ต",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "277d586158ebd45a6300a89a",
+      "maskedId": "180xxxxxx5231",
+      "name": "วรินญา แทนสุข",
+      "province": "ภูเก็ต",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%8D%E0%B8%B2-%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "10fcc95e0516658d29a5e739",
+      "maskedId": "190xxxxxx6411",
+      "name": "ศศิพร สุวรรณรัตน์",
+      "province": "ภูเก็ต",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "ccc4205d3a628eb98340becf",
+      "maskedId": "190xxxxxx9182",
+      "name": "ศิรวิทย์ นวลสกุล",
+      "province": "ภูเก็ต",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "a1727e54840eb86a37af31b6",
+      "maskedId": "380xxxxxx0591",
+      "name": "สิตา กาญจนไชย",
+      "province": "ภูเก็ต",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "bfa515afef057c05771bd2d8",
+      "maskedId": "393xxxxxx1249",
+      "name": "เลอปิติ ทองแดง",
+      "province": "ภูเก็ต",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%9B%E0%B8%B4%E0%B8%95%E0%B8%B4-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

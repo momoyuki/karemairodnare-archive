@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "district",
+    "name": "อู่ทอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อู่ทอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลบ้านดอน",
+      "district": "อู่ทอง",
+      "id": "81569daba1d06faafd788271",
+      "maskedId": "172xxxxxx7762",
+      "name": "กมลทิพย์ เชื้อฉ่ำหลวง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%89%E0%B9%88%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนคา",
+      "district": "อู่ทอง",
+      "id": "1de2cf59b60ac4d7b6280bc4",
+      "maskedId": "171xxxxxx4690",
+      "name": "กฤตยา อินทรกุล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดอนคา",
+      "district": "อู่ทอง",
+      "id": "6d8160c424ba2211ddca46c9",
+      "maskedId": "371xxxxxx7306",
+      "name": "จุไรรัตน์ รักษี",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B9%84%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านดอน",
+      "district": "อู่ทอง",
+      "id": "27b324530a675422d877b950",
+      "maskedId": "172xxxxxx0243",
+      "name": "ชลธิชา เกิดประกอบ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนคา",
+      "district": "อู่ทอง",
+      "id": "17a32b2e278a4cb66f71ff9d",
+      "maskedId": "172xxxxxx6416",
+      "name": "ณัฐวุฒิ เดชธนู",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%98%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านโข้ง",
+      "district": "อู่ทอง",
+      "id": "9a277138880ea7fd9271290c",
+      "maskedId": "172xxxxxx2141",
+      "name": "ภัคพิชา เนื่องนุ้ย",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%84%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกระจัน",
+      "district": "อู่ทอง",
+      "id": "61675200e48d2b3c3ff31cd4",
+      "maskedId": "172xxxxxx2617",
+      "name": "วรากร แย้มวงษ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองโอ่ง",
+      "district": "อู่ทอง",
+      "id": "5f5548e7a058389ce8dfa9da",
+      "maskedId": "172xxxxxx7540",
+      "name": "ศรีกฤติยา จารุรังษีทิพย์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A9%E0%B8%B5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกระจัน",
+      "district": "อู่ทอง",
+      "id": "f9ae5844d1faa1ca85f8a9c9",
+      "maskedId": "171xxxxxx5649",
+      "name": "สรยุทธ อัศวินะกุล",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B0%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พลับพลาไชย",
+      "district": "อู่ทอง",
+      "id": "e26cefcf445536511facc842",
+      "maskedId": "171xxxxxx0147",
+      "name": "สุนิตา โตอาจ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%82%E0%B8%95%E0%B8%AD%E0%B8%B2%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "_meta": {
+    "count": 24,
+    "kind": "district",
+    "name": "พุนพิน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พุนพิน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.พุนพิน",
+      "district": "พุนพิน",
+      "id": "28afe50d106ae3073b155bea",
+      "maskedId": "186xxxxxx7854",
+      "name": "กษิดิศ เจาะขาว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A9%E0%B8%B4%E0%B8%94%E0%B8%B4%E0%B8%A8-%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "b84332292f7ff08297038e20",
+      "maskedId": "193xxxxxx2146",
+      "name": "จันจิรา สังคะโน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B0%E0%B9%82%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "b44be4d12babd5ee2ec03860",
+      "maskedId": "190xxxxxx3822",
+      "name": "ชยุตพงศ์ ชูแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กรูด",
+      "district": "พุนพิน",
+      "id": "d3f3d30b69d343163de6a577",
+      "maskedId": "180xxxxxx6172",
+      "name": "ฐิรกานต์ หนูนวล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าโรงช้าง",
+      "district": "พุนพิน",
+      "id": "ba268d828551ba1bf06b3bf1",
+      "maskedId": "180xxxxxx0344",
+      "name": "ณัฐภัทร โพธิพฤกษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลีเล็ด",
+      "district": "พุนพิน",
+      "id": "e376f43647a8324e357f248c",
+      "maskedId": "186xxxxxx8081",
+      "name": "ดาราพร คงทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กรูด",
+      "district": "พุนพิน",
+      "id": "45a076731ae0cfbb690b1e97",
+      "maskedId": "193xxxxxx5400",
+      "name": "ตวิษา ณ พัทลุง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%93-%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%A5%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "554b8733f89ca20ffb8ba8a5",
+      "maskedId": "180xxxxxx5502",
+      "name": "นรวิชญ์ พรหมสุทธิ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าสะท้อน",
+      "district": "พุนพิน",
+      "id": "8fc9b5395599a377d5583f12",
+      "maskedId": "190xxxxxx7424",
+      "name": "ปัฐมาวดี ขวัญเนียม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าข้าม",
+      "district": "พุนพิน",
+      "id": "81f3e6dffc824ff7b4863343",
+      "maskedId": "184xxxxxx1398",
+      "name": "ปาณัสม์ นาคสุวรรณ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%AA%E0%B8%A1%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.น้ํารอบ",
+      "district": "พุนพิน",
+      "id": "c78ddb1805f5898d222cfa92",
+      "maskedId": "190xxxxxx4508",
+      "name": "ภูวดล อุนตรีจันทร์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A7%E0%B8%94%E0%B8%A5-%E0%B8%AD%E0%B8%B8%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "95e02aa6d3200c0a0f097ab6",
+      "maskedId": "180xxxxxx0926",
+      "name": "ยุทธศักดิ์ บุญวงศ์วิวัฒน์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "1c3a7e3ec578fad8093e5be9",
+      "maskedId": "190xxxxxx0068",
+      "name": "วรรณษา ดำขุนนุ้ย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A9%E0%B8%B2-%E0%B8%94%E0%B8%B3%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางงอน",
+      "district": "พุนพิน",
+      "id": "82c19975c7d6b004eefae091",
+      "maskedId": "180xxxxxx8327",
+      "name": "วริศรา เนาวโคอักษร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%84%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าข้าม",
+      "district": "พุนพิน",
+      "id": "91b4b49da668c60fc96292fb",
+      "maskedId": "190xxxxxx0641",
+      "name": "วสุรัตน์ เทพทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าข้าม",
+      "district": "พุนพิน",
+      "id": "d8b91c9a59838bd06c6b16ee",
+      "maskedId": "195xxxxxx2013",
+      "name": "วาสนา เสรีชาญพงษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พุนพิน",
+      "district": "พุนพิน",
+      "id": "a28b2b5454247a275e4f4e2e",
+      "maskedId": "190xxxxxx4149",
+      "name": "ศิวาพร ทุ่มขุน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%B8%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าสะท้อน",
+      "district": "พุนพิน",
+      "id": "7da57997a7c3520bf843fbb3",
+      "maskedId": "184xxxxxx3968",
+      "name": "สัจจพร สงวนพิมพ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองไทร",
+      "district": "พุนพิน",
+      "id": "17e87323e4d35e9debe87259",
+      "maskedId": "180xxxxxx0992",
+      "name": "สุชาดา สัจจารักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ลีเล็ด",
+      "district": "พุนพิน",
+      "id": "94f62809d38c2eb63fed89a5",
+      "maskedId": "184xxxxxx8834",
+      "name": "อภิชัย ทิพย์ประชาบาล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าข้าม",
+      "district": "พุนพิน",
+      "id": "a235fa52da96d5cce74a5fe0",
+      "maskedId": "190xxxxxx8947",
+      "name": "อรรถสิทธิ์ ผิวเหลือง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กรูด",
+      "district": "พุนพิน",
+      "id": "c53090879c13664075e91629",
+      "maskedId": "284xxxxxx6762",
+      "name": "อาทิตยา สุดจิตร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองท่าข้าม",
+      "district": "พุนพิน",
+      "id": "a663980ccfd86afcca9ed88e",
+      "maskedId": "193xxxxxx4161",
+      "name": "ไกรฤทธิ์ รักษาแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กรูด",
+      "district": "พุนพิน",
+      "id": "e596e8486edd2a4f04f30c5a",
+      "maskedId": "396xxxxxx4262",
+      "name": "ไยน๊ะ หะยีลาดอ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%A2%E0%B8%99%E0%B9%8A%E0%B8%B0-%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

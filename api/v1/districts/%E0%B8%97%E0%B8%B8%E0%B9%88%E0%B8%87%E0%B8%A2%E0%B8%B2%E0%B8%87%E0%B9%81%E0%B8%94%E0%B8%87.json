@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "ทุ่งยางแดง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ทุ่งยางแดง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.น้ําดํา",
+      "district": "ทุ่งยางแดง",
+      "id": "4a3243aaab2d6c6f0ba5689b",
+      "maskedId": "194xxxxxx8454",
+      "name": "ซูฟียัน มาน๊ะ",
+      "province": "ปัตตานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B9%E0%B8%9F%E0%B8%B5%E0%B8%A2%E0%B8%B1%E0%B8%99-%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําดํา",
+      "district": "ทุ่งยางแดง",
+      "id": "2084589ebbad2f849695b427",
+      "maskedId": "196xxxxxx3000",
+      "name": "นิฮัสมี ดาหะแมง",
+      "province": "ปัตตานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%AE%E0%B8%B1%E0%B8%AA%E0%B8%A1%E0%B8%B5-%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโละแมะนา",
+      "district": "ทุ่งยางแดง",
+      "id": "ff25ba2e4c2afc602d9feb97",
+      "maskedId": "194xxxxxx4103",
+      "name": "มะอัยดีฟิต เจะมะ",
+      "province": "ปัตตานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B0%E0%B8%AD%E0%B8%B1%E0%B8%A2%E0%B8%94%E0%B8%B5%E0%B8%9F%E0%B8%B4%E0%B8%95-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

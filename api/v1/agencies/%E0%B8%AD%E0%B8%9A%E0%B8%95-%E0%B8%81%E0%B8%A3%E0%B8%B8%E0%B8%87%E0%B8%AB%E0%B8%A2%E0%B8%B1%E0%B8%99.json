@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.กรุงหยัน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-กรุงหยัน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.กรุงหยัน",
+      "district": "ทุ่งใหญ่",
+      "id": "30b8fe0e507d3428787a2866",
+      "maskedId": "393xxxxxx7971",
+      "name": "กมลพร เสถียร",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%AA%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กรุงหยัน",
+      "district": "ทุ่งใหญ่",
+      "id": "320ddba3d6b64c4646d85f42",
+      "maskedId": "193xxxxxx5717",
+      "name": "สันติภาพ ขุนปราบ",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

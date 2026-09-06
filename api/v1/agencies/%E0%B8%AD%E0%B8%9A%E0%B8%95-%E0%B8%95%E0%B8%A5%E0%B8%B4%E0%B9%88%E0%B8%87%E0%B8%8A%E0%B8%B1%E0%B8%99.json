@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบต.ตลิ่งชัน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ตลิ่งชัน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "จะนะ",
+      "id": "6c8266673620fd5ca3b9ef38",
+      "maskedId": "190xxxxxx2241",
+      "name": "กิตติศักดิ์ ปรมัตถ์ศักดิ์",
+      "province": "สงขลา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "บันนังสตา",
+      "id": "926989ab6100da2d5a0e73a6",
+      "maskedId": "195xxxxxx8134",
+      "name": "นัสรีย์ แวจูนา",
+      "province": "ยะลา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%A7%E0%B8%88%E0%B8%B9%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "เหนือคลอง",
+      "id": "c8af1c611ae53ff31fe1969b",
+      "maskedId": "190xxxxxx8762",
+      "name": "พิชธภาฎา หลับด้วง",
+      "province": "กระบี่",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%98%E0%B8%A0%E0%B8%B2%E0%B8%8E%E0%B8%B2-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "จะนะ",
+      "id": "e203ebdf6a7470787bfd054f",
+      "maskedId": "180xxxxxx4918",
+      "name": "ศักดิ์ดา ศรีธรรมโชติ",
+      "province": "สงขลา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "70_สงขลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%94%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "บันนังสตา",
+      "id": "166f8794352460ef4217bfa9",
+      "maskedId": "194xxxxxx8010",
+      "name": "อิครอม สะมุดิง",
+      "province": "ยะลา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%A1-%E0%B8%AA%E0%B8%B0%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "ท่าศาลา",
+      "id": "e4118f623b262f4b845d7dd2",
+      "maskedId": "192xxxxxx6987",
+      "name": "เขมญดา ประกิตฤทธิกุล",
+      "province": "นครศรีธรรมราช",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "63_นครศรีธรรมราช.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%8D%E0%B8%94%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "agency",
+    "name": "เทศบาลเมืองกระบี่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองกระบี่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองกระบี่",
+      "district": "เมืองกระบี่",
+      "id": "9d3d6172621c0ff189355a02",
+      "maskedId": "190xxxxxx8356",
+      "name": "จิตรา พุทธกูล",
+      "province": "กระบี่",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระบี่",
+      "district": "เมืองกระบี่",
+      "id": "f944d694ffef798b78eb1a1d",
+      "maskedId": "147xxxxxx4311",
+      "name": "ณิชกุล เมืองอุดม",
+      "province": "กระบี่",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระบี่",
+      "district": "เมืองกระบี่",
+      "id": "66b54ec74c825498072a8132",
+      "maskedId": "147xxxxxx9902",
+      "name": "ปิยธิดา วะชุม",
+      "province": "กระบี่",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%A7%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระบี่",
+      "district": "เมืองกระบี่",
+      "id": "a456d1de74354cd89d1e97c6",
+      "maskedId": "193xxxxxx0825",
+      "name": "พงษ์ไทย กาญจนพันธุ์",
+      "province": "กระบี่",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระบี่",
+      "district": "เมืองกระบี่",
+      "id": "b9da3c8ba1b49de0c0df2850",
+      "maskedId": "180xxxxxx8640",
+      "name": "พีระเดช เกตุแก้วมุณี",
+      "province": "กระบี่",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B8%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระบี่",
+      "district": "เมืองกระบี่",
+      "id": "f6745694f2ebe6781e3a502f",
+      "maskedId": "191xxxxxx7741",
+      "name": "ภาวิณี เพ็ชรบูรณ์",
+      "province": "กระบี่",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระบี่",
+      "district": "เมืองกระบี่",
+      "id": "17389c3fae51e489f733a6e7",
+      "maskedId": "193xxxxxx4160",
+      "name": "รักษิณา ขาวเผือก",
+      "province": "กระบี่",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B4%E0%B8%93%E0%B8%B2-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระบี่",
+      "district": "เมืองกระบี่",
+      "id": "4c3c619bd053db0291850575",
+      "maskedId": "186xxxxxx5838",
+      "name": "วัชรพงษ์ แพนสกุล",
+      "province": "กระบี่",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระบี่",
+      "district": "เมืองกระบี่",
+      "id": "3dcd85c56726bda4dcc79eb5",
+      "maskedId": "394xxxxxx2676",
+      "name": "ฮุสนา ซือรี",
+      "province": "กระบี่",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B8%E0%B8%AA%E0%B8%99%E0%B8%B2-%E0%B8%8B%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

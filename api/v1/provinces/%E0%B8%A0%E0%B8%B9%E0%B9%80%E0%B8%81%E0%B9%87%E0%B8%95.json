@@ -1,0 +1,1850 @@
+{
+  "_meta": {
+    "count": 108,
+    "kind": "province",
+    "name": "ภูเก็ต",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ภูเก็ต",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลรัษฎา",
+      "district": "เมืองภูเก็ต",
+      "id": "a9ab4d679c38e07dc3c34cdc",
+      "maskedId": "180xxxxxx3053",
+      "name": "กมลทิพย์ พลายชุม",
+      "province": "ภูเก็ต",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "1050fddefad43259bbb51009",
+      "maskedId": "110xxxxxx9239",
+      "name": "กลวัชร แกล้วทนง",
+      "province": "ภูเก็ต",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B9%81%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%97%E0%B8%99%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "ab6895439158e82e0c39eb11",
+      "maskedId": "180xxxxxx3041",
+      "name": "กวิญทิพย์ ยาปัน",
+      "province": "ภูเก็ต",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%A2%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "b07d9e41aa939f3f1f7ab103",
+      "maskedId": "186xxxxxx6558",
+      "name": "กัญญารัตน์ พยัพพานนท์",
+      "province": "ภูเก็ต",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%9E%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "64f8464bf1ee837f043b4f4a",
+      "maskedId": "193xxxxxx0802",
+      "name": "กิตติธัช นวลเต็ม",
+      "province": "ภูเก็ต",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%B1%E0%B8%8A-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "f50508178ccc655079ade41a",
+      "maskedId": "131xxxxxx8988",
+      "name": "กุสุมา แหวนมุก",
+      "province": "ภูเก็ต",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%B2-%E0%B9%81%E0%B8%AB%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B8%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลรัษฎา",
+      "district": "เมืองภูเก็ต",
+      "id": "2f3c7e7528e14b5fe8addda1",
+      "maskedId": "190xxxxxx9440",
+      "name": "จุฑารัตน์ แดงหล้า",
+      "province": "ภูเก็ต",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "cea4b78953f7d3ab3062f28b",
+      "maskedId": "184xxxxxx1394",
+      "name": "ชญานิน รัตนพิบูลย์",
+      "province": "ภูเก็ต",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%99-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าคลอก",
+      "district": "ถลาง",
+      "id": "e103b9b1a8042ab0a15882bd",
+      "maskedId": "184xxxxxx3050",
+      "name": "ชญาภา จันทร์เสต็ม",
+      "province": "ภูเก็ต",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B8%95%E0%B9%87%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "119ee55708578125adf909fd",
+      "maskedId": "190xxxxxx3246",
+      "name": "ชวิกานต์ สโมทานทวี",
+      "province": "ภูเก็ต",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B9%82%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไม้ขาว",
+      "district": "ถลาง",
+      "id": "a0dcab424a5d15c2a8e0b196",
+      "maskedId": "180xxxxxx1822",
+      "name": "ชัชรินทร์ แดงเอียด",
+      "province": "ภูเก็ต",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "6b52a2349af346ea8772a517",
+      "maskedId": "195xxxxxx2719",
+      "name": "ชัยกฤต ตําเมือง",
+      "province": "ภูเก็ต",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%95%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "e04c65dfbbb86a75659cc82d",
+      "maskedId": "193xxxxxx5287",
+      "name": "ชุติมณฑน์ ไชยทองรักษ์",
+      "province": "ภูเก็ต",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%93%E0%B8%91%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "33f0edf24da64a49970f5e46",
+      "maskedId": "194xxxxxx8464",
+      "name": "ซอบะห์ จะปะกิยา",
+      "province": "ภูเก็ต",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%AD%E0%B8%9A%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%88%E0%B8%B0%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "e0e463ca72e04df71fddcece",
+      "maskedId": "191xxxxxx8698",
+      "name": "ณัชฐิชา เตาวะโต",
+      "province": "ภูเก็ต",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%90%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%95%E0%B8%B2%E0%B8%A7%E0%B8%B0%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "d6d9802cbf8a2c60df95a9a8",
+      "maskedId": "190xxxxxx6754",
+      "name": "ณัฎธิดา ทองไทย",
+      "province": "ภูเก็ต",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8E%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "a6d89c2b175b799d49719e32",
+      "maskedId": "190xxxxxx3105",
+      "name": "ณัฐชนนท์ อามีน",
+      "province": "ภูเก็ต",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%8A%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AD%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "7613db4bf96f39e97dadc5a8",
+      "maskedId": "194xxxxxx9617",
+      "name": "ณัฐวัฒณ์ พรหมจันทร์",
+      "province": "ภูเก็ต",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลราไวย์",
+      "district": "เมืองภูเก็ต",
+      "id": "3da786648678842eeff746d4",
+      "maskedId": "196xxxxxx2127",
+      "name": "ณิชากร ปุยรุก",
+      "province": "ภูเก็ต",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%9B%E0%B8%B8%E0%B8%A2%E0%B8%A3%E0%B8%B8%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "9bab427188f7558469d67a4a",
+      "maskedId": "196xxxxxx0612",
+      "name": "ณูรอาวาฏิฟ อาลี",
+      "province": "ภูเก็ต",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B9%E0%B8%A3%E0%B8%AD%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%9F-%E0%B8%AD%E0%B8%B2%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "ef8167a482f1db7f12d0bdf5",
+      "maskedId": "190xxxxxx9212",
+      "name": "ธนกฤต ทิพย์กองลาศ",
+      "province": "ภูเก็ต",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "6ebc4e149749ebadfcbb9d2d",
+      "maskedId": "190xxxxxx2076",
+      "name": "ธนพล นิลภูศรี",
+      "province": "ภูเก็ต",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A5-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A0%E0%B8%B9%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "ec7609621d428693564c94e1",
+      "maskedId": "195xxxxxx3556",
+      "name": "ธนพัฒน์ บริรักษ์นรากุล",
+      "province": "ภูเก็ต",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "0a79b25d418230dd4ed4e4ac",
+      "maskedId": "181xxxxxx4757",
+      "name": "ธมนวรรณ เย็บปัก",
+      "province": "ภูเก็ต",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%9A%E0%B8%9B%E0%B8%B1%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าคลอก",
+      "district": "ถลาง",
+      "id": "b0c1b9c83d2024939624a2ea",
+      "maskedId": "186xxxxxx2968",
+      "name": "ธมลวรรณ รัตนพิทย์",
+      "province": "ภูเก็ต",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "0bf5e26ff334fd3949d26dc5",
+      "maskedId": "190xxxxxx4296",
+      "name": "ธีรวัฒน์ พรหมสุวรรณ์",
+      "province": "ภูเก็ต",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "7e0bb1b5b145809671a6b612",
+      "maskedId": "196xxxxxx3424",
+      "name": "นงลักษณ์ ศรีสุข",
+      "province": "ภูเก็ต",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%87%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "3a2cd2b8e4cc07926c4e36b4",
+      "maskedId": "192xxxxxx9092",
+      "name": "นพดล ชัยศิริ",
+      "province": "ภูเก็ต",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%94%E0%B8%A5-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "5925d6bc38be9d7a4bd5f2ed",
+      "maskedId": "190xxxxxx6116",
+      "name": "นภัสสร สุขขี",
+      "province": "ภูเก็ต",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%82%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "37d5452318fc77d564a4c200",
+      "maskedId": "180xxxxxx3297",
+      "name": "นรมน เกิดเมฆ",
+      "province": "ภูเก็ต",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%A1%E0%B8%99-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%86",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "7e5bb81eb53e88e2325c14bc",
+      "maskedId": "196xxxxxx5336",
+      "name": "นัฟซี อูมา",
+      "province": "ภูเก็ต",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%9F%E0%B8%8B%E0%B8%B5-%E0%B8%AD%E0%B8%B9%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "4f9812453aa7edb353dca4bd",
+      "maskedId": "191xxxxxx4064",
+      "name": "นัศรุน รอดเสน",
+      "province": "ภูเก็ต",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%A8%E0%B8%A3%E0%B8%B8%E0%B8%99-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "f75d64eda4c2cb0e80a94499",
+      "maskedId": "180xxxxxx9671",
+      "name": "นาเดีย สายสุวรรณ",
+      "province": "ภูเก็ต",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "4eb12fdd5b30855d50ad6239",
+      "maskedId": "190xxxxxx4080",
+      "name": "นิตยา สังข์คง",
+      "province": "ภูเก็ต",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "0444b6e7e44e27e3ca9c9312",
+      "maskedId": "191xxxxxx9029",
+      "name": "นิฤมล แยบดี",
+      "province": "ภูเก็ต",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B9%81%E0%B8%A2%E0%B8%9A%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "f9ad0ed7947afab998aeceff",
+      "maskedId": "193xxxxxx2801",
+      "name": "นุสรา หรีมหนก",
+      "province": "ภูเก็ต",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%AB%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "620845152f79e37980a808fc",
+      "maskedId": "596xxxxxx3024",
+      "name": "นูรอัยนี ดาโอ๊ะ",
+      "province": "ภูเก็ต",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%B5-%E0%B8%94%E0%B8%B2%E0%B9%82%E0%B8%AD%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "0be0b1cbf751769492fde388",
+      "maskedId": "195xxxxxx2964",
+      "name": "นูรีฮัน แอบากอ",
+      "province": "ภูเก็ต",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%AE%E0%B8%B1%E0%B8%99-%E0%B9%81%E0%B8%AD%E0%B8%9A%E0%B8%B2%E0%B8%81%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวิชิต",
+      "district": "เมืองภูเก็ต",
+      "id": "fe0b10cae102684874efc752",
+      "maskedId": "190xxxxxx4500",
+      "name": "บุตรทวี หน่วยแก้ว",
+      "province": "ภูเก็ต",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%A7%E0%B8%B5-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองป่าตอง",
+      "district": "กะทู้",
+      "id": "91dcf3849686816316f52e56",
+      "maskedId": "383xxxxxx3137",
+      "name": "ปริวัฒน์ อุดมทรัพย์",
+      "province": "ภูเก็ต",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "cdb46fddcba4b864e7b2fb5e",
+      "maskedId": "290xxxxxx1880",
+      "name": "ปัญจรัตน์ ชูไชย",
+      "province": "ภูเก็ต",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "fd085e73e05c6c4c72c23b50",
+      "maskedId": "193xxxxxx9336",
+      "name": "ปาวิษา มากทอง",
+      "province": "ภูเก็ต",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "4dceb03022a4b94c77b79b0d",
+      "maskedId": "191xxxxxx3021",
+      "name": "ปิยนุช ด้วนมี",
+      "province": "ภูเก็ต",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "a18da2c525c904dc2e56e226",
+      "maskedId": "190xxxxxx3039",
+      "name": "ปุณณภา วงศ์อุทัย",
+      "province": "ภูเก็ต",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%93%E0%B8%A0%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "3b0646f65e3103b41f79dae3",
+      "maskedId": "196xxxxxx7580",
+      "name": "พนิดา ดีหลิว",
+      "province": "ภูเก็ต",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%94%E0%B8%B5%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "5600cde9c65b5da883a6fa0e",
+      "maskedId": "180xxxxxx5908",
+      "name": "พรรษชล เที่ยงธรรม",
+      "province": "ภูเก็ต",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%8A%E0%B8%A5-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "1fc9ab69a2c47b1b9cf0880b",
+      "maskedId": "183xxxxxx3533",
+      "name": "ฟัยต้า เจ๊ะเร๊ะ",
+      "province": "ภูเก็ต",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B1%E0%B8%A2%E0%B8%95%E0%B9%89%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "b18d0f3d95e4823ed49d30cb",
+      "maskedId": "191xxxxxx2292",
+      "name": "ฟารีดา เศษระนํา",
+      "province": "ภูเก็ต",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไม้ขาว",
+      "district": "ถลาง",
+      "id": "ec45bbc6690233904af3d22f",
+      "maskedId": "180xxxxxx6606",
+      "name": "ภณิญา มีวงศ์",
+      "province": "ภูเก็ต",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%93%E0%B8%B4%E0%B8%8D%E0%B8%B2-%E0%B8%A1%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "4cddbc0033279b3c82be03ad",
+      "maskedId": "180xxxxxx7604",
+      "name": "ภณิดา ดำใหม่",
+      "province": "ภูเก็ต",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%93%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%94%E0%B8%B3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวิชิต",
+      "district": "เมืองภูเก็ต",
+      "id": "2300805b972cb04444d083cf",
+      "maskedId": "180xxxxxx9190",
+      "name": "ภัทรธีรา ปานแย้ม",
+      "province": "ภูเก็ต",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองป่าตอง",
+      "district": "กะทู้",
+      "id": "80b5baca42fd8e3edab8a595",
+      "maskedId": "180xxxxxx2597",
+      "name": "ภัทรวดี เพชรน้อย",
+      "province": "ภูเก็ต",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "1393d2f413e8d206e032f1f5",
+      "maskedId": "190xxxxxx2434",
+      "name": "ภัทรวรรณ ขนาบแก้ว",
+      "province": "ภูเก็ต",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%9A%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "3eb7af6fed645640ee71d2d2",
+      "maskedId": "195xxxxxx8406",
+      "name": "ภาสกร วงศ์กระจ่าง",
+      "province": "ภูเก็ต",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "a6bd47dc3e5bddeb71bf3732",
+      "maskedId": "193xxxxxx0609",
+      "name": "ภูวิศ ไทยฤทธิ์",
+      "province": "ภูเก็ต",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A7%E0%B8%B4%E0%B8%A8-%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "882fc4352d0206843d88fdd1",
+      "maskedId": "191xxxxxx6357",
+      "name": "มณิสรา เลื่อนนก",
+      "province": "ภูเก็ต",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไม้ขาว",
+      "district": "ถลาง",
+      "id": "0af0ce7c184485050efe575c",
+      "maskedId": "193xxxxxx2313",
+      "name": "มลิณี อ่อนหนู",
+      "province": "ภูเก็ต",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%A5%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "0b8cff31c6dadda8f6833b3c",
+      "maskedId": "191xxxxxx2561",
+      "name": "รัถกาณ หมื่นเมือง",
+      "province": "ภูเก็ต",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%96%E0%B8%81%E0%B8%B2%E0%B8%93-%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "e5d323f569da1632fea64fb7",
+      "maskedId": "180xxxxxx1050",
+      "name": "ลาวัลย์ หิรัญรัตน์",
+      "province": "ภูเก็ต",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "41629f1182719edeb609881f",
+      "maskedId": "192xxxxxx3001",
+      "name": "วรพรรณ วรรณบวร",
+      "province": "ภูเก็ต",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%A7%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "277d586158ebd45a6300a89a",
+      "maskedId": "180xxxxxx5231",
+      "name": "วรินญา แทนสุข",
+      "province": "ภูเก็ต",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%8D%E0%B8%B2-%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "ea86411195e0a0b2aec7c6ab",
+      "maskedId": "192xxxxxx4302",
+      "name": "วริษฐา มลยงค์",
+      "province": "ภูเก็ต",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%A1%E0%B8%A5%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "08c421098bb681443a8c22e6",
+      "maskedId": "186xxxxxx1186",
+      "name": "วันวิสา มีสุข",
+      "province": "ภูเก็ต",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "9f5dd9c0df78e481e5084124",
+      "maskedId": "192xxxxxx5796",
+      "name": "วิลาวรรณ นิลสกุล",
+      "province": "ภูเก็ต",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "fdabab8e22b7d1541fba1c6b",
+      "maskedId": "193xxxxxx7712",
+      "name": "วิลาสินี ฤทธิช่วย",
+      "province": "ภูเก็ต",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "dd8466c2f686c6928be9c50d",
+      "maskedId": "186xxxxxx7503",
+      "name": "ศรายุทธ โพธิ์น้อย",
+      "province": "ภูเก็ต",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "31535ca0a71399c9c6151c68",
+      "maskedId": "192xxxxxx0575",
+      "name": "ศศินันท์ จันทร์มุข",
+      "province": "ภูเก็ต",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "10fcc95e0516658d29a5e739",
+      "maskedId": "190xxxxxx6411",
+      "name": "ศศิพร สุวรรณรัตน์",
+      "province": "ภูเก็ต",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เชิงทะเล",
+      "district": "ถลาง",
+      "id": "96b125d14a83ca979eff628e",
+      "maskedId": "190xxxxxx7077",
+      "name": "ศศิพร แก้วล่องลอย",
+      "province": "ภูเก็ต",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลรัษฎา",
+      "district": "เมืองภูเก็ต",
+      "id": "0b02a83f358b0accbeec3e4d",
+      "maskedId": "190xxxxxx5066",
+      "name": "ศักย์วริษฐ์ เกื้อเพชร",
+      "province": "ภูเก็ต",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "ccc4205d3a628eb98340becf",
+      "maskedId": "190xxxxxx9182",
+      "name": "ศิรวิทย์ นวลสกุล",
+      "province": "ภูเก็ต",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าคลอก",
+      "district": "ถลาง",
+      "id": "42a1863f24119709e5796c9a",
+      "maskedId": "193xxxxxx6656",
+      "name": "ศิริพร คชศักดิ์",
+      "province": "ภูเก็ต",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B8%8A%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "771d258207c27e4fdbee10ea",
+      "maskedId": "193xxxxxx9271",
+      "name": "ศุภกานต์ ขุนราม",
+      "province": "ภูเก็ต",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าคลอก",
+      "district": "ถลาง",
+      "id": "579650f3df8647b08814860d",
+      "maskedId": "190xxxxxx0385",
+      "name": "ศุภฤกษ์ ศรีสงคราม",
+      "province": "ภูเก็ต",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "edac9d6085bb959c8be75b0f",
+      "maskedId": "190xxxxxx1537",
+      "name": "สรรพวิท ประทุมชาติภักดี",
+      "province": "ภูเก็ต",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%A7%E0%B8%B4%E0%B8%97-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "a1727e54840eb86a37af31b6",
+      "maskedId": "380xxxxxx0591",
+      "name": "สิตา กาญจนไชย",
+      "province": "ภูเก็ต",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "6e8d3310c5464d92cc17d218",
+      "maskedId": "148xxxxxx6764",
+      "name": "สิทธิพงษ์ แสงผา",
+      "province": "ภูเก็ต",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%9C%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "90c99e7a29fd672a11243c15",
+      "maskedId": "193xxxxxx1153",
+      "name": "สิริกุล คงจร",
+      "province": "ภูเก็ต",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%84%E0%B8%87%E0%B8%88%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "35c90b2201dc0528a1b666b2",
+      "maskedId": "193xxxxxx8561",
+      "name": "สิรินยา ยีหวังกอง",
+      "province": "ภูเก็ต",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A2%E0%B8%B2-%E0%B8%A2%E0%B8%B5%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวิชิต",
+      "district": "เมืองภูเก็ต",
+      "id": "147f0afa15c700920f857202",
+      "maskedId": "193xxxxxx6188",
+      "name": "สิริมา อ่อนแก้ว",
+      "province": "ภูเก็ต",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "ddeb74c8434d7fd0045cd9eb",
+      "maskedId": "191xxxxxx8108",
+      "name": "สิรีธร สองเมือง",
+      "province": "ภูเก็ต",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "0d6d9f49a555b0ce5f83de20",
+      "maskedId": "195xxxxxx8221",
+      "name": "สุชัญญา สุวรรณแพทย์",
+      "province": "ภูเก็ต",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "281cdabcf87935b175854b0c",
+      "maskedId": "193xxxxxx7230",
+      "name": "สุชาวดี คงไข่ศรี",
+      "province": "ภูเก็ต",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%84%E0%B8%87%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวิชิต",
+      "district": "เมืองภูเก็ต",
+      "id": "bef81864b67036878243abef",
+      "maskedId": "184xxxxxx1279",
+      "name": "สุธารัตน์ จันทร์ขำ",
+      "province": "ภูเก็ต",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%82%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "74dc253f97dd8f6c5085fc17",
+      "maskedId": "185xxxxxx0010",
+      "name": "สุนิษา มานพ",
+      "province": "ภูเก็ต",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "1bca501d2e53523af90c9be3",
+      "maskedId": "195xxxxxx6638",
+      "name": "สุพิชา ฤทธิวงศ์",
+      "province": "ภูเก็ต",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "d3d0ef63ffb81f3cdfcd3ecb",
+      "maskedId": "193xxxxxx1891",
+      "name": "สุภาภรณ์ พรมแก้ว",
+      "province": "ภูเก็ต",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "c6fc4fccfa846cbb253a5cd0",
+      "maskedId": "150xxxxxx9502",
+      "name": "สุรเดช เพกกิ้ม",
+      "province": "ภูเก็ต",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B9%80%E0%B8%9E%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "17917a4d44aa268392d86ff6",
+      "maskedId": "195xxxxxx0613",
+      "name": "อดินันท์ บือนา",
+      "province": "ภูเก็ต",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "f0c40eaed342c0aaae702d03",
+      "maskedId": "184xxxxxx7021",
+      "name": "อดิศักดิ์ ชัยยศ",
+      "province": "ภูเก็ต",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "be6b5fd8cec221340e9fd0fd",
+      "maskedId": "196xxxxxx0884",
+      "name": "อรพิน ประดิษฐธรรม",
+      "province": "ภูเก็ต",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%99-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไม้ขาว",
+      "district": "ถลาง",
+      "id": "c73285714d6776376f2fc2d1",
+      "maskedId": "190xxxxxx9720",
+      "name": "อัซมาวตี ตุวันปุเต๊ะ",
+      "province": "ภูเก็ต",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8B%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%95%E0%B8%B5-%E0%B8%95%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%B8%E0%B9%80%E0%B8%95%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะแก้ว",
+      "district": "เมืองภูเก็ต",
+      "id": "b738389f40480609e26829af",
+      "maskedId": "393xxxxxx6621",
+      "name": "อัญชลี เพชรหนู",
+      "province": "ภูเก็ต",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A5%E0%B8%B5-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "818a6d48da65407674401523",
+      "maskedId": "190xxxxxx6247",
+      "name": "อัศจรรย์ จุลจินดา",
+      "province": "ภูเก็ต",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%88%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B8%88%E0%B8%B8%E0%B8%A5%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองป่าตอง",
+      "district": "กะทู้",
+      "id": "6a591def85588adb8726e545",
+      "maskedId": "192xxxxxx3261",
+      "name": "อารยา เพ็ชรหวน",
+      "province": "ภูเก็ต",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%AB%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "2999d5f65b9034747c9a8132",
+      "maskedId": "191xxxxxx8010",
+      "name": "อารีญา บูดีนุ้ย",
+      "province": "ภูเก็ต",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%8D%E0%B8%B2-%E0%B8%9A%E0%B8%B9%E0%B8%94%E0%B8%B5%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "b389de1dfc854f2e25aa5340",
+      "maskedId": "191xxxxxx9586",
+      "name": "อารียา บาราสัน",
+      "province": "ภูเก็ต",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "23185ec678540f8b5c083ec5",
+      "maskedId": "191xxxxxx3181",
+      "name": "เจนจิรา คงมี",
+      "province": "ภูเก็ต",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "df5d9969cea9f4406cea3ec9",
+      "maskedId": "180xxxxxx7225",
+      "name": "เบญจพร ริยาพันธ์",
+      "province": "ภูเก็ต",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "ce8090aafc9b3ff13fa87035",
+      "maskedId": "193xxxxxx5462",
+      "name": "เบญจลักษณ์ ภู่ร้อย",
+      "province": "ภูเก็ต",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B9%88%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เทพกระษัตรี",
+      "district": "ถลาง",
+      "id": "bfa515afef057c05771bd2d8",
+      "maskedId": "393xxxxxx1249",
+      "name": "เลอปิติ ทองแดง",
+      "province": "ภูเก็ต",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%9B%E0%B8%B4%E0%B8%95%E0%B8%B4-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%94%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "59b3ad162ca2fec8822f4934",
+      "maskedId": "193xxxxxx1300",
+      "name": "เสาวลักษณ์ พรมนุ่น",
+      "province": "ภูเก็ต",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "79782f05cdb3b2a79dcf56b2",
+      "maskedId": "196xxxxxx8451",
+      "name": "เสาวลักษณ์ สมัครกิจ",
+      "province": "ภูเก็ต",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "c6cf9769a9e6a736847937ea",
+      "maskedId": "180xxxxxx5900",
+      "name": "เอกรักษ์ รัตนบุรี",
+      "province": "ภูเก็ต",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "b128a052a63aaca41001e7f6",
+      "maskedId": "195xxxxxx1778",
+      "name": "โรสลินทร์ มะจะ",
+      "province": "ภูเก็ต",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%A3%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A1%E0%B8%B0%E0%B8%88%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไม้ขาว",
+      "district": "ถลาง",
+      "id": "20ef5b06d5d2d5de3a49be1b",
+      "maskedId": "193xxxxxx3307",
+      "name": "โสภิดา ชูแก้ว",
+      "province": "ภูเก็ต",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%8A%E0%B8%B9%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ภูเก็ต",
+      "district": "เมืองภูเก็ต",
+      "id": "fb105f09283646e08e489add",
+      "maskedId": "195xxxxxx3067",
+      "name": "ไลลา กาลาแต",
+      "province": "ภูเก็ต",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B9%81%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กมลา",
+      "district": "กะทู้",
+      "id": "bbdd5934ab5554b2b08160fa",
+      "maskedId": "191xxxxxx4727",
+      "name": "ไลลา รอดเสน",
+      "province": "ภูเก็ต",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "66_ภูเก็ต.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%A5%E0%B8%A5%E0%B8%B2-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

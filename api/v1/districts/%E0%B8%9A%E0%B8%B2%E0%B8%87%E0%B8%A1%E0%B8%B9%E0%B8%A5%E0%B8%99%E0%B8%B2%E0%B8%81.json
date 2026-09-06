@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "บางมูลนาก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางมูลนาก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังตะกู",
+      "district": "บางมูลนาก",
+      "id": "95503c1eb42db1d267a6cec5",
+      "maskedId": "166xxxxxx8130",
+      "name": "ชลธิชา คำเด่น",
+      "province": "พิจิตร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%84%E0%B8%B3%E0%B9%80%E0%B8%94%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองบางมูลนาก",
+      "district": "บางมูลนาก",
+      "id": "6516fa4f36241d153b5be54a",
+      "maskedId": "110xxxxxx1085",
+      "name": "ชลาลัย จันตะเภา",
+      "province": "พิจิตร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางมูลนาก",
+      "district": "บางมูลนาก",
+      "id": "96c36213a34d2c5f28768741",
+      "maskedId": "120xxxxxx2891",
+      "name": "ชุติพร เจือแสง",
+      "province": "พิจิตร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางไผ่",
+      "district": "บางมูลนาก",
+      "id": "b9f99cff36967993aece03a9",
+      "maskedId": "166xxxxxx5372",
+      "name": "ธัญชนก เชื้อวีระชน",
+      "province": "พิจิตร",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางไผ่",
+      "district": "บางมูลนาก",
+      "id": "bfe1a3865c49d1daa7d2595e",
+      "maskedId": "165xxxxxx4962",
+      "name": "พนิดา กวยทะวิมล",
+      "province": "พิจิตร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%81%E0%B8%A7%E0%B8%A2%E0%B8%97%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเนินมะกอก",
+      "district": "บางมูลนาก",
+      "id": "0c2e6911ac5cb14b7ede9b84",
+      "maskedId": "160xxxxxx4180",
+      "name": "พลากร อรุณโน",
+      "province": "พิจิตร",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%82%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหอไกร",
+      "district": "บางมูลนาก",
+      "id": "88c979adc20556c631cce507",
+      "maskedId": "160xxxxxx8991",
+      "name": "พิชญาภา ศรีมาก",
+      "province": "พิจิตร",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางมูลนาก",
+      "district": "บางมูลนาก",
+      "id": "e863a4f51886d51ecd8c2a60",
+      "maskedId": "142xxxxxx4633",
+      "name": "สาโรช วังคีรี",
+      "province": "พิจิตร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B8%8A-%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลําประดา",
+      "district": "บางมูลนาก",
+      "id": "31571b7da36ec0e72ee174d9",
+      "maskedId": "360xxxxxx3814",
+      "name": "เบญจมาศ เครือคํา",
+      "province": "พิจิตร",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

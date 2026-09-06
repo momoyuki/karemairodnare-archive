@@ -1,0 +1,1799 @@
+{
+  "_meta": {
+    "count": 105,
+    "kind": "province",
+    "name": "พระนครศรีอยุธยา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พระนครศรีอยุธยา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หันตะเภา",
+      "district": "วังน้อย",
+      "id": "47da63cd3cb16243bda36198",
+      "maskedId": "140xxxxxx0719",
+      "name": "กมลวรรณ แก้วมูลตรี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%95%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านลี่",
+      "district": "บางปะหัน",
+      "id": "7828ae30635752a9fbdff04a",
+      "maskedId": "177xxxxxx5487",
+      "name": "กัญญาภัค ประพันธ์บัณฑิต",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางประแดง",
+      "district": "บางปะอิน",
+      "id": "cfcb9d34d33fe4750c0c9318",
+      "maskedId": "110xxxxxx1122",
+      "name": "กาญจนา นิลชัย",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลราชคราม",
+      "district": "บางไทร",
+      "id": "22120196e5f9eddf901d5954",
+      "maskedId": "272xxxxxx8881",
+      "name": "กาญจนา มาลาวงษ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าดินแดง",
+      "district": "ผักไห่",
+      "id": "9fcdf3f896c81f416c10b613",
+      "maskedId": "110xxxxxx4421",
+      "name": "กาญจนาพร ศิลารังษี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 8,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A9%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วัดยม",
+      "district": "บางปะอิน",
+      "id": "9ee202b5ae878cc01ba3c8a5",
+      "maskedId": "112xxxxxx3481",
+      "name": "กานต์รวี สุธรรม",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A3%E0%B8%A7%E0%B8%B5-%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "733083670de68c343b01ba11",
+      "maskedId": "119xxxxxx5186",
+      "name": "กุลนันทน์ ทองอุ่นเรือน",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านลี่",
+      "district": "บางปะหัน",
+      "id": "a89f29bc894aefdd03e1d74a",
+      "maskedId": "373xxxxxx1595",
+      "name": "คนึงนิตย์ สาลีนาค",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%99%E0%B8%B6%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%A5%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางกระสั้น",
+      "district": "บางปะอิน",
+      "id": "346e7781bebb5f2ba19e4ef0",
+      "maskedId": "112xxxxxx0722",
+      "name": "จักกฤษ ทรัพย์คต",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%A4%E0%B8%A9-%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านม้า",
+      "district": "บางไทร",
+      "id": "8775dbebda8dec9dcdf3a9db",
+      "maskedId": "110xxxxxx2884",
+      "name": "จารุธัช จิตต์สว่าง",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%98%E0%B8%B1%E0%B8%8A-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%8C%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านสร้าง",
+      "district": "บางปะอิน",
+      "id": "b615fe2b838f180dbc383772",
+      "maskedId": "119xxxxxx1823",
+      "name": "จิรัชญากาณต์ นวลจันทร์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%93%E0%B8%95%E0%B9%8C-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "บางปะอิน",
+      "id": "dcd67b7d784ce2b28684df90",
+      "maskedId": "110xxxxxx9711",
+      "name": "จิราพร ทีจันทึก",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะหัน",
+      "district": "บางปะหัน",
+      "id": "4d79b7aef2b7fb1dffa65f22",
+      "maskedId": "110xxxxxx2747",
+      "name": "จีรนันท์ ชโลทรรุ่งโรจน์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B5%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%8A%E0%B9%82%E0%B8%A5%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "5932db76a02a5f897498cbfc",
+      "maskedId": "112xxxxxx3913",
+      "name": "ฉัตรชนก ไตรวงศ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากท่า",
+      "district": "ท่าเรือ",
+      "id": "53ded151ba81db780b41a2be",
+      "maskedId": "114xxxxxx6875",
+      "name": "ชนาภัทร สุขนิคม",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะอิน",
+      "district": "บางปะอิน",
+      "id": "6ef5fb801694b5dae89b0811",
+      "maskedId": "190xxxxxx0731",
+      "name": "ณัฎฐรินันท์ นิลรัตน์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กบเจา",
+      "district": "บางบาล",
+      "id": "8bd52f895a88a96f0f391f2a",
+      "maskedId": "112xxxxxx8240",
+      "name": "ณัฐชยา แววเหว่า",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%8A%E0%B8%A2%E0%B8%B2-%E0%B9%81%E0%B8%A7%E0%B8%A7%E0%B9%80%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชะแมบ",
+      "district": "วังน้อย",
+      "id": "25c89b1f51fbb738c4540bb8",
+      "maskedId": "110xxxxxx4385",
+      "name": "ณัฐพร รักกิจ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแค",
+      "district": "ผักไห่",
+      "id": "e76749984d356253cc6f7d91",
+      "maskedId": "119xxxxxx4718",
+      "name": "ณัฐวดี จันคํา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกช้าง",
+      "district": "บางไทร",
+      "id": "eaf2691671973de52028bf85",
+      "maskedId": "115xxxxxx0241",
+      "name": "ณัฐวุฒิ เกิดภาษี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.อุทัย",
+      "district": "อุทัย",
+      "id": "768bcfe35f3af4143a37b6b1",
+      "maskedId": "110xxxxxx1106",
+      "name": "ณัฐศักย์ ศิริรัตน์สถาพร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองสระบัว",
+      "district": "พระนครศรีอยุธยา",
+      "id": "e1ece93d783adab6a8f82b4f",
+      "maskedId": "110xxxxxx6778",
+      "name": "ณิชาพร ศรีสว่างวงศ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางซ้าย",
+      "district": "บางซ้าย",
+      "id": "16d82365cfa497d8f8de930c",
+      "maskedId": "110xxxxxx3136",
+      "name": "ถิรวัฒน์ คุ้มฉายา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%96%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%89%E0%B8%B2%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะหัน",
+      "district": "บางปะหัน",
+      "id": "ade34c3b4a66261beb898c2e",
+      "maskedId": "114xxxxxx4707",
+      "name": "ทัดทรวง รัมสังข์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87-%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "c85fdcc856e9ac1e40150e7c",
+      "maskedId": "140xxxxxx3708",
+      "name": "ทัศนีย์ หลวงยา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หันสัง",
+      "district": "บางปะหัน",
+      "id": "4a1506b2b75d32961dc5b62c",
+      "maskedId": "133xxxxxx0105",
+      "name": "ธนพล เทนโสภา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านสร้าง",
+      "district": "บางปะอิน",
+      "id": "8b8031d9f9b6c4e8b1866158",
+      "maskedId": "119xxxxxx0139",
+      "name": "ธวัชชัย มาเสถียร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเรือ",
+      "district": "ท่าเรือ",
+      "id": "3e773ea9fd22128a403fd4ff",
+      "maskedId": "348xxxxxx2374",
+      "name": "ธิติมา กอมณี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%81%E0%B8%AD%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ไผ่พระ",
+      "district": "บางไทร",
+      "id": "b83b87a9c7e9aa96be872508",
+      "maskedId": "114xxxxxx0493",
+      "name": "ธีรศักดิ์ ธิราชัย",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางนา",
+      "district": "มหาราช",
+      "id": "773cabc08e0a9c221cef6b49",
+      "maskedId": "167xxxxxx3612",
+      "name": "นรินทร แสงเงิน",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พระแก้ว",
+      "district": "ภาชี",
+      "id": "b5c904cff5974299e038d034",
+      "maskedId": "112xxxxxx4820",
+      "name": "นันทิกานต์ ภิรมย์พูล",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองบางไทร",
+      "district": "บางไทร",
+      "id": "de9cb1395d812667a54cad6c",
+      "maskedId": "134xxxxxx3846",
+      "name": "นันทิณี ลอยฟ้า",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางปะหัน",
+      "district": "บางปะหัน",
+      "id": "025d2e269a600680507d8251",
+      "maskedId": "112xxxxxx1235",
+      "name": "นุตรานนท์ สว่างแสง",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางบาล",
+      "district": "บางบาล",
+      "id": "f03bb9aaa23f2994ddc92ea0",
+      "maskedId": "114xxxxxx9669",
+      "name": "บุรินทร์ กิจรัตนี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "cde6d95cc07bc26ddc5bf39a",
+      "maskedId": "116xxxxxx8825",
+      "name": "ปฏิมากรณ์ ติ้วสุวรรณบวร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%A7%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บางนา",
+      "district": "มหาราช",
+      "id": "6c8df42e9dd556e63e879c37",
+      "maskedId": "170xxxxxx7310",
+      "name": "ปรุฬห์ แก้วพร้อมฤกษ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%AC%E0%B8%AB%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วัดยม",
+      "district": "บางปะอิน",
+      "id": "fac8b44da58a796ece521d32",
+      "maskedId": "112xxxxxx7655",
+      "name": "ปิยะพงษ์ ปัญจมณี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดเกรียบ",
+      "district": "บางปะอิน",
+      "id": "345ae7b811916a266e1ace96",
+      "maskedId": "131xxxxxx7591",
+      "name": "ปิ่นสุดา พลพฤกษ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A5%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเรือ",
+      "district": "ท่าเรือ",
+      "id": "ec8a16d18ce56dfe0459eff7",
+      "maskedId": "172xxxxxx6422",
+      "name": "พณิชา นนท์ช้าง",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนครหลวง",
+      "district": "นครหลวง",
+      "id": "c117f9abd1dc0cddf3bdf8bc",
+      "maskedId": "115xxxxxx7005",
+      "name": "พรพิพัฒน์ กาศเจริญ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะหัน",
+      "district": "บางปะหัน",
+      "id": "e577eb238c55da38601b5c46",
+      "maskedId": "126xxxxxx2320",
+      "name": "พัชรพร ประสงค์ศรี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระจิว",
+      "district": "ภาชี",
+      "id": "1da43f514a5d44a489bd73c4",
+      "maskedId": "152xxxxxx7950",
+      "name": "พัชรียา บุญศิริ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสาธง",
+      "district": "บางปะหัน",
+      "id": "b13c0d224060cd6d394f2aa2",
+      "maskedId": "110xxxxxx7255",
+      "name": "พัฐสุดา เขียวขาว",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%90%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดเกรียบ",
+      "district": "บางปะอิน",
+      "id": "bece79c494b0c20a749e1e5c",
+      "maskedId": "113xxxxxx5339",
+      "name": "พัฒนพงศ์ ประสาททอง",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%97%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สนามชัย",
+      "district": "บางไทร",
+      "id": "a21407808b1bcd7a03e03895",
+      "maskedId": "131xxxxxx3880",
+      "name": "พันธกานต์ ปราบสกุล",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.กบเจา",
+      "district": "บางบาล",
+      "id": "ed74209cbcce27303f0825ae",
+      "maskedId": "113xxxxxx4976",
+      "name": "พิทยา อาดํา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 5,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านใหม่มหาราช",
+      "district": "มหาราช",
+      "id": "dcb857f9d47962b7efb0bb53",
+      "maskedId": "171xxxxxx7720",
+      "name": "พิทวัส เทพเทียน",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%A7%E0%B8%B1%E0%B8%AA-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สิงหนาท",
+      "district": "ลาดบัวหลวง",
+      "id": "75554bc83f46a1eab2e010ae",
+      "maskedId": "172xxxxxx9437",
+      "name": "พิมพ์พร คาบสมุทร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สนามชัย",
+      "district": "บางไทร",
+      "id": "d7a8ac1aa51e29223ed62f04",
+      "maskedId": "110xxxxxx0547",
+      "name": "พิมพ์วดี คุณสุวรรณ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ลาดชิด",
+      "district": "ผักไห่",
+      "id": "48450382e898fd27813f9dd1",
+      "maskedId": "193xxxxxx2867",
+      "name": "พิรุฬห์ลักษณ์ นวนมุสิด",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%AC%E0%B8%AB%E0%B9%8C%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักชัย",
+      "district": "ลาดบัวหลวง",
+      "id": "af3106402d311c6f4c3ff147",
+      "maskedId": "176xxxxxx2131",
+      "name": "พิสิฐเกียรติ ภู่รัตนโอภา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%90%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4-%E0%B8%A0%E0%B8%B9%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%82%E0%B8%AD%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สามบัณฑิต",
+      "district": "อุทัย",
+      "id": "9023dcd2a3348ca04e4b2822",
+      "maskedId": "148xxxxxx2003",
+      "name": "ภคณัฐ วิโย",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%84%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%A7%E0%B8%B4%E0%B9%82%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มารวิชัย",
+      "district": "เสนา",
+      "id": "d042c98d39b3c9927351dfba",
+      "maskedId": "312xxxxxx2666",
+      "name": "ภัคณัฎฐ์ ผินกลับ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%84%E0%B8%93%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B9%8C-%E0%B8%9C%E0%B8%B4%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลราชคราม",
+      "district": "บางไทร",
+      "id": "4212ad0f5fbf0579d2758d85",
+      "maskedId": "146xxxxxx4739",
+      "name": "ภัสพิชญ์ชา สันประภา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C%E0%B8%8A%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลราชคราม",
+      "district": "บางไทร",
+      "id": "2d37d0d6cdc6d3de76b46695",
+      "maskedId": "119xxxxxx2941",
+      "name": "ภาริณีย์ เที่ยงธรรม",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองไม้ซุง",
+      "district": "อุทัย",
+      "id": "0a0cc62965949e6c717e35b6",
+      "maskedId": "110xxxxxx7814",
+      "name": "ภิญญาพัชญ์ ชมภู",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%8A%E0%B8%A1%E0%B8%A0%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "d2acd8c3504382e25f1dfa98",
+      "maskedId": "110xxxxxx7383",
+      "name": "ภิเษก สมคิด",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B4%E0%B9%80%E0%B8%A9%E0%B8%81-%E0%B8%AA%E0%B8%A1%E0%B8%84%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักชัย",
+      "district": "ลาดบัวหลวง",
+      "id": "17ce3fd6623f62d2f41811d8",
+      "maskedId": "119xxxxxx4461",
+      "name": "มณทิรา วงษ์พันธ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านหว้า",
+      "district": "บางปะอิน",
+      "id": "68225e3576b783ab57f25c97",
+      "maskedId": "110xxxxxx0891",
+      "name": "มัณฑนา วงศ์เงิน",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%99%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพสาวหาญ",
+      "district": "อุทัย",
+      "id": "32bb1f5ebcd3e48fd8f8b400",
+      "maskedId": "112xxxxxx2198",
+      "name": "รัชชานนท์ ทองย้อย",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A2%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเชียงรากน้อย",
+      "district": "บางปะอิน",
+      "id": "ae7133daa90b68f98882ea54",
+      "maskedId": "110xxxxxx9396",
+      "name": "รัชชานนท์ นาคประดิษฐ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 3,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางซ้าย",
+      "district": "บางซ้าย",
+      "id": "fd8fd04c306fb66f6c6d79ca",
+      "maskedId": "117xxxxxx9615",
+      "name": "รัตนาพร เรือนเงิน",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลอรัญญิก",
+      "district": "นครหลวง",
+      "id": "487a57a00d741f86f7ae6e87",
+      "maskedId": "112xxxxxx3709",
+      "name": "วงศิน ชนัญพานิช",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%99-%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หน้าโคก",
+      "district": "ผักไห่",
+      "id": "8368aeceeff81a8b1ebe61cb",
+      "maskedId": "170xxxxxx1365",
+      "name": "วทัญญา ศรธนู",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%97%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%98%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านเกาะ",
+      "district": "พระนครศรีอยุธยา",
+      "id": "a6dce2f4a12a057fe2881291",
+      "maskedId": "170xxxxxx9078",
+      "name": "วรนารี คงกลิ่น",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B5-%E0%B8%84%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านลี่",
+      "district": "บางปะหัน",
+      "id": "fdcdfab34aded7aaef7122e3",
+      "maskedId": "112xxxxxx5399",
+      "name": "วรรณชัย จั่นเพ็ช",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดเกรียบ",
+      "district": "บางปะอิน",
+      "id": "64fd63a00c5726599f18a9eb",
+      "maskedId": "110xxxxxx4786",
+      "name": "วรรณรัตน์ รอดเจริญ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางนา",
+      "district": "มหาราช",
+      "id": "09e3191133fcc4e533f74181",
+      "maskedId": "110xxxxxx4139",
+      "name": "วราภรณ์ โพธิ์สุข",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองสระบัว",
+      "district": "พระนครศรีอยุธยา",
+      "id": "954318109e1313e6a4221750",
+      "maskedId": "110xxxxxx6543",
+      "name": "วิภารัตน์ พรหมพินิจ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวนพริก",
+      "district": "พระนครศรีอยุธยา",
+      "id": "697c2cb8b1a11d54e81104fa",
+      "maskedId": "172xxxxxx9838",
+      "name": "วิภาวี เหมพิจิตร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B5-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สนับทึบ",
+      "district": "วังน้อย",
+      "id": "75b6c3679c79d70e75a6026a",
+      "maskedId": "134xxxxxx1294",
+      "name": "วิวัฒน์ บาระมี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "บางปะอิน",
+      "id": "f99e44592e0350fa42ef5e5b",
+      "maskedId": "110xxxxxx0037",
+      "name": "ศรัณยู นะราศรี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B8%B9-%E0%B8%99%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองน้ำส้ม",
+      "district": "อุทัย",
+      "id": "b6df883f076ea2fa3cc3ea9a",
+      "maskedId": "110xxxxxx0553",
+      "name": "ศรันด้า สุริวงค์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครพระนครศรีอยุธยา",
+      "district": "พระนครศรีอยุธยา",
+      "id": "4374d3b748832b136036d346",
+      "maskedId": "110xxxxxx1528",
+      "name": "ศศิญา แย้มนาค",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 3,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%8D%E0%B8%B2-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สิงหนาท",
+      "district": "ลาดบัวหลวง",
+      "id": "4565ba224f67839cd679189e",
+      "maskedId": "112xxxxxx1096",
+      "name": "ศิรินทิพย์ จันทร์เจ็ก",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อุทัย",
+      "district": "อุทัย",
+      "id": "887822c0870d8461a1761af8",
+      "maskedId": "112xxxxxx8528",
+      "name": "ศิริลักษณ์ ศรีปานเงิน",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระจิว",
+      "district": "ภาชี",
+      "id": "d23121f53a5bb8757a8a3e2f",
+      "maskedId": "111xxxxxx3922",
+      "name": "ศุภกฤต สุริวงศ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักชัย",
+      "district": "ลาดบัวหลวง",
+      "id": "10bbf52fe1d7b0b5235812fd",
+      "maskedId": "110xxxxxx0121",
+      "name": "ศุภชัย แสงล้ํา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A5%E0%B9%89%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลโรงช้าง",
+      "district": "มหาราช",
+      "id": "a62e535dd52ba77c319827a1",
+      "maskedId": "114xxxxxx0188",
+      "name": "สถาพร จําหาญ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 4,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลภาชี",
+      "district": "ภาชี",
+      "id": "5bbb7abdb4f0226295cb030e",
+      "maskedId": "110xxxxxx6350",
+      "name": "สนม แซ่โค้ว",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%99%E0%B8%A1-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเรือ",
+      "district": "ท่าเรือ",
+      "id": "6ef2609bd9c0c40750257c6f",
+      "maskedId": "147xxxxxx1361",
+      "name": "สยามยุทธ แสงวงค์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลบางซ้าย",
+      "district": "บางซ้าย",
+      "id": "bab7a9fc046d4bae095561d3",
+      "maskedId": "120xxxxxx5725",
+      "name": "สันติลักษณ์ ฤกษ์ประกอบ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสามกอ",
+      "district": "เสนา",
+      "id": "c72f973e5b643878cdfdb56c",
+      "maskedId": "112xxxxxx3157",
+      "name": "สุธาทิพย์ สอนสงวน",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านชุ้ง",
+      "district": "นครหลวง",
+      "id": "0f2ff2a0f04aaa156a567665",
+      "maskedId": "148xxxxxx8715",
+      "name": "สุธิดา บุตรวิเศษ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "บางปะอิน",
+      "id": "8e71a6f03a9261d84ab66546",
+      "maskedId": "130xxxxxx8308",
+      "name": "สุธิดา โคตรโนนกอก",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%82%E0%B8%99%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วัดยม",
+      "district": "บางปะอิน",
+      "id": "b80a2c0863d7c948135150ce",
+      "maskedId": "110xxxxxx9523",
+      "name": "สุภาพร วงศ์ดี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักชัย",
+      "district": "ลาดบัวหลวง",
+      "id": "7bc2700a4a781cf1ddfb5417",
+      "maskedId": "112xxxxxx4617",
+      "name": "สุภาภรณ์ ขำใบ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%82%E0%B8%B3%E0%B9%83%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางนา",
+      "district": "มหาราช",
+      "id": "34f04e03203b923509dfc102",
+      "maskedId": "190xxxxxx3097",
+      "name": "หริรัศมิ์ หิรัญสถิตย์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B4%E0%B9%8C-%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%AA%E0%B8%96%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครพระนครศรีอยุธยา",
+      "district": "พระนครศรีอยุธยา",
+      "id": "63ec8535eca35f5401439d1f",
+      "maskedId": "119xxxxxx1480",
+      "name": "อนุตรา คงสมบูรณ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะอิน",
+      "district": "บางปะอิน",
+      "id": "38d3e62755b0b329ee261150",
+      "maskedId": "154xxxxxx9401",
+      "name": "อมลวรรณ ลือโลก",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%A5%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองไม้ซุง",
+      "district": "อุทัย",
+      "id": "9921e08a98412e6d462626e3",
+      "maskedId": "335xxxxxx6839",
+      "name": "อรอุมา ศรีวะรมย์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%B8%E0%B8%A1%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B0%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านสร้าง",
+      "district": "บางปะอิน",
+      "id": "300aa243c94eb88af71b786e",
+      "maskedId": "110xxxxxx5655",
+      "name": "อัจฉราพร วิชาพร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านม้า",
+      "district": "บางไทร",
+      "id": "51973cfd4ea8087ed93c738a",
+      "maskedId": "110xxxxxx0019",
+      "name": "อัมธิกา นิมา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "6300bcc699006a255358b5f5",
+      "maskedId": "114xxxxxx6481",
+      "name": "อารยา เข็มนาค",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%82%E0%B9%87%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "eebd2ac15e0d55667c26f3b6",
+      "maskedId": "180xxxxxx3832",
+      "name": "อิทธิกร บุตรเจริญ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กระจิว",
+      "district": "ภาชี",
+      "id": "67fe2822e82efd4d23214e6a",
+      "maskedId": "114xxxxxx3609",
+      "name": "อินทิรา รัมมะบุตร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากท่า",
+      "district": "ท่าเรือ",
+      "id": "28303446fd872c75356d94e1",
+      "maskedId": "133xxxxxx9555",
+      "name": "อโนทัย ยกพล",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B9%82%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "f9ad0614de7c2afb694210ce",
+      "maskedId": "110xxxxxx8431",
+      "name": "เกตุกนก ฤกษ์สนธิ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%81-%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ปลายกลัด",
+      "district": "บางซ้าย",
+      "id": "1dbe6e1bcc9293dfc34fbe39",
+      "maskedId": "171xxxxxx8806",
+      "name": "เป็นหนึ่ง พุกนิลฉาย",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87-%E0%B8%9E%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%89%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปราสาททอง",
+      "district": "บางปะอิน",
+      "id": "229365d3a75780d0753b6485",
+      "maskedId": "173xxxxxx0116",
+      "name": "เมญาดา พงค์รัชทัศ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%97%E0%B8%B1%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกช้าง",
+      "district": "บางไทร",
+      "id": "7bb2084f36739266bc3a6541",
+      "maskedId": "112xxxxxx5304",
+      "name": "เมธาวี ขันแก้ว",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%B5-%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โพแตง",
+      "district": "บางไทร",
+      "id": "d64b55809d2e3b0d81a8b8cc",
+      "maskedId": "114xxxxxx5229",
+      "name": "เสรี พลีรุขชาติ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5-%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A3%E0%B8%B8%E0%B8%82%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังน้อย",
+      "district": "วังน้อย",
+      "id": "d1d7a682ed05787624fb8118",
+      "maskedId": "313xxxxxx4825",
+      "name": "เสาวณีย์ กล่ำอยู่สุข",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%B3%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะหัน",
+      "district": "บางปะหัน",
+      "id": "a7ea971888ae1e4989268baa",
+      "maskedId": "141xxxxxx2591",
+      "name": "เอกราช ปัญญาใส",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%83%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะหัน",
+      "district": "บางปะหัน",
+      "id": "5b8804e48d76db859c297e92",
+      "maskedId": "133xxxxxx1769",
+      "name": "โสภิดา คูคํา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%84%E0%B8%B9%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

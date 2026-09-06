@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "province",
+    "name": "ยโสธร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ยโสธร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.ยโสธร",
+      "district": "เมืองยโสธร",
+      "id": "15addad518d991406743a431",
+      "maskedId": "146xxxxxx6311",
+      "name": "กันย์ลภัส วรากิตติโยธินกุล",
+      "province": "ยโสธร",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%A5%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B9%82%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าติ้ว",
+      "district": "ป่าติ้ว",
+      "id": "1cbf5ad8e8909ccaeb8bd1ce",
+      "maskedId": "133xxxxxx1220",
+      "name": "ขนิตฐา สุภาพ",
+      "province": "ยโสธร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%90%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "กุดชุม",
+      "id": "0a20da596bce86afb0c77d7a",
+      "maskedId": "145xxxxxx9900",
+      "name": "ณัฐพล อัตตะวิชา",
+      "province": "ยโสธร",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บึงแก",
+      "district": "มหาชนะชัย",
+      "id": "c2c139c0ce21e9f737852bf4",
+      "maskedId": "146xxxxxx7327",
+      "name": "พงษ์นรินทร์ กางสี",
+      "province": "ยโสธร",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลนาสะไมย์",
+      "district": "เมืองยโสธร",
+      "id": "9947dd6048c48c1461f6fcea",
+      "maskedId": "145xxxxxx0408",
+      "name": "ภูเบศ ขจรสมบัติ",
+      "province": "ยโสธร",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%9A%E0%B8%A8-%E0%B8%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ยโสธร",
+      "district": "เมืองยโสธร",
+      "id": "b0b7e98590ce45d215a077e1",
+      "maskedId": "132xxxxxx2892",
+      "name": "วราภรณ์ ไผ่แก้ว",
+      "province": "ยโสธร",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%84%E0%B8%9C%E0%B9%88%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดงเจริญ",
+      "district": "คำเขื่อนแก้ว",
+      "id": "54c9e6771187f754171b34e1",
+      "maskedId": "141xxxxxx0806",
+      "name": "วิสุดตา วงษ์เปลียว",
+      "province": "ยโสธร",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%95%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสามัคคี",
+      "district": "เลิงนกทา",
+      "id": "0e646119b59690f6c2d5ee0b",
+      "maskedId": "132xxxxxx8455",
+      "name": "ศิรภัสสร สิริอิทธิเวคิน",
+      "province": "ยโสธร",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%84%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองแหน",
+      "district": "กุดชุม",
+      "id": "8032c6d8e5c48aa8604615e6",
+      "maskedId": "133xxxxxx0593",
+      "name": "อภิชาติ สายแก้ว",
+      "province": "ยโสธร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบจ.ยโสธร",
+      "district": "เมืองยโสธร",
+      "id": "cde68028d2f474b98ffc974a",
+      "maskedId": "140xxxxxx4654",
+      "name": "เบญจมาศ พร้อมพรั่ง",
+      "province": "ยโสธร",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "24_ยโสธร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

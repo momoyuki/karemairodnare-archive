@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "agency",
+    "name": "เทศบาลเมืองดอนหัวฬ่อ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองดอนหัวฬ่อ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "f46edab7ee5d8c5e636831b7",
+      "maskedId": "134xxxxxx2268",
+      "name": "กมลชนก รัตนสุภา",
+      "province": "ชลบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "6daa6f39ebb5fc6f55525f80",
+      "maskedId": "110xxxxxx7004",
+      "name": "คุณากร ทิพวัตร",
+      "province": "ชลบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "0837cc7b7a1830cbd37129ea",
+      "maskedId": "134xxxxxx4461",
+      "name": "ปณิธิ จอกนาค",
+      "province": "ชลบุรี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%98%E0%B8%B4-%E0%B8%88%E0%B8%AD%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "aec9c694bfcabca3ac4a0ca8",
+      "maskedId": "320xxxxxx0478",
+      "name": "วรารัก ตั้งเซียน",
+      "province": "ชลบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "8074ab83779c23302f7d3db5",
+      "maskedId": "152xxxxxx5793",
+      "name": "หทัยรัตน์ ยะทุ่งตัน",
+      "province": "ชลบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A2%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "494f530af3429296cf368e09",
+      "maskedId": "341xxxxxx5340",
+      "name": "อรรถวิโรจน์ บุรีเพีย",
+      "province": "ชลบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%A7%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "f3b62d604694bab00d74165d",
+      "maskedId": "126xxxxxx4357",
+      "name": "เอกอนงค์ โกโสภา",
+      "province": "ชลบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B9%82%E0%B8%81%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

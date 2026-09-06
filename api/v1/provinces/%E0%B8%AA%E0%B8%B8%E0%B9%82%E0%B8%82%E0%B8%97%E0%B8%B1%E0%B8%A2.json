@@ -1,0 +1,558 @@
+{
+  "_meta": {
+    "count": 32,
+    "kind": "province",
+    "name": "สุโขทัย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สุโขทัย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลคลองยาง",
+      "district": "สวรรคโลก",
+      "id": "c9010cb7f653151f5d94309a",
+      "maskedId": "190xxxxxx9011",
+      "name": "จักรราช ชูจิต",
+      "province": "สุโขทัย",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A-%E0%B8%8A%E0%B8%B9%E0%B8%88%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านโตนด",
+      "district": "คีรีมาศ",
+      "id": "c576421a8d2f941192c6b9dd",
+      "maskedId": "363xxxxxx0390",
+      "name": "ชณนบ ชื่นครอบ",
+      "province": "สุโขทัย",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%93%E0%B8%99%E0%B8%9A-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเสลี่ยม",
+      "district": "ทุ่งเสลี่ยม",
+      "id": "c0fde8045d73f65a09ede7d8",
+      "maskedId": "563xxxxxx2944",
+      "name": "ชนารัศมิ์ แก้วจันทร์เพชร",
+      "province": "สุโขทัย",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B4%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านโตนด",
+      "district": "คีรีมาศ",
+      "id": "688d9d18922259087156ed44",
+      "maskedId": "164xxxxxx3510",
+      "name": "ชนิดา เรืองปุ้ย",
+      "province": "สุโขทัย",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกลางดง",
+      "district": "ทุ่งเสลี่ยม",
+      "id": "b3478f7a6005e28f651cd577",
+      "maskedId": "165xxxxxx0112",
+      "name": "ญาธิณี ด่านทิม",
+      "province": "สุโขทัย",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8D%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "บ้านด่านลานหอย",
+      "id": "4b4c20675eccd03ce5178307",
+      "maskedId": "152xxxxxx8238",
+      "name": "ณัฎฐพัชร กาศโอสถ",
+      "province": "สุโขทัย",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%96",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ศรีคีรีมาศ",
+      "district": "คีรีมาศ",
+      "id": "9d4c56b0c25e191005d3a153",
+      "maskedId": "165xxxxxx3734",
+      "name": "ณัฐมล ทองรักษ์",
+      "province": "สุโขทัย",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%A5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "6e0b2a2ff3b88f9c8d8feddb",
+      "maskedId": "142xxxxxx0023",
+      "name": "ตติยา ศรีอินทร์",
+      "province": "สุโขทัย",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังลึก",
+      "district": "บ้านด่านลานหอย | ศรีสำโรง | สามชุก",
+      "id": "479014b364684e0d41c026d3",
+      "maskedId": "165xxxxxx8136",
+      "name": "ธนวรรณ วัชรากูล",
+      "province": "สุโขทัย",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.ป่าแฝก",
+      "district": "กงไกรลาศ",
+      "id": "dddc58ea3b86df97e95b03bc",
+      "maskedId": "164xxxxxx5806",
+      "name": "ธนิดา อินทร์นา",
+      "province": "สุโขทัย",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "6d92cad186928da11a9a644c",
+      "maskedId": "153xxxxxx0386",
+      "name": "ธีรวัฒน์ เวชกามา",
+      "province": "สุโขทัย",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีคีรีมาศ",
+      "district": "คีรีมาศ",
+      "id": "796610a1150cee350f7f5013",
+      "maskedId": "165xxxxxx6314",
+      "name": "ธีรวัสส์ วัชรากูล",
+      "province": "สุโขทัย",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "c4e4a5b14f553d0b273be369",
+      "maskedId": "191xxxxxx2367",
+      "name": "นัจญามีย์ อาหน่าย",
+      "province": "สุโขทัย",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%88%E0%B8%8D%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแก่ง",
+      "district": "ศรีสัชนาลัย",
+      "id": "5431ab5c1311bafc53e0299a",
+      "maskedId": "167xxxxxx1965",
+      "name": "นิชดา ไชยสิทธิ์",
+      "province": "สุโขทัย",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%8A%E0%B8%94%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เกาะตาเลี้ยง",
+      "district": "ศรีสำโรง",
+      "id": "25dcdfbc3bc76fea09c155e3",
+      "maskedId": "164xxxxxx4132",
+      "name": "นิตยา สืบพันธ์",
+      "province": "สุโขทัย",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองบัว",
+      "district": "ศรีนคร",
+      "id": "980cbaa7929290bb8ec300b5",
+      "maskedId": "153xxxxxx3881",
+      "name": "ปลายฟ้า เรืองฤทธิ์",
+      "province": "สุโขทัย",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านซ่าน",
+      "district": "ศรีสำโรง",
+      "id": "80a76ef451fb96c892303ace",
+      "maskedId": "164xxxxxx4389",
+      "name": "ปวีณา สีโอ",
+      "province": "สุโขทัย",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B9%82%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "0a3daa661ce07c688b4f9ac6",
+      "maskedId": "112xxxxxx6768",
+      "name": "ปาริชาติ แสนใจวุฒิ",
+      "province": "สุโขทัย",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านโตนด",
+      "district": "คีรีมาศ",
+      "id": "69aa9cc8a06425ec6cefa018",
+      "maskedId": "163xxxxxx5468",
+      "name": "ปิยะนุช แพทย์หลักฟ้า",
+      "province": "สุโขทัย",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%9F%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "ab2aa3794ab909bd713e20f6",
+      "maskedId": "164xxxxxx8145",
+      "name": "พัฒน์นรี แจ้งดี",
+      "province": "สุโขทัย",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%B5-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกงไกรลาศ",
+      "district": "กงไกรลาศ",
+      "id": "50f811fddee6631f19275b46",
+      "maskedId": "165xxxxxx1259",
+      "name": "พัสกร ลิมานนท์ดำรงค์",
+      "province": "สุโขทัย",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%A3-%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%94%E0%B8%B3%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่สิน",
+      "district": "ศรีสัชนาลัย",
+      "id": "ad144aa614e331ddf32a81ca",
+      "maskedId": "141xxxxxx0202",
+      "name": "ภควินทร์ เจริญศรี",
+      "province": "สุโขทัย",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไกรใน",
+      "district": "กงไกรลาศ",
+      "id": "0069fe6f700dcc544b4cfddc",
+      "maskedId": "165xxxxxx1838",
+      "name": "มยุรี จันดาวงษ์",
+      "province": "สุโขทัย",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%A3%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองมะพลับ",
+      "district": "ศรีนคร",
+      "id": "6eed5d07da3634ca9bdb8c66",
+      "maskedId": "153xxxxxx5924",
+      "name": "วรรณิศา สุโสม",
+      "province": "สุโขทัย",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองกระดิ่ง",
+      "district": "คีรีมาศ",
+      "id": "1cc37aad6921ef620aa5fb58",
+      "maskedId": "162xxxxxx2179",
+      "name": "วิษณุ เชิดเมืองปัก",
+      "province": "สุโขทัย",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8-%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีคีรีมาศ",
+      "district": "คีรีมาศ",
+      "id": "a115bd33fe68e5bd0f475368",
+      "maskedId": "164xxxxxx3851",
+      "name": "ศิริพร ดําดี",
+      "province": "สุโขทัย",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%94%E0%B9%8D%E0%B8%B2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่สิน",
+      "district": "ศรีสัชนาลัย",
+      "id": "6b3546729dc6d7f5be95995f",
+      "maskedId": "167xxxxxx0457",
+      "name": "ศิวดล ทองวัน",
+      "province": "สุโขทัย",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%94%E0%B8%A5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองอ้อ",
+      "district": "ศรีสัชนาลัย",
+      "id": "ebb4307288bf98155d2f53e2",
+      "maskedId": "153xxxxxx5218",
+      "name": "สุนิษา น้อยแข",
+      "province": "สุโขทัย",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%82",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองจิก",
+      "district": "คีรีมาศ",
+      "id": "478074bfeb1895f4354d90a7",
+      "maskedId": "162xxxxxx1467",
+      "name": "สุนิสา มวลจุมพล",
+      "province": "สุโขทัย",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%A1%E0%B8%A7%E0%B8%A5%E0%B8%88%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากหน้าบุคลากรทางการ"
+    },
+    {
+      "agency": "อบต.บ้านน้ำพุ",
+      "district": "คีรีมาศ",
+      "id": "f44d6eca3f542bd77e9f0fc0",
+      "maskedId": "111xxxxxx3748",
+      "name": "อภิสรา แจ่มหม้อ",
+      "province": "สุโขทัย",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B9%89%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "f5f3a283d22c6620930ce575",
+      "maskedId": "156xxxxxx7027",
+      "name": "อัณชยารัศมิ์ ระวิวรรณ์",
+      "province": "สุโขทัย",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%93%E0%B8%8A%E0%B8%A2%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B4%E0%B9%8C-%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองมะพลับ",
+      "district": "ศรีนคร",
+      "id": "3bca12d3663d1278c6002a70",
+      "maskedId": "363xxxxxx8730",
+      "name": "อโณทัย ใจพรมมา",
+      "province": "สุโขทัย",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B9%82%E0%B8%93%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B9%83%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

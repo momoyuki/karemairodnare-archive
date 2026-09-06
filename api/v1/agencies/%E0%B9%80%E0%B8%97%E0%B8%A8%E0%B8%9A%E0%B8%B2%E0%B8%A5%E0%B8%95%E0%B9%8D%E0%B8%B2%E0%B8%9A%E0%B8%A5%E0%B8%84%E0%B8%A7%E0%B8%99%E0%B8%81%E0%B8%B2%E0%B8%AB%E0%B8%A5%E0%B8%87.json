@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตําบลควนกาหลง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลควนกาหลง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลควนกาหลง",
+      "district": "ควนกาหลง",
+      "id": "b09ae4d5c7f7bde66978d7b0",
+      "maskedId": "194xxxxxx5449",
+      "name": "นูรซาวซัน ลอเซ็ง",
+      "province": "สตูล",
+      "scoreChange": 70,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%8B%E0%B8%B2%E0%B8%A7%E0%B8%8B%E0%B8%B1%E0%B8%99-%E0%B8%A5%E0%B8%AD%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลควนกาหลง",
+      "district": "ควนกาหลง",
+      "id": "8108a57fd43eeb370b6f2986",
+      "maskedId": "190xxxxxx8724",
+      "name": "อาฮาหมัด อิมิง",
+      "province": "สตูล",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%AE%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94-%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

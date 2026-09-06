@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบจ.อุทัยธานี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบจ-อุทัยธานี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.อุทัยธานี",
+      "district": "เมืองอุทัยธานี",
+      "id": "0b37869eeec51d319633d379",
+      "maskedId": "161xxxxxx0111",
+      "name": "ธนากร โรจนพันธ์",
+      "province": "อุทัยธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "48_อุทัยธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.อุทัยธานี",
+      "district": "เมืองอุทัยธานี",
+      "id": "51acf49c31be4953a69fb8fa",
+      "maskedId": "161xxxxxx1026",
+      "name": "นนทวัฒน์ อ่อนวิมล",
+      "province": "อุทัยธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "48_อุทัยธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.อุทัยธานี",
+      "district": "เมืองอุทัยธานี",
+      "id": "5fddaec8948f6e247281881e",
+      "maskedId": "166xxxxxx5167",
+      "name": "ภควัต จําเนียร",
+      "province": "อุทัยธานี",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "48_อุทัยธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%84%E0%B8%A7%E0%B8%B1%E0%B8%95-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.อุทัยธานี",
+      "district": "เมืองอุทัยธานี",
+      "id": "250710923e4d35f0e7845942",
+      "maskedId": "131xxxxxx8073",
+      "name": "ศิรินธาร ป่าพะนัด",
+      "province": "อุทัยธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "48_อุทัยธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B2%E0%B8%A3-%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B0%E0%B8%99%E0%B8%B1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.อุทัยธานี",
+      "district": "เมืองอุทัยธานี",
+      "id": "0c4f97f923591848d06c57b8",
+      "maskedId": "167xxxxxx2526",
+      "name": "ศิริลักษณ์ ปัทวี",
+      "province": "อุทัยธานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "48_อุทัยธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%97%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.อุทัยธานี",
+      "district": "เมืองอุทัยธานี",
+      "id": "57f0c4f2e6a6e55e47da4ba2",
+      "maskedId": "161xxxxxx2837",
+      "name": "อรวรรณ พงษ์ดี",
+      "province": "อุทัยธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "48_อุทัยธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

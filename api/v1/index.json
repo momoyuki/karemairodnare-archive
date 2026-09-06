@@ -1,0 +1,67 @@
+{
+  "_meta": {
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "documentation": "https://260816-karemairodnare.vercel.app/api",
+  "endpoints": [
+    {
+      "description": "รายการ endpoint ทั้งหมด",
+      "path": "/api/v1/index.json",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/index.json"
+    },
+    {
+      "description": "จำนวนเอกสาร หน้า และหมวดหมู่ของชุดข้อมูล",
+      "path": "/api/v1/meta.json",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/meta.json"
+    },
+    {
+      "description": "ทุกรายการในชุดข้อมูล 3963 รายการ",
+      "path": "/api/v1/records.json",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/records.json"
+    },
+    {
+      "description": "รายชื่อจังหวัด 77 รายการ พร้อมจำนวนคนและ URL ของแต่ละจังหวัด",
+      "path": "/api/v1/provinces.json",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces.json"
+    },
+    {
+      "description": "ทุกรายการในจังหวัดที่ระบุ",
+      "path": "/api/v1/provinces/{slug}.json",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95.json"
+    },
+    {
+      "description": "รายชื่ออำเภอ 657 รายการ",
+      "path": "/api/v1/districts.json",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts.json"
+    },
+    {
+      "description": "ทุกรายการในอำเภอที่ระบุ",
+      "path": "/api/v1/districts/{slug}.json",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/districts/%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95.json"
+    },
+    {
+      "description": "รายชื่อหน่วยงาน 1945 รายการ",
+      "path": "/api/v1/agencies.json",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/agencies.json"
+    },
+    {
+      "description": "ทุกรายการในหน่วยงานที่ระบุ",
+      "path": "/api/v1/agencies/{slug}.json",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/agencies/%E0%B8%AD%E0%B8%9A%E0%B8%88-%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95.json"
+    },
+    {
+      "description": "สเปกสำหรับ generate client หรือเปิดใน Swagger UI",
+      "path": "/api/v1/openapi.json",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/openapi.json"
+    }
+  ],
+  "notes": [
+    "ทุก endpoint เป็นไฟล์ static เสิร์ฟจาก CDN ไม่มี rate limit และไม่ต้องใช้ API key",
+    "เปิด CORS ให้ทุก origin จึงเรียกจากเบราว์เซอร์ได้โดยตรง",
+    "ข้อมูลเปลี่ยนเฉพาะตอน deploy ใหม่ กรุณา cache ฝั่งผู้ใช้แทนการเรียกซ้ำทุกครั้ง",
+    "ทุกแถวมี sources ที่อ้างชื่อไฟล์และเลขหน้าเอกสารต้นฉบับ กรุณาคงไว้เมื่อเผยแพร่ต่อ"
+  ]
+}

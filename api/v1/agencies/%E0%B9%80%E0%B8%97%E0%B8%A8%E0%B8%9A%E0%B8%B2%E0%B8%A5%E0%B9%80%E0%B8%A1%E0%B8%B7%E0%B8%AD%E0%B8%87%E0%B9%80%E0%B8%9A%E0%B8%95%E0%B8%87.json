@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "เทศบาลเมืองเบตง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองเบตง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "6ac9c41abed6d0b09798990c",
+      "maskedId": "390xxxxxx4697",
+      "name": "จตุพร วงศ์จันทร์",
+      "province": "ยะลา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "6883475ce881e1e0f0f1273a",
+      "maskedId": "156xxxxxx6877",
+      "name": "ปิยานุช ไชยา",
+      "province": "ยะลา",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "64c111e59ec13318f571e5d2",
+      "maskedId": "190xxxxxx9680",
+      "name": "พงศรินทร์ คงสง",
+      "province": "ยะลา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "d6d3d53b0a6f5cd276fa2bf8",
+      "maskedId": "195xxxxxx7263",
+      "name": "มะยากี มะเล๊าะ",
+      "province": "ยะลา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B5-%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B9%8A%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "a132f8dbb1cd19862ab505e3",
+      "maskedId": "190xxxxxx6042",
+      "name": "วัชรินทร์ สมพงศ์",
+      "province": "ยะลา",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "f14767ee407047c353d064fb",
+      "maskedId": "195xxxxxx1828",
+      "name": "เสรี ดอแนเล๊าะ",
+      "province": "ยะลา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5-%E0%B8%94%E0%B8%AD%E0%B9%81%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%8A%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "บางใหญ่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางใหญ่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองบางแม่นาง",
+      "district": "บางใหญ่",
+      "id": "65b049c605f331e69f6b785b",
+      "maskedId": "171xxxxxx1657",
+      "name": "ณิชกานต์ พุ่มสงวน",
+      "province": "นนทบุรี",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางแม่นาง",
+      "district": "บางใหญ่",
+      "id": "cadaf9ccfe42a4653eef2e4e",
+      "maskedId": "110xxxxxx0487",
+      "name": "ธนวัฒน์ คลองข่อย",
+      "province": "นนทบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางแม่นาง",
+      "district": "บางใหญ่",
+      "id": "10465ea81a5ce98741c71652",
+      "maskedId": "110xxxxxx5713",
+      "name": "ธนาเดช ชินสะอาด",
+      "province": "นนทบุรี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางแม่นาง",
+      "district": "บางใหญ่",
+      "id": "f044423f30d992907b807fc7",
+      "maskedId": "373xxxxxx3868",
+      "name": "วรปรีญา นายกองแหล่ง",
+      "province": "นนทบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%8D%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านบางม่วง",
+      "district": "บางใหญ่",
+      "id": "423b71db06db5f70d35ee63e",
+      "maskedId": "112xxxxxx2110",
+      "name": "วิชยุตม์ รอดนำพา",
+      "province": "นนทบุรี",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%A1%E0%B9%8C-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B3%E0%B8%9E%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

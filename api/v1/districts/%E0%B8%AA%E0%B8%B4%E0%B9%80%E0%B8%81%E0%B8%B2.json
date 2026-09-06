@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "สิเกา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สิเกา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เขาไม้แก้ว",
+      "district": "สิเกา",
+      "id": "a34d3475fd434f4504025021",
+      "maskedId": "195xxxxxx5360",
+      "name": "กันต์กนิษฐ์ วิบูลย์พันธ์",
+      "province": "ตรัง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ่อหิน",
+      "district": "สิเกา",
+      "id": "852db41221552eb010c90b0b",
+      "maskedId": "190xxxxxx5488",
+      "name": "มาเรียม โอะหมาน",
+      "province": "ตรัง",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B9%82%E0%B8%AD%E0%B8%B0%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาไม้แก้ว",
+      "district": "สิเกา",
+      "id": "9837afb1d3f86facb146ca6b",
+      "maskedId": "190xxxxxx3363",
+      "name": "วิภาวี นวลละออง",
+      "province": "ตรัง",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B5-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ่อหิน",
+      "district": "สิเกา",
+      "id": "1996cca3d8d1d27a1fa78b12",
+      "maskedId": "192xxxxxx1686",
+      "name": "ศกลรัตน์ ชูนุ่น",
+      "province": "ตรัง",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%81%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลควนกุน",
+      "district": "สิเกา",
+      "id": "6b7b33cb05e11a8a41a6e7b0",
+      "maskedId": "194xxxxxx8490",
+      "name": "อัสมัช พรมดี",
+      "province": "ตรัง",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%8A-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลควนกุน",
+      "district": "สิเกา",
+      "id": "66adf599818125ec876f8011",
+      "maskedId": "194xxxxxx1241",
+      "name": "อาธิษา แก้วทอน",
+      "province": "ตรัง",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%97%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

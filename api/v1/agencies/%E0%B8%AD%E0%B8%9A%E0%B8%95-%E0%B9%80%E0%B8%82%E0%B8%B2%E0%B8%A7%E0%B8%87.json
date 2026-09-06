@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.เขาวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-เขาวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เขาวง",
+      "district": "พระพุทธบาท",
+      "id": "783f661e9a71e84e7ae2ee89",
+      "maskedId": "113xxxxxx6991",
+      "name": "ชินท์ณภัทร ปริยสกุล",
+      "province": "สระบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เขาวง",
+      "district": "พระพุทธบาท",
+      "id": "1182a55f864aee6e73d44718",
+      "maskedId": "119xxxxxx9599",
+      "name": "ธัญรัตน์ ท้าวหลวง",
+      "province": "สระบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เขาวง",
+      "district": "บ้านตาขุน",
+      "id": "517a56a249db6ca33b141e04",
+      "maskedId": "193xxxxxx3691",
+      "name": "นุชรีย์ ทองสม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.เขาวง",
+      "district": "พระพุทธบาท",
+      "id": "366dd769bf42eb8e63a7df9a",
+      "maskedId": "180xxxxxx9833",
+      "name": "วัลลญา ห้องเม่ง",
+      "province": "สระบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%8D%E0%B8%B2-%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

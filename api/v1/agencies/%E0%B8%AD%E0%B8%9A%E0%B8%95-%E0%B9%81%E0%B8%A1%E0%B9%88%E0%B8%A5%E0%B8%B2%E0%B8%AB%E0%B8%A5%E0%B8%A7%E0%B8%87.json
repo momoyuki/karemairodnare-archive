@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.แม่ลาหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-แม่ลาหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แม่ลาหลวง",
+      "district": "แม่ลาน้อย",
+      "id": "cf610b05b81edd1e5e7edda5",
+      "maskedId": "152xxxxxx7096",
+      "name": "ณัฐธกา วังกาวี",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%81%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ลาหลวง",
+      "district": "แม่ลาน้อย",
+      "id": "e3fd64821f376fc560aab960",
+      "maskedId": "158xxxxxx1761",
+      "name": "รินพร ไพรสงเคราะห์",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%A3-%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ลาหลวง",
+      "district": "แม่ลาน้อย",
+      "id": "2711b7cdd7e1172967ba8a3e",
+      "maskedId": "154xxxxxx7930",
+      "name": "สุภาพร ปินใจ",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%B4%E0%B8%99%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

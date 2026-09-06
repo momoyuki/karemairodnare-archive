@@ -1,0 +1,1612 @@
+{
+  "_meta": {
+    "count": 94,
+    "kind": "province",
+    "name": "ระนอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ระนอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "3e6e287dd076322fab728fe0",
+      "maskedId": "180xxxxxx4535",
+      "name": "กรรณิกา กาญจนวิวิญ",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "f19a2748afc732c36530dce2",
+      "maskedId": "184xxxxxx3603",
+      "name": "กฤติยาณี ศรีเนียม",
+      "province": "ระนอง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางใหญ่",
+      "district": "กระบุรี",
+      "id": "fadac87ac2a538726628291f",
+      "maskedId": "171xxxxxx0705",
+      "name": "กัญญา เจริญศิลป์",
+      "province": "ระนอง",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เกาะพยาม",
+      "district": "เมืองระนอง",
+      "id": "f194e2d61adc1b52e2bdfb17",
+      "maskedId": "290xxxxxx2853",
+      "name": "กัณฑ์ชรี บริรักษ์",
+      "province": "ระนอง",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%8A%E0%B8%A3%E0%B8%B5-%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองระนอง",
+      "district": "เมืองระนอง",
+      "id": "f48be4fce703141ddc067813",
+      "maskedId": "186xxxxxx9460",
+      "name": "กัลยรัตน์ อยู่แคล้ว",
+      "province": "ระนอง",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะพยาม",
+      "district": "เมืองระนอง",
+      "id": "04ff8a719c26b9a21fa334ab",
+      "maskedId": "190xxxxxx7925",
+      "name": "กิติยา ศิริอนันต์",
+      "province": "ระนอง",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "50e441de16b97c688710751e",
+      "maskedId": "194xxxxxx8076",
+      "name": "กุลสินี หนิเสะ",
+      "province": "ระนอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%AB%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%AA%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากจั่น",
+      "district": "กระบุรี",
+      "id": "2eb402498d966495150e318a",
+      "maskedId": "491xxxxxx3387",
+      "name": "ขวัญหทัย นันทกูล",
+      "province": "ระนอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "9093ea5d816eae90a043e981",
+      "maskedId": "193xxxxxx3494",
+      "name": "คมกริช มากอินทร์",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%8A-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลจ.ป.ร",
+      "district": "กระบุรี",
+      "id": "d3f8791df06c3d87eb033d5a",
+      "maskedId": "186xxxxxx3553",
+      "name": "จักรพงษ์ ใสสุชล",
+      "province": "ระนอง",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%83%E0%B8%AA%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะมุ",
+      "district": "กระบุรี",
+      "id": "4809a2d9b49be79af6c0c466",
+      "maskedId": "193xxxxxx0227",
+      "name": "จำลองลักษณ์ รอดเนียม",
+      "province": "ระนอง",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B3%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลลําเลียง",
+      "district": "กระบุรี",
+      "id": "6b72e3ba1e896a941402a011",
+      "maskedId": "180xxxxxx3701",
+      "name": "จิรวัฒน์ เอียดสังข์",
+      "province": "ระนอง",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "2790b3f7cd7c141d4a2bfac5",
+      "maskedId": "181xxxxxx7431",
+      "name": "ฉวีวรรณ นภากุล",
+      "province": "ระนอง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%A7%E0%B8%B5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลน้ําจืด",
+      "district": "กระบุรี",
+      "id": "3143f1d065440f3eb90e0e2a",
+      "maskedId": "193xxxxxx7532",
+      "name": "ชฎานาฏ แก้วสาย",
+      "province": "ระนอง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8E%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%8F-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "8725ab6c8cd8c7a9ffca9fcc",
+      "maskedId": "190xxxxxx9222",
+      "name": "ชนัตถ์ จันทร์วงค์",
+      "province": "ระนอง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาคา",
+      "district": "สุขสำราญ",
+      "id": "b7ed75d05c33d37974a0ba93",
+      "maskedId": "186xxxxxx7048",
+      "name": "ชลพร ศรีสุวรรณ",
+      "province": "ระนอง",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%9E%E0%B8%A3-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "4fe9045667eb0f7b504562e0",
+      "maskedId": "190xxxxxx5560",
+      "name": "ชัยอนันต์ เดชสุวรรณ์",
+      "province": "ระนอง",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "ff12ae89f06793adad79dcfb",
+      "maskedId": "190xxxxxx2501",
+      "name": "ชาลินี มีนุ่น",
+      "province": "ระนอง",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางริ้น",
+      "district": "เมืองระนอง",
+      "id": "692deb0bb01af268e594cd32",
+      "maskedId": "186xxxxxx0568",
+      "name": "ชไมพร สงประหยัด",
+      "province": "ระนอง",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B9%84%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%B1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางหิน",
+      "district": "กะเปอร์",
+      "id": "22b6d07c65cb7fb0e071fb84",
+      "maskedId": "185xxxxxx9621",
+      "name": "ฐิตาภรณ์ ศรีสุข",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ม่วงกลวง",
+      "district": "กะเปอร์",
+      "id": "ddcf0fb594a7e79fdd0fe2e3",
+      "maskedId": "180xxxxxx2185",
+      "name": "ณธิดา การิกาญจน์",
+      "province": "ระนอง",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "be849f5e3a500c7ebfefbc8e",
+      "maskedId": "191xxxxxx7614",
+      "name": "ณภัทร หลีหมาด",
+      "province": "ระนอง",
+      "scoreChange": 70,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรายแดง",
+      "district": "เมืองระนอง",
+      "id": "6a5ef1d0378081d146940a8a",
+      "maskedId": "186xxxxxx4646",
+      "name": "ณัชญ์คริมา แก้วบำรุง",
+      "province": "ระนอง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%9A%E0%B8%B3%E0%B8%A3%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "593efa397428fd07e810fda2",
+      "maskedId": "185xxxxxx0825",
+      "name": "ณัฏฐพล เกิดเนตร",
+      "province": "ระนอง",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางริ้น",
+      "district": "เมืองระนอง",
+      "id": "a0f63fee81edaf5c0c626533",
+      "maskedId": "190xxxxxx2431",
+      "name": "ณัฐกุล กุลประสิทธิ์",
+      "province": "ระนอง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หาดส้มแป้น",
+      "district": "เมืองระนอง",
+      "id": "02f2f6db3cc250054fe362ef",
+      "maskedId": "193xxxxxx2882",
+      "name": "ณัฐธพงศ์ มีเสียง",
+      "province": "ระนอง",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางริ้น",
+      "district": "เมืองระนอง",
+      "id": "27ea77956bc8a523bd0199c6",
+      "maskedId": "190xxxxxx1569",
+      "name": "ณัฐพล พรพุทธรักษ์",
+      "province": "ระนอง",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หาดส้มแป้น",
+      "district": "เมืองระนอง",
+      "id": "2471d05357465b18587917b7",
+      "maskedId": "193xxxxxx2832",
+      "name": "ณัฐมน ศรีโดน",
+      "province": "ระนอง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%94%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กะเปอร์",
+      "id": "165ceffcc1a9e6c3ba296b89",
+      "maskedId": "185xxxxxx1568",
+      "name": "ณัฐรียา ชิดเอื้อ",
+      "province": "ระนอง",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%AD%E0%B8%B7%E0%B9%89%E0%B8%AD",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลตําบลลําเลียง",
+      "district": "กระบุรี",
+      "id": "971d9a44c931427f12f59b68",
+      "maskedId": "190xxxxxx5959",
+      "name": "ณัฐวัฒน์ อินทะจันทร์",
+      "province": "ระนอง",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางริ้น",
+      "district": "เมืองระนอง",
+      "id": "4731a0e93b8f4223f09b04bc",
+      "maskedId": "193xxxxxx7136",
+      "name": "ดำรงรักษ์ เรืองดำ",
+      "province": "ระนอง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B3%E0%B8%A3%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลลําเลียง",
+      "district": "กระบุรี",
+      "id": "25059242784f3415b72c1dc1",
+      "maskedId": "190xxxxxx2008",
+      "name": "ทัศนีย์ สวาสดิ์ธรรม",
+      "province": "ระนอง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะพยาม",
+      "district": "เมืองระนอง",
+      "id": "ecccf7effd9323c524557287",
+      "maskedId": "195xxxxxx8566",
+      "name": "ทิวัตถ์ ทัศนลีลพร",
+      "province": "ระนอง",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C-%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กะเปอร์",
+      "id": "4495c702d7741a74cab0259c",
+      "maskedId": "193xxxxxx9475",
+      "name": "ธนภรณ์ เพ็งบูรณ์",
+      "province": "ระนอง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลตําบลจ.ป.ร",
+      "district": "กระบุรี",
+      "id": "c1b8e2d1c2362776e7c17af0",
+      "maskedId": "186xxxxxx0797",
+      "name": "ธนาภรณ์ โคนาสร",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B2%E0%B8%AA%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลปากน้ำท่าเรือ",
+      "district": "เมืองระนอง",
+      "id": "ee7a62907e2a84aea7e40388",
+      "maskedId": "186xxxxxx8959",
+      "name": "ธัญชนก สวัสดิ์ภักดี",
+      "province": "ระนอง",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางริ้น",
+      "district": "เมืองระนอง",
+      "id": "c8f96e2bed3c882703b363ae",
+      "maskedId": "186xxxxxx7683",
+      "name": "ธารารัตน์ พรหมจันทร์",
+      "province": "ระนอง",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรายแดง",
+      "district": "เมืองระนอง",
+      "id": "b73a4a32b24eb0047853a5de",
+      "maskedId": "190xxxxxx0336",
+      "name": "ธิดารัตน์ สุวรรณกิจ",
+      "province": "ระนอง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางริ้น",
+      "district": "เมืองระนอง",
+      "id": "568da75c46144a8940496777",
+      "maskedId": "193xxxxxx4813",
+      "name": "ธีระพงษ์ นุ่นสง",
+      "province": "ระนอง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะพยาม",
+      "district": "เมืองระนอง",
+      "id": "9986de96f29db7f629b1b650",
+      "maskedId": "190xxxxxx2025",
+      "name": "นลินทิพย์ ยังช่วย",
+      "province": "ระนอง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาคา",
+      "district": "สุขสำราญ",
+      "id": "290f359a511eaf1e33490bfe",
+      "maskedId": "193xxxxxx6152",
+      "name": "นัยนา สงแป้น",
+      "province": "ระนอง",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%B2-%E0%B8%AA%E0%B8%87%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "5d07c822abe87101d5a7486c",
+      "maskedId": "193xxxxxx6181",
+      "name": "นิตยา เกื้อรักษ์",
+      "province": "ระนอง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "b34853db738e73b9b6b546ef",
+      "maskedId": "186xxxxxx1743",
+      "name": "นิยดา แจ้งใจ",
+      "province": "ระนอง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%94%E0%B8%B2-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลละอุ่น",
+      "district": "ละอุ่น",
+      "id": "075ca3f3fdcdb6fd468e35c7",
+      "maskedId": "193xxxxxx1920",
+      "name": "นเรศ ธรรมเพชร",
+      "province": "ระนอง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%A8-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลลําเลียง",
+      "district": "กระบุรี",
+      "id": "34329bd95ca7839a987eb473",
+      "maskedId": "134xxxxxx3233",
+      "name": "ปภาวรินท์ บุญส่ง",
+      "province": "ระนอง",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "492e278188feb31d5c4e33de",
+      "maskedId": "186xxxxxx6922",
+      "name": "ปรัชญาศิริ หะรังศรี",
+      "province": "ระนอง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะพยาม",
+      "district": "เมืองระนอง",
+      "id": "a1dc6e5c5594c8e1b63378be",
+      "maskedId": "186xxxxxx7753",
+      "name": "ปริชญา เล่งระบำ",
+      "province": "ระนอง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปากน้ํา",
+      "district": "เมืองระนอง",
+      "id": "ced988480a03c1c24c153671",
+      "maskedId": "186xxxxxx9630",
+      "name": "ปวัณรัตน์ พุ่มพะเนิน",
+      "province": "ระนอง",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B1%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองระนอง",
+      "district": "เมืองระนอง",
+      "id": "a3f9f16e10a4d0e56e08a1d0",
+      "maskedId": "180xxxxxx6450",
+      "name": "ปารมี จินตนพันธ์",
+      "province": "ระนอง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B5-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "0586cb7e8caaaee7d0c6ed7f",
+      "maskedId": "170xxxxxx2516",
+      "name": "ปิยะวัฒน์ อินทนพ",
+      "province": "ระนอง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพระเหนือ",
+      "district": "ละอุ่น",
+      "id": "2ea6327888815865f00d0d25",
+      "maskedId": "193xxxxxx4526",
+      "name": "พัชรินทร์ ศรีธรรม",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางหิน",
+      "district": "กะเปอร์",
+      "id": "bfd954b438b1c90fd0e65081",
+      "maskedId": "186xxxxxx5848",
+      "name": "พิชยาณิรินฐ์ วิวัฒน์",
+      "province": "ระนอง",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%90%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "8ad731d6666dc3a70e368115",
+      "maskedId": "180xxxxxx9814",
+      "name": "พิราวัลย์ จ่าทอง",
+      "province": "ระนอง",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางใหญ่",
+      "district": "กระบุรี",
+      "id": "301a4d6741fc379a5032d32f",
+      "maskedId": "396xxxxxx6175",
+      "name": "ฟาตีณี สาแลแม",
+      "province": "ระนอง",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%95%E0%B8%B5%E0%B8%93%E0%B8%B5-%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลเมืองระนอง",
+      "district": "เมืองระนอง",
+      "id": "4072844d75a91eee01acb4b9",
+      "maskedId": "196xxxxxx6705",
+      "name": "ฟาริ บินดาโอะ",
+      "province": "ระนอง",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B8%B4-%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B9%82%E0%B8%AD%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลราชกรูด",
+      "district": "เมืองระนอง",
+      "id": "6a29b110f7beaad59ccea00e",
+      "maskedId": "194xxxxxx5620",
+      "name": "ฟารุค มินซาร์",
+      "province": "ระนอง",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%84-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%8B%E0%B8%B2%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลราชกรูด",
+      "district": "เมืองระนอง",
+      "id": "a179ca861cc8fc1879cd56e9",
+      "maskedId": "186xxxxxx5226",
+      "name": "ภัชราพร ชูฝ่ายคลอง",
+      "province": "ระนอง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%8A%E0%B8%B9%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กะเปอร์",
+      "id": "ff2e19026fb11f69d3dd7931",
+      "maskedId": "186xxxxxx1728",
+      "name": "มณทิวา วงศ์สุวรรณ",
+      "province": "ระนอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาคา",
+      "district": "สุขสำราญ",
+      "id": "1223b744704a1c77f3fe942d",
+      "maskedId": "191xxxxxx8105",
+      "name": "มณีหยก พานิช",
+      "province": "ระนอง",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%AB%E0%B8%A2%E0%B8%81-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.มะมุ",
+      "district": "กระบุรี",
+      "id": "441a3292af14e9df8d886f5f",
+      "maskedId": "186xxxxxx1620",
+      "name": "ระพีพรรณ แพรสมบูรณ์",
+      "province": "ระนอง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางใหญ่",
+      "district": "กระบุรี",
+      "id": "2ba2bfe979ebfd40022c174a",
+      "maskedId": "173xxxxxx8679",
+      "name": "ลาวัณย์ ผิวอ่อนดี",
+      "province": "ระนอง",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B9%8C-%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลลําเลียง",
+      "district": "กระบุรี",
+      "id": "821014cbf53ec402c2c37197",
+      "maskedId": "110xxxxxx6931",
+      "name": "วรพงศ์ วงศ์ทอง",
+      "province": "ระนอง",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลจ.ป.ร",
+      "district": "กระบุรี",
+      "id": "f4f22d01fb8bb72a119742e2",
+      "maskedId": "170xxxxxx9601",
+      "name": "วรพร นุชสมบูรณ์",
+      "province": "ระนอง",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "38d680533232b29e40938d00",
+      "maskedId": "184xxxxxx6209",
+      "name": "วรพิชชา ช่วยสุข",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "6e7d3472e96fdec181d69b17",
+      "maskedId": "193xxxxxx5508",
+      "name": "วุฒิกร สุนทรภักดี",
+      "province": "ระนอง",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%81%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลราชกรูด",
+      "district": "เมืองระนอง",
+      "id": "7add67940435f7981dcbe869",
+      "maskedId": "184xxxxxx7977",
+      "name": "ศราทิพย์ เมืองพร้อม",
+      "province": "ระนอง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "d694bc19dd258e20c43c1c5d",
+      "maskedId": "144xxxxxx9613",
+      "name": "ศราวุฒิ หีบไธสง",
+      "province": "ระนอง",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%AB%E0%B8%B5%E0%B8%9A%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "e990233f249d6615a9fe98e6",
+      "maskedId": "191xxxxxx0092",
+      "name": "ศักดา หมาดมานัง",
+      "province": "ระนอง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B2-%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "62aa613949ce11987bcb0a80",
+      "maskedId": "196xxxxxx0871",
+      "name": "ศานิต ฉิมโฉม",
+      "province": "ระนอง",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%95-%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "22b628d550bc5f80abac6965",
+      "maskedId": "180xxxxxx2681",
+      "name": "ศิริลักษณ์ ศึกเสือ",
+      "province": "ระนอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองระนอง",
+      "district": "เมืองระนอง",
+      "id": "014986132e6b17a8e9566213",
+      "maskedId": "192xxxxxx0473",
+      "name": "ศิริวรรณ ศุภศรี",
+      "province": "ระนอง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะเปอร์",
+      "district": "กะเปอร์",
+      "id": "726eafc6d5223441594899c6",
+      "maskedId": "186xxxxxx0092",
+      "name": "ศโรชา อ้อยทอง",
+      "province": "ระนอง",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B9%82%E0%B8%A3%E0%B8%8A%E0%B8%B2-%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กะเปอร์",
+      "id": "43a719fe61a2ca2401b529f4",
+      "maskedId": "193xxxxxx0460",
+      "name": "สรวิศ เต็มดี",
+      "province": "ระนอง",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%A8-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลจ.ป.ร",
+      "district": "กระบุรี",
+      "id": "51955768a546caeacb84a7e4",
+      "maskedId": "186xxxxxx0010",
+      "name": "สรัลรัตน์ มิ่งแก้ว",
+      "province": "ระนอง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%B1%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A1%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระนอง",
+      "district": "เมืองระนอง",
+      "id": "dc80f12ccec671514e6c4fcf",
+      "maskedId": "186xxxxxx2378",
+      "name": "สาวิตรี นวลอนงค์",
+      "province": "ระนอง",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B5-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางริ้น",
+      "district": "เมืองระนอง",
+      "id": "f1b19ce61b178a609608e9de",
+      "maskedId": "180xxxxxx4641",
+      "name": "สิทธิชัย ไพยศาสตร์",
+      "province": "ระนอง",
+      "scoreChange": 68,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%9E%E0%B8%A2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะมุ",
+      "district": "กระบุรี",
+      "id": "7e66134b593fc49e770daa90",
+      "maskedId": "191xxxxxx7031",
+      "name": "สิรธีณ์ ชำนาญเพาะ",
+      "province": "ระนอง",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%98%E0%B8%B5%E0%B8%93%E0%B9%8C-%E0%B8%8A%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%8D%E0%B9%80%E0%B8%9E%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ละอุ่นเหนือ",
+      "district": "ละอุ่น",
+      "id": "4949e2926765c65f070bf7e6",
+      "maskedId": "191xxxxxx1269",
+      "name": "สุขใจ ล่านุ้ย",
+      "province": "ระนอง",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%83%E0%B8%88-%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "170b96702597506e2add3615",
+      "maskedId": "186xxxxxx0382",
+      "name": "สุจิตรา เมืองทอง",
+      "province": "ระนอง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหงาว",
+      "district": "เมืองระนอง",
+      "id": "4af1e85c2c4d3d537fca27cb",
+      "maskedId": "193xxxxxx5556",
+      "name": "สุชาวดี หนูเทพ",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B9%80%E0%B8%97%E0%B8%9E",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลลําเลียง",
+      "district": "กระบุรี",
+      "id": "f9384dfc443e09774c7cbc8e",
+      "maskedId": "193xxxxxx4168",
+      "name": "สุพรรณี พรหมฤทธิ์",
+      "province": "ระนอง",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B5-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางแก้ว",
+      "district": "ละอุ่น",
+      "id": "4ae170d99f296b9eddfe7ea9",
+      "maskedId": "190xxxxxx2050",
+      "name": "สุพิชญา สังข์พันธ์",
+      "province": "ระนอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองบางริ้น",
+      "district": "เมืองระนอง",
+      "id": "2080437f86e55474d7452a52",
+      "maskedId": "193xxxxxx5761",
+      "name": "สุรศักดิ์ ชูเหล็ก",
+      "province": "ระนอง",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "b6f28cd0a0617cf79522cc26",
+      "maskedId": "186xxxxxx1550",
+      "name": "สุรางคนา บุญผุย",
+      "province": "ระนอง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9C%E0%B8%B8%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองระนอง",
+      "district": "เมืองระนอง",
+      "id": "c02d958735c33bde1f1b03f8",
+      "maskedId": "186xxxxxx1541",
+      "name": "สุรางคนางค์ บุญผุย",
+      "province": "ระนอง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9C%E0%B8%B8%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ละอุ่นเหนือ",
+      "district": "ละอุ่น",
+      "id": "4adf5d19355c8a22f83c7c5e",
+      "maskedId": "184xxxxxx2730",
+      "name": "อนัญญา คงสีชาย",
+      "province": "ระนอง",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําจืด",
+      "district": "กระบุรี",
+      "id": "abeb505f18490ae830dccc1b",
+      "maskedId": "193xxxxxx6410",
+      "name": "อังคณา ตุนละนิตย์",
+      "province": "ระนอง",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%93%E0%B8%B2-%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หงาว",
+      "district": "เมืองระนอง",
+      "id": "63304c82b62f480d191588cf",
+      "maskedId": "193xxxxxx1534",
+      "name": "อาทิตติยา เรืองพริ้ม",
+      "province": "ระนอง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลราชกรูด",
+      "district": "เมืองระนอง",
+      "id": "4c9fecc9e6b905015ec43976",
+      "maskedId": "193xxxxxx8331",
+      "name": "อาทิตย์ เขียดนิล",
+      "province": "ระนอง",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําจืด",
+      "district": "กระบุรี",
+      "id": "24a47f3a31a595dbd609f00c",
+      "maskedId": "186xxxxxx4311",
+      "name": "เนติมา ชูฝ่ายคลอง",
+      "province": "ระนอง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%8A%E0%B8%B9%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ำจืดน้อย",
+      "district": "กระบุรี",
+      "id": "30f7502141d79d2b016d347b",
+      "maskedId": "186xxxxxx4676",
+      "name": "เปมิกา คงชนะ",
+      "province": "ระนอง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9B%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%84%E0%B8%87%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "ded2b9446886577585250fcc",
+      "maskedId": "186xxxxxx8942",
+      "name": "เปรมพร ยังศรีนาค",
+      "province": "ระนอง",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลจ.ป.ร",
+      "district": "กระบุรี",
+      "id": "6e48ad9491ee23e4a738764e",
+      "maskedId": "186xxxxxx8836",
+      "name": "เพ็ญนภา สังข์แก้ว",
+      "province": "ระนอง",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กะเปอร์",
+      "id": "c3cd6a34d11bacaa147a5397",
+      "maskedId": "193xxxxxx4473",
+      "name": "โสภณัฐ พุมนวล",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%9E%E0%B8%B8%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

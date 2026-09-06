@@ -1,0 +1,354 @@
+{
+  "_meta": {
+    "count": 20,
+    "kind": "district",
+    "name": "ปากช่อง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ปากช่อง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองปากช่อง",
+      "district": "ปากช่อง",
+      "id": "40b7b3ac97f4e4ba25303190",
+      "maskedId": "147xxxxxx7229",
+      "name": "กนกวรรณ รูทา",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A3%E0%B8%B9%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปากช่อง",
+      "district": "ปากช่อง",
+      "id": "be9d1e02c7da4deaadc2316f",
+      "maskedId": "130xxxxxx1604",
+      "name": "กลวัชร ไสยาสน์",
+      "province": "นครราชสีมา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B9%84%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองม่วง",
+      "district": "ปากช่อง",
+      "id": "0659eecf41db1503b24ffb1d",
+      "maskedId": "130xxxxxx8217",
+      "name": "กันตพงศ์ อรุณาภา",
+      "province": "นครราชสีมา",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองสาหร่าย",
+      "district": "ปากช่อง",
+      "id": "3ce6a05287c06d46e0144588",
+      "maskedId": "131xxxxxx2961",
+      "name": "จิณัฐตา เสไธสง",
+      "province": "นครราชสีมา",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองปากช่อง",
+      "district": "ปากช่อง",
+      "id": "ece3f05b75eb48cf54914d07",
+      "maskedId": "132xxxxxx7555",
+      "name": "ชวิศา สนองชาติ",
+      "province": "นครราชสีมา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังไทร",
+      "district": "ปากช่อง",
+      "id": "a95eb5cf5257615a06843899",
+      "maskedId": "140xxxxxx1476",
+      "name": "ชุดาภา ไหมหรือ",
+      "province": "นครราชสีมา",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองม่วง",
+      "district": "ปากช่อง",
+      "id": "455ec82a5f6508edf9152a4c",
+      "maskedId": "132xxxxxx7587",
+      "name": "ฐิตาพร รอดเลิศ",
+      "province": "นครราชสีมา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสีมามงคล",
+      "district": "ปากช่อง",
+      "id": "7d2a60b93cc94475edc53dec",
+      "maskedId": "130xxxxxx4336",
+      "name": "ณัฐณิชา เลขาโชค",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%B2%E0%B9%82%E0%B8%8A%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากช่อง",
+      "district": "ปากช่อง",
+      "id": "1005ab30bde22df43170b183",
+      "maskedId": "130xxxxxx8500",
+      "name": "ธงชัย ตรีแก้ว",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลวังไทร",
+      "district": "ปากช่อง",
+      "id": "3f93de50c652531271ef628e",
+      "maskedId": "144xxxxxx8741",
+      "name": "นันทพงศ์ แสนเย็น",
+      "province": "นครราชสีมา",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากช่อง",
+      "district": "ปากช่อง",
+      "id": "c874573d8e17b627b6b460b1",
+      "maskedId": "183xxxxxx8259",
+      "name": "ปรภรณ์ ก้อนอินทร์",
+      "province": "นครราชสีมา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลสีมามงคล",
+      "district": "ปากช่อง",
+      "id": "6347ced2150ce4f417eb5c86",
+      "maskedId": "130xxxxxx7045",
+      "name": "ปิติพงษ์ สาครินทร์",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังไทร",
+      "district": "ปากช่อง",
+      "id": "5a4f8f5e7f254b5faa61c524",
+      "maskedId": "141xxxxxx4935",
+      "name": "ภคภรณ์ ภูมิประหมัน",
+      "province": "นครราชสีมา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%84%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขนงพระ",
+      "district": "ปากช่อง",
+      "id": "c72e3ac66e3ebbe6d9577064",
+      "maskedId": "147xxxxxx3726",
+      "name": "รัชนีภรณ์ ป้อมไชยา",
+      "province": "นครราชสีมา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B5%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังไทร",
+      "district": "ปากช่อง",
+      "id": "73e4191fbfd05287f22237f7",
+      "maskedId": "144xxxxxx2366",
+      "name": "รัตน์ตะวัน โพธิ์ศรี",
+      "province": "นครราชสีมา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปากช่อง",
+      "district": "ปากช่อง",
+      "id": "e643516259e93c29e8061e34",
+      "maskedId": "140xxxxxx7325",
+      "name": "ศุภวิชญ์ โคตรพันธ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหมูสี",
+      "district": "ปากช่อง",
+      "id": "23a2fff0983a058a0277d443",
+      "maskedId": "140xxxxxx1986",
+      "name": "สิทธิพล อุปถัมภ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%96%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองสาหร่าย",
+      "district": "ปากช่อง",
+      "id": "52605c6f889e00bda30c5e46",
+      "maskedId": "184xxxxxx1396",
+      "name": "สิริกาญจน์ มีลักษณ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%A1%E0%B8%B5%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ปากช่อง",
+      "district": "ปากช่อง",
+      "id": "42a09397d0ded11595ed05a4",
+      "maskedId": "130xxxxxx2172",
+      "name": "อินทุอร ธงศิลา",
+      "province": "นครราชสีมา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B8%AD%E0%B8%A3-%E0%B8%98%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองสาหร่าย",
+      "district": "ปากช่อง",
+      "id": "b7bfc1864b0c2cea4508f37a",
+      "maskedId": "145xxxxxx0532",
+      "name": "อิสระพงษ์ ชื่นชม",
+      "province": "นครราชสีมา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%8A%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

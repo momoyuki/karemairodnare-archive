@@ -1,0 +1,273 @@
+{
+  "_meta": {
+    "count": 15,
+    "kind": "district",
+    "name": "เมืองสุพรรณบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองสุพรรณบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ดอนกํายาน",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "9c4ff79f229eddf22d91f901",
+      "maskedId": "172xxxxxx1662",
+      "name": "จินดารัตน์ รักอู่",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AD%E0%B8%B9%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาขาว",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "83aa56e12e8d256d02f1e608",
+      "maskedId": "173xxxxxx7237",
+      "name": "ณัฐณิชา วัฒนพิทักษ์พงศ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        },
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเสด็จ",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "6d237f6ffca5eccafe837557",
+      "maskedId": "172xxxxxx6416",
+      "name": "ทิพย์นภา หนูหน่าย",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สุพรรณบุรี",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "a8a2d7d993d18c785ed24048",
+      "maskedId": "171xxxxxx9565",
+      "name": "ธนพล อินทร์สว่าง",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาขาว",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "4de45f740fb2c90ed6e4958c",
+      "maskedId": "171xxxxxx5885",
+      "name": "นรินทร เที่ยงธรรม",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนมะสังข์",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "eb33efba0924b1ea260629e1",
+      "maskedId": "172xxxxxx7670",
+      "name": "นิศามณี กาบแก้ว",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%A1%E0%B8%93%E0%B8%B5-%E0%B8%81%E0%B8%B2%E0%B8%9A%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเสด็จ",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "10dc05fcd791bdffb6a83967",
+      "maskedId": "172xxxxxx9401",
+      "name": "น้ําผึ้ง ยศวิชัย",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87-%E0%B8%A2%E0%B8%A8%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางกุ้ง",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "2e7283b1d3eca8e251818774",
+      "maskedId": "172xxxxxx8848",
+      "name": "วนัชพร บูรณเทศ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%A3-%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%80%E0%B8%97%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาขาว",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "112cd7274aa0b5308788b98f",
+      "maskedId": "370xxxxxx6235",
+      "name": "วนิดา จิตมะกล่ํา",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A1%E0%B8%B0%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสวนแตง",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "f5c091b3161c7648dbb38057",
+      "maskedId": "172xxxxxx7677",
+      "name": "ศิริวรรณ แจ้งโพธิ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสวนแตง",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "f64fbe96037046681274130e",
+      "maskedId": "170xxxxxx3332",
+      "name": "สโรชา ทองอินทร์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B9%82%E0%B8%A3%E0%B8%8A%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนกํายาน",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "c1c0d2eb153fcfce9a5020ab",
+      "maskedId": "172xxxxxx4034",
+      "name": "อดิศร พันธุ์เณร",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%A8%E0%B8%A3-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%80%E0%B8%93%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนมะสังข์",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "fbdde43bd4c1182daf5c2e25",
+      "maskedId": "176xxxxxx6709",
+      "name": "อรอุษา อินเทศ",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%B8%E0%B8%A9%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนกํายาน",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "6a800f4cf0720c458dfb5332",
+      "maskedId": "110xxxxxx4423",
+      "name": "อาณกร จันทร์นิยม",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนมะสังข์",
+      "district": "เมืองสุพรรณบุรี",
+      "id": "8e2be553421977e47f8362c3",
+      "maskedId": "172xxxxxx2828",
+      "name": "เกศกนก โมพันธ์",
+      "province": "สุพรรณบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "57_สุพรรณบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A8%E0%B8%81%E0%B8%99%E0%B8%81-%E0%B9%82%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

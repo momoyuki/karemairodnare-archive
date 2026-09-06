@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.บ้านบ่อ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บ้านบ่อ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านบ่อ",
+      "district": "เมืองสมุทรสาคร",
+      "id": "b74d0862dd225b7d67656a33",
+      "maskedId": "171xxxxxx5290",
+      "name": "ชลธิชา พลบนิล",
+      "province": "สมุทรสาคร",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%9E%E0%B8%A5%E0%B8%9A%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านบ่อ",
+      "district": "เมืองสมุทรสาคร",
+      "id": "ec2ee99bfb599a8ead5df11f",
+      "maskedId": "142xxxxxx1227",
+      "name": "พนัชกร แสนใจวุฒิ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านบ่อ",
+      "district": "เมืองสมุทรสาคร",
+      "id": "6b2d8ce0d7059e7f4d8bf289",
+      "maskedId": "174xxxxxx1372",
+      "name": "พลวัฒ แช่มช้อย",
+      "province": "สมุทรสาคร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%92-%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B8%A1%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านบ่อ",
+      "district": "เมืองสมุทรสาคร",
+      "id": "e42bd734cf8b3e09aee0f3cb",
+      "maskedId": "177xxxxxx1079",
+      "name": "พัณณิตา เชื้อชาติ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านบ่อ",
+      "district": "เมืองสมุทรสาคร",
+      "id": "e54c839d22ffa62d096f587c",
+      "maskedId": "177xxxxxx3290",
+      "name": "สกุณตา เอี่ยมสำอางค์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%93%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

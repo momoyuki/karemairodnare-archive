@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "หนองไผ่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "หนองไผ่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลบ้านโภชน์",
+      "district": "หนองไผ่",
+      "id": "ff61e8d3c69f396a2869c49c",
+      "maskedId": "142xxxxxx6802",
+      "name": "จินดารัตน์ วงศ์คำจันทร์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%84%E0%B8%B3%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบัววัฒนา",
+      "district": "หนองไผ่",
+      "id": "0ab52785935cee2fe37aa766",
+      "maskedId": "167xxxxxx1688",
+      "name": "พัชรีพร ปากหวาน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบัววัฒนา",
+      "district": "หนองไผ่",
+      "id": "e183d0ad4130ab9836f4ca5d",
+      "maskedId": "167xxxxxx9742",
+      "name": "พิชญนันท์ ตังศรี",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%95%E0%B8%B1%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ่อไทย",
+      "district": "หนองไผ่",
+      "id": "67ea1c83d4b25606d2e95e7a",
+      "maskedId": "167xxxxxx4416",
+      "name": "ภาณุพงศ์ พุทธชาติ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาเฉลียง",
+      "district": "หนองไผ่",
+      "id": "67e9f00888b7ea3d6f22b699",
+      "maskedId": "167xxxxxx5203",
+      "name": "สุภาณี แก้วกั้ง",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ่อไทย",
+      "district": "หนองไผ่",
+      "id": "2cbe4233cfce6b2f262352f3",
+      "maskedId": "167xxxxxx1815",
+      "name": "สุภิญญา ฉิมจีน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%88%E0%B8%B5%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยโป่ง",
+      "district": "หนองไผ่",
+      "id": "4851b2a38b2de942bfab9f5d",
+      "maskedId": "167xxxxxx1079",
+      "name": "อภิญญา กองมูล",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยโป่ง",
+      "district": "หนองไผ่",
+      "id": "642622c5dd78ed10e6d5a75a",
+      "maskedId": "167xxxxxx3327",
+      "name": "เฉลิมพร ช่างพรหม",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

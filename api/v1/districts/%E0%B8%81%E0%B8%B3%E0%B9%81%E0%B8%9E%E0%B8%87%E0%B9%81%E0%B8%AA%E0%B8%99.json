@@ -1,0 +1,252 @@
+{
+  "_meta": {
+    "count": 14,
+    "kind": "district",
+    "name": "กำแพงแสน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "กำแพงแสน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "1b90743a5286f18ddbf9607f",
+      "maskedId": "170xxxxxx9938",
+      "name": "ขจรศักดิ์ จันทร์ดี",
+      "province": "นครปฐม",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%88%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "0c9282fbed02393930f0fe88",
+      "maskedId": "173xxxxxx6976",
+      "name": "ธเนศ บุญมี",
+      "province": "นครปฐม",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B9%80%E0%B8%99%E0%B8%A8-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "4cf85589059bbad29078347d",
+      "maskedId": "170xxxxxx0881",
+      "name": "นรากร ฟักโต",
+      "province": "นครปฐม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%9F%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ทุ่งลูกนก",
+      "district": "กำแพงแสน",
+      "id": "f752f42b87fb3fb55eddbfd3",
+      "maskedId": "173xxxxxx9641",
+      "name": "นฤมล พิมลี",
+      "province": "นครปฐม",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "ef11504963a26db302b6fc1f",
+      "maskedId": "170xxxxxx1060",
+      "name": "นัทธมน เพ็ชรประเสริฐ",
+      "province": "นครปฐม",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%A1%E0%B8%99-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "5af4f1a557194f34d3751b07",
+      "maskedId": "173xxxxxx4225",
+      "name": "ปัทมพรรณ ปัตวิน",
+      "province": "นครปฐม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%97%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "e4fb211ee487cd15a00c2709",
+      "maskedId": "171xxxxxx8923",
+      "name": "ปิยะวัฒน์ เห็นประเสริฐ",
+      "province": "นครปฐม",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "7a3bdeb45e907e83dde0fd7f",
+      "maskedId": "166xxxxxx6619",
+      "name": "พรพิมล จิรวัฒน์จันทร์",
+      "province": "นครปฐม",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "107a96bc882289f683010fd8",
+      "maskedId": "120xxxxxx8833",
+      "name": "ภานุพงศ์ แสงจำรัส",
+      "province": "นครปฐม",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%AA",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.กระตีบ",
+      "district": "กำแพงแสน",
+      "id": "68695d741a504da2253afda0",
+      "maskedId": "173xxxxxx1183",
+      "name": "วรวุฒิ ศักดิ์สุริยผดุง",
+      "province": "นครปฐม",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%9C%E0%B8%94%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "704be4ff52e8880256d5a6a2",
+      "maskedId": "170xxxxxx8877",
+      "name": "สุนทรีย์ ศรีพล",
+      "province": "นครปฐม",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "32c80bfe581d2eda5460ac4e",
+      "maskedId": "172xxxxxx0167",
+      "name": "สุวัฒน์ พฤกษาโชติรัตน์",
+      "province": "นครปฐม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยขวาง",
+      "district": "กำแพงแสน",
+      "id": "38c2ac283ba48461daa29969",
+      "maskedId": "171xxxxxx0799",
+      "name": "เมธี พูลสุขโข",
+      "province": "นครปฐม",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B5-%E0%B8%9E%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%82%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สระพัฒนา",
+      "district": "กำแพงแสน",
+      "id": "83778d417366a2f81d896d07",
+      "maskedId": "147xxxxxx8347",
+      "name": "แสงเดือน ศรีสนอง",
+      "province": "นครปฐม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

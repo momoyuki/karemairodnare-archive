@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "agency",
+    "name": "เทศบาลตําบลบางนอน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลบางนอน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "8725ab6c8cd8c7a9ffca9fcc",
+      "maskedId": "190xxxxxx9222",
+      "name": "ชนัตถ์ จันทร์วงค์",
+      "province": "ระนอง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "ff12ae89f06793adad79dcfb",
+      "maskedId": "190xxxxxx2501",
+      "name": "ชาลินี มีนุ่น",
+      "province": "ระนอง",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "593efa397428fd07e810fda2",
+      "maskedId": "185xxxxxx0825",
+      "name": "ณัฏฐพล เกิดเนตร",
+      "province": "ระนอง",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "38d680533232b29e40938d00",
+      "maskedId": "184xxxxxx6209",
+      "name": "วรพิชชา ช่วยสุข",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "170b96702597506e2add3615",
+      "maskedId": "186xxxxxx0382",
+      "name": "สุจิตรา เมืองทอง",
+      "province": "ระนอง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "b6f28cd0a0617cf79522cc26",
+      "maskedId": "186xxxxxx1550",
+      "name": "สุรางคนา บุญผุย",
+      "province": "ระนอง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9C%E0%B8%B8%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางนอน",
+      "district": "เมืองระนอง",
+      "id": "ded2b9446886577585250fcc",
+      "maskedId": "186xxxxxx8942",
+      "name": "เปรมพร ยังศรีนาค",
+      "province": "ระนอง",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

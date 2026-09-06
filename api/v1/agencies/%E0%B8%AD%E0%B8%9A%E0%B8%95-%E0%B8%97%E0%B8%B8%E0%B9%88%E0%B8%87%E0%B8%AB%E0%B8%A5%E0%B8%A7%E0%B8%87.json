@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบต.ทุ่งหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ทุ่งหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "โพนพิสัย",
+      "id": "34b163dc3992ee19d3cce9bd",
+      "maskedId": "141xxxxxx2704",
+      "name": "ขวัญทิวา ศรีพอ",
+      "province": "หนองคาย",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%AD",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "โพนพิสัย",
+      "id": "ebe5636f2cddeeb8fd4478f0",
+      "maskedId": "148xxxxxx1470",
+      "name": "รัตติยากร เทศาริน",
+      "province": "หนองคาย",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "โพนพิสัย",
+      "id": "835ed418bdc59e7748bbfccf",
+      "maskedId": "140xxxxxx9621",
+      "name": "ศศินิภา รัตนบุตร",
+      "province": "หนองคาย",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "โพนพิสัย",
+      "id": "418aa5b7bbb78899739ad134",
+      "maskedId": "140xxxxxx6383",
+      "name": "ศิริวรรณ กิมชัย",
+      "province": "หนองคาย",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%81%E0%B8%B4%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "ละแม",
+      "id": "324767277418562965b1f19f",
+      "maskedId": "160xxxxxx6304",
+      "name": "สุกัญญา สิงห์ผงาด",
+      "province": "ชุมพร",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งหลวง",
+      "district": "โพนพิสัย",
+      "id": "aaa3b957b7696948b01addb8",
+      "maskedId": "144xxxxxx8252",
+      "name": "อติเทพ บุญยิ่ง",
+      "province": "หนองคาย",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%97%E0%B8%9E-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

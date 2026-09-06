@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบต.คําสะอาด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-คําสะอาด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "12b1736efe4b4b4c9643d0f4",
+      "maskedId": "141xxxxxx3399",
+      "name": "จิณณวัตร กุลกั้ง",
+      "province": "สกลนคร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%93%E0%B8%93%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%81%E0%B8%B1%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "4ac15cf11b66ace5ccc58e45",
+      "maskedId": "143xxxxxx7931",
+      "name": "ปานวาส อัครพีรยา",
+      "province": "สกลนคร",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%AA-%E0%B8%AD%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "fc3832b94f61d395e81ba49e",
+      "maskedId": "147xxxxxx0700",
+      "name": "พีนาพียา สื่อกลาง",
+      "province": "สกลนคร",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "064340bf782551256550b624",
+      "maskedId": "141xxxxxx2793",
+      "name": "วารุณี บุตรอินทร์",
+      "province": "สกลนคร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "f41c9667ff868e7aba051c59",
+      "maskedId": "141xxxxxx9861",
+      "name": "วิมลศรี เหลาผา",
+      "province": "สกลนคร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B8%A8%E0%B8%A3%E0%B8%B5-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%9C%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําสะอาด",
+      "district": "สว่างแดนดิน",
+      "id": "da9e79a15a97c1cfa2d7aa93",
+      "maskedId": "141xxxxxx1043",
+      "name": "อนนต์ โพธิ์สอน",
+      "province": "สกลนคร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

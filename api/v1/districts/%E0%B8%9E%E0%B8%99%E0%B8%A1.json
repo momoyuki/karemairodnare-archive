@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "district",
+    "name": "พนม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พนม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ต้นยวน",
+      "district": "พนม",
+      "id": "cee3f7d64c2e5ae04ce29557",
+      "maskedId": "180xxxxxx9721",
+      "name": "ตรีเพชร เขียวบุญจันทร์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคลองชะอุ่น",
+      "district": "พนม",
+      "id": "6736fe4cb531ba7aa68355ab",
+      "maskedId": "384xxxxxx5291",
+      "name": "นภาพร สนธิศักดิ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพนม",
+      "district": "พนม",
+      "id": "79a95e055fc7103f78bece20",
+      "maskedId": "190xxxxxx3251",
+      "name": "พัชณาภรณ์ โสมปาน",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%93%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%A1%E0%B8%9B%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ต้นยวน",
+      "district": "พนม",
+      "id": "85f77d68f2845bc444f997fe",
+      "maskedId": "184xxxxxx6457",
+      "name": "มณีรัตน์ หอมรูป",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B8%9B",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พนม",
+      "district": "พนม",
+      "id": "0fc490186bfa1f054ea35d99",
+      "maskedId": "180xxxxxx1626",
+      "name": "รัตนาภรณ์ สิทธี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พลูเถื่อน",
+      "district": "พนม",
+      "id": "0f5e2c909aa4722779887d2e",
+      "maskedId": "180xxxxxx5674",
+      "name": "วรินทร์ลดา จิรักษา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พลูเถื่อน",
+      "district": "พนม",
+      "id": "7709915c5d21a461d336a388",
+      "maskedId": "190xxxxxx7221",
+      "name": "ศิริกัลยา ขุนอักษร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B2-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พนม",
+      "district": "พนม",
+      "id": "697e452f8c11ea3e2681959e",
+      "maskedId": "193xxxxxx6134",
+      "name": "สุดาทิพย์ เพชรแท้",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B9%81%E0%B8%97%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพนม",
+      "district": "พนม",
+      "id": "0325ea8e48bc6af8e7274401",
+      "maskedId": "180xxxxxx2723",
+      "name": "อธิวัฒน์ ทองอุ่น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ต้นยวน",
+      "district": "พนม",
+      "id": "a4e0e7fcf41adf8653548f66",
+      "maskedId": "184xxxxxx9378",
+      "name": "เบญญทิพย์ ปาคะเชนทร์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9B%E0%B8%B2%E0%B8%84%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

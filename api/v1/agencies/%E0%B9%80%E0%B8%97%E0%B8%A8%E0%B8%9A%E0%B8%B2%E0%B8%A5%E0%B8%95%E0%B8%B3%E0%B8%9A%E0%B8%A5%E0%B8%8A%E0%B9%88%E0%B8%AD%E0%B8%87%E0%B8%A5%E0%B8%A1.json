@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตำบลช่องลม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลช่องลม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลช่องลม",
+      "district": "ลานกระบือ",
+      "id": "c10ce853d3962ffef70923fe",
+      "maskedId": "141xxxxxx7636",
+      "name": "จุฬาลักษณ์ วุฒิสาร",
+      "province": "กำแพงเพชร",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช่องลม",
+      "district": "ลานกระบือ",
+      "id": "c2721caa2e7e13d0967aa13e",
+      "maskedId": "161xxxxxx0731",
+      "name": "บุรัสกร ธรรมขันธ์",
+      "province": "กำแพงเพชร",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%A3-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช่องลม",
+      "district": "ลานกระบือ",
+      "id": "1abc9fe7fa8fa34e3cb7e8d7",
+      "maskedId": "160xxxxxx9641",
+      "name": "อนุชตา แก้วจุฬา",
+      "province": "กำแพงเพชร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%95%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

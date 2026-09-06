@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.น้ําผุด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-น้ําผุด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.น้ําผุด",
+      "district": "เมืองตรัง",
+      "id": "120b121be8379d1a6190af64",
+      "maskedId": "190xxxxxx6341",
+      "name": "ชวัลนุช สุขพรหม",
+      "province": "ตรัง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.น้ําผุด",
+      "district": "เมืองตรัง",
+      "id": "8a7bbb35d1d8e102fb8cb490",
+      "maskedId": "195xxxxxx3288",
+      "name": "ภัทราวดี ศรีประชุม",
+      "province": "ตรัง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    }
+  ]
+}

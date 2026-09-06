@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.กระโด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-กระโด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.กระโด",
+      "district": "ยะรัง",
+      "id": "068bb36795932bbb790e3df6",
+      "maskedId": "194xxxxxx7254",
+      "name": "นิอัลวานีย์ เจ๊ะแว",
+      "province": "ปัตตานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%AD%E0%B8%B1%E0%B8%A5%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B9%81%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระโด",
+      "district": "ยะรัง",
+      "id": "84e5b9b0050549dc85559089",
+      "maskedId": "195xxxxxx9038",
+      "name": "วรรัตน์ สองแก้ว",
+      "province": "ปัตตานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระโด",
+      "district": "ยะรัง",
+      "id": "25f4abe953d2e327e5d0a919",
+      "maskedId": "194xxxxxx5069",
+      "name": "สูรียา เจ๊ะยอ",
+      "province": "ปัตตานี",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B8%A2%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

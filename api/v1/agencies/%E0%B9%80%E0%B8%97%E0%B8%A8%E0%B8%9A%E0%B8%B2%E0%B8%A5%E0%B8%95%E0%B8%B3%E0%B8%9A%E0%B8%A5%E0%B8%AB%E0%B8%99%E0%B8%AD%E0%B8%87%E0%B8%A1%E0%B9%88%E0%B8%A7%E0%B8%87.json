@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตำบลหนองม่วง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลหนองม่วง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลหนองม่วง",
+      "district": "หนองม่วง",
+      "id": "fdb375f86203f0a7c5e82945",
+      "maskedId": "135xxxxxx8371",
+      "name": "ปานจีวา ปีตาจันทร์",
+      "province": "ลพบุรี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B8%A7%E0%B8%B2-%E0%B8%9B%E0%B8%B5%E0%B8%95%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองม่วง",
+      "district": "หนองม่วง",
+      "id": "6d3274006698cd9641a40d7e",
+      "maskedId": "147xxxxxx1605",
+      "name": "พรกนก ศรีมุกดา",
+      "province": "ลพบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%81%E0%B8%99%E0%B8%81-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%B8%E0%B8%81%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองม่วง",
+      "district": "หนองม่วง",
+      "id": "d041c02b96c6ee185f0b85a2",
+      "maskedId": "130xxxxxx0889",
+      "name": "อัญชนา บุญผ่อง",
+      "province": "ลพบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

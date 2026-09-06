@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "บึงสามพัน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บึงสามพัน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังพิกุล",
+      "district": "บึงสามพัน",
+      "id": "dce142d68d1a57e82ab91354",
+      "maskedId": "140xxxxxx5286",
+      "name": "ชัยนรงณ์ วิชาธรรม",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%87%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังพิกุล",
+      "district": "บึงสามพัน",
+      "id": "f1f8fda22482103a8cf3e0c8",
+      "maskedId": "160xxxxxx4269",
+      "name": "ปนัดดา จําปาทอง",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%9B%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.พญาวัง",
+      "district": "บึงสามพัน",
+      "id": "ab29bc29908b0c7f7ae694fb",
+      "maskedId": "167xxxxxx7958",
+      "name": "พัชนาพร ครองยุติ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลซับสมอทอด",
+      "district": "บึงสามพัน",
+      "id": "15790299d2bd11d1a2efa69d",
+      "maskedId": "167xxxxxx2369",
+      "name": "ยุรนันท์ ปานเงิน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ซับไม้แดง",
+      "district": "บึงสามพัน",
+      "id": "954e469ae0d3cde0e0ddef0b",
+      "maskedId": "167xxxxxx1975",
+      "name": "วิไล เคียนสันเทียะ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B9%84%E0%B8%A5-%E0%B9%80%E0%B8%84%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บึงสามพัน",
+      "district": "บึงสามพัน",
+      "id": "0355e1e05ce8a7431213f66e",
+      "maskedId": "364xxxxxx1940",
+      "name": "สุทธิรัตน์ โพธิ์เกลี้ยง",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กันจุ",
+      "district": "บึงสามพัน",
+      "id": "dc6191c2d9bd5bb0aaf8a750",
+      "maskedId": "167xxxxxx9571",
+      "name": "หนึ่งฤทัย ในพลกรัง",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 8,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

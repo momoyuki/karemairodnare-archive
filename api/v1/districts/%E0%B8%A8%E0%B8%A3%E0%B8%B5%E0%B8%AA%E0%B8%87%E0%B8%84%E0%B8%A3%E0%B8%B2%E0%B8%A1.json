@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "ศรีสงคราม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ศรีสงคราม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านเอื้อง",
+      "district": "ศรีสงคราม",
+      "id": "4b55eb4e37e244afffe3a5ba",
+      "maskedId": "141xxxxxx7799",
+      "name": "ณัฐวุฒิ ยศสงคราม",
+      "province": "นครพนม",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%A2%E0%B8%A8%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลศรีสงคราม",
+      "district": "ศรีสงคราม",
+      "id": "a9e5bcf30483596cb101f89a",
+      "maskedId": "143xxxxxx7044",
+      "name": "นันทลักษณ์ เข็มศิริ",
+      "province": "นครพนม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B9%87%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลหาดแพง",
+      "district": "ศรีสงคราม",
+      "id": "54773353e4501c2a12ff6964",
+      "maskedId": "146xxxxxx9752",
+      "name": "พงศ์พัฒน์ ภูขาว",
+      "province": "นครพนม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหาดแพง",
+      "district": "ศรีสงคราม",
+      "id": "717cb965af9a25346e65f83f",
+      "maskedId": "143xxxxxx3280",
+      "name": "ภูมิพัฒน์ รัตนศรี",
+      "province": "นครพนม",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าบ่อสงคราม",
+      "district": "ศรีสงคราม",
+      "id": "fcd0f1a230c6743962f2d2ca",
+      "maskedId": "147xxxxxx3533",
+      "name": "อัญชลี ขวัญดี",
+      "province": "นครพนม",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A5%E0%B8%B5-%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหาดแพง",
+      "district": "ศรีสงคราม",
+      "id": "c13a32bda079214a036f96a4",
+      "maskedId": "143xxxxxx3073",
+      "name": "อินทุอร บุ่งนาม",
+      "province": "นครพนม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B8%AD%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

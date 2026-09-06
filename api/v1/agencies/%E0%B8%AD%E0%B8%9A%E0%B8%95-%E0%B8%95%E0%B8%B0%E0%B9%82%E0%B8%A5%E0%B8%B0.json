@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ตะโละ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ตะโละ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตะโละ",
+      "district": "ยะหริ่ง",
+      "id": "3c1c9302290d2d788d121948",
+      "maskedId": "194xxxxxx2662",
+      "name": "ฟาตีฮะห์ มะสาและ",
+      "province": "ปัตตานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%95%E0%B8%B5%E0%B8%AE%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%A1%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโละ",
+      "district": "ยะหริ่ง",
+      "id": "22710fea67f3d9825505f8ee",
+      "maskedId": "196xxxxxx0774",
+      "name": "วันฮาบีบะห์ เจะหมะ",
+      "province": "ปัตตานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AE%E0%B8%B2%E0%B8%9A%E0%B8%B5%E0%B8%9A%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%AB%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

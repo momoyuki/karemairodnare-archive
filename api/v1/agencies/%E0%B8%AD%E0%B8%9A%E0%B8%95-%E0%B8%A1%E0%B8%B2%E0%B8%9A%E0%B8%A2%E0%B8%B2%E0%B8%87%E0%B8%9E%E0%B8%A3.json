@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.มาบยางพร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-มาบยางพร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.มาบยางพร",
+      "district": "ปลวกแดง",
+      "id": "a2c3637fa05d0876a85f9773",
+      "maskedId": "134xxxxxx3802",
+      "name": "กมลชนก ธนูทอง",
+      "province": "ระยอง",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%98%E0%B8%99%E0%B8%B9%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มาบยางพร",
+      "district": "ปลวกแดง",
+      "id": "a1483836d371f5acfd7299ce",
+      "maskedId": "120xxxxxx1203",
+      "name": "พรทิพย์ สิทธิธัญญกิจ",
+      "province": "ระยอง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มาบยางพร",
+      "district": "ปลวกแดง",
+      "id": "cbeac2ced7af943f52fb4e13",
+      "maskedId": "131xxxxxx5846",
+      "name": "สันทราย เทพชาติ",
+      "province": "ระยอง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A2-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

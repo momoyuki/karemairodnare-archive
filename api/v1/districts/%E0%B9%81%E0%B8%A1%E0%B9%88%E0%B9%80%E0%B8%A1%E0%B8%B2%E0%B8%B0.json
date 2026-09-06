@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "แม่เมาะ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "แม่เมาะ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.สบป้าด",
+      "district": "แม่เมาะ",
+      "id": "5b2ab124cde2865b3bb3635d",
+      "maskedId": "362xxxxxx2891",
+      "name": "จารุณี สีสุด",
+      "province": "ลำปาง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่เมาะ",
+      "district": "แม่เมาะ",
+      "id": "3a205ba4a459b123ec17a642",
+      "maskedId": "167xxxxxx5811",
+      "name": "ณัฐธิดา แก้วโก",
+      "province": "ลำปาง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%82%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จางเหนือ",
+      "district": "แม่เมาะ",
+      "id": "45c686bfa58e66d207e807c8",
+      "maskedId": "160xxxxxx1992",
+      "name": "ณัฐพล อนรรฆนนท์",
+      "province": "ลำปาง",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%A3%E0%B8%86%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สบป้าด",
+      "district": "แม่เมาะ",
+      "id": "c19773a291e1abab8fe229c2",
+      "maskedId": "110xxxxxx6750",
+      "name": "ประภาพร แช่มช้อย",
+      "province": "ลำปาง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B8%A1%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

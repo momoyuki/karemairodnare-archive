@@ -1,0 +1,405 @@
+{
+  "_meta": {
+    "count": 23,
+    "kind": "district",
+    "name": "เมืองชัยภูมิ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองชัยภูมิ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "0dfa07d7eefd1c164a3335f3",
+      "maskedId": "132xxxxxx5431",
+      "name": "กรรณิการ์ ปราบประจิตร์",
+      "province": "ชัยภูมิ",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "d9c46eed236aa3cbcbf22334",
+      "maskedId": "132xxxxxx2526",
+      "name": "กฤษดากร ชาลี",
+      "province": "ชัยภูมิ",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%94%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%8A%E0%B8%B2%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยต้อน",
+      "district": "เมืองชัยภูมิ",
+      "id": "6da40e2beb16683620b564c0",
+      "maskedId": "140xxxxxx3581",
+      "name": "กัญญาณัฐ กางนอก",
+      "province": "ชัยภูมิ",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%81%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "2626ca9dd35910c5c1a018a1",
+      "maskedId": "144xxxxxx5002",
+      "name": "ขนิษฐา สุ่ยหา",
+      "province": "ชัยภูมิ",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B9%88%E0%B8%A2%E0%B8%AB%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "564c131d4a09254031771dde",
+      "maskedId": "146xxxxxx9896",
+      "name": "คมจรัส ทองจรัส",
+      "province": "ชัยภูมิ",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%A1%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%AA-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "f41604d6e87713b81ed63a03",
+      "maskedId": "132xxxxxx9823",
+      "name": "จารุวรรณ หาญเชี่ยว",
+      "province": "ชัยภูมิ",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AB%E0%B8%B2%E0%B8%8D%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "449f793c4cb6563a07b9e821",
+      "maskedId": "133xxxxxx9787",
+      "name": "ชวาลวุฒิ พิศชาติ",
+      "province": "ชัยภูมิ",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "00d0521922acaca3526c15e7",
+      "maskedId": "367xxxxxx1087",
+      "name": "ณภัทร จันทร์แสง",
+      "province": "ชัยภูมิ",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "f7e2fba8f90efb243caf613d",
+      "maskedId": "140xxxxxx7734",
+      "name": "ณัฐพงศ์ ตาดี",
+      "province": "ชัยภูมิ",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%95%E0%B8%B2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "7c330d599e4ab695bcf925db",
+      "maskedId": "148xxxxxx8739",
+      "name": "ณัฐพงษ์ สิมมาลี",
+      "province": "ชัยภูมิ",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "2bf955c09fb5afdf63ba797e",
+      "maskedId": "131xxxxxx5908",
+      "name": "ธนภัทร บุษบงไพรวัลย์",
+      "province": "ชัยภูมิ",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%9A%E0%B8%87%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "c6376db55910bae3e151ddd5",
+      "maskedId": "131xxxxxx5916",
+      "name": "ธนวัฒน์ บุษบงไพรวัลย์",
+      "province": "ชัยภูมิ",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%9A%E0%B8%87%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "4f620a1658947cb0879b8b09",
+      "maskedId": "142xxxxxx6326",
+      "name": "นิติพนธ์ บัวระภา",
+      "province": "ชัยภูมิ",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "bed51b1b7b0f6446ed1db33c",
+      "maskedId": "131xxxxxx6060",
+      "name": "ปิยธิดา อยู่เกาะ",
+      "province": "ชัยภูมิ",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "b39481539a8d725f1c90984c",
+      "maskedId": "131xxxxxx2710",
+      "name": "มัลลิกา ดํารงศักดิ์ศิริ",
+      "province": "ชัยภูมิ",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%94%E0%B9%8D%E0%B8%B2%E0%B8%A3%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "260e3df59bfd59d85bfa92c1",
+      "maskedId": "133xxxxxx2484",
+      "name": "ศรัณย์ธรรม พูนมาก",
+      "province": "ชัยภูมิ",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B9%8C%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1-%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "bc8e65e378b96b35c806123d",
+      "maskedId": "120xxxxxx6472",
+      "name": "ศักรินทร์ โรจนไพฑูรย์ทิพย์",
+      "province": "ชัยภูมิ",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%84%E0%B8%9E%E0%B8%91%E0%B8%B9%E0%B8%A3%E0%B8%A2%E0%B9%8C%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "c100d7266db4f394a21653f1",
+      "maskedId": "130xxxxxx0878",
+      "name": "ศิรินันท์ พลค้า",
+      "province": "ชัยภูมิ",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9E%E0%B8%A5%E0%B8%84%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาฝาย",
+      "district": "เมืองชัยภูมิ",
+      "id": "6c2964ebb0a9450b59acc00f",
+      "maskedId": "331xxxxxx3376",
+      "name": "สุภาภรณ์ พองชัยภูมิ",
+      "province": "ชัยภูมิ",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "85622b4f0ea1268efd8cb475",
+      "maskedId": "142xxxxxx3381",
+      "name": "สุภารัตน์ สาลาสุตา",
+      "province": "ชัยภูมิ",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "4918f896b0cc8b52b7acd4a5",
+      "maskedId": "141xxxxxx1467",
+      "name": "อรรถพล อย่างสวย",
+      "province": "ชัยภูมิ",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "645218c999f68d96fc466d52",
+      "maskedId": "131xxxxxx5907",
+      "name": "อาทิตยา สาระปัญญา",
+      "province": "ชัยภูมิ",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยภูมิ",
+      "district": "เมืองชัยภูมิ",
+      "id": "ce6a84903d876daca4d5f685",
+      "maskedId": "110xxxxxx6111",
+      "name": "เพ็ญพัฒน์ ทอดชัยภูมิ",
+      "province": "ชัยภูมิ",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "25_ชัยภูมิ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

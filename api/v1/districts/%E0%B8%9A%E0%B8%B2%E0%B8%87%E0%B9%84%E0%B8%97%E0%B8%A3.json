@@ -1,0 +1,218 @@
+{
+  "_meta": {
+    "count": 12,
+    "kind": "district",
+    "name": "บางไทร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางไทร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลราชคราม",
+      "district": "บางไทร",
+      "id": "22120196e5f9eddf901d5954",
+      "maskedId": "272xxxxxx8881",
+      "name": "กาญจนา มาลาวงษ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านม้า",
+      "district": "บางไทร",
+      "id": "8775dbebda8dec9dcdf3a9db",
+      "maskedId": "110xxxxxx2884",
+      "name": "จารุธัช จิตต์สว่าง",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%98%E0%B8%B1%E0%B8%8A-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%8C%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกช้าง",
+      "district": "บางไทร",
+      "id": "eaf2691671973de52028bf85",
+      "maskedId": "115xxxxxx0241",
+      "name": "ณัฐวุฒิ เกิดภาษี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ไผ่พระ",
+      "district": "บางไทร",
+      "id": "b83b87a9c7e9aa96be872508",
+      "maskedId": "114xxxxxx0493",
+      "name": "ธีรศักดิ์ ธิราชัย",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางไทร",
+      "district": "บางไทร",
+      "id": "de9cb1395d812667a54cad6c",
+      "maskedId": "134xxxxxx3846",
+      "name": "นันทิณี ลอยฟ้า",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%9F%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สนามชัย",
+      "district": "บางไทร",
+      "id": "a21407808b1bcd7a03e03895",
+      "maskedId": "131xxxxxx3880",
+      "name": "พันธกานต์ ปราบสกุล",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.สนามชัย",
+      "district": "บางไทร",
+      "id": "d7a8ac1aa51e29223ed62f04",
+      "maskedId": "110xxxxxx0547",
+      "name": "พิมพ์วดี คุณสุวรรณ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลราชคราม",
+      "district": "บางไทร",
+      "id": "4212ad0f5fbf0579d2758d85",
+      "maskedId": "146xxxxxx4739",
+      "name": "ภัสพิชญ์ชา สันประภา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C%E0%B8%8A%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลราชคราม",
+      "district": "บางไทร",
+      "id": "2d37d0d6cdc6d3de76b46695",
+      "maskedId": "119xxxxxx2941",
+      "name": "ภาริณีย์ เที่ยงธรรม",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านม้า",
+      "district": "บางไทร",
+      "id": "51973cfd4ea8087ed93c738a",
+      "maskedId": "110xxxxxx0019",
+      "name": "อัมธิกา นิมา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกช้าง",
+      "district": "บางไทร",
+      "id": "7bb2084f36739266bc3a6541",
+      "maskedId": "112xxxxxx5304",
+      "name": "เมธาวี ขันแก้ว",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%B5-%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โพแตง",
+      "district": "บางไทร",
+      "id": "d64b55809d2e3b0d81a8b8cc",
+      "maskedId": "114xxxxxx5229",
+      "name": "เสรี พลีรุขชาติ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5-%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A3%E0%B8%B8%E0%B8%82%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

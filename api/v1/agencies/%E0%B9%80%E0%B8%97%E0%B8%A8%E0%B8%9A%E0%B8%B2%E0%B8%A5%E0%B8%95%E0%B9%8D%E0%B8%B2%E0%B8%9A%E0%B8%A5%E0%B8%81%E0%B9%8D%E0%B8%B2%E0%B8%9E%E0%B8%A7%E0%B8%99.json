@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "เทศบาลตําบลกําพวน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลกําพวน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "3e6e287dd076322fab728fe0",
+      "maskedId": "180xxxxxx4535",
+      "name": "กรรณิกา กาญจนวิวิญ",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "9093ea5d816eae90a043e981",
+      "maskedId": "193xxxxxx3494",
+      "name": "คมกริช มากอินทร์",
+      "province": "ระนอง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%8A-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "4fe9045667eb0f7b504562e0",
+      "maskedId": "190xxxxxx5560",
+      "name": "ชัยอนันต์ เดชสุวรรณ์",
+      "province": "ระนอง",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "6e7d3472e96fdec181d69b17",
+      "maskedId": "193xxxxxx5508",
+      "name": "วุฒิกร สุนทรภักดี",
+      "province": "ระนอง",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%81%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "62aa613949ce11987bcb0a80",
+      "maskedId": "196xxxxxx0871",
+      "name": "ศานิต ฉิมโฉม",
+      "province": "ระนอง",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%95-%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B9%82%E0%B8%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกําพวน",
+      "district": "สุขสำราญ",
+      "id": "22b628d550bc5f80abac6965",
+      "maskedId": "180xxxxxx2681",
+      "name": "ศิริลักษณ์ ศึกเสือ",
+      "province": "ระนอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

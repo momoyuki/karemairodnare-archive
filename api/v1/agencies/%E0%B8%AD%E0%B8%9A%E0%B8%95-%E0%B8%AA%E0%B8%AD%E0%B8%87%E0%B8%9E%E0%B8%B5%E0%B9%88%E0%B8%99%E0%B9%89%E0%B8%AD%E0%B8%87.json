@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.สองพี่น้อง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-สองพี่น้อง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.สองพี่น้อง",
+      "district": "ท่าแซะ",
+      "id": "7d4b732cfda906effae1454d",
+      "maskedId": "190xxxxxx6459",
+      "name": "จิรัชญา ถาวรประสิทธิ์",
+      "province": "ชุมพร",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.สองพี่น้อง",
+      "district": "ท่าแซะ",
+      "id": "9c5a8de5e11d6461e7282820",
+      "maskedId": "193xxxxxx4730",
+      "name": "ธัญธร พรหมศิลา",
+      "province": "ชุมพร",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%98%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.สองพี่น้อง",
+      "district": "ท่าแซะ",
+      "id": "ea18eef833d31f04b02590d0",
+      "maskedId": "186xxxxxx5573",
+      "name": "ธิติมา อินทรวิสัย",
+      "province": "ชุมพร",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.สองพี่น้อง",
+      "district": "ท่าแซะ",
+      "id": "c8d98edf4a5a1d3e3ccb84d4",
+      "maskedId": "186xxxxxx6534",
+      "name": "รัตนาภรณ์ เชิงไกรยัง",
+      "province": "ชุมพร",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A2%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

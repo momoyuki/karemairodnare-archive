@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.นิคมพัฒนา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-นิคมพัฒนา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นิคมพัฒนา",
+      "district": "มะนัง",
+      "id": "73c85d6f2ee1573da7be6ed9",
+      "maskedId": "191xxxxxx9291",
+      "name": "จุฑารัตน์ คงแก้วเคลื่อน",
+      "province": "สตูล",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "71_สตูล.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นิคมพัฒนา",
+      "district": "บางระกำ",
+      "id": "03ab0a9ba13a4b77cf300743",
+      "maskedId": "196xxxxxx7132",
+      "name": "ซูกอรนัย ตีเงาะ",
+      "province": "พิษณุโลก",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B9%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%95%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นิคมพัฒนา",
+      "district": "นิคมพัฒนา",
+      "id": "3487d739672c956651d600b6",
+      "maskedId": "316xxxxxx3951",
+      "name": "ณิชาดา พรหมพล",
+      "province": "ระยอง",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นิคมพัฒนา",
+      "district": "นิคมพัฒนา",
+      "id": "090bf1e0977b8e8c2dae7df9",
+      "maskedId": "120xxxxxx1065",
+      "name": "ธีระเฉลิม งาเจือ",
+      "province": "ระยอง",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1-%E0%B8%87%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นิคมพัฒนา",
+      "district": "บางระกำ",
+      "id": "c752f1db02201002f47b13ad",
+      "maskedId": "167xxxxxx4394",
+      "name": "วุฒิชัย มงคลวัจน์",
+      "province": "พิษณุโลก",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

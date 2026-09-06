@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "count": 11,
+    "kind": "district",
+    "name": "คีรีรัฐนิคม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "คีรีรัฐนิคม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านทำเนียบ",
+      "district": "คีรีรัฐนิคม",
+      "id": "78c940b5ac498f1d3f34d722",
+      "maskedId": "190xxxxxx3935",
+      "name": "กรรณิการ์ รักนุ้ย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "0fb6efff8c48d2b0fb127070",
+      "maskedId": "193xxxxxx0720",
+      "name": "กัลยา นุ้ยหนู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B2-%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "fef248e5c6e47a41f1f3a248",
+      "maskedId": "193xxxxxx3496",
+      "name": "ชาญวิทย์ สุดแป้น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.น้ําหัก",
+      "district": "คีรีรัฐนิคม",
+      "id": "b868e5cfc42a1e035ce6c587",
+      "maskedId": "184xxxxxx0021",
+      "name": "ชิติสรรค์ สิทธิชู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "a3286cd91af940d8ffbcec6a",
+      "maskedId": "193xxxxxx2145",
+      "name": "ชุติมา ช่วยบำรุง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%9A%E0%B8%B3%E0%B8%A3%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กะเปา",
+      "district": "คีรีรัฐนิคม",
+      "id": "7bfcfa46a5120ef1e46cde7f",
+      "maskedId": "181xxxxxx4111",
+      "name": "นพัสกร คงสกุล",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%AA%E0%B8%81%E0%B8%A3-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "61ea8ce75e8357029159a49d",
+      "maskedId": "384xxxxxx3081",
+      "name": "ปวิชญาดา รักกะเปา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.กะเปา",
+      "district": "คีรีรัฐนิคม",
+      "id": "f5498c5ceb0830b52e6093ec",
+      "maskedId": "193xxxxxx6356",
+      "name": "ศศิกานต์ สุวรรณตรี",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%95%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าขนอน",
+      "district": "คีรีรัฐนิคม",
+      "id": "707f88ae94dca579372c6285",
+      "maskedId": "192xxxxxx1705",
+      "name": "สินีพร หวังชัย",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5%E0%B8%9E%E0%B8%A3-%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าขนอน",
+      "district": "คีรีรัฐนิคม",
+      "id": "36268ec4fb77156efac9ca63",
+      "maskedId": "193xxxxxx6871",
+      "name": "สุนิสา สุภเพียร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าขนอน",
+      "district": "คีรีรัฐนิคม",
+      "id": "0c8fb3d1f45c1c9979ac8b72",
+      "maskedId": "147xxxxxx2457",
+      "name": "เมธารา ทองเจิม",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

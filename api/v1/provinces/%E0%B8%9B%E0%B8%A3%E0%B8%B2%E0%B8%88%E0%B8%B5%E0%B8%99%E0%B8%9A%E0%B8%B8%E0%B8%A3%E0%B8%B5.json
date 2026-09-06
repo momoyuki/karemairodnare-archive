@@ -1,0 +1,1051 @@
+{
+  "_meta": {
+    "count": 61,
+    "kind": "province",
+    "name": "ปราจีนบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ปราจีนบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางกระเบา",
+      "district": "บ้านสร้าง",
+      "id": "5831db93907355039c54b7a1",
+      "maskedId": "126xxxxxx8323",
+      "name": "กัลยรัตน์ รัตนดิลก ณ ภูเก็ต",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%81-%E0%B8%93-%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกปีบ",
+      "district": "ศรีมโหสถ",
+      "id": "346bd1c089f2826241cd1df9",
+      "maskedId": "126xxxxxx9937",
+      "name": "กาญจนา ธารี",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางกระเบา",
+      "district": "บ้านสร้าง",
+      "id": "f0524ab3b8028b4a16fd6d19",
+      "maskedId": "110xxxxxx3183",
+      "name": "กานต์เทพ พรมสอาด",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%9E-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านสร้าง",
+      "district": "บ้านสร้าง",
+      "id": "ccdb8627911572d080868b79",
+      "maskedId": "126xxxxxx0316",
+      "name": "กิตติพงศ์ ภูผา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%9C%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลกรอกสมบูรณ์",
+      "district": "ศรีมหาโพธิ",
+      "id": "c357e00e669ea420852035c1",
+      "maskedId": "141xxxxxx4461",
+      "name": "จิราวรรณ วงษ์ถิ่น",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "บ้านสร้าง",
+      "id": "3fcc6662c83ba4ee18677764",
+      "maskedId": "171xxxxxx2300",
+      "name": "ชนาธิป โสมา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B9%82%E0%B8%AA%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ประจันตคาม",
+      "district": "ประจันตคาม",
+      "id": "d2491f90473377b4c7712026",
+      "maskedId": "133xxxxxx8890",
+      "name": "ชินลดา อุทัยชิน",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "บ้านสร้าง",
+      "id": "fea809dea3930dbcbe4ee57f",
+      "maskedId": "172xxxxxx1741",
+      "name": "ชุติกานต์ จันทา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ่อทอง",
+      "district": "กบินทร์บุรี",
+      "id": "13c1cd3bdaca57c3f1978fe4",
+      "maskedId": "110xxxxxx5185",
+      "name": "ญาณวัฒน์ ลีลาศ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "0d471b967688a60511e4b74b",
+      "maskedId": "110xxxxxx9917",
+      "name": "ณัชชา คุ้มคุณ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กบินทร์",
+      "district": "กบินทร์บุรี",
+      "id": "4279417a1817eb288fe10700",
+      "maskedId": "124xxxxxx0295",
+      "name": "ณัชชา พลอยสมุทร์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพธิ์งาม",
+      "district": "ประจันตคาม",
+      "id": "c8df9351c02555e6a5774313",
+      "maskedId": "110xxxxxx2032",
+      "name": "ณัฐจิโรจน์ หมวกกลั่น",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%88%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%81%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านสร้าง",
+      "district": "บ้านสร้าง",
+      "id": "f6252f4084e8bae6393d03cc",
+      "maskedId": "110xxxxxx6683",
+      "name": "ณัฐพล ธูปหอม",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%98%E0%B8%B9%E0%B8%9B%E0%B8%AB%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลกรอกสมบูรณ์",
+      "district": "ศรีมหาโพธิ",
+      "id": "a2f4cca0cd898e9fbcc22d58",
+      "maskedId": "120xxxxxx2080",
+      "name": "ณัทมน ส่งชื่น",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%97%E0%B8%A1%E0%B8%99-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกปีบ",
+      "district": "ศรีมโหสถ",
+      "id": "9bba5ca455127ff9942b8486",
+      "maskedId": "125xxxxxx0567",
+      "name": "ณิชมน วรรักษ์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 68,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%A1%E0%B8%99-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําโตนด",
+      "district": "ประจันตคาม",
+      "id": "6d7010ba08b1861b68bdaff6",
+      "maskedId": "152xxxxxx8351",
+      "name": "ตรีชนนท์ พิทยาธำรง",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%98%E0%B8%B3%E0%B8%A3%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําโตนด",
+      "district": "ประจันตคาม",
+      "id": "fae8a9cb24cde662fe99e667",
+      "maskedId": "125xxxxxx3775",
+      "name": "ถาวรีย์ อ่อนเกิด",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านสร้าง",
+      "district": "บ้านสร้าง",
+      "id": "dc1a706e52c9d61225f2ce2b",
+      "maskedId": "126xxxxxx5122",
+      "name": "ธณกร มณีวรรณ์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%93%E0%B8%81%E0%B8%A3-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางกระเบา",
+      "district": "บ้านสร้าง",
+      "id": "3a79c2289a13b6f9d07bb447",
+      "maskedId": "126xxxxxx9109",
+      "name": "ธิดารัตน์ บ้านใหม่",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "741fff2ae672fd165857f9db",
+      "maskedId": "126xxxxxx3039",
+      "name": "ธีรภัทร อดุลยวัฒน์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AD%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "f036880c0a1e6494e128d4c6",
+      "maskedId": "140xxxxxx8066",
+      "name": "ธีระยุทธ ศรีชมชื่น",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังตะเคียน",
+      "district": "กบินทร์บุรี",
+      "id": "bdb5efd22e57d03fb31ac160",
+      "maskedId": "133xxxxxx5318",
+      "name": "ธีรโชติ ทองใบ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%9A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบจ.ปราจีนบุรี",
+      "district": "เมืองปราจีนบุรี",
+      "id": "576b7bfd895e659a920d3562",
+      "maskedId": "136xxxxxx2369",
+      "name": "นัฐพงศ์ วงศ์ฮาด",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AE%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "bb2ff668c531a3e3e2482cc0",
+      "maskedId": "130xxxxxx1053",
+      "name": "นันทิวา สุภาพวิมล",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังตะเคียน",
+      "district": "กบินทร์บุรี",
+      "id": "5ed114b417930aca1b7cbd12",
+      "maskedId": "126xxxxxx6452",
+      "name": "บุศรินทร์ ครองกิจการ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านนา",
+      "district": "กบินทร์บุรี",
+      "id": "506e4f579c7b9f30431713b9",
+      "maskedId": "148xxxxxx0247",
+      "name": "บุษบง อุบัวบล",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%9A%E0%B8%87-%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "09839db54e53ceda19a26322",
+      "maskedId": "126xxxxxx0385",
+      "name": "บุษราวรรณ ปฐมัง",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.วัดโบสถ์",
+      "district": "เมืองปราจีนบุรี",
+      "id": "cc6421081d420af3639e9c07",
+      "maskedId": "111xxxxxx7422",
+      "name": "ปวรณัฐ ศรีมุงคุล",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 8,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%A3%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%B8%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลกรอกสมบูรณ์",
+      "district": "ศรีมหาโพธิ",
+      "id": "f7db252c85810451c9cff580",
+      "maskedId": "111xxxxxx4422",
+      "name": "ปัญญาพร สมเครือ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังตะเคียน",
+      "district": "กบินทร์บุรี",
+      "id": "724541f49c2224bbedaee135",
+      "maskedId": "125xxxxxx2961",
+      "name": "ปัทมา พันธ์ขุนทด",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%97%E0%B8%A1%E0%B8%B2-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%94",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.คําโตนด",
+      "district": "ประจันตคาม",
+      "id": "23d3723070848b068832e8ed",
+      "maskedId": "119xxxxxx8759",
+      "name": "พงศธร แพทย์เจริญ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%98%E0%B8%A3-%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "e85b0f4e3a8be3f5c5132a5a",
+      "maskedId": "126xxxxxx6973",
+      "name": "พงศธร ใจสอาด",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%98%E0%B8%A3-%E0%B9%83%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.วังตะเคียน",
+      "district": "กบินทร์บุรี",
+      "id": "11ef5f071f54b5bad8e456bf",
+      "maskedId": "133xxxxxx5130",
+      "name": "พรทิพย์ พิมศร",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดงกระทงยาม",
+      "district": "ศรีมหาโพธิ",
+      "id": "162bd1e405a03cf55898788c",
+      "maskedId": "111xxxxxx1500",
+      "name": "ภัคจิรา สิริวรากรวงศ์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%84%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "4e405f5223748d296b79163a",
+      "maskedId": "170xxxxxx5724",
+      "name": "ภัทร นาลัย",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%99%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลบางแตน",
+      "district": "บ้านสร้าง",
+      "id": "63f4661e404c82b63198dfc9",
+      "maskedId": "110xxxxxx5726",
+      "name": "ภาณุวัต พงศ์สิริวรวัฒน์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%95-%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําโตนด",
+      "district": "ประจันตคาม",
+      "id": "a3b8951e81006217957e0032",
+      "maskedId": "126xxxxxx2944",
+      "name": "มินตรา ทองพุ่ม",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านสร้าง",
+      "district": "บ้านสร้าง",
+      "id": "a530839ea0c81f7681bfb89f",
+      "maskedId": "110xxxxxx6405",
+      "name": "รวินนา อินทรครรชิต",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%8A%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางแตน",
+      "district": "บ้านสร้าง",
+      "id": "eb9aef75d14edc920774f5ab",
+      "maskedId": "126xxxxxx3751",
+      "name": "รัญชน์ธรรม สุทธากร",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1-%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B2%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเมืองเก่า",
+      "district": "กบินทร์บุรี",
+      "id": "7646b59b871b271bf24e73e6",
+      "maskedId": "154xxxxxx5758",
+      "name": "วนัชยา อึ้งเจริญ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%A2%E0%B8%B2-%E0%B8%AD%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.วังตะเคียน",
+      "district": "กบินทร์บุรี",
+      "id": "276a82590279451e43efc07d",
+      "maskedId": "112xxxxxx9061",
+      "name": "วัฒนา เพชรด้วง",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบจ.ปราจีนบุรี",
+      "district": "เมืองปราจีนบุรี",
+      "id": "f024e89c8b0ca5ac68ffe472",
+      "maskedId": "214xxxxxx1168",
+      "name": "วิรชา เสมามอญ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%A1%E0%B8%AD%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประจันตคาม",
+      "district": "ประจันตคาม",
+      "id": "deda1638f54fc21f26c455b2",
+      "maskedId": "126xxxxxx2711",
+      "name": "วีรนุช วิกสิต",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดงพระราม",
+      "district": "เมืองปราจีนบุรี",
+      "id": "37de919d455c4e826139a7e3",
+      "maskedId": "126xxxxxx2930",
+      "name": "ศันสนีย์ สีตา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B5%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "65b5d5a4b633e6e6af056b5d",
+      "maskedId": "126xxxxxx7672",
+      "name": "ศิริพร สงเคราะห์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลโพธิ์งาม",
+      "district": "ประจันตคาม",
+      "id": "3f01c9d1bd088c7fcafa576a",
+      "maskedId": "110xxxxxx7252",
+      "name": "ศุภาวรรณ พูลเจริญ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "83c34a1343d8654399103755",
+      "maskedId": "110xxxxxx4255",
+      "name": "สรกฤช คงสนทนา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%8A-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางกระเบา",
+      "district": "บ้านสร้าง",
+      "id": "3526fd84a98e7c9e107a1574",
+      "maskedId": "126xxxxxx3943",
+      "name": "สิทธิกร ศรทอง",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%A3-%E0%B8%A8%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประจันตคาม",
+      "district": "ประจันตคาม",
+      "id": "27c398a04101a118df1c207d",
+      "maskedId": "126xxxxxx1571",
+      "name": "สุกาญจนา จันวัตร์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บุพราหมณ์",
+      "district": "นาดี",
+      "id": "048045047a66ad5238990824",
+      "maskedId": "130xxxxxx2695",
+      "name": "สุนิสา สูนกลาง",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B9%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาดี",
+      "district": "นาดี",
+      "id": "117d351e493a203a1ec1724d",
+      "maskedId": "145xxxxxx3715",
+      "name": "สุพรรษา บุญไทย",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%84%E0%B8%97%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "82f8f066cbcb6e4a4a3cc44d",
+      "maskedId": "146xxxxxx3169",
+      "name": "สุพิมล ยี่วาศรี",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กบินทร์",
+      "district": "กบินทร์บุรี",
+      "id": "226fc464071c25ca9df810b4",
+      "maskedId": "372xxxxxx3728",
+      "name": "หนึ่งฤทัย ศรนรินทร์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%A8%E0%B8%A3%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางกระเบา",
+      "district": "บ้านสร้าง",
+      "id": "29877b660549a26c6af80781",
+      "maskedId": "126xxxxxx4029",
+      "name": "อนันต์นภา มนตรี",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกไทย",
+      "district": "ศรีมโหสถ",
+      "id": "843892d86b21f7996bd46d08",
+      "maskedId": "231xxxxxx6251",
+      "name": "อภิรักษ์ มณีเทพ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%9E",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองแสง",
+      "district": "ประจันตคาม",
+      "id": "81e8fee6e31f084a9d3505ba",
+      "maskedId": "125xxxxxx9686",
+      "name": "อมรรัตน์ อ่อนอรรถ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.แก่งดินสอ",
+      "district": "นาดี",
+      "id": "44071bab163cdb9b9e9d6ad5",
+      "maskedId": "126xxxxxx3222",
+      "name": "อาทิตยา ทุมมา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ย่านรี",
+      "district": "กบินทร์บุรี",
+      "id": "f3775965f4bf193ea00115d5",
+      "maskedId": "148xxxxxx5458",
+      "name": "อินทิราพร เดชพันธ์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.แก่งดินสอ",
+      "district": "นาดี",
+      "id": "302918fe8c6066138d7857cb",
+      "maskedId": "111xxxxxx0989",
+      "name": "เบญจรัตน์ ไวกุลเพ็ชร",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%A7%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางแตน",
+      "district": "บ้านสร้าง",
+      "id": "d545ff27b17aacd465a8b76a",
+      "maskedId": "110xxxxxx7339",
+      "name": "โสมนัส บุญมาก",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%AA-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A1%E0%B8%B2%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ปราจีนบุรี",
+      "district": "เมืองปราจีนบุรี",
+      "id": "a1ba8aa2997868ac2dc9637a",
+      "maskedId": "146xxxxxx0309",
+      "name": "ไพลิน เถาวัลย์ดี",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%99-%E0%B9%80%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

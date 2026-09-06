@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "เทศบาลเมืองสระแก้ว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองสระแก้ว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองสระแก้ว",
+      "district": "เมืองสระแก้ว",
+      "id": "4b562ccfd57211d8aca6079a",
+      "maskedId": "120xxxxxx7811",
+      "name": "ชลิต มุนิกานนท์",
+      "province": "สระแก้ว",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95-%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองสระแก้ว",
+      "district": "เมืองกำแพงเพชร",
+      "id": "2a8d85994641f12c1eea161a",
+      "maskedId": "162xxxxxx2452",
+      "name": "ณัฐวดี จันทร์แดง",
+      "province": "กำแพงเพชร",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "49_กำแพงเพชร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%94%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองสระแก้ว",
+      "district": "เมืองสระแก้ว",
+      "id": "ec2b462406972eb76eaa30cb",
+      "maskedId": "164xxxxxx0599",
+      "name": "ธนสาร พรมนิล",
+      "province": "สระแก้ว",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากหน้าบุคลากรทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองสระแก้ว",
+      "district": "เมืองสระแก้ว",
+      "id": "b22e71dc345897b96bb1272e",
+      "maskedId": "125xxxxxx1682",
+      "name": "ธวัชชัย พันธ์ขุนทด",
+      "province": "สระแก้ว",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "18_สระแก้ว.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%94",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "เทศบาลตำบลช้างซ้าย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลช้างซ้าย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "4f2d30ebdcd81a668517dcd8",
+      "maskedId": "184xxxxxx7678",
+      "name": "จุฑาภรณ์ ตรียวง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "b5c8e435f54474e5751bad1e",
+      "maskedId": "190xxxxxx4264",
+      "name": "ชนัฎพิศุทร์ ชูแก้ว",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%8E%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "b37cfa99f58a8d2018c37fb3",
+      "maskedId": "180xxxxxx7191",
+      "name": "ณัฐธิดา สมเชื้อ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "7282680ac0b1c4ab0889a7a7",
+      "maskedId": "193xxxxxx1280",
+      "name": "พสพล เพชรเพ็ง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%AA%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "d657048d362cd8822e45f44d",
+      "maskedId": "180xxxxxx2804",
+      "name": "สุดารัตน์ อรชร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%A3%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลช้างซ้าย",
+      "district": "กาญจนดิษฐ์",
+      "id": "a54d6978c2d90a1534b7b65d",
+      "maskedId": "186xxxxxx5486",
+      "name": "สุวนันท์ สุดรอด",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%A3%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

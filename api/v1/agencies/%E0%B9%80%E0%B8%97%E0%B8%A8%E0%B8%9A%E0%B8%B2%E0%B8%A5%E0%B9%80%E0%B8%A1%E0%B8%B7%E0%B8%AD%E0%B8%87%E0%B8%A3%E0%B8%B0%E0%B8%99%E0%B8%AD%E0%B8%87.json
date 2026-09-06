@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "เทศบาลเมืองระนอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองระนอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองระนอง",
+      "district": "เมืองระนอง",
+      "id": "f48be4fce703141ddc067813",
+      "maskedId": "186xxxxxx9460",
+      "name": "กัลยรัตน์ อยู่แคล้ว",
+      "province": "ระนอง",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองระนอง",
+      "district": "เมืองระนอง",
+      "id": "a3f9f16e10a4d0e56e08a1d0",
+      "maskedId": "180xxxxxx6450",
+      "name": "ปารมี จินตนพันธ์",
+      "province": "ระนอง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B5-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองระนอง",
+      "district": "เมืองระนอง",
+      "id": "4072844d75a91eee01acb4b9",
+      "maskedId": "196xxxxxx6705",
+      "name": "ฟาริ บินดาโอะ",
+      "province": "ระนอง",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B8%B4-%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B9%82%E0%B8%AD%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองระนอง",
+      "district": "เมืองระนอง",
+      "id": "014986132e6b17a8e9566213",
+      "maskedId": "192xxxxxx0473",
+      "name": "ศิริวรรณ ศุภศรี",
+      "province": "ระนอง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองระนอง",
+      "district": "เมืองระนอง",
+      "id": "c02d958735c33bde1f1b03f8",
+      "maskedId": "186xxxxxx1541",
+      "name": "สุรางคนางค์ บุญผุย",
+      "province": "ระนอง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9C%E0%B8%B8%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

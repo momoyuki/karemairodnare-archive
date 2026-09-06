@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "ศรีรัตนะ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ศรีรัตนะ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ศรีแก้ว",
+      "district": "ศรีรัตนะ",
+      "id": "0801c91a45cd8e8ba73292a5",
+      "maskedId": "433xxxxxx1596",
+      "name": "ณัฐฐิญา หาญบาง",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%90%E0%B8%B4%E0%B8%8D%E0%B8%B2-%E0%B8%AB%E0%B8%B2%E0%B8%8D%E0%B8%9A%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพุง",
+      "district": "ศรีรัตนะ",
+      "id": "b360012f532d1a9309800c9f",
+      "maskedId": "133xxxxxx8501",
+      "name": "สุพรรณี บุญขาว",
+      "province": "ศรีสะเกษ",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "22_ศรีสะเกษ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B5-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%82%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

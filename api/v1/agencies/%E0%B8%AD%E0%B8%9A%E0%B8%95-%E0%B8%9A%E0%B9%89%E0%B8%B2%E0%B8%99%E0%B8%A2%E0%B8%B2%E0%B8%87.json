@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบต.บ้านยาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บ้านยาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "0fb6efff8c48d2b0fb127070",
+      "maskedId": "193xxxxxx0720",
+      "name": "กัลยา นุ้ยหนู",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B2-%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2%E0%B8%AB%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "fef248e5c6e47a41f1f3a248",
+      "maskedId": "193xxxxxx3496",
+      "name": "ชาญวิทย์ สุดแป้น",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "a3286cd91af940d8ffbcec6a",
+      "maskedId": "193xxxxxx2145",
+      "name": "ชุติมา ช่วยบำรุง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%9A%E0%B8%B3%E0%B8%A3%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "คีรีรัฐนิคม",
+      "id": "61ea8ce75e8357029159a49d",
+      "maskedId": "384xxxxxx3081",
+      "name": "ปวิชญาดา รักกะเปา",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "เมืองบุรีรัมย์",
+      "id": "9f856065fb63214fae16cfd2",
+      "maskedId": "130xxxxxx1871",
+      "name": "ศศิประภา มีสีดา",
+      "province": "บุรีรัมย์",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "เมืองนครปฐม",
+      "id": "4c24d1cf784c9fe0bc9348b6",
+      "maskedId": "170xxxxxx7146",
+      "name": "อรวรรณ หิรัญมูล",
+      "province": "นครปฐม",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%A1%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

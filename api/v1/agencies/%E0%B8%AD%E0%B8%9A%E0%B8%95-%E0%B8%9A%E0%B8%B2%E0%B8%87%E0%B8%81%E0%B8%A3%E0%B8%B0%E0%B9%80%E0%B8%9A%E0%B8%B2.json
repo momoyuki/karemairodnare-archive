@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.บางกระเบา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางกระเบา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางกระเบา",
+      "district": "บ้านสร้าง",
+      "id": "5831db93907355039c54b7a1",
+      "maskedId": "126xxxxxx8323",
+      "name": "กัลยรัตน์ รัตนดิลก ณ ภูเก็ต",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%81-%E0%B8%93-%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางกระเบา",
+      "district": "บ้านสร้าง",
+      "id": "f0524ab3b8028b4a16fd6d19",
+      "maskedId": "110xxxxxx3183",
+      "name": "กานต์เทพ พรมสอาด",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%97%E0%B8%9E-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางกระเบา",
+      "district": "บ้านสร้าง",
+      "id": "3a79c2289a13b6f9d07bb447",
+      "maskedId": "126xxxxxx9109",
+      "name": "ธิดารัตน์ บ้านใหม่",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางกระเบา",
+      "district": "บ้านสร้าง",
+      "id": "3526fd84a98e7c9e107a1574",
+      "maskedId": "126xxxxxx3943",
+      "name": "สิทธิกร ศรทอง",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%A3-%E0%B8%A8%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางกระเบา",
+      "district": "บ้านสร้าง",
+      "id": "29877b660549a26c6af80781",
+      "maskedId": "126xxxxxx4029",
+      "name": "อนันต์นภา มนตรี",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

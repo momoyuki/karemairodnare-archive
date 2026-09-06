@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.หนองสิม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-หนองสิม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองสิม",
+      "district": "บรบือ",
+      "id": "f8e7c187fa0ac48ecfc99a17",
+      "maskedId": "140xxxxxx2531",
+      "name": "มัฌฌิมา กล่อมใจ",
+      "province": "มหาสารคาม",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%8C%E0%B8%8C%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองสิม",
+      "district": "บรบือ",
+      "id": "b879826acd07113232d0af9f",
+      "maskedId": "149xxxxxx1769",
+      "name": "วริช ทองเพิ่ม",
+      "province": "มหาสารคาม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%8A-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

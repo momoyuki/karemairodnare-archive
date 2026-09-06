@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.นพรัตน์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-นพรัตน์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นพรัตน์",
+      "district": "หนองเสือ",
+      "id": "1f1ef6af24e8a3bd466f02b1",
+      "maskedId": "114xxxxxx1719",
+      "name": "กฤติธัช มากเกษม",
+      "province": "ปทุมธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%B1%E0%B8%8A-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นพรัตน์",
+      "district": "หนองเสือ",
+      "id": "bba77e80e4e0802a3a86da9f",
+      "maskedId": "110xxxxxx7509",
+      "name": "รุ้งเพชร เงาภู่ทอง",
+      "province": "ปทุมธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3-%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นพรัตน์",
+      "district": "หนองเสือ",
+      "id": "74ac50b7b84e414caa2918d8",
+      "maskedId": "131xxxxxx7975",
+      "name": "หนึ่งฤดี พานิชรัมย์",
+      "province": "ปทุมธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นพรัตน์",
+      "district": "หนองเสือ",
+      "id": "c797a8caaea7fdd4f52c065a",
+      "maskedId": "145xxxxxx6834",
+      "name": "เพชรรัตน์ ศรีวงษ์กลาง",
+      "province": "ปทุมธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นพรัตน์",
+      "district": "หนองเสือ",
+      "id": "56c04672803e52ada78ac23b",
+      "maskedId": "191xxxxxx6333",
+      "name": "โรสนานี่ ปันดีกา",
+      "province": "ปทุมธานี",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B9%88-%E0%B8%9B%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

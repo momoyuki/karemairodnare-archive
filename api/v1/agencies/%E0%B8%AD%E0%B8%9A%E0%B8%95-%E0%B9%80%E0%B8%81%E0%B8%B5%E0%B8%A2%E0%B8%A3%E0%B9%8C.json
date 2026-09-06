@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.เกียร์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-เกียร์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เกียร์",
+      "district": "สุคิริน",
+      "id": "8b55663c5602b5c8af56f125",
+      "maskedId": "396xxxxxx1881",
+      "name": "พิพัฒน์ ชิณพงศ์",
+      "province": "นราธิวาส",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B4%E0%B8%93%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกียร์",
+      "district": "สุคิริน",
+      "id": "9b0d3f9bf60979597fb32bc9",
+      "maskedId": "293xxxxxx2943",
+      "name": "วัชรพงษ์ วัชรจิรโสภณ",
+      "province": "นราธิวาส",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

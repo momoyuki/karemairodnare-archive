@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "แม่ทา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "แม่ทา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลทาสบเส้า",
+      "district": "แม่ทา",
+      "id": "e351a4da00ff3c98d90a6852",
+      "maskedId": "152xxxxxx1021",
+      "name": "อานนท์ ปินตาเครือ",
+      "province": "ลำพูน",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9B%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทาปลาดุก",
+      "district": "แม่ทา",
+      "id": "9dc49d4f443f5ba6a13687c2",
+      "maskedId": "143xxxxxx7511",
+      "name": "ไตรภพ พิมพ์จำปา",
+      "province": "ลำพูน",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "39_ลำพูน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%A0%E0%B8%9E-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

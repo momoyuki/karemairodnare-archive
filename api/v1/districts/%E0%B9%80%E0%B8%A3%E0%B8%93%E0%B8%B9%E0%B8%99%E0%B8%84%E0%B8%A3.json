@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "เรณูนคร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เรณูนคร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โพนทอง",
+      "district": "เรณูนคร",
+      "id": "d33bc7fdcc7d7db2db47f291",
+      "maskedId": "148xxxxxx9361",
+      "name": "จาตุรนต์ พลแก้ว",
+      "province": "นครพนม",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%9E%E0%B8%A5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โพนทอง",
+      "district": "เรณูนคร",
+      "id": "32f86e3c42b73a12f5296d40",
+      "maskedId": "143xxxxxx5446",
+      "name": "จิราภรณ์ แสงเขียว",
+      "province": "นครพนม",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โพนทอง",
+      "district": "เรณูนคร",
+      "id": "e9364973f38c105d71413812",
+      "maskedId": "149xxxxxx0138",
+      "name": "ปณิตา วงษ์กาฬสินธุ์",
+      "province": "นครพนม",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เรณูใต้",
+      "district": "เรณูนคร",
+      "id": "f53b9e612afebaecf9616c7a",
+      "maskedId": "148xxxxxx0504",
+      "name": "ศุภลักษณ์ โยลัย",
+      "province": "นครพนม",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เรณูใต้",
+      "district": "เรณูนคร",
+      "id": "cb2888d8b0e60d3cf83b6c02",
+      "maskedId": "148xxxxxx3368",
+      "name": "สุนิสา พรหมดี",
+      "province": "นครพนม",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นางาม",
+      "district": "เรณูนคร",
+      "id": "7cce67bf22a94364462a5d43",
+      "maskedId": "110xxxxxx5083",
+      "name": "อารยา ภูมลา",
+      "province": "นครพนม",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

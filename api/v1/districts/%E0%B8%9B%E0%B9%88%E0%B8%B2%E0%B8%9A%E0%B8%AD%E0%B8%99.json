@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "ป่าบอน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ป่าบอน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ป่าบอน",
+      "district": "ป่าบอน",
+      "id": "efd6b29ab2eb4ca0c6ce5b0c",
+      "maskedId": "190xxxxxx2393",
+      "name": "จิรพงศ์ ศิริรัตน์",
+      "province": "พัทลุง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังใหม่",
+      "district": "ป่าบอน",
+      "id": "716328ffdd2a0a9c458c7bd1",
+      "maskedId": "290xxxxxx5355",
+      "name": "จุฑามาศ สาเมาะ",
+      "province": "พัทลุง",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%AA%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ทุ่งนารี",
+      "district": "ป่าบอน",
+      "id": "8e69fdbb904509bd2e459522",
+      "maskedId": "195xxxxxx1792",
+      "name": "ญาณิกาญจณ์ เหมะรักษ์",
+      "province": "พัทลุง",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าบอน",
+      "district": "ป่าบอน",
+      "id": "802d7ec69edcd3ba50f5036f",
+      "maskedId": "290xxxxxx9585",
+      "name": "พรสุพพัต ใจกล้า",
+      "province": "พัทลุง",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%9E%E0%B8%B1%E0%B8%95-%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่าบอน",
+      "district": "ป่าบอน",
+      "id": "67ba10f164e492e08e4a6c0f",
+      "maskedId": "190xxxxxx1417",
+      "name": "ยรรยง ชนวนทอง",
+      "province": "พัทลุง",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%87-%E0%B8%8A%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าบอน",
+      "district": "ป่าบอน",
+      "id": "35fa5465062d3902577b7a59",
+      "maskedId": "194xxxxxx5381",
+      "name": "วรัญญา เวชประสิทธิ์",
+      "province": "พัทลุง",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกทราย",
+      "district": "ป่าบอน",
+      "id": "974e1b7d632f4fd7f8d124b9",
+      "maskedId": "190xxxxxx2912",
+      "name": "อภิษฎา พลสวัสดิ์",
+      "province": "พัทลุง",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%9E%E0%B8%A5%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังใหม่",
+      "district": "ป่าบอน",
+      "id": "308bd84947d9e34e6eb4d6bb",
+      "maskedId": "194xxxxxx1259",
+      "name": "อับดุลเลาะ บือแน",
+      "province": "พัทลุง",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%B2%E0%B8%B0-%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ทุ่งนารี",
+      "district": "ป่าบอน",
+      "id": "da5012daa7045ac7898cd244",
+      "maskedId": "193xxxxxx9683",
+      "name": "โพยมศักดิ์ อุดมกิจชววัฒน์",
+      "province": "พัทลุง",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "73_พัทลุง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%9E%E0%B8%A2%E0%B8%A1%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%8A%E0%B8%A7%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

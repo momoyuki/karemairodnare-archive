@@ -1,0 +1,235 @@
+{
+  "_meta": {
+    "count": 13,
+    "kind": "district",
+    "name": "ปะทิว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ปะทิว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.สะพลี",
+      "district": "ปะทิว",
+      "id": "209b8b6d7538e54d45a3f6df",
+      "maskedId": "186xxxxxx7075",
+      "name": "กรวิชญ์ สุขสวัสดิ์",
+      "province": "ชุมพร",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพลี",
+      "district": "ปะทิว",
+      "id": "49b2ce841fd1fa82d260eea5",
+      "maskedId": "186xxxxxx2889",
+      "name": "กัลยกร วิทยายงค์",
+      "province": "ชุมพร",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%81%E0%B8%A3-%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทะเลทรัพย์",
+      "district": "ปะทิว",
+      "id": "c07f115bd50f5a5f1fb20074",
+      "maskedId": "186xxxxxx3930",
+      "name": "จุภาภรณ์ ยอดทอง",
+      "province": "ชุมพร",
+      "scoreChange": 71,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางสน",
+      "district": "ปะทิว",
+      "id": "ed7b3169bb64d6d16c301534",
+      "maskedId": "194xxxxxx2990",
+      "name": "ซูไรยา สาและ",
+      "province": "ชุมพร",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B9%E0%B9%84%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลมาบอํามฤต",
+      "district": "ปะทิว",
+      "id": "da943cc47db7235ba80fda29",
+      "maskedId": "186xxxxxx4653",
+      "name": "ธเนตร บ่วงดักใจ",
+      "province": "ชุมพร",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3-%E0%B8%9A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%94%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลชุมโค",
+      "district": "ปะทิว",
+      "id": "c315f21ebc257e989a90d5f4",
+      "maskedId": "193xxxxxx8911",
+      "name": "ปวีณา ศรีรักษา",
+      "province": "ชุมพร",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลชุมโค",
+      "district": "ปะทิว",
+      "id": "6a86b2793c6373595094dd69",
+      "maskedId": "193xxxxxx8580",
+      "name": "พนมกร นวลขวัญ",
+      "province": "ชุมพร",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B8%81%E0%B8%A3-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาไชยราช",
+      "district": "ปะทิว",
+      "id": "a00810639ca44d2fa8b4a049",
+      "maskedId": "186xxxxxx4454",
+      "name": "พิจิตรา วิชัยดิษฐ์",
+      "province": "ชุมพร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลชุมโค",
+      "district": "ปะทิว",
+      "id": "898c57a89011f0e264f4d6f0",
+      "maskedId": "384xxxxxx5875",
+      "name": "วรรณรักษ์ พูลสวัสดิ์",
+      "province": "ชุมพร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%9E%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากคลอง",
+      "district": "ปะทิว",
+      "id": "55aae582f7f2eaeadda282d3",
+      "maskedId": "186xxxxxx7303",
+      "name": "วิรวรรณ พงษ์สุวรรณ",
+      "province": "ชุมพร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลชุมโค",
+      "district": "ปะทิว",
+      "id": "7d181f521f328c214cc827c2",
+      "maskedId": "186xxxxxx6661",
+      "name": "ศิริพงษ์ เพชรล้อม",
+      "province": "ชุมพร",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลชุมโค",
+      "district": "ปะทิว",
+      "id": "89305062336fc4c8f039ca64",
+      "maskedId": "186xxxxxx3331",
+      "name": "สุภชัย ไชยศร",
+      "province": "ชุมพร",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทะเลทรัพย์",
+      "district": "ปะทิว",
+      "id": "d4a98bb0cb67e5cb99117d2f",
+      "maskedId": "186xxxxxx8701",
+      "name": "อุบลรัตน์ ยอดเสน่ห์",
+      "province": "ชุมพร",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

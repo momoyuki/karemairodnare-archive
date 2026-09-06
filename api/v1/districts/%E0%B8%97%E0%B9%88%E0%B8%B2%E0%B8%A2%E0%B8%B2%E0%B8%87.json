@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "ท่ายาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ท่ายาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลหนองจอก",
+      "district": "ท่ายาง",
+      "id": "2ad2c1f467fb5b3bb8851de9",
+      "maskedId": "174xxxxxx5745",
+      "name": "กฤษณา คลังเจริญ",
+      "province": "เพชรบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%B2-%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองจอก",
+      "district": "ท่ายาง",
+      "id": "538bcc3627b8fcf2c8351cad",
+      "maskedId": "176xxxxxx4583",
+      "name": "กัญญาวีร์ จันสนาด",
+      "province": "เพชรบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าไม้รวก",
+      "district": "ท่ายาง",
+      "id": "7d54c5345c57775009fb4f3b",
+      "maskedId": "176xxxxxx2311",
+      "name": "ชัยธวัช ไสวเวียง",
+      "province": "เพชรบุรี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A-%E0%B9%84%E0%B8%AA%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังไคร้",
+      "district": "ท่ายาง",
+      "id": "4505863e75a15146a62138a6",
+      "maskedId": "194xxxxxx3273",
+      "name": "วัชราวดี ทองอร่าม",
+      "province": "เพชรบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

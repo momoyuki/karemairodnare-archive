@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ปากช่อง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ปากช่อง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ปากช่อง",
+      "district": "ปากช่อง",
+      "id": "1005ab30bde22df43170b183",
+      "maskedId": "130xxxxxx8500",
+      "name": "ธงชัย ตรีแก้ว",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ปากช่อง",
+      "district": "ปากช่อง",
+      "id": "c874573d8e17b627b6b460b1",
+      "maskedId": "183xxxxxx8259",
+      "name": "ปรภรณ์ ก้อนอินทร์",
+      "province": "นครราชสีมา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ปากช่อง",
+      "district": "ปากช่อง",
+      "id": "42a09397d0ded11595ed05a4",
+      "maskedId": "130xxxxxx2172",
+      "name": "อินทุอร ธงศิลา",
+      "province": "นครราชสีมา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B8%AD%E0%B8%A3-%E0%B8%98%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

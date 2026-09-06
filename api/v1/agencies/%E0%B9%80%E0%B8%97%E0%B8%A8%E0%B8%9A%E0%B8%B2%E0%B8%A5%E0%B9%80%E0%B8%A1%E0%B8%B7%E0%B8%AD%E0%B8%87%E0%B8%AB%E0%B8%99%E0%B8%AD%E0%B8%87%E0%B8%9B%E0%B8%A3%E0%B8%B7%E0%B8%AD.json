@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "เทศบาลเมืองหนองปรือ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองหนองปรือ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "c81a240fe95bed7298205c3b",
+      "maskedId": "164xxxxxx0236",
+      "name": "จุฑามาศ คิดประเสริฐ",
+      "province": "ชลบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "8cc6391429d7abf014be708c",
+      "maskedId": "377xxxxxx2880",
+      "name": "ชณิญานันทน์ ศิริเตชธนากูล",
+      "province": "ชลบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%93%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%95%E0%B8%8A%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "629e8580d0324e52a0a88012",
+      "maskedId": "132xxxxxx3178",
+      "name": "ชนม์นิภา ตินานพ",
+      "province": "ชลบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%A1%E0%B9%8C%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "56381b1d7c9097726a38941d",
+      "maskedId": "120xxxxxx8504",
+      "name": "ชลิตตา เทพคีรี",
+      "province": "ชลบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "0598dfbb5282191c4e47d078",
+      "maskedId": "140xxxxxx8302",
+      "name": "มัสยา บุริมาตร",
+      "province": "ชลบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%AA%E0%B8%A2%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองปรือ",
+      "district": "บางละมุง",
+      "id": "ffe0c0d5b8ac64f377a28c66",
+      "maskedId": "142xxxxxx9422",
+      "name": "เขมิกา มูลถวิลย์",
+      "province": "ชลบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%96%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

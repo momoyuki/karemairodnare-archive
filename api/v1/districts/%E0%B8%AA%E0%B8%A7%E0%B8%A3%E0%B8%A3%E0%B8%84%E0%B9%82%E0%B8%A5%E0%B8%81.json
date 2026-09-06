@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "สวรรคโลก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สวรรคโลก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลคลองยาง",
+      "district": "สวรรคโลก",
+      "id": "c9010cb7f653151f5d94309a",
+      "maskedId": "190xxxxxx9011",
+      "name": "จักรราช ชูจิต",
+      "province": "สุโขทัย",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A-%E0%B8%8A%E0%B8%B9%E0%B8%88%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "6e0b2a2ff3b88f9c8d8feddb",
+      "maskedId": "142xxxxxx0023",
+      "name": "ตติยา ศรีอินทร์",
+      "province": "สุโขทัย",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "6d92cad186928da11a9a644c",
+      "maskedId": "153xxxxxx0386",
+      "name": "ธีรวัฒน์ เวชกามา",
+      "province": "สุโขทัย",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "c4e4a5b14f553d0b273be369",
+      "maskedId": "191xxxxxx2367",
+      "name": "นัจญามีย์ อาหน่าย",
+      "province": "สุโขทัย",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%88%E0%B8%8D%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "0a3daa661ce07c688b4f9ac6",
+      "maskedId": "112xxxxxx6768",
+      "name": "ปาริชาติ แสนใจวุฒิ",
+      "province": "สุโขทัย",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "ab2aa3794ab909bd713e20f6",
+      "maskedId": "164xxxxxx8145",
+      "name": "พัฒน์นรี แจ้งดี",
+      "province": "สุโขทัย",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%B5-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสวรรคโลก",
+      "district": "สวรรคโลก",
+      "id": "f5f3a283d22c6620930ce575",
+      "maskedId": "156xxxxxx7027",
+      "name": "อัณชยารัศมิ์ ระวิวรรณ์",
+      "province": "สุโขทัย",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%93%E0%B8%8A%E0%B8%A2%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B4%E0%B9%8C-%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

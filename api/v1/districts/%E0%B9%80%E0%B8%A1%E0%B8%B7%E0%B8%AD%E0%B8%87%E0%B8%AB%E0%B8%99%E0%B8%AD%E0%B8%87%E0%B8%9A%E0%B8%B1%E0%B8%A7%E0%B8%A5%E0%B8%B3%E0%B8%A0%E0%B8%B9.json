@@ -1,0 +1,252 @@
+{
+  "_meta": {
+    "count": 14,
+    "kind": "district",
+    "name": "เมืองหนองบัวลำภู",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองหนองบัวลำภู",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลนาคําไฮ",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "35a5ce61fa064d4c1b90d6e5",
+      "maskedId": "142xxxxxx5523",
+      "name": "จารุวรรณ พรมมาวันนา",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนขมิ้น",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "afa3debfdfeb17977f17e2b9",
+      "maskedId": "174xxxxxx6935",
+      "name": "นภสร วงค์พันธ์เสือ",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%AA%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนขมิ้น",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "2c7c003f47ff933cbd330b7e",
+      "maskedId": "134xxxxxx9306",
+      "name": "นุดาวัลย์ จันทร์อ่อน",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลนามะเฟือง",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "21653939036606591845fc47",
+      "maskedId": "363xxxxxx2481",
+      "name": "ปรภัทร อำพลพงษ์",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AD%E0%B8%B3%E0%B8%9E%E0%B8%A5%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลนามะเฟือง",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "073f3d6af6306c498f57f9b1",
+      "maskedId": "134xxxxxx7321",
+      "name": "ประสิทธิโชค ศรีระดา",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%82%E0%B8%8A%E0%B8%84-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ข่าใหญ่",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "203c5524a2c4b810605b2145",
+      "maskedId": "147xxxxxx3001",
+      "name": "ปัณณธร มีทองหลาง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B8%98%E0%B8%A3-%E0%B8%A1%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองภัยศูนย์",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "66f5a9adb01f42a2943bc60e",
+      "maskedId": "342xxxxxx2059",
+      "name": "รัตนา วงศ์พยัคฆ์",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ข่าใหญ่",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "bfa230c5027d8c92a35ee5ca",
+      "maskedId": "130xxxxxx5243",
+      "name": "ศิริรัตน์ พรมลัง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนขมิ้น",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "6ae38694645ebe4680f52b6d",
+      "maskedId": "541xxxxxx3932",
+      "name": "ศิวนาถ สิทธินาม",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ข่าใหญ่",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "74c26f81b3ff593e970ea828",
+      "maskedId": "341xxxxxx8455",
+      "name": "สราวุฒิ กองสมบัติ",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านขาม",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "8530b5821e198778505a3fb8",
+      "maskedId": "141xxxxxx5763",
+      "name": "สุนทรี ทองแสง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบจ.หนองบัวลําภู",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "d5c5efe22f7210f3b25c0bfb",
+      "maskedId": "140xxxxxx9521",
+      "name": "สุรเดช สิรินทราวรโชติ",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองภัยศูนย์",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "b38f889cca844568b4906af8",
+      "maskedId": "141xxxxxx7050",
+      "name": "อภิญญา พิลาวรรณ",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%9E%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองศาลา",
+      "district": "เมืองหนองบัวลำภู",
+      "id": "5fbe91f922d8de04a0c7bb92",
+      "maskedId": "141xxxxxx3847",
+      "name": "เมตตาทิพย์ พรหมศรี",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%95%E0%B8%95%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

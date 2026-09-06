@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "district",
+    "name": "หล่มสัก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "หล่มสัก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บุ่งคล้า",
+      "district": "หล่มสัก",
+      "id": "7b531cf1189eb6f0c4643494",
+      "maskedId": "167xxxxxx0996",
+      "name": "กชกร จักรเสน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วัดป่า",
+      "district": "หล่มสัก",
+      "id": "f5ddcc1d090c078b62839d37",
+      "maskedId": "167xxxxxx6656",
+      "name": "ชณภณ อินทร์ทูน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%93%E0%B8%A0%E0%B8%93-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%B9%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วัดป่า",
+      "district": "หล่มสัก",
+      "id": "760a67d92dd2f785a7f4fcdf",
+      "maskedId": "141xxxxxx3343",
+      "name": "ชาติโยดม ศิริรัตนพงษ์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%82%E0%B8%A2%E0%B8%94%E0%B8%A1-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ช้างตะลูด",
+      "district": "หล่มสัก",
+      "id": "5780bea33a406804a08c99f2",
+      "maskedId": "167xxxxxx0445",
+      "name": "ธินากร จันทร์ฤทธิ์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บุ่งคล้า",
+      "district": "หล่มสัก",
+      "id": "31bb56a8b83666f17323fd21",
+      "maskedId": "194xxxxxx2269",
+      "name": "ธีรภัทร พรหมบุญ",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านติ้ว",
+      "district": "หล่มสัก",
+      "id": "33905fe6d0ce230c4fefb7c9",
+      "maskedId": "167xxxxxx1119",
+      "name": "ภาณุพงศ์ วงษาวดี",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลานบ่า",
+      "district": "หล่มสัก",
+      "id": "21b9fd97808c96c5070d3596",
+      "maskedId": "153xxxxxx8443",
+      "name": "มลฤดี จันโสดา",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%A5%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%AA%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านติ้ว",
+      "district": "หล่มสัก",
+      "id": "5c774b321d97ecaf31185b03",
+      "maskedId": "142xxxxxx6121",
+      "name": "รัชณาภรณ์ อุ่นแก้ว",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%93%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําชุน",
+      "district": "หล่มสัก",
+      "id": "bdb7de8148050c9e61f31210",
+      "maskedId": "153xxxxxx0592",
+      "name": "สุชาวดี ร่มสุข",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านโสก",
+      "district": "หล่มสัก",
+      "id": "dda6fb0c0f90a80bb4a90673",
+      "maskedId": "367xxxxxx5941",
+      "name": "สุภาวดี เศรษฐบุตร",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากหน้าบุคลากรทางการ"
+    }
+  ]
+}

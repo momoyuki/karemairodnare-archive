@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.โยธะกา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-โยธะกา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.โยธะกา",
+      "district": "บางน้ำเปรี้ยว",
+      "id": "c65a0636929aa9e7a87284c0",
+      "maskedId": "110xxxxxx4442",
+      "name": "ภัทรวินทร์ ศรีคง",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โยธะกา",
+      "district": "บางน้ำเปรี้ยว",
+      "id": "80b9f13cd0ae087e965f4daf",
+      "maskedId": "126xxxxxx8143",
+      "name": "ภานิศา มณีนาค",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โยธะกา",
+      "district": "บางน้ำเปรี้ยว",
+      "id": "5a5d70c0400b41166076579f",
+      "maskedId": "147xxxxxx1508",
+      "name": "สมัชญา รัชชปัญญา",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

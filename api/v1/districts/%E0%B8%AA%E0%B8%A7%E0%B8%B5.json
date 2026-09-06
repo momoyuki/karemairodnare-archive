@@ -1,0 +1,286 @@
+{
+  "_meta": {
+    "count": 16,
+    "kind": "district",
+    "name": "สวี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สวี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ทุ่งระยะ",
+      "district": "สวี",
+      "id": "0f019d7c011d496938ff082d",
+      "maskedId": "184xxxxxx8211",
+      "name": "กุลณัฐ ช่วยคง",
+      "province": "ชุมพร",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านสวี",
+      "district": "สวี",
+      "id": "75084b6aa65178a25f33f27b",
+      "maskedId": "186xxxxxx4419",
+      "name": "จุฑารัตน์ แคล่วคล่อง",
+      "province": "ชุมพร",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%A7%E0%B8%84%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านสวี",
+      "district": "สวี",
+      "id": "5f5edbf9cdb8fc241e35e82f",
+      "maskedId": "190xxxxxx8926",
+      "name": "ชาลินี รักนิ่ม",
+      "province": "ชุมพร",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาโพธิ์พัฒนา",
+      "district": "สวี",
+      "id": "040a34a2caaf0d8404c50fee",
+      "maskedId": "191xxxxxx5136",
+      "name": "ชูพงศ์ ศรียาน",
+      "province": "ชุมพร",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B9%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านสวี",
+      "district": "สวี",
+      "id": "896446bb361780c97d9ebed4",
+      "maskedId": "186xxxxxx8586",
+      "name": "ณรงค์ กาญจนดิษฐ์",
+      "province": "ชุมพร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาค่าย",
+      "district": "สวี",
+      "id": "f74f19327e607f6a09bc885f",
+      "maskedId": "186xxxxxx4127",
+      "name": "ธัญสุตา ไก่ฟ้า",
+      "province": "ชุมพร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%AA%E0%B8%B8%E0%B8%95%E0%B8%B2-%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%9F%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านสวี",
+      "district": "สวี",
+      "id": "ece46089f88ffd6abcc7973e",
+      "maskedId": "186xxxxxx3852",
+      "name": "ธิดารัตน์ ทวีศรี",
+      "province": "ชุมพร",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%A7%E0%B8%B5%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาสัก",
+      "district": "สวี",
+      "id": "b400e01a303eb92c876018d9",
+      "maskedId": "186xxxxxx8060",
+      "name": "นงลักษณ์ สุขตะโก",
+      "province": "ชุมพร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%87%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%95%E0%B8%B0%E0%B9%82%E0%B8%81",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ทุ่งระยะ",
+      "district": "สวี",
+      "id": "729a1817458184eb10f2a03b",
+      "maskedId": "186xxxxxx3706",
+      "name": "พัชราพร นัทธี",
+      "province": "ชุมพร",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%99%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาค่าย",
+      "district": "สวี",
+      "id": "6d1408b53da1c20eb579a983",
+      "maskedId": "195xxxxxx2781",
+      "name": "ฟัยรูส ปายอดือราแม",
+      "province": "ชุมพร",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B9%E0%B8%AA-%E0%B8%9B%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านสวี",
+      "district": "สวี",
+      "id": "328b9e63cdb18f003108a96b",
+      "maskedId": "186xxxxxx7819",
+      "name": "ภาณุวัฒน์ ชูทอง",
+      "province": "ชุมพร",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาทะลุ",
+      "district": "สวี",
+      "id": "70e5c4d4cc9f900105d375ee",
+      "maskedId": "186xxxxxx2565",
+      "name": "ระพีพรรณ ชุ่มชื่น",
+      "province": "ชุมพร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%8A%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวี",
+      "district": "สวี",
+      "id": "b7cb517bcbbd7d739f37785c",
+      "maskedId": "186xxxxxx8991",
+      "name": "วงศกร เหมือนพิมพ์",
+      "province": "ชุมพร",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาค่าย",
+      "district": "สวี",
+      "id": "8cd741502a6b22fa32935b36",
+      "maskedId": "186xxxxxx6313",
+      "name": "วรวิช มีหาดยาย",
+      "province": "ชุมพร",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A-%E0%B8%A1%E0%B8%B5%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%A2%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาโพธิ์พัฒนา",
+      "district": "สวี",
+      "id": "a3a7d4a718c39f7c7349ef93",
+      "maskedId": "186xxxxxx3031",
+      "name": "สหรัฐ มือสันทัด",
+      "province": "ชุมพร",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาค่าย",
+      "district": "สวี",
+      "id": "ff1fb56783cd9f127f2dc299",
+      "maskedId": "193xxxxxx9965",
+      "name": "เจริญยศ กาฬสิงห์",
+      "province": "ชุมพร",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%A2%E0%B8%A8-%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

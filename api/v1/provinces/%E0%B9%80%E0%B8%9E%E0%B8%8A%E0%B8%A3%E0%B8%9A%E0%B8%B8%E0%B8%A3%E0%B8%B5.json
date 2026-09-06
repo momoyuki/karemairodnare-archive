@@ -1,0 +1,354 @@
+{
+  "_meta": {
+    "count": 20,
+    "kind": "province",
+    "name": "เพชรบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เพชรบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลหนองจอก",
+      "district": "ท่ายาง",
+      "id": "2ad2c1f467fb5b3bb8851de9",
+      "maskedId": "174xxxxxx5745",
+      "name": "กฤษณา คลังเจริญ",
+      "province": "เพชรบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%B2-%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองจอก",
+      "district": "ท่ายาง",
+      "id": "538bcc3627b8fcf2c8351cad",
+      "maskedId": "176xxxxxx4583",
+      "name": "กัญญาวีร์ จันสนาด",
+      "province": "เพชรบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาพันสาม",
+      "district": "เมืองเพชรบุรี",
+      "id": "45a50c6f191b56908b6d6ab1",
+      "maskedId": "176xxxxxx3552",
+      "name": "ขนิษฐา จันทร์พรม",
+      "province": "เพชรบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พุสวรรค์",
+      "district": "แก่งกระจาน",
+      "id": "30408da0b25a7fef4b18d1a4",
+      "maskedId": "170xxxxxx1736",
+      "name": "ชรินรัตน์ ศรัทธาผล",
+      "province": "เพชรบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B2%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าไม้รวก",
+      "district": "ท่ายาง",
+      "id": "7d54c5345c57775009fb4f3b",
+      "maskedId": "176xxxxxx2311",
+      "name": "ชัยธวัช ไสวเวียง",
+      "province": "เพชรบุรี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A-%E0%B9%84%E0%B8%AA%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพพระ",
+      "district": "เมืองเพชรบุรี",
+      "id": "dfe5ca560d555b8146cac22d",
+      "maskedId": "177xxxxxx7861",
+      "name": "ณหทัย ศรีจันจรา",
+      "province": "เพชรบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชะอํา",
+      "district": "ชะอำ",
+      "id": "f841e7ca10f04fe751a71a40",
+      "maskedId": "177xxxxxx3101",
+      "name": "ธนโชติ กุณฑีทอง",
+      "province": "เพชรบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4-%E0%B8%81%E0%B8%B8%E0%B8%93%E0%B8%91%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แหลมผักเบี้ย",
+      "district": "บ้านแหลม",
+      "id": "721c384409b05442ede1f6b0",
+      "maskedId": "110xxxxxx8774",
+      "name": "ธิติรัตน์ รัตนสนธิ์",
+      "province": "เพชรบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตําหรุ",
+      "district": "บ้านลาด",
+      "id": "4b2eea34b231f2bccff2ceaa",
+      "maskedId": "177xxxxxx2321",
+      "name": "นิรุต รัตนสิทธิ์ชัชวาล",
+      "province": "เพชรบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%95-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%A7%E0%B8%B2%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางตะบูน",
+      "district": "บ้านแหลม",
+      "id": "4bff4096c3c00dc29565ee10",
+      "maskedId": "110xxxxxx2353",
+      "name": "บุรินทร์ รุ่งไหรัญ",
+      "province": "เพชรบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%84%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองชุมพลเหนือ",
+      "district": "เขาย้อย",
+      "id": "f056d8fbfa85401b5e1ed753",
+      "maskedId": "170xxxxxx1850",
+      "name": "วรกานต์ แสนสำราญ",
+      "province": "เพชรบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังไคร้",
+      "district": "ท่ายาง",
+      "id": "4505863e75a15146a62138a6",
+      "maskedId": "194xxxxxx3273",
+      "name": "วัชราวดี ทองอร่าม",
+      "province": "เพชรบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยแม่เพรียง",
+      "district": "แก่งกระจาน",
+      "id": "24d397f0bf4ad690dae7e922",
+      "maskedId": "176xxxxxx0968",
+      "name": "สริตา ทองคํา",
+      "province": "เพชรบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองขนาน",
+      "district": "เมืองเพชรบุรี",
+      "id": "57c8d2501a0c1b7cac4d75cb",
+      "maskedId": "110xxxxxx6944",
+      "name": "สัมมาวัชร์ แพทยานันท์",
+      "province": "เพชรบุรี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าช้าง",
+      "district": "บ้านลาด",
+      "id": "dc0674ff556c236d294fe48f",
+      "maskedId": "377xxxxxx1926",
+      "name": "สิริชัย ช่อกระทุ่ม",
+      "province": "เพชรบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองชะอํา",
+      "district": "ชะอำ",
+      "id": "a23b6ac357b1069940364a8c",
+      "maskedId": "173xxxxxx4901",
+      "name": "สุรศักดิ์ โทนทอง",
+      "province": "เพชรบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%82%E0%B8%97%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไร่สะท้อน",
+      "district": "บ้านลาด",
+      "id": "b9daf7564e645ade44c3d8c3",
+      "maskedId": "177xxxxxx4768",
+      "name": "อรธนา พันธุ์หนอง",
+      "province": "เพชรบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%98%E0%B8%99%E0%B8%B2-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไร่โคก",
+      "district": "บ้านลาด",
+      "id": "ad59fe9e349b71b284bc1483",
+      "maskedId": "170xxxxxx2574",
+      "name": "อัญชิษฐา ชัยลังกา",
+      "province": "เพชรบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แหลมผักเบี้ย",
+      "district": "บ้านแหลม",
+      "id": "64bf00f21d2688d067a2f511",
+      "maskedId": "176xxxxxx1806",
+      "name": "อุษา รุ่งเรือง",
+      "province": "เพชรบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%A9%E0%B8%B2-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพพระ",
+      "district": "เมืองเพชรบุรี",
+      "id": "ee95450f9437a65a229e6866",
+      "maskedId": "177xxxxxx4618",
+      "name": "ไอรีนรัตน์ เซ็นเสงี่ยม",
+      "province": "เพชรบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "61_เพชรบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%87%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

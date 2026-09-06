@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ลําดวน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ลําดวน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ลําดวน",
+      "district": "กระสัง",
+      "id": "dbfa70494aef0ddbfefb427f",
+      "maskedId": "145xxxxxx9540",
+      "name": "จิตรา ประเสริฐสัง",
+      "province": "บุรีรัมย์",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90%E0%B8%AA%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ลําดวน",
+      "district": "กระสัง",
+      "id": "9e3a3ea58fc03b19fa0f8930",
+      "maskedId": "131xxxxxx4632",
+      "name": "วิภาดา วงศ์สุรินทร์",
+      "province": "บุรีรัมย์",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "20_บุรีรัมย์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ลําดวน",
+      "district": "ลำดวน",
+      "id": "e6a1115681dccc9637219f62",
+      "maskedId": "131xxxxxx7531",
+      "name": "อนุภัทร ปิตามาตา",
+      "province": "สุรินทร์",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "21_สุรินทร์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9B%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากหน้าบุคลากรทางการ"
+    }
+  ]
+}

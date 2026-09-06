@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ดงมะไฟ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ดงมะไฟ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ดงมะไฟ",
+      "district": "สุวรรณคูหา",
+      "id": "8e8c075b62096d720bda7e01",
+      "maskedId": "141xxxxxx3038",
+      "name": "ปรินทร เสนไสย์",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%84%E0%B8%AA%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ดงมะไฟ",
+      "district": "สุวรรณคูหา",
+      "id": "9f06dc4a0ef1c285f4d4d7e2",
+      "maskedId": "140xxxxxx8805",
+      "name": "รัชนก ปุนนา",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%9B%E0%B8%B8%E0%B8%99%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

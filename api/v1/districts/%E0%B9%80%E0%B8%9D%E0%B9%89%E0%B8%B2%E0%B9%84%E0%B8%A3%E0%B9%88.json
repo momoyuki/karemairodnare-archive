@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "เฝ้าไร่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เฝ้าไร่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองหลวง",
+      "district": "เฝ้าไร่",
+      "id": "f9fc9fb7aa290452e1502170",
+      "maskedId": "143xxxxxx5323",
+      "name": "กานต์ เคณาอุประ",
+      "province": "หนองคาย",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%84%E0%B8%93%E0%B8%B2%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%A3%E0%B8%B0",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังหลวง",
+      "district": "เฝ้าไร่",
+      "id": "6655671ede7e0acdfded5db3",
+      "maskedId": "140xxxxxx4236",
+      "name": "จามร สุภาปุ",
+      "province": "หนองคาย",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A1%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9B%E0%B8%B8",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังหลวง",
+      "district": "เฝ้าไร่",
+      "id": "5914133e23b9c70911b7601f",
+      "maskedId": "147xxxxxx3440",
+      "name": "ธนกร จิตตุนัง",
+      "province": "หนองคาย",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B8%E0%B8%99%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังหลวง",
+      "district": "เฝ้าไร่",
+      "id": "4d53a001408334c3b96ebb5f",
+      "maskedId": "143xxxxxx0591",
+      "name": "สรวุฒิ ไพรนาทม",
+      "province": "หนองคาย",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

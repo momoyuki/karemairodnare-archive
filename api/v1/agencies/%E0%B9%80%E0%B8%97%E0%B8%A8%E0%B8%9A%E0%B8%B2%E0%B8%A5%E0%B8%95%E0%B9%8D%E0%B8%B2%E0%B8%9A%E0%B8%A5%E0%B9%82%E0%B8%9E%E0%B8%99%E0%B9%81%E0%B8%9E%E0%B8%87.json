@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตําบลโพนแพง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลโพนแพง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลโพนแพง",
+      "district": "อากาศอำนวย",
+      "id": "5522486993be99a42399ddd6",
+      "maskedId": "141xxxxxx7316",
+      "name": "มิถุนา สนิทชน",
+      "province": "สกลนคร",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B4%E0%B8%96%E0%B8%B8%E0%B8%99%E0%B8%B2-%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%8A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพนแพง",
+      "district": "อากาศอำนวย",
+      "id": "dece50b73beecfe28b661b60",
+      "maskedId": "147xxxxxx0314",
+      "name": "สุดาพร อินธิฤทธิ์",
+      "province": "สกลนคร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "35_สกลนคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

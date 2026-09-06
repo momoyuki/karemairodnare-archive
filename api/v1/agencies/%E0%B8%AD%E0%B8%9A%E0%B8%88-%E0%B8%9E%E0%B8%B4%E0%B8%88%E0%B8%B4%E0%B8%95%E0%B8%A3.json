@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "agency",
+    "name": "อบจ.พิจิตร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบจ-พิจิตร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "9702199f340c6f2ffc278f75",
+      "maskedId": "119xxxxxx2500",
+      "name": "กิตติยาภรณ์ วิภาจักษณกุล",
+      "province": "พิจิตร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "0309c4c7bc3c0d4ea025293b",
+      "maskedId": "116xxxxxx5791",
+      "name": "ณัฐพล สิทธิทูล",
+      "province": "พิจิตร",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%97%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "39618c4b855bc06b81b26962",
+      "maskedId": "165xxxxxx0803",
+      "name": "พัชรนันท์ ทองสอน",
+      "province": "พิจิตร",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "e7f04567af893adab139b5fa",
+      "maskedId": "167xxxxxx3281",
+      "name": "พิษณุ ทัตเศษ",
+      "province": "พิจิตร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8-%E0%B8%97%E0%B8%B1%E0%B8%95%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "e27aa6b887aec839fea87451",
+      "maskedId": "367xxxxxx4062",
+      "name": "ภัทรภร ทัตเศษ",
+      "province": "พิจิตร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A0%E0%B8%A3-%E0%B8%97%E0%B8%B1%E0%B8%95%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "886847c2242df668fc69cf4a",
+      "maskedId": "161xxxxxx5036",
+      "name": "ศุภชัย สวัสดี",
+      "province": "พิจิตร",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "f700f83968fd0cac6f67c0dd",
+      "maskedId": "165xxxxxx4393",
+      "name": "ศุภณัฐ เอี่ยมรอด",
+      "province": "พิจิตร",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

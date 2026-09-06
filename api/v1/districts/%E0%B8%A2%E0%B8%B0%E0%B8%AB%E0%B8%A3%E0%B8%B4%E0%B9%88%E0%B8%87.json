@@ -1,0 +1,252 @@
+{
+  "_meta": {
+    "count": 14,
+    "kind": "district",
+    "name": "ยะหริ่ง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ยะหริ่ง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตาลีอายร์",
+      "district": "ยะหริ่ง",
+      "id": "7f98a67a03ef5e234c6b6c53",
+      "maskedId": "194xxxxxx0721",
+      "name": "ต่วนโซเฟีย โตะกูมาโละ",
+      "province": "ปัตตานี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%82%E0%B8%8B%E0%B9%80%E0%B8%9F%E0%B8%B5%E0%B8%A2-%E0%B9%82%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%B9%E0%B8%A1%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แหลมโพธิ์",
+      "district": "ยะหริ่ง",
+      "id": "6e96434985e358f40e1ba915",
+      "maskedId": "196xxxxxx8237",
+      "name": "นอรี พงศ์สามารถ",
+      "province": "ปัตตานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B8%B5-%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%96",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จะรัง",
+      "district": "ยะหริ่ง",
+      "id": "6142c9ebcecadd487ad351a5",
+      "maskedId": "194xxxxxx1305",
+      "name": "ปาตีเม๊าะ มะสาแม",
+      "province": "ปัตตานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%95%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B9%8A%E0%B8%B2%E0%B8%B0-%E0%B8%A1%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโละ",
+      "district": "ยะหริ่ง",
+      "id": "3c1c9302290d2d788d121948",
+      "maskedId": "194xxxxxx2662",
+      "name": "ฟาตีฮะห์ มะสาและ",
+      "province": "ปัตตานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%95%E0%B8%B5%E0%B8%AE%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%A1%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะนังยง",
+      "district": "ยะหริ่ง",
+      "id": "3d7d35b94d48af71ee06c630",
+      "maskedId": "195xxxxxx8963",
+      "name": "มารีนา ก้องสมัน",
+      "province": "ปัตตานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B2-%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตาแกะ",
+      "district": "ยะหริ่ง",
+      "id": "c2081d2b36b8ea9352500cf3",
+      "maskedId": "194xxxxxx9718",
+      "name": "มุมีนะห์ สาและ",
+      "province": "ปัตตานี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโละกาโปร์",
+      "district": "ยะหริ่ง",
+      "id": "0986910c4817b4b81585339a",
+      "maskedId": "194xxxxxx8704",
+      "name": "รุสนี มาแจ",
+      "province": "ปัตตานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B8%AA%E0%B8%99%E0%B8%B5-%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโละ",
+      "district": "ยะหริ่ง",
+      "id": "22710fea67f3d9825505f8ee",
+      "maskedId": "196xxxxxx0774",
+      "name": "วันฮาบีบะห์ เจะหมะ",
+      "province": "ปัตตานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AE%E0%B8%B2%E0%B8%9A%E0%B8%B5%E0%B8%9A%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%AB%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตาลีอายร์",
+      "district": "ยะหริ่ง",
+      "id": "210ae2e3abea5c1bc55e646e",
+      "maskedId": "196xxxxxx7888",
+      "name": "สาวิตรี ทองจารุแข",
+      "province": "ปัตตานี",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B9%81%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ราตาปันยัง",
+      "district": "ยะหริ่ง",
+      "id": "004b81f8670572f157410665",
+      "maskedId": "194xxxxxx1271",
+      "name": "สุธิดา มะซะ",
+      "province": "ปัตตานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%A1%E0%B8%B0%E0%B8%8B%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บาโลย",
+      "district": "ยะหริ่ง",
+      "id": "68bbbcb1cb6913a759956569",
+      "maskedId": "194xxxxxx7532",
+      "name": "อดัม เจะมะ",
+      "province": "ปัตตานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B1%E0%B8%A1-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโละกาโปร์",
+      "district": "ยะหริ่ง",
+      "id": "76a85656dca69e49d3b1396f",
+      "maskedId": "195xxxxxx1130",
+      "name": "อารีนา เจ๊ะมิส",
+      "province": "ปัตตานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B8%A1%E0%B8%B4%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แหลมโพธิ์",
+      "district": "ยะหริ่ง",
+      "id": "e8f2debcc4cfd61b2a3f5f4d",
+      "maskedId": "395xxxxxx2191",
+      "name": "อิสระ แวอุเซ็ง",
+      "province": "ปัตตานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B0-%E0%B9%81%E0%B8%A7%E0%B8%AD%E0%B8%B8%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แหลมโพธิ์",
+      "district": "ยะหริ่ง",
+      "id": "a0b1da5e279cfbb1afe74354",
+      "maskedId": "194xxxxxx6507",
+      "name": "แวนูรียา แวสอเฮาะ",
+      "province": "ปัตตานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%A7%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B9%81%E0%B8%A7%E0%B8%AA%E0%B8%AD%E0%B9%80%E0%B8%AE%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

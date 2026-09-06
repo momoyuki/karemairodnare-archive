@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "เทศบาลตําบลพนานิคม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลพนานิคม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลพนานิคม",
+      "district": "นิคมพัฒนา",
+      "id": "5f25fe40454fd11638e39c71",
+      "maskedId": "110xxxxxx1099",
+      "name": "กีรติ กิจธนะเสรี",
+      "province": "ระยอง",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B5%E0%B8%A3%E0%B8%95%E0%B8%B4-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%98%E0%B8%99%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพนานิคม",
+      "district": "นิคมพัฒนา",
+      "id": "af9f4e0fcf3ed9e6301f3ff9",
+      "maskedId": "177xxxxxx9988",
+      "name": "จวบศักดิ์ ศิริจันทร์",
+      "province": "ระยอง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%A7%E0%B8%9A%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพนานิคม",
+      "district": "นิคมพัฒนา",
+      "id": "5ed61f06c279f2324b21a2d9",
+      "maskedId": "326xxxxxx1148",
+      "name": "อรอนงค์ สมพงษ์",
+      "province": "ระยอง",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพนานิคม",
+      "district": "นิคมพัฒนา",
+      "id": "610312e6ed4caf1e916b7372",
+      "maskedId": "148xxxxxx0101",
+      "name": "เสาวณีย์ ผลมั่ง",
+      "province": "ระยอง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%9C%E0%B8%A5%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

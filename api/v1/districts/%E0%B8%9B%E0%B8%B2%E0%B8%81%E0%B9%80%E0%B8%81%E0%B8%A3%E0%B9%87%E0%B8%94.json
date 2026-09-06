@@ -1,0 +1,439 @@
+{
+  "_meta": {
+    "count": 25,
+    "kind": "district",
+    "name": "ปากเกร็ด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ปากเกร็ด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "953e68fc82861e4f51d9a786",
+      "maskedId": "117xxxxxx9057",
+      "name": "กฤษฎา ภู่โพธิ์",
+      "province": "นนทบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%A0%E0%B8%B9%E0%B9%88%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "5aee8101b775bc3d8d9fd64e",
+      "maskedId": "110xxxxxx8734",
+      "name": "จริยนุช ว่องไว",
+      "province": "นนทบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%A7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "3018841909869b45f7ba8c4f",
+      "maskedId": "110xxxxxx2386",
+      "name": "ชญาณี เดชประดิษฐ์",
+      "province": "นนทบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางพลับ",
+      "district": "ปากเกร็ด",
+      "id": "327ba688acd10afb7352a64d",
+      "maskedId": "134xxxxxx0436",
+      "name": "ชญาภา สุขินทร์",
+      "province": "นนทบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "8897e8a07cac6fa18b429e7f",
+      "maskedId": "173xxxxxx8767",
+      "name": "ชลัช เที่ยงธรรม",
+      "province": "นนทบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B1%E0%B8%8A-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "b1bdd0f3710a07f996370fa6",
+      "maskedId": "196xxxxxx9841",
+      "name": "ชวพัฒน์ สังข์ทอง",
+      "province": "นนทบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "51d3ea4e1d5d79cfce891cae",
+      "maskedId": "143xxxxxx2955",
+      "name": "ดำรงค์ สูตรสุคนธ์",
+      "province": "นนทบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B3%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%84%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองข่อย",
+      "district": "ปากเกร็ด",
+      "id": "9411723bf7b4c8c4d3707e5a",
+      "maskedId": "119xxxxxx5871",
+      "name": "ถิรพันธ์ พิชพืชพันธ์",
+      "province": "นนทบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%96%E0%B8%B4%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%9E%E0%B8%B7%E0%B8%8A%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "772cbbf3f1604dbf9160fd3e",
+      "maskedId": "110xxxxxx5868",
+      "name": "ทักษพร จันทร",
+      "province": "นนทบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%9E%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตะไนย์",
+      "district": "ปากเกร็ด",
+      "id": "a46d79e95051bbe05b03d26b",
+      "maskedId": "110xxxxxx6600",
+      "name": "ธนทัต วรรณสาธพ",
+      "province": "นนทบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%95-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางพลับ",
+      "district": "ปากเกร็ด",
+      "id": "5d00d66e1e7ef9d58309bfd9",
+      "maskedId": "112xxxxxx5217",
+      "name": "ธัญชนก โต๊ะทอง",
+      "province": "นนทบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%82%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "4316ab774024440de685f838",
+      "maskedId": "110xxxxxx5675",
+      "name": "นัฐกมล กายกลั่น",
+      "province": "นนทบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%A1%E0%B8%A5-%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "2e57aba4935130d4c2645432",
+      "maskedId": "183xxxxxx5695",
+      "name": "ปฐมาภรณ์ บางทอง",
+      "province": "นนทบุรี",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "32b445126d709749bc4a3c99",
+      "maskedId": "184xxxxxx3095",
+      "name": "ปุณณดา อิษยาสกุลพร",
+      "province": "นนทบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%93%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%A9%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางพลับ",
+      "district": "ปากเกร็ด",
+      "id": "d59d7a47999d0bc461fe4755",
+      "maskedId": "174xxxxxx8979",
+      "name": "ผกามาศ แก้วชูกุล",
+      "province": "นนทบุรี",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9C%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%8A%E0%B8%B9%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "0da9213e56fb0ef697f01001",
+      "maskedId": "110xxxxxx2634",
+      "name": "ภณิดา รอดแตง",
+      "province": "นนทบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%93%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%95%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "7c8318fc98554a34ad222273",
+      "maskedId": "110xxxxxx4132",
+      "name": "มนัญชยา มหาโชติ",
+      "province": "นนทบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A2%E0%B8%B2-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "2e48bd1e0990d93ba9970cf5",
+      "maskedId": "148xxxxxx2478",
+      "name": "วิศนี อุสันสา",
+      "province": "นนทบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B5-%E0%B8%AD%E0%B8%B8%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "84801ec6ff7af27dcd8720c8",
+      "maskedId": "148xxxxxx6928",
+      "name": "ศิริพร พ่อสียา",
+      "province": "นนทบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "0cfcff24e537aa1192733b60",
+      "maskedId": "140xxxxxx6412",
+      "name": "สุวิทย์ ผดุงมัย",
+      "province": "นนทบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%9C%E0%B8%94%E0%B8%B8%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "a3e2b4244b56d00ff09d453b",
+      "maskedId": "112xxxxxx1588",
+      "name": "สโรชา บุญปาน",
+      "province": "นนทบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B9%82%E0%B8%A3%E0%B8%8A%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9B%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "684a14a3dd2e0804a9c018e0",
+      "maskedId": "131xxxxxx5977",
+      "name": "อนัญลักษณ์ ภูมิพันธ์",
+      "province": "นนทบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตะไนย์",
+      "district": "ปากเกร็ด",
+      "id": "db128931e2023c3b8c42729e",
+      "maskedId": "172xxxxxx6342",
+      "name": "อรณิชา ภูฆัง",
+      "province": "นนทบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A0%E0%B8%B9%E0%B8%86%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "b2e9e3ad64202227dd2de1bd",
+      "maskedId": "194xxxxxx6219",
+      "name": "ฮาลีหม๊ะ บือราเห็ง",
+      "province": "นนทบุรี",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B2%E0%B8%A5%E0%B8%B5%E0%B8%AB%E0%B8%A1%E0%B9%8A%E0%B8%B0-%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครปากเกร็ด",
+      "district": "ปากเกร็ด",
+      "id": "8ac1e011961cda9414f29fa3",
+      "maskedId": "110xxxxxx0431",
+      "name": "โกเมศ บุญส่ง",
+      "province": "นนทบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%A8-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

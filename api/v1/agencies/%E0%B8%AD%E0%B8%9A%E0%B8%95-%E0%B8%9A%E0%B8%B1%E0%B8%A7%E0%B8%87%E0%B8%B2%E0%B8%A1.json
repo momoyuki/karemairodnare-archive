@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.บัวงาม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บัวงาม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บัวงาม",
+      "district": "เดชอุดม | บุณฑริก",
+      "id": "974c3dd5f1a1c990de7f99bd",
+      "maskedId": "134xxxxxx2522",
+      "name": "กิตติธัช ปัญญาดา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%B1%E0%B8%8A-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บัวงาม",
+      "district": "เดชอุดม | บุณฑริก",
+      "id": "80c4d8c83e6f2b87a89d5609",
+      "maskedId": "134xxxxxx5977",
+      "name": "ชลิตา นามวงศ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บัวงาม",
+      "district": "เดชอุดม | บุณฑริก",
+      "id": "43ee702807a85d0f5aa09fc0",
+      "maskedId": "134xxxxxx1153",
+      "name": "รัชฎา บุญจุล",
+      "province": "อุบลราชธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8E%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%88%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

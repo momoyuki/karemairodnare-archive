@@ -1,0 +1,1544 @@
+{
+  "_meta": {
+    "count": 90,
+    "kind": "province",
+    "name": "นครปฐม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นครปฐม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองไร่ขิง",
+      "district": "สามพราน",
+      "id": "501561d0b11e98f9d8e2abf3",
+      "maskedId": "170xxxxxx7571",
+      "name": "กชกร สุกใส",
+      "province": "นครปฐม",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B9%83%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรงคนอง",
+      "district": "สามพราน",
+      "id": "cb0b9312ca5bc5c1d5f25405",
+      "maskedId": "112xxxxxx5982",
+      "name": "กนกวรรณ จูเกตุ",
+      "province": "นครปฐม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%88%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บางหลวง",
+      "district": "บางเลน",
+      "id": "4eb7a6cd833f52ce06cad433",
+      "maskedId": "170xxxxxx2293",
+      "name": "กฤติยา ทองเปลว",
+      "province": "นครปฐม",
+      "scoreChange": 2,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางภาษี",
+      "district": "บางเลน",
+      "id": "efdbdc17531d81c5b320dd9b",
+      "maskedId": "171xxxxxx8231",
+      "name": "กัญญาภัค ภิรมย์โคร่ง",
+      "province": "นครปฐม",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรงคนอง",
+      "district": "สามพราน",
+      "id": "8173c83921939326e7a71776",
+      "maskedId": "180xxxxxx5859",
+      "name": "กัตติกา สุขประเสริฐ",
+      "province": "นครปฐม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นราภิรมย์",
+      "district": "บางเลน",
+      "id": "a68903ab7a1a72bcdf24aeeb",
+      "maskedId": "173xxxxxx6891",
+      "name": "กิตติพันธ์ ช้างใหญ่",
+      "province": "นครปฐม",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนพุทรา",
+      "district": "ดอนตูม",
+      "id": "46b3064951509fe8093d1591",
+      "maskedId": "173xxxxxx7936",
+      "name": "กิตติเชษฐ์ ผิวงาม",
+      "province": "นครปฐม",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "1b90743a5286f18ddbf9607f",
+      "maskedId": "170xxxxxx9938",
+      "name": "ขจรศักดิ์ จันทร์ดี",
+      "province": "นครปฐม",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%88%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองคลองโยง",
+      "district": "พุทธมณฑล",
+      "id": "3a3dfa454fd6cafcc479098f",
+      "maskedId": "174xxxxxx9551",
+      "name": "ขวัญจิรา แก้วระยะ",
+      "province": "นครปฐม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางหลวง",
+      "district": "บางเลน",
+      "id": "65b92c689b843d0ad0b0f874",
+      "maskedId": "110xxxxxx0584",
+      "name": "จิรกิตติ์ สกุลโกวิท",
+      "province": "นครปฐม",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%97",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ดอนยายหอม",
+      "district": "เมืองนครปฐม",
+      "id": "217aaff3a85ac764009cd607",
+      "maskedId": "175xxxxxx9119",
+      "name": "จิราภรณ์ แช่มช้อย",
+      "province": "นครปฐม",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B8%A1%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "b763a13ef0f2aae265ba926e",
+      "maskedId": "167xxxxxx4794",
+      "name": "จุฑานันท์ เรืองซ้อน",
+      "province": "นครปฐม",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "589128369a98a5216aa1ebca",
+      "maskedId": "170xxxxxx9671",
+      "name": "จุฬาลักษณ์ ใจอดทน",
+      "province": "นครปฐม",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%83%E0%B8%88%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "616b58bee7f230afc4e4adba",
+      "maskedId": "177xxxxxx5848",
+      "name": "ฉัตรลดา นามนา",
+      "province": "นครปฐม",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นราภิรมย์",
+      "district": "บางเลน",
+      "id": "3788df0b629110f807100b03",
+      "maskedId": "173xxxxxx7480",
+      "name": "ชฎาวัลย์ ปฐมโภคินเสถียร",
+      "province": "นครปฐม",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8E%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B9%82%E0%B8%A0%E0%B8%84%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นครปฐม",
+      "district": "เมืองนครปฐม",
+      "id": "7998d33da9be2e34164a6575",
+      "maskedId": "137xxxxxx5722",
+      "name": "ชนกาญจน์ โสพระบุตร",
+      "province": "นครปฐม",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพรงมะเดื่อ",
+      "district": "เมืองนครปฐม",
+      "id": "f5c625875a0603d2b431f0e5",
+      "maskedId": "171xxxxxx9246",
+      "name": "ชาลิณี ธนวัฒน์อิทธิกูล",
+      "province": "นครปฐม",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "60ca11d2891c0e7e85e417a2",
+      "maskedId": "175xxxxxx8661",
+      "name": "ชื่นสุมน รุ่งเหมือนฟ้า",
+      "province": "นครปฐม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%99-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%9F%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านหลวง",
+      "district": "ดอนตูม",
+      "id": "e292656f1bd77ff7883d9003",
+      "maskedId": "110xxxxxx6261",
+      "name": "ฐิตารีย์ ตันเกษมขจรศรี",
+      "province": "นครปฐม",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%82%E0%B8%88%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ห้วยพระ",
+      "district": "ดอนตูม",
+      "id": "e0a792c37c15e20bbd38be79",
+      "maskedId": "170xxxxxx5766",
+      "name": "ณภัส จังพานิช",
+      "province": "นครปฐม",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นครปฐม",
+      "district": "เมืองนครปฐม",
+      "id": "ef58237d51d7e763887b6d66",
+      "maskedId": "166xxxxxx0407",
+      "name": "ณรัณฐกานต์ ภู่ทอง",
+      "province": "นครปฐม",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%93%E0%B8%90%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนแฝก",
+      "district": "นครชัยศรี",
+      "id": "1964f6b6f9467bde17343513",
+      "maskedId": "173xxxxxx2887",
+      "name": "ณัชช์ชญาพร แก้วประชา",
+      "province": "นครปฐม",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B9%8C%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นราภิรมย์",
+      "district": "บางเลน",
+      "id": "23b092cf87f27507e571f173",
+      "maskedId": "174xxxxxx6711",
+      "name": "ณัฏฐพล ท้ายวัด",
+      "province": "นครปฐม",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นราภิรมย์",
+      "district": "บางเลน",
+      "id": "750bea74bcc84afc0f1bd0a3",
+      "maskedId": "155xxxxxx2846",
+      "name": "ตรัย เจตพิมลยุต",
+      "province": "นครปฐม",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%88%E0%B8%95%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสามพราน",
+      "district": "สามพราน",
+      "id": "a955fd6cc35383a8fbb13b40",
+      "maskedId": "172xxxxxx4321",
+      "name": "ทักษพร จันทร์สง",
+      "province": "นครปฐม",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%9E%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนครชัยศรี",
+      "district": "นครชัยศรี",
+      "id": "1a014104beba69867c0a23d5",
+      "maskedId": "152xxxxxx6601",
+      "name": "ทักษ์ดนัย โชติ",
+      "province": "นครปฐม",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนครปฐม",
+      "district": "เมืองนครปฐม",
+      "id": "2ecb4edab2a5a30cc5af142c",
+      "maskedId": "177xxxxxx8401",
+      "name": "ทิพยวรรณ สายชล",
+      "province": "นครปฐม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บัวปากท่า",
+      "district": "บางเลน",
+      "id": "de520827fe0394aa2cbe80ff",
+      "maskedId": "172xxxxxx5588",
+      "name": "ธนภัทร ขานไข",
+      "province": "นครปฐม",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%82%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระทุ่มล้ม",
+      "district": "สามพราน",
+      "id": "49ef9fc86060ae3473bc6868",
+      "maskedId": "170xxxxxx4574",
+      "name": "ธภัทรสันต์ สำราญ",
+      "province": "นครปฐม",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกพระเจดีย์",
+      "district": "นครชัยศรี",
+      "id": "0cbaedd818d6730a6a2ca521",
+      "maskedId": "170xxxxxx2413",
+      "name": "ธาริกา โรจน์พวง",
+      "province": "นครปฐม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%9E%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลศีรษะทอง",
+      "district": "นครชัยศรี",
+      "id": "97cd3fb4b0a5fd98cf30f30a",
+      "maskedId": "173xxxxxx6642",
+      "name": "ธิดารัตน์ เด่นจารุกูล",
+      "province": "นครปฐม",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B9%88%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "0c9282fbed02393930f0fe88",
+      "maskedId": "173xxxxxx6976",
+      "name": "ธเนศ บุญมี",
+      "province": "นครปฐม",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B9%80%E0%B8%99%E0%B8%A8-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "4cf85589059bbad29078347d",
+      "maskedId": "170xxxxxx0881",
+      "name": "นรากร ฟักโต",
+      "province": "นครปฐม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%9F%E0%B8%B1%E0%B8%81%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ทุ่งลูกนก",
+      "district": "กำแพงแสน",
+      "id": "f752f42b87fb3fb55eddbfd3",
+      "maskedId": "173xxxxxx9641",
+      "name": "นฤมล พิมลี",
+      "province": "นครปฐม",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "ef11504963a26db302b6fc1f",
+      "maskedId": "170xxxxxx1060",
+      "name": "นัทธมน เพ็ชรประเสริฐ",
+      "province": "นครปฐม",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%A1%E0%B8%99-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลตําบลธรรมศาลา",
+      "district": "เมืองนครปฐม",
+      "id": "3c6883d9e5168f6160d524de",
+      "maskedId": "173xxxxxx0433",
+      "name": "นันท์นภัส พนมวงษ์",
+      "province": "นครปฐม",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%9E%E0%B8%99%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "681a3703b99da72899adb4f2",
+      "maskedId": "166xxxxxx5781",
+      "name": "บุษกร ศรีสิงห์",
+      "province": "นครปฐม",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%81%E0%B8%A3-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางหลวง",
+      "district": "บางเลน",
+      "id": "0d2e486a181bc5bd43d7aa08",
+      "maskedId": "173xxxxxx5597",
+      "name": "ปภังกร ทองดอนเถิ่ง",
+      "province": "นครปฐม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หินมูล",
+      "district": "บางเลน",
+      "id": "d225d01db6de286dac73eec6",
+      "maskedId": "171xxxxxx9351",
+      "name": "ประภัสสร ปทุมสูตร",
+      "province": "นครปฐม",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3-%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสามง่าม",
+      "district": "ดอนตูม",
+      "id": "69190d9cc545680b40a2d594",
+      "maskedId": "170xxxxxx5424",
+      "name": "ปรารถนา เพ็ญพิบูลรัตนา",
+      "province": "นครปฐม",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%9E%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "5af4f1a557194f34d3751b07",
+      "maskedId": "173xxxxxx4225",
+      "name": "ปัทมพรรณ ปัตวิน",
+      "province": "นครปฐม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%97%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ดอนพุทรา",
+      "district": "ดอนตูม",
+      "id": "95961955185e2a5a650cfdfa",
+      "maskedId": "372xxxxxx3331",
+      "name": "ปัทมา ยอดดำเนิน",
+      "province": "นครปฐม",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%97%E0%B8%A1%E0%B8%B2-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "e4fb211ee487cd15a00c2709",
+      "maskedId": "171xxxxxx8923",
+      "name": "ปิยะวัฒน์ เห็นประเสริฐ",
+      "province": "นครปฐม",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลดอนยายหอม",
+      "district": "เมืองนครปฐม",
+      "id": "916c2cf19d046965b3331c84",
+      "maskedId": "173xxxxxx0161",
+      "name": "ปุณยวีร์ เนียมพันธ์",
+      "province": "นครปฐม",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองปากโลง",
+      "district": "เมืองนครปฐม",
+      "id": "37edfb9786fc15f54b777cf6",
+      "maskedId": "171xxxxxx7557",
+      "name": "พงศธร ส่งแสง",
+      "province": "นครปฐม",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%98%E0%B8%A3-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางเลน",
+      "district": "บางเลน",
+      "id": "80f645d01cc625a8d7995d2f",
+      "maskedId": "171xxxxxx2664",
+      "name": "พรทิพย์ บุตรตา",
+      "province": "นครปฐม",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บัวปากท่า",
+      "district": "บางเลน",
+      "id": "b1ffaf196f8f32810430aef6",
+      "maskedId": "172xxxxxx2141",
+      "name": "พรทิพย์ รุ่งเจริญ",
+      "province": "นครปฐม",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นครปฐม",
+      "district": "เมืองนครปฐม",
+      "id": "96024cb9e65f2396085741b3",
+      "maskedId": "171xxxxxx9339",
+      "name": "พรธิดา สกุลสินเพ็ชร",
+      "province": "นครปฐม",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "7a3bdeb45e907e83dde0fd7f",
+      "maskedId": "166xxxxxx6619",
+      "name": "พรพิมล จิรวัฒน์จันทร์",
+      "province": "นครปฐม",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.คลองนกกระทุง",
+      "district": "บางเลน",
+      "id": "736eee92d74a7cb2ea3bb5cd",
+      "maskedId": "114xxxxxx9297",
+      "name": "พิชาณัฏฐ์ แสงสมเรือง",
+      "province": "นครปฐม",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางช้าง",
+      "district": "สามพราน",
+      "id": "09b57f17d0dd1e2e75a478b7",
+      "maskedId": "171xxxxxx6998",
+      "name": "พิมพ์ชนก ฉันทะ",
+      "province": "นครปฐม",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หินมูล",
+      "district": "บางเลน",
+      "id": "3b34c1fbefce5501cc686fa9",
+      "maskedId": "110xxxxxx9531",
+      "name": "พิมพ์ลภัส อภินันท์ธนากร",
+      "province": "นครปฐม",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%A5%E0%B8%A0%E0%B8%B1%E0%B8%AA-%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินมูล",
+      "district": "บางเลน",
+      "id": "b38b673ae18b79cbd888ae5a",
+      "maskedId": "171xxxxxx1201",
+      "name": "พีรพล เถลิงศรี",
+      "province": "นครปฐม",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%96%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นครปฐม",
+      "district": "เมืองนครปฐม",
+      "id": "dd3dd79c5fe32997e3730760",
+      "maskedId": "167xxxxxx3071",
+      "name": "ภรภัทร อภัยงาม",
+      "province": "นครปฐม",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AD%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แหลมบัว",
+      "district": "นครชัยศรี",
+      "id": "b3d0a0488d387d27f6c36a4d",
+      "maskedId": "174xxxxxx8837",
+      "name": "ภัทรฉัตร ม่วงนา",
+      "province": "นครปฐม",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินมูล",
+      "district": "บางเลน",
+      "id": "0634e9c826a29ba828ce8911",
+      "maskedId": "142xxxxxx2456",
+      "name": "ภัทรภร ปัญโญนันท์",
+      "province": "นครปฐม",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A0%E0%B8%A3-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B9%82%E0%B8%8D%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "107a96bc882289f683010fd8",
+      "maskedId": "120xxxxxx8833",
+      "name": "ภานุพงศ์ แสงจำรัส",
+      "province": "นครปฐม",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B3%E0%B8%A3%E0%B8%B1%E0%B8%AA",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลบ่อพลับ",
+      "district": "เมืองนครปฐม",
+      "id": "cb78f6358d7ebceb152e05dd",
+      "maskedId": "170xxxxxx8582",
+      "name": "ยุวดี เอี่ยมคุ่ย",
+      "province": "นครปฐม",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%84%E0%B8%B8%E0%B9%88%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นครปฐม",
+      "district": "เมืองนครปฐม",
+      "id": "e43d722d2e945e5cbed582f2",
+      "maskedId": "172xxxxxx4289",
+      "name": "รสิตา โกสินทร์",
+      "province": "นครปฐม",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกพระเจดีย์",
+      "district": "นครชัยศรี",
+      "id": "29d93daf77cd0aad7107e2bc",
+      "maskedId": "110xxxxxx6530",
+      "name": "รัตน์ฤดี บุณยรัตผลิน",
+      "province": "นครปฐม",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B8%9A%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางกระทึก",
+      "district": "สามพราน",
+      "id": "16cd49352010d572d88a9608",
+      "maskedId": "110xxxxxx4979",
+      "name": "รัสรินทร์ รัฐพงศ์กิตติกร",
+      "province": "นครปฐม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทรงคนอง",
+      "district": "สามพราน",
+      "id": "7f2218d8ed6a3f981998881c",
+      "maskedId": "373xxxxxx6372",
+      "name": "ฤทัยรัตน์ ตาสุวรรณ",
+      "province": "นครปฐม",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%95%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากหน้าบุคลากรทางการ"
+    },
+    {
+      "agency": "อบต.แหลมบัว",
+      "district": "นครชัยศรี",
+      "id": "971ed19c6ad4f5a95398bf28",
+      "maskedId": "395xxxxxx0474",
+      "name": "ลัขนา วารี",
+      "province": "นครปฐม",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%82%E0%B8%99%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "fc21e37330a81da3fcec8d07",
+      "maskedId": "170xxxxxx0452",
+      "name": "ลาภวัต สิมารักษ์",
+      "province": "นครปฐม",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B2%E0%B8%A0%E0%B8%A7%E0%B8%B1%E0%B8%95-%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แหลมบัว",
+      "district": "นครชัยศรี",
+      "id": "574ad0a4c7fcc033bf3c401f",
+      "maskedId": "176xxxxxx2792",
+      "name": "วรรณพร โพธิ์ทอง",
+      "province": "นครปฐม",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9E%E0%B8%A3-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระตีบ",
+      "district": "กำแพงแสน",
+      "id": "68695d741a504da2253afda0",
+      "maskedId": "173xxxxxx1183",
+      "name": "วรวุฒิ ศักดิ์สุริยผดุง",
+      "province": "นครปฐม",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%9C%E0%B8%94%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเลน",
+      "district": "บางเลน",
+      "id": "84b66fa74487ec7478a33043",
+      "maskedId": "171xxxxxx7883",
+      "name": "วัชรากร จําปาหอม",
+      "province": "นครปฐม",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%9B%E0%B8%B2%E0%B8%AB%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบ่อพลับ",
+      "district": "เมืองนครปฐม",
+      "id": "db5699e6378f3df9cc1a23d7",
+      "maskedId": "170xxxxxx4695",
+      "name": "ศศิธร รีเงิน",
+      "province": "นครปฐม",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางหลวง",
+      "district": "บางเลน",
+      "id": "9a39e76193679bc2718f81b7",
+      "maskedId": "110xxxxxx1529",
+      "name": "ศุภฤกษ์ รัศมีแพทย์",
+      "province": "นครปฐม",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วัดแค",
+      "district": "นครชัยศรี",
+      "id": "0348ef61160a7c87a8c5e571",
+      "maskedId": "171xxxxxx9342",
+      "name": "สกุณา พงษ์ศิริ",
+      "province": "นครปฐม",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%93%E0%B8%B2-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนพุทรา",
+      "district": "ดอนตูม",
+      "id": "eae84d6d561d1d5fc14cd3f6",
+      "maskedId": "155xxxxxx5019",
+      "name": "สกุลณีย์ คำนาน",
+      "province": "นครปฐม",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนพุทรา",
+      "district": "ดอนตูม",
+      "id": "ba76f23e8a290de3a64ba476",
+      "maskedId": "171xxxxxx4904",
+      "name": "สมเจตน์ สืบศักดิ์",
+      "province": "นครปฐม",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%88%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งขวาง",
+      "district": "กำแพงแสน",
+      "id": "704be4ff52e8880256d5a6a2",
+      "maskedId": "170xxxxxx8877",
+      "name": "สุนทรีย์ ศรีพล",
+      "province": "นครปฐม",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองไร่ขิง",
+      "district": "สามพราน",
+      "id": "8384793554b2fc850540b2e2",
+      "maskedId": "170xxxxxx3384",
+      "name": "สุพัตรา ชินเวช",
+      "province": "นครปฐม",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%A7%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "32c80bfe581d2eda5460ac4e",
+      "maskedId": "172xxxxxx0167",
+      "name": "สุวัฒน์ พฤกษาโชติรัตน์",
+      "province": "นครปฐม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "50794f19d0f28dfa12e0055b",
+      "maskedId": "110xxxxxx3220",
+      "name": "หัฎฐกรณ์ ทองสวัสดิ์",
+      "province": "นครปฐม",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลธรรมศาลา",
+      "district": "เมืองนครปฐม",
+      "id": "26500c36c9b1ebdba64bd0e5",
+      "maskedId": "149xxxxxx0949",
+      "name": "อนงค์นาฎ สุพร",
+      "province": "นครปฐม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%99%E0%B8%B2%E0%B8%8E-%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางเลน",
+      "district": "บางเลน",
+      "id": "5dd3d04aa5c24e5ca6c2a074",
+      "maskedId": "172xxxxxx9788",
+      "name": "อนัญญา ไกรสร",
+      "province": "นครปฐม",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลอ้อมใหญ่",
+      "district": "สามพราน",
+      "id": "5ae39bdddc9526ceec87d894",
+      "maskedId": "110xxxxxx9131",
+      "name": "อรกัญญา พึ่งแสวงผล",
+      "province": "นครปฐม",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%9E%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%A7%E0%B8%87%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านยาง",
+      "district": "เมืองนครปฐม",
+      "id": "4c24d1cf784c9fe0bc9348b6",
+      "maskedId": "170xxxxxx7146",
+      "name": "อรวรรณ หิรัญมูล",
+      "province": "นครปฐม",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%A1%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ยายชา",
+      "district": "สามพราน",
+      "id": "2abc9cabdf5f85556ff1c206",
+      "maskedId": "110xxxxxx2183",
+      "name": "อสิภรณ์ ธีรเกษตร",
+      "province": "นครปฐม",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%AA%E0%B8%B4%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นครปฐม",
+      "district": "เมืองนครปฐม",
+      "id": "1ac37272f2398750f775a513",
+      "maskedId": "170xxxxxx9204",
+      "name": "อัญชลี พึ่งโพธิ์ทอง",
+      "province": "นครปฐม",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A5%E0%B8%B5-%E0%B8%9E%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สวนป่าน",
+      "district": "เมืองนครปฐม",
+      "id": "dd4242cf0beb11dce297788a",
+      "maskedId": "196xxxxxx6993",
+      "name": "อัณณ์ณิชา เงานอ",
+      "province": "นครปฐม",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B9%8C%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลลําเหย",
+      "district": "ดอนตูม",
+      "id": "501ed954559a3905c5139e9a",
+      "maskedId": "170xxxxxx1060",
+      "name": "อำนาจ บัวน้อย",
+      "province": "นครปฐม",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%88-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลธรรมศาลา",
+      "district": "เมืองนครปฐม",
+      "id": "708cbb449945ee9404264ee3",
+      "maskedId": "510xxxxxx8274",
+      "name": "เจนนิสา วิลัย",
+      "province": "นครปฐม",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยขวาง",
+      "district": "กำแพงแสน",
+      "id": "38c2ac283ba48461daa29969",
+      "maskedId": "171xxxxxx0799",
+      "name": "เมธี พูลสุขโข",
+      "province": "นครปฐม",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B5-%E0%B8%9E%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%82%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หอมเกร็ด",
+      "district": "สามพราน",
+      "id": "a142b9dbee6638f874b81da9",
+      "maskedId": "171xxxxxx0437",
+      "name": "เมย์วรินทร์ จินดาพลอย",
+      "province": "นครปฐม",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยด้วน",
+      "district": "ดอนตูม",
+      "id": "703d550cd201b530a275e42d",
+      "maskedId": "110xxxxxx4495",
+      "name": "แก้วใจ สระทองเมา",
+      "province": "นครปฐม",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%83%E0%B8%88-%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สระพัฒนา",
+      "district": "กำแพงแสน",
+      "id": "83778d417366a2f81d896d07",
+      "maskedId": "147xxxxxx8347",
+      "name": "แสงเดือน ศรีสนอง",
+      "province": "นครปฐม",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางหลวง",
+      "district": "บางเลน",
+      "id": "e052b73fc3a41896a0c3642c",
+      "maskedId": "172xxxxxx5562",
+      "name": "โสภิดา จานสิบสี",
+      "province": "นครปฐม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%9A%E0%B8%AA%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

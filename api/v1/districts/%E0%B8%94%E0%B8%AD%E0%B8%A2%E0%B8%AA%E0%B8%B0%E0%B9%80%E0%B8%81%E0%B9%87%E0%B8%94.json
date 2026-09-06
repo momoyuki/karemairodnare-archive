@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "ดอยสะเก็ด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ดอยสะเก็ด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลแม่คือ",
+      "district": "ดอยสะเก็ด",
+      "id": "59f5e3dc7c9bd9d0fadf28de",
+      "maskedId": "163xxxxxx9349",
+      "name": "สุภาพร คําภีระ",
+      "province": "เชียงใหม่",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าป้อง",
+      "district": "ดอยสะเก็ด",
+      "id": "a3fa54a0eefbb246bfcfeda6",
+      "maskedId": "150xxxxxx2566",
+      "name": "อรรถพงษ์ นะรา",
+      "province": "เชียงใหม่",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%99%E0%B8%B0%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

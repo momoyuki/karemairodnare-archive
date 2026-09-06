@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "เทศบาลเมืองเพชรบูรณ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองเพชรบูรณ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองเพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "5dc118053108c95122906f1b",
+      "maskedId": "154xxxxxx5000",
+      "name": "ชลธิศ ใจประเทือง",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%A8-%E0%B9%83%E0%B8%88%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "11a477b323c99fe5cecc18da",
+      "maskedId": "110xxxxxx2288",
+      "name": "ณัฐพงศ์ ชยุตราพันธุ์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%8A%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "a6f602a050209a2254862b4c",
+      "maskedId": "367xxxxxx8797",
+      "name": "บุญส่ง แม่พันดุง",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B9%88%E0%B8%87-%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเพชรบูรณ์",
+      "district": "เมืองเพชรบูรณ์",
+      "id": "f6ff31e783c758c674820d31",
+      "maskedId": "167xxxxxx3616",
+      "name": "เพชรพิจิตร ยมจันทร์",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B8%A2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

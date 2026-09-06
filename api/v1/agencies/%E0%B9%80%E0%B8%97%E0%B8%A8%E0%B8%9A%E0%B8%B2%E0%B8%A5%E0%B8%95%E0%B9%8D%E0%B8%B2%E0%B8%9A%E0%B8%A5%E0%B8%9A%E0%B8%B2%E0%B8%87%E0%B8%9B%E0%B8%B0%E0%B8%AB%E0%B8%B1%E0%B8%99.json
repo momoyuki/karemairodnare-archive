@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "เทศบาลตําบลบางปะหัน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลบางปะหัน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลบางปะหัน",
+      "district": "บางปะหัน",
+      "id": "4d79b7aef2b7fb1dffa65f22",
+      "maskedId": "110xxxxxx2747",
+      "name": "จีรนันท์ ชโลทรรุ่งโรจน์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B5%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%8A%E0%B9%82%E0%B8%A5%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะหัน",
+      "district": "บางปะหัน",
+      "id": "ade34c3b4a66261beb898c2e",
+      "maskedId": "114xxxxxx4707",
+      "name": "ทัดทรวง รัมสังข์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87-%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะหัน",
+      "district": "บางปะหัน",
+      "id": "e577eb238c55da38601b5c46",
+      "maskedId": "126xxxxxx2320",
+      "name": "พัชรพร ประสงค์ศรี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะหัน",
+      "district": "บางปะหัน",
+      "id": "a7ea971888ae1e4989268baa",
+      "maskedId": "141xxxxxx2591",
+      "name": "เอกราช ปัญญาใส",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%83%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะหัน",
+      "district": "บางปะหัน",
+      "id": "5b8804e48d76db859c297e92",
+      "maskedId": "133xxxxxx1769",
+      "name": "โสภิดา คูคํา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%84%E0%B8%B9%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

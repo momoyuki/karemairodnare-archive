@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "ลาดบัวหลวง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ลาดบัวหลวง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.สิงหนาท",
+      "district": "ลาดบัวหลวง",
+      "id": "75554bc83f46a1eab2e010ae",
+      "maskedId": "172xxxxxx9437",
+      "name": "พิมพ์พร คาบสมุทร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักชัย",
+      "district": "ลาดบัวหลวง",
+      "id": "af3106402d311c6f4c3ff147",
+      "maskedId": "176xxxxxx2131",
+      "name": "พิสิฐเกียรติ ภู่รัตนโอภา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%90%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4-%E0%B8%A0%E0%B8%B9%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%82%E0%B8%AD%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักชัย",
+      "district": "ลาดบัวหลวง",
+      "id": "17ce3fd6623f62d2f41811d8",
+      "maskedId": "119xxxxxx4461",
+      "name": "มณทิรา วงษ์พันธ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%97%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สิงหนาท",
+      "district": "ลาดบัวหลวง",
+      "id": "4565ba224f67839cd679189e",
+      "maskedId": "112xxxxxx1096",
+      "name": "ศิรินทิพย์ จันทร์เจ็ก",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B9%87%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักชัย",
+      "district": "ลาดบัวหลวง",
+      "id": "10bbf52fe1d7b0b5235812fd",
+      "maskedId": "110xxxxxx0121",
+      "name": "ศุภชัย แสงล้ํา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A5%E0%B9%89%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักชัย",
+      "district": "ลาดบัวหลวง",
+      "id": "7bc2700a4a781cf1ddfb5417",
+      "maskedId": "112xxxxxx4617",
+      "name": "สุภาภรณ์ ขำใบ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%82%E0%B8%B3%E0%B9%83%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

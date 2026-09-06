@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "แม่ลาน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "แม่ลาน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ป่าไร่",
+      "district": "แม่ลาน",
+      "id": "b3b53675b6aefd9df27f58a4",
+      "maskedId": "194xxxxxx6204",
+      "name": "ซำซียะห์ ยามาสาเร๊ะ",
+      "province": "ปัตตานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B3%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ป่าไร่",
+      "district": "แม่ลาน",
+      "id": "55440c84141766b3f8b6e732",
+      "maskedId": "395xxxxxx8109",
+      "name": "ตัซณีม อาลี",
+      "province": "ปัตตานี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%B1%E0%B8%8B%E0%B8%93%E0%B8%B5%E0%B8%A1-%E0%B8%AD%E0%B8%B2%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ป่าไร่",
+      "district": "แม่ลาน",
+      "id": "72ea3e8d46e00882bcba8889",
+      "maskedId": "195xxxxxx7021",
+      "name": "มุสตอฟา กาหลง",
+      "province": "ปัตตานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B8%E0%B8%AA%E0%B8%95%E0%B8%AD%E0%B8%9F%E0%B8%B2-%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%87",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "บ้านตาก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บ้านตาก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แม่สลิด",
+      "district": "บ้านตาก",
+      "id": "605319ee34d4ecd482087021",
+      "maskedId": "163xxxxxx8997",
+      "name": "สุทธิรักษ์ พึ่งสมบัติ",
+      "province": "ตาก",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%9E%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่สลิด",
+      "district": "บ้านตาก",
+      "id": "3ddc2e65a3c2daa1cb74fc83",
+      "maskedId": "151xxxxxx8702",
+      "name": "เกศสยาม แย้มทรัพย์",
+      "province": "ตาก",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A8%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะตะเภา",
+      "district": "บ้านตาก",
+      "id": "880778ca0a188ed38a5494f5",
+      "maskedId": "163xxxxxx7038",
+      "name": "เก็จจุฬา แก้วจันทร์เพชร",
+      "province": "ตาก",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งกระเชาะ",
+      "district": "บ้านตาก",
+      "id": "3aef5fecc91911d4c91e39ec",
+      "maskedId": "163xxxxxx2370",
+      "name": "โศรดา พงศ์พูนวิวัฒน์",
+      "province": "ตาก",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "50_ตาก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%A8%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

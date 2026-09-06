@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลตำบลท่าเสา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลท่าเสา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลท่าเสา",
+      "district": "เมืองอุตรดิตถ์",
+      "id": "44cc60b1610005574202cace",
+      "maskedId": "156xxxxxx7962",
+      "name": "นพพร สรงสุวรรณ",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเสา",
+      "district": "เมืองอุตรดิตถ์",
+      "id": "d0e708cc4e3acff11bd0986c",
+      "maskedId": "153xxxxxx2855",
+      "name": "รังสิมา สอนสังข์",
+      "province": "อุตรดิตถ์",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "41_อุตรดิตถ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "เทศบาลนครหัวหิน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลนครหัวหิน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครหัวหิน",
+      "district": "หัวหิน",
+      "id": "5d2f293dbdd7512fbbd38b5a",
+      "maskedId": "177xxxxxx8955",
+      "name": "นิรันดร์ เบ็งบวร",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%9A%E0%B9%87%E0%B8%87%E0%B8%9A%E0%B8%A7%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครหัวหิน",
+      "district": "หัวหิน",
+      "id": "de7936f766b337b25d53e159",
+      "maskedId": "177xxxxxx2940",
+      "name": "มาสมาตา ฉายวิเชียร",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%B2-%E0%B8%89%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครหัวหิน",
+      "district": "หัวหิน",
+      "id": "ece56a0812fa9c87f203af02",
+      "maskedId": "110xxxxxx3612",
+      "name": "รัฐกิจ รัฐกิจวิจารณ์ ณ นคร",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88-%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%93-%E0%B8%99%E0%B8%84%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครหัวหิน",
+      "district": "หัวหิน",
+      "id": "7126ffe6bf7194b06aa521db",
+      "maskedId": "185xxxxxx1891",
+      "name": "วิชยุตม์ แสงอินทร์",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%A1%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

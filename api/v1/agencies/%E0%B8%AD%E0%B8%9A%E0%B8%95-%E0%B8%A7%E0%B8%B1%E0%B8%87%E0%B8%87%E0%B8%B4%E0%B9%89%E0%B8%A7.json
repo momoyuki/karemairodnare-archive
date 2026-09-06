@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.วังงิ้ว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-วังงิ้ว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังงิ้ว",
+      "district": "ดงเจริญ",
+      "id": "18163b81d66a21ad104bb188",
+      "maskedId": "167xxxxxx7991",
+      "name": "ชไมพร พลทอง",
+      "province": "พิจิตร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B9%84%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%A5%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังงิ้ว",
+      "district": "ดงเจริญ",
+      "id": "fab6765572c42d8a6b06fdab",
+      "maskedId": "160xxxxxx3341",
+      "name": "สิรินภา ดำนงค์",
+      "province": "พิจิตร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%94%E0%B8%B3%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังงิ้ว",
+      "district": "ดงเจริญ",
+      "id": "355d2c5a4b9c043b6e0e9727",
+      "maskedId": "160xxxxxx3256",
+      "name": "เอกภพ สุขอ่ํา",
+      "province": "พิจิตร",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A0%E0%B8%9E-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AD%E0%B9%88%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

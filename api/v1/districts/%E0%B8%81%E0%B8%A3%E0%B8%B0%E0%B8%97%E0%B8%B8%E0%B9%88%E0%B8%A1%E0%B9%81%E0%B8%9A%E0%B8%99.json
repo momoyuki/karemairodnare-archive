@@ -1,0 +1,439 @@
+{
+  "_meta": {
+    "count": 25,
+    "kind": "district",
+    "name": "กระทุ่มแบน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "กระทุ่มแบน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองกระทุ่มแบน",
+      "district": "กระทุ่มแบน",
+      "id": "3d213e82bf791f1f175ce7d8",
+      "maskedId": "170xxxxxx3593",
+      "name": "กนกวรรณ อริยานนท์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครอ้อมน้อย",
+      "district": "กระทุ่มแบน",
+      "id": "1c7ffe9a5bdb089686e1c793",
+      "maskedId": "110xxxxxx0386",
+      "name": "กัญญารัตน์ แก้วเรณู",
+      "province": "สมุทรสาคร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%93%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลดอนไก่ดี",
+      "district": "กระทุ่มแบน",
+      "id": "5a461ca0351dc867830c0db4",
+      "maskedId": "170xxxxxx7565",
+      "name": "จิรวัฒน์ เทียนมนต์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าเสา",
+      "district": "กระทุ่มแบน",
+      "id": "202938e3a9970a0e0737b42d",
+      "maskedId": "171xxxxxx0611",
+      "name": "ฐิติพงศ์ จันทฤทธิ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลนครอ้อมน้อย",
+      "district": "กระทุ่มแบน",
+      "id": "e739c43b17792d72c7be336a",
+      "maskedId": "110xxxxxx1698",
+      "name": "ณัฐรัช สุภักษา",
+      "province": "สมุทรสาคร",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A3%E0%B8%B1%E0%B8%8A-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครอ้อมน้อย",
+      "district": "กระทุ่มแบน",
+      "id": "0f9bb315e13458dc8ab0981d",
+      "maskedId": "172xxxxxx2413",
+      "name": "ดนุพล สนธิไชย",
+      "province": "สมุทรสาคร",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%A5-%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B9%84%E0%B8%8A%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "กระทุ่มแบน",
+      "id": "3ed13562b364ac3b33ae0675",
+      "maskedId": "373xxxxxx8734",
+      "name": "ทิพย์วรินทร สิริกุลอิทธิกร",
+      "province": "สมุทรสาคร",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลสวนหลวง",
+      "district": "กระทุ่มแบน",
+      "id": "959b0e5f4ed4c9870966bd8d",
+      "maskedId": "170xxxxxx2369",
+      "name": "ธนวัตร วิจิตรภู",
+      "province": "สมุทรสาคร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%A0%E0%B8%B9",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลดอนไก่ดี",
+      "district": "กระทุ่มแบน",
+      "id": "d9b1af6674dfe5ef7c576dbd",
+      "maskedId": "176xxxxxx2466",
+      "name": "ธันยพร แก้วแดง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%81%E0%B8%94%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระทุ่มแบน",
+      "district": "กระทุ่มแบน",
+      "id": "e3757cea7d91a1248d128bd7",
+      "maskedId": "170xxxxxx6676",
+      "name": "นนทณัฏฐ์ ยินเยื้อน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B9%8C-%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระทุ่มแบน",
+      "district": "กระทุ่มแบน",
+      "id": "07a5954759e3da6683858a64",
+      "maskedId": "172xxxxxx2621",
+      "name": "นลิสา ทองสุข",
+      "province": "สมุทรสาคร",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระทุ่มแบน",
+      "district": "กระทุ่มแบน",
+      "id": "d88e1ac521225fdad38a18b0",
+      "maskedId": "140xxxxxx4249",
+      "name": "ปฏิพล เวยสาร",
+      "province": "สมุทรสาคร",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%A7%E0%B8%A2%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าเสา",
+      "district": "กระทุ่มแบน",
+      "id": "9ff5f1b8aabe017f0548dd9d",
+      "maskedId": "152xxxxxx8821",
+      "name": "ปณิธาน วงศ์แก้วมูล",
+      "province": "สมุทรสาคร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%98%E0%B8%B2%E0%B8%99-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองกระทุ่มแบน",
+      "district": "กระทุ่มแบน",
+      "id": "5142c0ffc0f6b3472ef4e19b",
+      "maskedId": "110xxxxxx2466",
+      "name": "พิชามญธุ์ ชินทศักดิ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A1%E0%B8%8D%E0%B8%98%E0%B8%B8%E0%B9%8C-%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลดอนไก่ดี",
+      "district": "กระทุ่มแบน",
+      "id": "7a61558419dc5cca56f26b8b",
+      "maskedId": "180xxxxxx0286",
+      "name": "ภัทธิศา สุวรรณปาน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9B%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระทุ่มแบน",
+      "district": "กระทุ่มแบน",
+      "id": "dbab1c54f63853183420b3a9",
+      "maskedId": "110xxxxxx7788",
+      "name": "วิชชากร อ่อนเบา",
+      "province": "สมุทรสาคร",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%9A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระทุ่มแบน",
+      "district": "กระทุ่มแบน",
+      "id": "25aae74a0a2eb8ea68d234b7",
+      "maskedId": "171xxxxxx5105",
+      "name": "ศิริณัฐ ปานดํา",
+      "province": "สมุทรสาคร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "กระทุ่มแบน",
+      "id": "9406f0561a8d5101928f5623",
+      "maskedId": "270xxxxxx1099",
+      "name": "ศิริลักษณ์ กรพิพัฒน์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ท่าเสา",
+      "district": "กระทุ่มแบน",
+      "id": "c7b6c7f1dd8f816d729ef4ef",
+      "maskedId": "180xxxxxx5639",
+      "name": "อนงค์นาฎ จุลเลศ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%99%E0%B8%B2%E0%B8%8E-%E0%B8%88%E0%B8%B8%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%A8",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองกระทุ่มแบน",
+      "district": "กระทุ่มแบน",
+      "id": "a6f4b95be991ab5a2eec7930",
+      "maskedId": "177xxxxxx7072",
+      "name": "อรอนงค์ ปลอดโปร่ง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองกระทุ่มแบน",
+      "district": "กระทุ่มแบน",
+      "id": "a7c6ce8629e084d63aa30002",
+      "maskedId": "170xxxxxx0095",
+      "name": "อัจจิมา เสาร์ทอง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "กระทุ่มแบน",
+      "id": "2d28a88d0dc50bb91d758726",
+      "maskedId": "176xxxxxx1813",
+      "name": "อาทิตย์ ทันการ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C-%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลนครอ้อมน้อย",
+      "district": "กระทุ่มแบน",
+      "id": "9a32a477fa3c01fb9c5f2fc2",
+      "maskedId": "177xxxxxx7731",
+      "name": "เทพสุดา สุดเสนาะ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองนกไข่",
+      "district": "กระทุ่มแบน",
+      "id": "cdddeda273192335dfae6659",
+      "maskedId": "170xxxxxx9775",
+      "name": "เมธาวัช สว่างเนตร์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%8A-%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางยาง",
+      "district": "กระทุ่มแบน",
+      "id": "f4a300cecb7b6e2bfa949077",
+      "maskedId": "371xxxxxx2663",
+      "name": "โกสินทร์ จงเจริญ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

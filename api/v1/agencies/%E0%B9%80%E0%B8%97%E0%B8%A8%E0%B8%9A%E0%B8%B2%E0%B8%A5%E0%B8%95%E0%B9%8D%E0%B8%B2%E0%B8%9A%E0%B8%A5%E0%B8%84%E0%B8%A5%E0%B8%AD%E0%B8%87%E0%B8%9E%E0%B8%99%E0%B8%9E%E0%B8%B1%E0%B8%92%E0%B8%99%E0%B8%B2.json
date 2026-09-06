@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "เทศบาลตําบลคลองพนพัฒนา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลคลองพนพัฒนา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "0e2a2ca852ee05b30ac10b96",
+      "maskedId": "193xxxxxx2778",
+      "name": "กนกกาญจน์ เกลี้ยงสง",
+      "province": "กระบี่",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "87ff84ef4e036f75ecef61c7",
+      "maskedId": "193xxxxxx4897",
+      "name": "คุณานนต์ แก้วรัตนะ",
+      "province": "กระบี่",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "590593db9422d0e96e0fda79",
+      "maskedId": "193xxxxxx9313",
+      "name": "ธนวัฒน์ สังข์นุ้ย",
+      "province": "กระบี่",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "ab8482b18f99ec38266d0700",
+      "maskedId": "193xxxxxx1441",
+      "name": "พิมพลอย คงเกตุ",
+      "province": "กระบี่",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2-%E0%B8%84%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "2d30e88b90b82086f3949c39",
+      "maskedId": "196xxxxxx4465",
+      "name": "สุนิสา ตรุระจิตต์",
+      "province": "กระบี่",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%95%E0%B8%A3%E0%B8%B8%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองพนพัฒนา",
+      "district": "คลองท่อม",
+      "id": "614eef7fb103a9e9c6a0e52f",
+      "maskedId": "193xxxxxx7235",
+      "name": "เขมนันท์ จันทร์เสน",
+      "province": "กระบี่",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

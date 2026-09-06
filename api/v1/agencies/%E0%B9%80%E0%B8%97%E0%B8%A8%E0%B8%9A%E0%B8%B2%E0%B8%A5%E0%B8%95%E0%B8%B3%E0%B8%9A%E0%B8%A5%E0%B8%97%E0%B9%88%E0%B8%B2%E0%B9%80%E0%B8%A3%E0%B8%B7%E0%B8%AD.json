@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "เทศบาลตำบลท่าเรือ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลท่าเรือ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลท่าเรือ",
+      "district": "ท่าเรือ",
+      "id": "3e773ea9fd22128a403fd4ff",
+      "maskedId": "348xxxxxx2374",
+      "name": "ธิติมา กอมณี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%81%E0%B8%AD%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเรือ",
+      "district": "ท่าเรือ",
+      "id": "ec8a16d18ce56dfe0459eff7",
+      "maskedId": "172xxxxxx6422",
+      "name": "พณิชา นนท์ช้าง",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเรือ",
+      "district": "ท่าเรือ",
+      "id": "6ef2609bd9c0c40750257c6f",
+      "maskedId": "147xxxxxx1361",
+      "name": "สยามยุทธ แสงวงค์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

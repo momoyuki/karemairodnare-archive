@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "จักราช | ประทาย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "จักราช-ประทาย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองพลวง",
+      "district": "จักราช | ประทาย",
+      "id": "c9e442a196e347bc1964b92b",
+      "maskedId": "131xxxxxx2114",
+      "name": "กรรณิการ์ ขวางรัมย์",
+      "province": "นครราชสีมา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%82%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองพลวง",
+      "district": "จักราช | ประทาย",
+      "id": "f9d70173916d52e61d7293a3",
+      "maskedId": "181xxxxxx6396",
+      "name": "สตรีรัตน์ ไววิลาศ",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%A7%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองพลวง",
+      "district": "จักราช | ประทาย",
+      "id": "9d9f369159531b5dc2252ebc",
+      "maskedId": "130xxxxxx1559",
+      "name": "สุดารัตน์ เลิศนา",
+      "province": "นครราชสีมา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

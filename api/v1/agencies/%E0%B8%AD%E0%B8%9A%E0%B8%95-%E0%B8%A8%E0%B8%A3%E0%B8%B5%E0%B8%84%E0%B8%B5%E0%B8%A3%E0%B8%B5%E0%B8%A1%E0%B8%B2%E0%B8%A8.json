@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ศรีคีรีมาศ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ศรีคีรีมาศ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ศรีคีรีมาศ",
+      "district": "คีรีมาศ",
+      "id": "9d4c56b0c25e191005d3a153",
+      "maskedId": "165xxxxxx3734",
+      "name": "ณัฐมล ทองรักษ์",
+      "province": "สุโขทัย",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%A5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีคีรีมาศ",
+      "district": "คีรีมาศ",
+      "id": "796610a1150cee350f7f5013",
+      "maskedId": "165xxxxxx6314",
+      "name": "ธีรวัสส์ วัชรากูล",
+      "province": "สุโขทัย",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีคีรีมาศ",
+      "district": "คีรีมาศ",
+      "id": "a115bd33fe68e5bd0f475368",
+      "maskedId": "164xxxxxx3851",
+      "name": "ศิริพร ดําดี",
+      "province": "สุโขทัย",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "51_สุโขทัย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%94%E0%B9%8D%E0%B8%B2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

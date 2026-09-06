@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "ทุ่งฝน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ทุ่งฝน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นาชุมแสง",
+      "district": "ทุ่งฝน",
+      "id": "26c949c081784a9098b73e3c",
+      "maskedId": "147xxxxxx7531",
+      "name": "นัฐพล โฮมวงศ์",
+      "province": "อุดรธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กุดค้า",
+      "district": "ทุ่งฝน",
+      "id": "1fe5651007b35dbe82ed862a",
+      "maskedId": "141xxxxxx5600",
+      "name": "เจติยา แก้วขวัญ",
+      "province": "อุดรธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

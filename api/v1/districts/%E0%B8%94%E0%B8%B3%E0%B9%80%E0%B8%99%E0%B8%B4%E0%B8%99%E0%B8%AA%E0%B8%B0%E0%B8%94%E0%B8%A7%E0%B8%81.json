@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "ดำเนินสะดวก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ดำเนินสะดวก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แพงพวย",
+      "district": "ดำเนินสะดวก",
+      "id": "6af53642ce6043954df2051c",
+      "maskedId": "170xxxxxx7795",
+      "name": "กุลวีณ์นันท์ เตี้ยเนตร",
+      "province": "ราชบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B9%8C%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลศรีดอนไผ่",
+      "district": "ดำเนินสะดวก",
+      "id": "af91ed5e4873123597ce9e0d",
+      "maskedId": "196xxxxxx1318",
+      "name": "ชนัญชิดา เพชรเจริญ",
+      "province": "ราชบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนกรวย",
+      "district": "ดำเนินสะดวก",
+      "id": "e2cd0d0c0b2e2eea37c1c0c4",
+      "maskedId": "170xxxxxx0005",
+      "name": "ชนากานต์ แป้นกลัด",
+      "province": "ราชบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%81%E0%B8%9B%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่านัด",
+      "district": "ดำเนินสะดวก",
+      "id": "ed4aba8587d6e6a3e8d504cc",
+      "maskedId": "170xxxxxx7114",
+      "name": "ธนากร อินทร์จักร์",
+      "province": "ราชบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนคลัง",
+      "district": "ดำเนินสะดวก",
+      "id": "203bcb2b4c699670b31053ea",
+      "maskedId": "170xxxxxx5801",
+      "name": "ลัดดาวัลย์ เข็มทอง",
+      "province": "ราชบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B9%87%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนกรวย",
+      "district": "ดำเนินสะดวก",
+      "id": "48810a278787a689b9dd810b",
+      "maskedId": "172xxxxxx9733",
+      "name": "วศิธร ชาวหนองบอน",
+      "province": "ราชบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลศรีดอนไผ่",
+      "district": "ดำเนินสะดวก",
+      "id": "5405406d586d8b85206f9188",
+      "maskedId": "371xxxxxx2643",
+      "name": "เอกมัย มาลัย",
+      "province": "ราชบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "55_ราชบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

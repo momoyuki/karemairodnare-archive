@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "agency",
+    "name": "อบต.บึงกาสาม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บึงกาสาม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บึงกาสาม",
+      "district": "หนองเสือ",
+      "id": "9bc56affd1ece65918abb61c",
+      "maskedId": "193xxxxxx1732",
+      "name": "กันทร จันทร์แก้ว",
+      "province": "ปทุมธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บึงกาสาม",
+      "district": "หนองเสือ",
+      "id": "2ecedd3b0410d95d2a096c23",
+      "maskedId": "110xxxxxx1961",
+      "name": "จิราวรรณ ลือนาม",
+      "province": "ปทุมธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บึงกาสาม",
+      "district": "หนองเสือ",
+      "id": "2029c49ab70e53aeb37f50e2",
+      "maskedId": "110xxxxxx2086",
+      "name": "ชนกนันท์ เลิศประสิทธิพันธ์",
+      "province": "ปทุมธานี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%81%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บึงกาสาม",
+      "district": "หนองเสือ",
+      "id": "5101e577bee695d4af47dce5",
+      "maskedId": "173xxxxxx8721",
+      "name": "วริสา สุริกร",
+      "province": "ปทุมธานี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บึงกาสาม",
+      "district": "หนองเสือ",
+      "id": "b5d922e41a15403dcfb09556",
+      "maskedId": "136xxxxxx4398",
+      "name": "วันเฉลิม กอสูงเนิน",
+      "province": "ปทุมธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1-%E0%B8%81%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บึงกาสาม",
+      "district": "หนองเสือ",
+      "id": "2f19b7424263141a9960ab04",
+      "maskedId": "141xxxxxx3518",
+      "name": "สุรจิตร นิสาย",
+      "province": "ปทุมธานี",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3-%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บึงกาสาม",
+      "district": "หนองเสือ",
+      "id": "94d6dee803a491caba34a514",
+      "maskedId": "185xxxxxx7184",
+      "name": "หัสพล มงคลกาวิล",
+      "province": "ปทุมธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "04_ปทุมธานี.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%9E%E0%B8%A5-%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

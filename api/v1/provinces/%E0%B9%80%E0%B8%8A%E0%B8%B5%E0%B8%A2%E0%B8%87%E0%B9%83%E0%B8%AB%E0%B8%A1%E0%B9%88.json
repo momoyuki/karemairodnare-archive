@@ -1,0 +1,728 @@
+{
+  "_meta": {
+    "count": 42,
+    "kind": "province",
+    "name": "เชียงใหม่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เชียงใหม่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองเมืองแกนพัฒนา",
+      "district": "แม่แตง",
+      "id": "efda4b5d270bc04d0376f5e0",
+      "maskedId": "156xxxxxx0377",
+      "name": "กรรณิการ์ อินสุวรรณ์",
+      "province": "เชียงใหม่",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "c543436ec44eb3c730e3858e",
+      "maskedId": "150xxxxxx0262",
+      "name": "กุลพัชร ราชคม",
+      "province": "เชียงใหม่",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%84%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่สาบ",
+      "district": "สะเมิง",
+      "id": "8fe68b63a59b105765697d1e",
+      "maskedId": "152xxxxxx3211",
+      "name": "จารุมาศ คำปินใจ",
+      "province": "เชียงใหม่",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%84%E0%B8%B3%E0%B8%9B%E0%B8%B4%E0%B8%99%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่หอพระ",
+      "district": "แม่แตง",
+      "id": "056ab59314dd398c9c28a442",
+      "maskedId": "150xxxxxx4448",
+      "name": "จิรายุ มูลธร",
+      "province": "เชียงใหม่",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B8-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%98%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "9701d60fe4db593b57db6c9c",
+      "maskedId": "858xxxxxx2596",
+      "name": "ชัชชญา อัทรารัตน์",
+      "province": "เชียงใหม่",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%AD%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสะลวง",
+      "district": "แม่ริม",
+      "id": "efcd2a7c206154a125c6ef2f",
+      "maskedId": "155xxxxxx3953",
+      "name": "ชัชชัย ท้าวฮ้าย",
+      "province": "เชียงใหม่",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AE%E0%B9%89%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เชียงใหม่",
+      "district": "เมืองเชียงใหม่",
+      "id": "7249963f9b4d01260e5a78eb",
+      "maskedId": "150xxxxxx7611",
+      "name": "ณัฐริกา เกิดกุญชร",
+      "province": "เชียงใหม่",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่าแป๋",
+      "district": "แม่แตง",
+      "id": "687634694c4921f498acfeee",
+      "maskedId": "152xxxxxx8218",
+      "name": "ณัฐวุฒิ จะระนะ",
+      "province": "เชียงใหม่",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%88%E0%B8%B0%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลสันมหาพน",
+      "district": "แม่แตง",
+      "id": "57e529699dc8d7c0c79b7940",
+      "maskedId": "143xxxxxx5683",
+      "name": "ธนกร ทองทาบ",
+      "province": "เชียงใหม่",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%81%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเชียงใหม่",
+      "district": "เมืองเชียงใหม่",
+      "id": "ca40d72e45f1867f95951cd4",
+      "maskedId": "154xxxxxx4249",
+      "name": "ธัญธิตา อินแสง",
+      "province": "เชียงใหม่",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "3f6262cabd1b67bce72edc16",
+      "maskedId": "150xxxxxx1423",
+      "name": "ธัญยภรณ์ ธรรมเทศน์",
+      "province": "เชียงใหม่",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านจันทร์",
+      "district": "กัลยาณิวัฒนา",
+      "id": "3e92f4ea1760149ba4c43f93",
+      "maskedId": "110xxxxxx1675",
+      "name": "ธีรดนย์ สว่างเนตร",
+      "province": "เชียงใหม่",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%94%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลพระธาตุปู่ก่ำ",
+      "district": "เชียงดาว",
+      "id": "fca5b55f8fa498748cddf00d",
+      "maskedId": "150xxxxxx3490",
+      "name": "ธีรวัฒน์ สิทธิติ๊บ",
+      "province": "เชียงใหม่",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B9%8A%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "91762ecdeb0901f2302f011f",
+      "maskedId": "150xxxxxx4804",
+      "name": "บุญฑริกา นาราช",
+      "province": "เชียงใหม่",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%91%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่หอพระ",
+      "district": "แม่แตง",
+      "id": "540cf757032968fa4281c17f",
+      "maskedId": "150xxxxxx8632",
+      "name": "ปรียาวรรณ แก้วมณี",
+      "province": "เชียงใหม่",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เมืองคอง",
+      "district": "เชียงดาว",
+      "id": "94d9feebe277c27308139870",
+      "maskedId": "157xxxxxx8273",
+      "name": "พรพรรณ อินต๊ะเสน",
+      "province": "เชียงใหม่",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งรวงทอง",
+      "district": "แม่วาง",
+      "id": "bae9928481dbecfc1fd33f1f",
+      "maskedId": "154xxxxxx8981",
+      "name": "พัชรพร ดาวดึงษ์",
+      "province": "เชียงใหม่",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B6%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านช้าง",
+      "district": "แม่แตง",
+      "id": "81b3e42dae3697b9bf2d4a92",
+      "maskedId": "151xxxxxx5741",
+      "name": "พัชรินทร์ ทาวี",
+      "province": "เชียงใหม่",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%97%E0%B8%B2%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลตําบลเขื่อนผาก",
+      "district": "พร้าว",
+      "id": "df0d37dd1b7e81868de87c6b",
+      "maskedId": "152xxxxxx0380",
+      "name": "พิชญา คําเขื่อน",
+      "province": "เชียงใหม่",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สันป่ายาง",
+      "district": "แม่แตง",
+      "id": "33d3a7903411f7c387936997",
+      "maskedId": "110xxxxxx9646",
+      "name": "พิมพ์ประภา กุญแจกล",
+      "province": "เชียงใหม่",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2-%E0%B8%81%E0%B8%B8%E0%B8%8D%E0%B9%81%E0%B8%88%E0%B8%81%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านจันทร์",
+      "district": "กัลยาณิวัฒนา",
+      "id": "ae7970c9ee3fdc2fcc671955",
+      "maskedId": "130xxxxxx6094",
+      "name": "ภัทราวุธ กันทะตา",
+      "province": "เชียงใหม่",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสันมหาพน",
+      "district": "แม่แตง",
+      "id": "4cb789a17a03fc5a00f96a29",
+      "maskedId": "150xxxxxx8389",
+      "name": "ภาณุพงค์ ตาใจ",
+      "province": "เชียงใหม่",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%95%E0%B8%B2%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ่อแก้ว",
+      "district": "สะเมิง",
+      "id": "31f7cb13765d30e520de6e22",
+      "maskedId": "150xxxxxx6879",
+      "name": "ภาสกร สมควร",
+      "province": "เชียงใหม่",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%A3-%E0%B8%AA%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.แม่แวน",
+      "district": "พร้าว",
+      "id": "ff0c06f70bf5144ba95f9d17",
+      "maskedId": "350xxxxxx0600",
+      "name": "ลินลดา กันถิน",
+      "province": "เชียงใหม่",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%96%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "214ca09f8ecbf1afda5464c7",
+      "maskedId": "150xxxxxx9163",
+      "name": "วรินทร แปงแสง",
+      "province": "เชียงใหม่",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B9%81%E0%B8%9B%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสันมหาพน",
+      "district": "แม่แตง",
+      "id": "20e737d3612ca052593cfdfb",
+      "maskedId": "350xxxxxx2914",
+      "name": "วันทนีย์ ศรีลิมปนนท์",
+      "province": "เชียงใหม่",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9B%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สันกําแพง",
+      "district": "สันกำแพง",
+      "id": "0eb34c56803455caf8fbbbe8",
+      "maskedId": "151xxxxxx9598",
+      "name": "วิกรม พรมเทศ",
+      "province": "เชียงใหม่",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%A1-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โหล่งขอด",
+      "district": "พร้าว",
+      "id": "3a5cc8858e08a13c4b9a6971",
+      "maskedId": "150xxxxxx1911",
+      "name": "ศรัณยา ชุมภู",
+      "province": "เชียงใหม่",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B8%B2-%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%A0%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเชียงดาว",
+      "district": "เชียงดาว",
+      "id": "ce436ca019e1fda76c724989",
+      "maskedId": "131xxxxxx3422",
+      "name": "สลิลา เลี้ยงผ่องพันธุ์",
+      "province": "เชียงใหม่",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%A5%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เชียงใหม่",
+      "district": "เมืองเชียงใหม่",
+      "id": "ed4843be5b80914b295db286",
+      "maskedId": "150xxxxxx6293",
+      "name": "สิริลักษณ์ ศรีโรย",
+      "province": "เชียงใหม่",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองผึ้ง",
+      "district": "สารภี",
+      "id": "810dfaf303d2a2446e2a4885",
+      "maskedId": "152xxxxxx6988",
+      "name": "สุชาวดี บุญช่วย",
+      "province": "เชียงใหม่",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่คือ",
+      "district": "ดอยสะเก็ด",
+      "id": "59f5e3dc7c9bd9d0fadf28de",
+      "maskedId": "163xxxxxx9349",
+      "name": "สุภาพร คําภีระ",
+      "province": "เชียงใหม่",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A0%E0%B8%B5%E0%B8%A3%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่วิน",
+      "district": "แม่วาง",
+      "id": "68955611095b8c328534f161",
+      "maskedId": "110xxxxxx8361",
+      "name": "สุริยะ ราชอุปนันท์",
+      "province": "เชียงใหม่",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0-%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลริมเหนือ",
+      "district": "แม่ริม",
+      "id": "01ab26ce7e962c02152d4f0d",
+      "maskedId": "150xxxxxx0249",
+      "name": "หยาดทิพย์ บุตรใจ",
+      "province": "เชียงใหม่",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%A2%E0%B8%B2%E0%B8%94%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.เชียงใหม่",
+      "district": "เมืองเชียงใหม่",
+      "id": "d9137d4fe6046f336c5f680c",
+      "maskedId": "150xxxxxx9638",
+      "name": "หฤทัย เรือนนาค",
+      "province": "เชียงใหม่",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาเกียน",
+      "district": "อมก๋อย",
+      "id": "c207729114b059417e614abf",
+      "maskedId": "150xxxxxx9023",
+      "name": "อดิสรณ์ กิติวงศ์",
+      "province": "เชียงใหม่",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตำบลป่าป้อง",
+      "district": "ดอยสะเก็ด",
+      "id": "a3fa54a0eefbb246bfcfeda6",
+      "maskedId": "150xxxxxx2566",
+      "name": "อรรถพงษ์ นะรา",
+      "province": "เชียงใหม่",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%99%E0%B8%B0%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองนะ",
+      "district": "เชียงดาว",
+      "id": "e7b34faedcbcb95019ded1e8",
+      "maskedId": "150xxxxxx7690",
+      "name": "อริสา วงศ์คำแสน",
+      "province": "เชียงใหม่",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าข้าม",
+      "district": "ฮอด",
+      "id": "e3461cc0e42806dc491a2f6e",
+      "maskedId": "150xxxxxx0365",
+      "name": "อัจฉริยา ไชยโปธิ",
+      "province": "เชียงใหม่",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B9%82%E0%B8%9B%E0%B8%98%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่ปั๋ง",
+      "district": "พร้าว",
+      "id": "1d67837ab38df69247ff0536",
+      "maskedId": "150xxxxxx2056",
+      "name": "อุมารินทร์ ดวงวิโรจน์",
+      "province": "เชียงใหม่",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่วิน",
+      "district": "แม่วาง",
+      "id": "de477096552f98a191d1b324",
+      "maskedId": "150xxxxxx8524",
+      "name": "เพิ่มพล ดําธรรม",
+      "province": "เชียงใหม่",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%A5-%E0%B8%94%E0%B9%8D%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สันป่ายาง",
+      "district": "แม่แตง",
+      "id": "5659f82d87c22734641baa39",
+      "maskedId": "150xxxxxx2947",
+      "name": "เมธาวี โรจนเสาวภาคย์",
+      "province": "เชียงใหม่",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "38_เชียงใหม่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%B5-%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

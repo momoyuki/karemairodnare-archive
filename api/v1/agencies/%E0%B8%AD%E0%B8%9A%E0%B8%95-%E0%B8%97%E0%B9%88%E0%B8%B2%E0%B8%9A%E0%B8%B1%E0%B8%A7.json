@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ท่าบัว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ท่าบัว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ท่าบัว",
+      "district": "โพทะเล",
+      "id": "7e6bde6f8691a7b51f7815e4",
+      "maskedId": "160xxxxxx6911",
+      "name": "กมลชนก แจ้งจบ",
+      "province": "พิจิตร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%88%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าบัว",
+      "district": "โพทะเล",
+      "id": "f45c0060708e97cd5331a4c4",
+      "maskedId": "567xxxxxx1176",
+      "name": "อัญชลี ฝ่ายสงฆ์",
+      "province": "พิจิตร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A5%E0%B8%B5-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%87%E0%B8%86%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

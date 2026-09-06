@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "ท่าเรือ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ท่าเรือ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "733083670de68c343b01ba11",
+      "maskedId": "119xxxxxx5186",
+      "name": "กุลนันทน์ ทองอุ่นเรือน",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ปากท่า",
+      "district": "ท่าเรือ",
+      "id": "53ded151ba81db780b41a2be",
+      "maskedId": "114xxxxxx6875",
+      "name": "ชนาภัทร สุขนิคม",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเรือ",
+      "district": "ท่าเรือ",
+      "id": "3e773ea9fd22128a403fd4ff",
+      "maskedId": "348xxxxxx2374",
+      "name": "ธิติมา กอมณี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%81%E0%B8%AD%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "cde6d95cc07bc26ddc5bf39a",
+      "maskedId": "116xxxxxx8825",
+      "name": "ปฏิมากรณ์ ติ้วสุวรรณบวร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%95%E0%B8%B4%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%A7%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเรือ",
+      "district": "ท่าเรือ",
+      "id": "ec8a16d18ce56dfe0459eff7",
+      "maskedId": "172xxxxxx6422",
+      "name": "พณิชา นนท์ช้าง",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าเรือ",
+      "district": "ท่าเรือ",
+      "id": "6ef2609bd9c0c40750257c6f",
+      "maskedId": "147xxxxxx1361",
+      "name": "สยามยุทธ แสงวงค์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "eebd2ac15e0d55667c26f3b6",
+      "maskedId": "180xxxxxx3832",
+      "name": "อิทธิกร บุตรเจริญ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ปากท่า",
+      "district": "ท่าเรือ",
+      "id": "28303446fd872c75356d94e1",
+      "maskedId": "133xxxxxx9555",
+      "name": "อโนทัย ยกพล",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B9%82%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%A2%E0%B8%81%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าหลวง",
+      "district": "ท่าเรือ",
+      "id": "f9ad0614de7c2afb694210ce",
+      "maskedId": "110xxxxxx8431",
+      "name": "เกตุกนก ฤกษ์สนธิ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B8%81-%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

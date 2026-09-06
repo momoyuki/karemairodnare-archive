@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "สามง่าม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สามง่าม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.สามง่าม",
+      "district": "สามง่าม",
+      "id": "80939d0d0cc80e508bf9bc39",
+      "maskedId": "166xxxxxx7444",
+      "name": "ธัญชรินทร์ ธนศรีวิวัฒน์",
+      "province": "พิจิตร",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%98%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รังนก",
+      "district": "สามง่าม",
+      "id": "e2ed34dfbb943a85a4f86a47",
+      "maskedId": "140xxxxxx2501",
+      "name": "สยาม สายคํา",
+      "province": "พิจิตร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสามง่าม",
+      "district": "สามง่าม",
+      "id": "9a0bff9c031f21d22ba83fc0",
+      "maskedId": "166xxxxxx5234",
+      "name": "สุมิตรา บุญเอี่ยม",
+      "province": "พิจิตร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

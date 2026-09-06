@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "เทศบาลเมืองหนองสําโรง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองหนองสําโรง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองหนองสําโรง",
+      "district": "เมืองอุดรธานี",
+      "id": "db21b3ebe36e4599db0c1214",
+      "maskedId": "140xxxxxx3581",
+      "name": "ชญา พิมพ์สวัสดิ์",
+      "province": "อุดรธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหนองสําโรง",
+      "district": "เมืองอุดรธานี",
+      "id": "674d43565c4d8ef89ee2ce0a",
+      "maskedId": "149xxxxxx8884",
+      "name": "ดวงกมล คํามุงคุณ",
+      "province": "อุดรธานี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%A1%E0%B8%A5-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A1%E0%B8%B8%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

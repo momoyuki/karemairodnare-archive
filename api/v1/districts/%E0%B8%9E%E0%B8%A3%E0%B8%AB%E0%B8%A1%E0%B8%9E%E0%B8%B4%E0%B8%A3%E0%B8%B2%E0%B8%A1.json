@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "พรหมพิราม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พรหมพิราม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลวงฆ้อง",
+      "district": "พรหมพิราม",
+      "id": "6992371d410d090f800add6c",
+      "maskedId": "164xxxxxx9571",
+      "name": "จันทรรัตน์ แจ้งดี",
+      "province": "พิษณุโลก",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะต้อง",
+      "district": "พรหมพิราม",
+      "id": "10646b9e11c4b515a63a8eaf",
+      "maskedId": "166xxxxxx5277",
+      "name": "ณัฐมา เผ่าพันธ์",
+      "province": "พิษณุโลก",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%B2-%E0%B9%80%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวงฆ้อง",
+      "district": "พรหมพิราม",
+      "id": "a328af7aef4df5cc91ca0b5d",
+      "maskedId": "165xxxxxx3481",
+      "name": "ดุษฎี สีกุม",
+      "province": "พิษณุโลก",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B8%E0%B8%A9%E0%B8%8E%E0%B8%B5-%E0%B8%AA%E0%B8%B5%E0%B8%81%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทับยายเชียง",
+      "district": "พรหมพิราม",
+      "id": "b18b2eddeb7712cfd014da01",
+      "maskedId": "142xxxxxx2821",
+      "name": "ภรทิพย์ พิลาทา",
+      "province": "พิษณุโลก",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตลุกเทียม",
+      "district": "พรหมพิราม",
+      "id": "aa446aba487bb79c74e38987",
+      "maskedId": "153xxxxxx9013",
+      "name": "สารยา ทั่งเรือง",
+      "province": "พิษณุโลก",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดงประคํา",
+      "district": "พรหมพิราม",
+      "id": "a8ee2c2703ac5859bdd92218",
+      "maskedId": "165xxxxxx9496",
+      "name": "สุนิศา ธัญญารักษ์",
+      "province": "พิษณุโลก",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

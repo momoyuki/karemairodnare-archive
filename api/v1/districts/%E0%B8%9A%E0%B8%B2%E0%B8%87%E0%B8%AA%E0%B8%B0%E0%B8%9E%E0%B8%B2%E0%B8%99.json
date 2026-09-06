@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "บางสะพาน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางสะพาน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ร่อนทอง",
+      "district": "บางสะพาน",
+      "id": "2fadc76156250e47ddcda53e",
+      "maskedId": "180xxxxxx8725",
+      "name": "ดาราพร รัตนสุวรรณ",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลกําเนิดนพคุณ",
+      "district": "บางสะพาน",
+      "id": "aa05ddd6ab19917ae63d8a62",
+      "maskedId": "172xxxxxx7451",
+      "name": "นิธิพัทธ์ ม่วงศิริ",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธงชัย",
+      "district": "บางสะพาน",
+      "id": "672a367468e7125d68820e2e",
+      "maskedId": "396xxxxxx3692",
+      "name": "พีรภาว์ เพ็ชรสุวรรณ",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B9%8C-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่รำพึง",
+      "district": "บางสะพาน",
+      "id": "5ec7360de4d400321566158b",
+      "maskedId": "177xxxxxx5945",
+      "name": "สุชารดี ชื่นมะโน",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B5-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A1%E0%B8%B0%E0%B9%82%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

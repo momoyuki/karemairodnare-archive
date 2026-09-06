@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.ราชสถิตย์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ราชสถิตย์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ราชสถิตย์",
+      "district": "ไชโย",
+      "id": "86a49ed9e87a8d7139b26cc2",
+      "maskedId": "115xxxxxx1257",
+      "name": "พลยุทธ ฮวบเจริญ",
+      "province": "อ่างทอง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%AE%E0%B8%A7%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ราชสถิตย์",
+      "district": "ไชโย",
+      "id": "bd13fe70b869625eef4ed19d",
+      "maskedId": "110xxxxxx7401",
+      "name": "สิริพรรณ ไกรทัต",
+      "province": "อ่างทอง",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "_meta": {
+    "count": 24,
+    "kind": "province",
+    "name": "มหาสารคาม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "มหาสารคาม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองปลิง",
+      "district": "เมืองมหาสารคาม",
+      "id": "a1cb53af7a92caefa87260a9",
+      "maskedId": "117xxxxxx3573",
+      "name": "กฤติยาภรณ์ เทียนบาง",
+      "province": "มหาสารคาม",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองปลิง",
+      "district": "เมืองมหาสารคาม",
+      "id": "1bae30d265bed34d4b5f095a",
+      "maskedId": "172xxxxxx7639",
+      "name": "กุลิสรา เที่ยงธรรม",
+      "province": "มหาสารคาม",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บรบือ",
+      "district": "บรบือ",
+      "id": "e48ad695edd4e6d8391af28e",
+      "maskedId": "140xxxxxx5671",
+      "name": "จรินทร์ เครือชารี",
+      "province": "มหาสารคาม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองแสง",
+      "district": "วาปีปทุม",
+      "id": "5c3672e26d5f828336de6c9f",
+      "maskedId": "340xxxxxx4572",
+      "name": "จันทิมา พรมภักดี",
+      "province": "มหาสารคาม",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองกุง",
+      "district": "นาเชือก",
+      "id": "3ee46551fbe0c1048aac276a",
+      "maskedId": "145xxxxxx1256",
+      "name": "ชลิตา สว่างชุม",
+      "province": "มหาสารคาม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองกุง",
+      "district": "แกดำ",
+      "id": "144bc48ae5a70c2e5bf5d068",
+      "maskedId": "131xxxxxx7297",
+      "name": "ญาณิศา โกตถา",
+      "province": "มหาสารคาม",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B9%82%E0%B8%81%E0%B8%95%E0%B8%96%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านหวาย",
+      "district": "วาปีปทุม",
+      "id": "7e672299fa3cf34212a176b2",
+      "maskedId": "140xxxxxx4955",
+      "name": "ธนวิชญ์ จารุชาต",
+      "province": "มหาสารคาม",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%95",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองกุง",
+      "district": "แกดำ",
+      "id": "845959ff905dd84f3cea324d",
+      "maskedId": "134xxxxxx9500",
+      "name": "ธรรมชาติ ศรีพรหม",
+      "province": "มหาสารคาม",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ท่าสองคอน",
+      "district": "เมืองมหาสารคาม",
+      "id": "725cfd4be626b3c6052ce09a",
+      "maskedId": "140xxxxxx0413",
+      "name": "ธิดารัตน์ นามวงษ์",
+      "province": "มหาสารคาม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขวา",
+      "district": "เมืองมหาสารคาม",
+      "id": "505cbe68a96463a7da2b5853",
+      "maskedId": "331xxxxxx9053",
+      "name": "น้ําผึ้ง เชียงแสน",
+      "province": "มหาสารคาม",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87-%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบรบือ",
+      "district": "บรบือ",
+      "id": "96d5ae7befc6bd5cf4368deb",
+      "maskedId": "140xxxxxx3712",
+      "name": "ปรีณนุช ทุยเวียง",
+      "province": "มหาสารคาม",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%93%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%97%E0%B8%B8%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บัวมาศ",
+      "district": "บรบือ",
+      "id": "e22e79bbaeb334e57af388fc",
+      "maskedId": "132xxxxxx9658",
+      "name": "ภัสรวรรณ บุญเต็ม",
+      "province": "มหาสารคาม",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองสิม",
+      "district": "บรบือ",
+      "id": "f8e7c187fa0ac48ecfc99a17",
+      "maskedId": "140xxxxxx2531",
+      "name": "มัฌฌิมา กล่อมใจ",
+      "province": "มหาสารคาม",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%8C%E0%B8%8C%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองสิม",
+      "district": "บรบือ",
+      "id": "b879826acd07113232d0af9f",
+      "maskedId": "149xxxxxx1769",
+      "name": "วริช ทองเพิ่ม",
+      "province": "มหาสารคาม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%8A-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เสือโก้ก",
+      "district": "วาปีปทุม",
+      "id": "8028d5bffd8d63606e9951f9",
+      "maskedId": "135xxxxxx3433",
+      "name": "วัชรา รัตนศรี",
+      "province": "มหาสารคาม",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนแดง",
+      "district": "บรบือ",
+      "id": "c939c69ec403449847035500",
+      "maskedId": "140xxxxxx7361",
+      "name": "วัชราภรณ์ โนนวงษา",
+      "province": "มหาสารคาม",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลกู่ทอง",
+      "district": "เชียงยืน",
+      "id": "2008846fe9d48b177d42108f",
+      "maskedId": "145xxxxxx6458",
+      "name": "วีระภัทร์ วงศ์พานิชย์",
+      "province": "มหาสารคาม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโกสุมพิสัย",
+      "district": "โกสุมพิสัย",
+      "id": "b8bbaf55f1cad1a1968e9ba4",
+      "maskedId": "144xxxxxx2162",
+      "name": "ศุภกิตติ์ ทับพิมพ์แสน",
+      "province": "มหาสารคาม",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B9%8C-%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองไผ่",
+      "district": "นาดูน",
+      "id": "6f75a87fe87b6461856f92a9",
+      "maskedId": "144xxxxxx2471",
+      "name": "ศุภลักษณ์ เณนาคะ",
+      "province": "มหาสารคาม",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%93%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B0",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองกุง",
+      "district": "แกดำ",
+      "id": "7cae12c9df298c0a914d4c50",
+      "maskedId": "133xxxxxx3964",
+      "name": "สตรีรัตน์ บุญจันทร์",
+      "province": "มหาสารคาม",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.สันป่าตอง",
+      "district": "นาเชือก",
+      "id": "b1470f8d48b75aee5ee1abe8",
+      "maskedId": "144xxxxxx4106",
+      "name": "สมฤทัย ห่านคำวงษ์",
+      "province": "มหาสารคาม",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%A4%E0%B8%97%E0%B8%B1%E0%B8%A2-%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B3%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สันป่าตอง",
+      "district": "นาเชือก",
+      "id": "d2f1255281797f400c36761d",
+      "maskedId": "144xxxxxx6408",
+      "name": "สุพัตรา แก้วบุตรสา",
+      "province": "มหาสารคาม",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แห่ใต้",
+      "district": "โกสุมพิสัย",
+      "id": "25312e4e317c426ddabaa178",
+      "maskedId": "130xxxxxx7131",
+      "name": "อนุพงศ์ จงสุข",
+      "province": "มหาสารคาม",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%88%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เหล่า",
+      "district": "โกสุมพิสัย",
+      "id": "ad86d7a205addf1eefb58fbb",
+      "maskedId": "144xxxxxx2056",
+      "name": "ไกรวิชญ์ ภามี",
+      "province": "มหาสารคาม",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "32_มหาสารคาม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%A0%E0%B8%B2%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

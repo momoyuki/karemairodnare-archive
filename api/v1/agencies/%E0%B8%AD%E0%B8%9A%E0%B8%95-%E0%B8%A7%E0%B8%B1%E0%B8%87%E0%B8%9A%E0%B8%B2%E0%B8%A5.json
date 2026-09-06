@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.วังบาล",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-วังบาล",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังบาล",
+      "district": "หล่มเก่า",
+      "id": "685aa565a766a87898d3a653",
+      "maskedId": "167xxxxxx7308",
+      "name": "พิพัฒน์ พรรณา",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังบาล",
+      "district": "หล่มเก่า",
+      "id": "d7ab9d9e1903d290ddf31a36",
+      "maskedId": "136xxxxxx9010",
+      "name": "สุทธิดา กกกนทา",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%81%E0%B8%81%E0%B8%81%E0%B8%99%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังบาล",
+      "district": "หล่มเก่า",
+      "id": "96a8e5c5accdd78aa7cf11ba",
+      "maskedId": "140xxxxxx4075",
+      "name": "อนันตวัฒน์ ขันเงิน",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังบาล",
+      "district": "หล่มเก่า",
+      "id": "6a370a396642df603e19b200",
+      "maskedId": "151xxxxxx4061",
+      "name": "เจนจิรา คําเส็ดสัก",
+      "province": "เพชรบูรณ์",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "54_เพชรบูรณ์.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B9%87%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

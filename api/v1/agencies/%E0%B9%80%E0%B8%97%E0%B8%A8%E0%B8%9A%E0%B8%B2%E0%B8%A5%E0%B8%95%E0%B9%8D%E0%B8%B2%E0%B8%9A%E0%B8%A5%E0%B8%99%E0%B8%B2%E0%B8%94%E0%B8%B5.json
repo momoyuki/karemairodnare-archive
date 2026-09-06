@@ -1,0 +1,320 @@
+{
+  "_meta": {
+    "count": 18,
+    "kind": "agency",
+    "name": "เทศบาลตําบลนาดี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตําบลนาดี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "สุวรรณคูหา",
+      "id": "cb713bfbdf07d60948f8bce2",
+      "maskedId": "141xxxxxx0119",
+      "name": "กีรติ ขยันกิจ",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B5%E0%B8%A3%E0%B8%95%E0%B8%B4-%E0%B8%82%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "0d471b967688a60511e4b74b",
+      "maskedId": "110xxxxxx9917",
+      "name": "ณัชชา คุ้มคุณ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "315be46c109770d92045b5f7",
+      "maskedId": "170xxxxxx3540",
+      "name": "ณัฐพงศ์ นิลยาภรณ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "12489a382f0939b928fc2318",
+      "maskedId": "225xxxxxx4736",
+      "name": "ทับทิม ปานดํา",
+      "province": "สมุทรสาคร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "d9b55626ce4055baad30202d",
+      "maskedId": "126xxxxxx5691",
+      "name": "ธนาภรณ์ นิคมเวทย์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "ab1cd1eae1832b98fe98900c",
+      "maskedId": "170xxxxxx5085",
+      "name": "ธิดา หาญโยธิน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AB%E0%B8%B2%E0%B8%8D%E0%B9%82%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "f036880c0a1e6494e128d4c6",
+      "maskedId": "140xxxxxx8066",
+      "name": "ธีระยุทธ ศรีชมชื่น",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "bb2ff668c531a3e3e2482cc0",
+      "maskedId": "130xxxxxx1053",
+      "name": "นันทิวา สุภาพวิมล",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "5d8c2ea44e26ff10ff6bc881",
+      "maskedId": "170xxxxxx2902",
+      "name": "บุศรารัตน์ บัวงาม",
+      "province": "สมุทรสาคร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "1318cdf927ab17eb247091c2",
+      "maskedId": "130xxxxxx1944",
+      "name": "พลอยชมพู กลางขอนนอก",
+      "province": "สมุทรสาคร",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9-%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "4e405f5223748d296b79163a",
+      "maskedId": "170xxxxxx5724",
+      "name": "ภัทร นาลัย",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%99%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "7a084c22f09cffeb92cb2421",
+      "maskedId": "176xxxxxx1603",
+      "name": "รัตนาภรณ์ ผ่องภักต์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "2efe174977b7036d0c28e135",
+      "maskedId": "170xxxxxx4783",
+      "name": "วาริน ศรสาย",
+      "province": "สมุทรสาคร",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%99-%E0%B8%A8%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "นาดี",
+      "id": "83c34a1343d8654399103755",
+      "maskedId": "110xxxxxx4255",
+      "name": "สรกฤช คงสนทนา",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%8A-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "b4d96644cd3f5118a4ba1339",
+      "maskedId": "376xxxxxx4025",
+      "name": "สุธาวัลย์ สีรุ้ง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B5%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "796efd97946a11b5f3a692c8",
+      "maskedId": "174xxxxxx6661",
+      "name": "สุมาลี มากรุ่งแจ้ง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B5-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "111d242056999b59b05793a3",
+      "maskedId": "110xxxxxx6376",
+      "name": "เจริญขวัญ ศักดิ์โกมลพิทักษ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลนาดี",
+      "district": "เมืองสมุทรสาคร",
+      "id": "490b4c230cfe60eaf1dc190e",
+      "maskedId": "177xxxxxx6452",
+      "name": "ไกรวิชญ์ ผาดศรี",
+      "province": "สมุทรสาคร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%9C%E0%B8%B2%E0%B8%94%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

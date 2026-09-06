@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "บ้านโพธิ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บ้านโพธิ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลบ้านโพธิ์",
+      "district": "บ้านโพธิ์",
+      "id": "6cff19c61557dee40ecfb267",
+      "maskedId": "196xxxxxx2684",
+      "name": "ชวนากร มะยายอ",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%A1%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AD",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลแสนภูดาษ",
+      "district": "บ้านโพธิ์",
+      "id": "432426892603f549980f7a57",
+      "maskedId": "170xxxxxx9658",
+      "name": "นันทวรรณ ชีววิญญู",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%A7%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองบ้านโพธิ์",
+      "district": "บ้านโพธิ์",
+      "id": "e1f4238017b012b6e7753817",
+      "maskedId": "131xxxxxx8984",
+      "name": "นิภาพร อินสุข",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนทราย",
+      "district": "บ้านโพธิ์",
+      "id": "4d47a05f44b52ac63ab5e836",
+      "maskedId": "111xxxxxx3194",
+      "name": "ภัทราพร พลายเถื่อน",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านโพธิ์",
+      "district": "บ้านโพธิ์",
+      "id": "37662d5a232e65feb385e36f",
+      "maskedId": "370xxxxxx5933",
+      "name": "รสิตาวรรณ ปรักมานนท์",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองตีนนก",
+      "district": "บ้านโพธิ์",
+      "id": "afeb15b549dfd2600011908b",
+      "maskedId": "111xxxxxx9982",
+      "name": "ศศิวิมล รักษาภัย",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

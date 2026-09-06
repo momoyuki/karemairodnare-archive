@@ -1,0 +1,609 @@
+{
+  "_meta": {
+    "count": 35,
+    "kind": "province",
+    "name": "ลำปาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ลำปาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "897df0d23325e9ebf073eca4",
+      "maskedId": "151xxxxxx8717",
+      "name": "กนกพร สิทธิชุม",
+      "province": "ลำปาง",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเขลางค์นคร",
+      "district": "เมืองลำปาง",
+      "id": "bca64ab134995ab760aa816e",
+      "maskedId": "190xxxxxx3549",
+      "name": "กรชนก ช่วยเล็ก",
+      "province": "ลำปาง",
+      "scoreChange": 4,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "9bf44efc8a163973720454d7",
+      "maskedId": "154xxxxxx3911",
+      "name": "กฤษณะพล จิณะโสต",
+      "province": "ลำปาง",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%B0%E0%B8%9E%E0%B8%A5-%E0%B8%88%E0%B8%B4%E0%B8%93%E0%B8%B0%E0%B9%82%E0%B8%AA%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สบป้าด",
+      "district": "แม่เมาะ",
+      "id": "5b2ab124cde2865b3bb3635d",
+      "maskedId": "362xxxxxx2891",
+      "name": "จารุณี สีสุด",
+      "province": "ลำปาง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B8%AA%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านกิ่ว",
+      "district": "แม่ทะ",
+      "id": "22727038cce861bd979bd63c",
+      "maskedId": "154xxxxxx7435",
+      "name": "จิตรกร สุจิรังกุล",
+      "province": "ลำปาง",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "da842c45ea363e0d3ddf40e2",
+      "maskedId": "150xxxxxx6544",
+      "name": "ชนกภัทร กันทวี",
+      "province": "ลำปาง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%81%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านสา",
+      "district": "แจ้ห่ม",
+      "id": "4db3353a1b0667e8825d8800",
+      "maskedId": "150xxxxxx4740",
+      "name": "ชลสวัสดิ์ ตันรัตนกุล",
+      "province": "ลำปาง",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "7fe90c6f731b693f98fbae53",
+      "maskedId": "152xxxxxx4127",
+      "name": "ณัฐกรปภา มะโนสม",
+      "province": "ลำปาง",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%A3%E0%B8%9B%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%B0%E0%B9%82%E0%B8%99%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหลวงเหนือ",
+      "district": "งาว",
+      "id": "3d74d07a089a78a32a6fd6cc",
+      "maskedId": "150xxxxxx8354",
+      "name": "ณัฐชยา ดวงประเสริฐ",
+      "province": "ลำปาง",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%8A%E0%B8%A2%E0%B8%B2-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านหวด",
+      "district": "งาว",
+      "id": "2c3f86abf0acfba19521450c",
+      "maskedId": "150xxxxxx2894",
+      "name": "ณัฐชยา บุญมาตุ้ย",
+      "province": "ลำปาง",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%8A%E0%B8%A2%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านเอื้อม",
+      "district": "เมืองลำปาง",
+      "id": "fbc02ae2c5c376600b0d9b0a",
+      "maskedId": "140xxxxxx4433",
+      "name": "ณัฐฐาพร คํามูลมี",
+      "province": "ลำปาง",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%90%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลห้างฉัตร",
+      "district": "ห้างฉัตร",
+      "id": "525b52e186d0fe868b5dd25d",
+      "maskedId": "152xxxxxx2641",
+      "name": "ณัฐณิกา แก้วมาลา",
+      "province": "ลำปาง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่เมาะ",
+      "district": "แม่เมาะ",
+      "id": "3a205ba4a459b123ec17a642",
+      "maskedId": "167xxxxxx5811",
+      "name": "ณัฐธิดา แก้วโก",
+      "province": "ลำปาง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%82%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จางเหนือ",
+      "district": "แม่เมาะ",
+      "id": "45c686bfa58e66d207e807c8",
+      "maskedId": "160xxxxxx1992",
+      "name": "ณัฐพล อนรรฆนนท์",
+      "province": "ลำปาง",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%A3%E0%B8%86%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านขอ",
+      "district": "เมืองปาน",
+      "id": "ed79f50e629e94b382111dcd",
+      "maskedId": "158xxxxxx5684",
+      "name": "ตระกูล ชมภูใส",
+      "province": "ลำปาง",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B9%E0%B8%A5-%E0%B8%8A%E0%B8%A1%E0%B8%A0%E0%B8%B9%E0%B9%83%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บุญนาคพัฒนา",
+      "district": "เมืองลำปาง",
+      "id": "4666856840063bdf185018e7",
+      "maskedId": "152xxxxxx1335",
+      "name": "ทรงวุฒิ ยอดอินต๊ะ",
+      "province": "ลำปาง",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งงาม",
+      "district": "เสริมงาม",
+      "id": "cb716e31376258f403fe77db",
+      "maskedId": "152xxxxxx3424",
+      "name": "นิศารัตน์ จันทร์แก้ว",
+      "province": "ลำปาง",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สบป้าด",
+      "district": "แม่เมาะ",
+      "id": "c19773a291e1abab8fe229c2",
+      "maskedId": "110xxxxxx6750",
+      "name": "ประภาพร แช่มช้อย",
+      "province": "ลำปาง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B8%A1%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนไฟ",
+      "district": "แม่ทะ",
+      "id": "08e95ec95569dcb810405981",
+      "maskedId": "152xxxxxx1651",
+      "name": "ปาณิสรา ขุนพินิจ",
+      "province": "ลำปาง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาแส่ง",
+      "district": "เกาะคา",
+      "id": "01197d35dee24daccca47cf4",
+      "maskedId": "250xxxxxx7071",
+      "name": "ปิยะนัฐ คำสาย",
+      "province": "ลำปาง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%99%E0%B8%B1%E0%B8%90-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สบปราบ",
+      "district": "สบปราบ",
+      "id": "30cec13880ad0d12b7f5f57a",
+      "maskedId": "156xxxxxx0907",
+      "name": "พิมพ์ผกา จิตตะคำ",
+      "province": "ลำปาง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9C%E0%B8%81%E0%B8%B2-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B0%E0%B8%84%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปงดอน",
+      "district": "แจ้ห่ม",
+      "id": "701ee94615db4f4a5f911e84",
+      "maskedId": "152xxxxxx7504",
+      "name": "ภานุพงศ์ นันตาวัง",
+      "province": "ลำปาง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครลําปาง",
+      "district": "เมืองลำปาง",
+      "id": "754dcdf0527c07ebf698da07",
+      "maskedId": "155xxxxxx7383",
+      "name": "ภูริณัฐ เพชรวีระ",
+      "province": "ลำปาง",
+      "scoreChange": 7,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองปาน",
+      "district": "เมืองปาน",
+      "id": "5eb5846323b72085d423c08d",
+      "maskedId": "110xxxxxx8076",
+      "name": "มณฑิรา เสริมสิทธิพร",
+      "province": "ลำปาง",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังเงิน",
+      "district": "แม่ทะ",
+      "id": "486166ec7073faec3ecfaffa",
+      "maskedId": "151xxxxxx5817",
+      "name": "รัตติกาล อินต๊ะอุ่น",
+      "province": "ลำปาง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A5-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเวียงตาล",
+      "district": "ห้างฉัตร",
+      "id": "cf5da6f6c404e24407b74f1d",
+      "maskedId": "136xxxxxx1410",
+      "name": "วรากร ธรรมประกอบ",
+      "province": "ลำปาง",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "94ba7269db4c87750b94203a",
+      "maskedId": "134xxxxxx4459",
+      "name": "วัชรพงษ์ ชนะกุล",
+      "province": "ลำปาง",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นายาง",
+      "district": "สบปราบ",
+      "id": "7dc13ffa7c9db6a93695c733",
+      "maskedId": "154xxxxxx0465",
+      "name": "ศิริวรรณ ศรีวงค์",
+      "province": "ลำปาง",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ร่องเคาะ",
+      "district": "วังเหนือ",
+      "id": "7a720cd445baf48761beae3f",
+      "maskedId": "150xxxxxx6979",
+      "name": "ศุภกิตติ์ มูลธร",
+      "province": "ลำปาง",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B9%8C-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%98%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครลําปาง",
+      "district": "เมืองลำปาง",
+      "id": "c2ac69260e667ec70c003c36",
+      "maskedId": "151xxxxxx1451",
+      "name": "ศุภลักษณ์ มูลสม",
+      "province": "ลำปาง",
+      "scoreChange": 3,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลต้นธงชัย",
+      "district": "เมืองลำปาง",
+      "id": "930f52beddadbfc2b1b6e1bf",
+      "maskedId": "152xxxxxx8667",
+      "name": "สุธิดา โพธิ์ทอง",
+      "province": "ลำปาง",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บุญนาคพัฒนา",
+      "district": "เมืองลำปาง",
+      "id": "d6febda3a289a0ee339d9d00",
+      "maskedId": "355xxxxxx6103",
+      "name": "สุวิชา อ้อพิมาย",
+      "province": "ลำปาง",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสริมขวา",
+      "district": "เสริมงาม",
+      "id": "be3738b0e22a95537a3889e3",
+      "maskedId": "150xxxxxx3426",
+      "name": "อนุชา ใจยอง",
+      "province": "ลำปาง",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%B2-%E0%B9%83%E0%B8%88%E0%B8%A2%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เมืองมาย",
+      "district": "แจ้ห่ม",
+      "id": "9709d9c4068c94f5d8b244fc",
+      "maskedId": "156xxxxxx9677",
+      "name": "อันธิกา ฝันนิมิตร",
+      "province": "ลำปาง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ลําปาง",
+      "district": "เกาะคา",
+      "id": "9c6ad71611d82f29443b8b29",
+      "maskedId": "152xxxxxx0231",
+      "name": "เอื้อการย์ ปันศรี",
+      "province": "ลำปาง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "40_ลำปาง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

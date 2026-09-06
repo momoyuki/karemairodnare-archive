@@ -1,0 +1,1561 @@
+{
+  "_meta": {
+    "count": 91,
+    "kind": "province",
+    "name": "สระบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สระบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองจิก",
+      "district": "หนองแค",
+      "id": "5b4c8d8022ee10faea2cc97a",
+      "maskedId": "110xxxxxx6193",
+      "name": "กนกภรณ์ แสงทา",
+      "province": "สระบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลมวกเหล็ก",
+      "district": "มวกเหล็ก",
+      "id": "03ca5c153cf420fb75cf628b",
+      "maskedId": "132xxxxxx5995",
+      "name": "กนกวรรณ พิศิลป์",
+      "province": "สระบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลไผ่ต่ำ",
+      "district": "หนองแค",
+      "id": "482f57effd060d93a6828e6d",
+      "maskedId": "142xxxxxx1305",
+      "name": "กมลทิพย์ ส้านสิงห์",
+      "province": "สระบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองแก",
+      "district": "พระพุทธบาท",
+      "id": "ec014ea28c6497415c6bd284",
+      "maskedId": "147xxxxxx9222",
+      "name": "กมลนาถ แดนราช",
+      "province": "สระบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.กุ่มหัก",
+      "district": "หนองแค",
+      "id": "b7990ac717e7e35683c4d622",
+      "maskedId": "110xxxxxx8871",
+      "name": "กฤษฎา ยืนยงค์",
+      "province": "สระบุรี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มิตรภาพ",
+      "district": "มวกเหล็ก",
+      "id": "1586763fd4d5f8ac34fd2ad2",
+      "maskedId": "133xxxxxx8076",
+      "name": "กิตติทัศน์ แซ่ตัง",
+      "province": "สระบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เขาดินพัฒนา",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "34bf3c66d3dd9bcee18a7e39",
+      "maskedId": "144xxxxxx0919",
+      "name": "จารุณี เกียนนอก",
+      "province": "สระบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มวกเหล็ก",
+      "district": "มวกเหล็ก",
+      "id": "8a6c283406d62f6c4be2d94d",
+      "maskedId": "130xxxxxx9299",
+      "name": "จารุวรรณ เถื่อนกลาง",
+      "province": "สระบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองแก่งคอย",
+      "district": "แก่งคอย",
+      "id": "a17719d5f98274693920b391",
+      "maskedId": "130xxxxxx4014",
+      "name": "จุฑาทิพย์ หรั่งทองหลาง",
+      "province": "สระบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองย่างเสือ",
+      "district": "มวกเหล็ก",
+      "id": "ee10945012d001b1c283daa0",
+      "maskedId": "147xxxxxx8016",
+      "name": "จุฑาพร วงศ์กาฬสินธุ์",
+      "province": "สระบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สองคอน",
+      "district": "แก่งคอย",
+      "id": "7e726960e11be1f8f42802f1",
+      "maskedId": "230xxxxxx4981",
+      "name": "จุฬีรัตน์ ธรรมมานอก",
+      "province": "สระบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลกุดนกเปล้า",
+      "district": "เมืองสระบุรี",
+      "id": "73855c38ff7fd819bf4a06de",
+      "maskedId": "195xxxxxx5483",
+      "name": "ฉัตรธิภา จันทร์โสภา",
+      "province": "สระบุรี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%98%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสวนดอกไม้",
+      "district": "เสาไห้",
+      "id": "a0fa620bed327133dde617a9",
+      "maskedId": "119xxxxxx7946",
+      "name": "ชนาธิป ฉาวเกียรติ",
+      "province": "สระบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B8%89%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาดินพัฒนา",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "12a7aa32f5e9a23e734281bb",
+      "maskedId": "112xxxxxx0839",
+      "name": "ชนาภา ทัดชัง",
+      "province": "สระบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%97%E0%B8%B1%E0%B8%94%E0%B8%8A%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พุคําจาน",
+      "district": "พระพุทธบาท",
+      "id": "2fbe4a8ac24c1427653008ca",
+      "maskedId": "112xxxxxx7354",
+      "name": "ชลาลัย ศรีสุข",
+      "province": "สระบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแก้ง",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "d687a856a65ba96fe06831ef",
+      "maskedId": "144xxxxxx0382",
+      "name": "ชิตณรงค์ ทองจิตร",
+      "province": "สระบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เขาวง",
+      "district": "พระพุทธบาท",
+      "id": "783f661e9a71e84e7ae2ee89",
+      "maskedId": "113xxxxxx6991",
+      "name": "ชินท์ณภัทร ปริยสกุล",
+      "province": "สระบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลแสลงพัน",
+      "district": "วังม่วง",
+      "id": "e82ec548230103e821611bf8",
+      "maskedId": "156xxxxxx5667",
+      "name": "ณัฏฐธิดา วงค์แพทย์",
+      "province": "สระบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชําผักแพว",
+      "district": "แก่งคอย",
+      "id": "9e0839fa7533028de10a9d1d",
+      "maskedId": "171xxxxxx4901",
+      "name": "ณัฐธิดา นิยมพลอย",
+      "province": "สระบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชะอม",
+      "district": "แก่งคอย",
+      "id": "4c42f631afc3a8fb10a21a78",
+      "maskedId": "110xxxxxx9448",
+      "name": "ณัฐพงษ์ เข็มเวียง",
+      "province": "สระบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองปลาไหล",
+      "district": "เมืองสระบุรี",
+      "id": "c76556ec293f60f78ba82428",
+      "maskedId": "119xxxxxx4495",
+      "name": "ดรุณี ทิวาวงศ์",
+      "province": "สระบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองย่างเสือ",
+      "district": "มวกเหล็ก",
+      "id": "02294f35a5094c5b51da416f",
+      "maskedId": "110xxxxxx6551",
+      "name": "ดารากูล ทวิวงศ์ไพบูลย์",
+      "province": "สระบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B9%E0%B8%A5-%E0%B8%97%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%84%E0%B8%9E%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลดอนพุด",
+      "district": "ดอนพุด",
+      "id": "24da62a4aee0068a11a3240f",
+      "maskedId": "140xxxxxx6831",
+      "name": "ดาริณ สุขเกษมวัฒนา",
+      "province": "สระบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%93-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกแย้",
+      "district": "หนองแค",
+      "id": "e3fbc564c7f1bb8bb1ba97c0",
+      "maskedId": "113xxxxxx8366",
+      "name": "ทัศนีวรรณ แสงงิ้ว",
+      "province": "สระบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B8%B5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%87%E0%B8%B4%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองย่างเสือ",
+      "district": "มวกเหล็ก",
+      "id": "7964c0528090a8c93df32b1c",
+      "maskedId": "112xxxxxx4128",
+      "name": "ทัศวรรษ เมินขุนทด",
+      "province": "สระบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%A9-%E0%B9%80%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หน้าพระลาน",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "34d767b58b2dadd35ba401ea",
+      "maskedId": "110xxxxxx1337",
+      "name": "ธนพัทธ์ ธนะทรัพย์ทอง",
+      "province": "สระบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%98%E0%B8%99%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินซ้อน",
+      "district": "แก่งคอย",
+      "id": "9c8848a5af99af7c818b4892",
+      "maskedId": "140xxxxxx1489",
+      "name": "ธนโชติ พรธีรานนท์",
+      "province": "สระบุรี",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4-%E0%B8%9E%E0%B8%A3%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาวง",
+      "district": "พระพุทธบาท",
+      "id": "1182a55f864aee6e73d44718",
+      "maskedId": "119xxxxxx9599",
+      "name": "ธัญรัตน์ ท้าวหลวง",
+      "province": "สระบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านลำ",
+      "district": "วิหารแดง",
+      "id": "989d1d4717219bc48a5c46c8",
+      "maskedId": "110xxxxxx7665",
+      "name": "ธันวา สีดวงแก้ว",
+      "province": "สระบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองปลิง",
+      "district": "หนองแค",
+      "id": "7b82d5abab81aa041dd258db",
+      "maskedId": "140xxxxxx1497",
+      "name": "ธีรพงษ์ คงบัว",
+      "province": "สระบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ชะอม",
+      "district": "แก่งคอย",
+      "id": "7f663230b84ba3204d83e757",
+      "maskedId": "180xxxxxx2562",
+      "name": "ธีรภัทร ราชกิจจา",
+      "province": "สระบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%88%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป๊อกแป๊ก",
+      "district": "เมืองสระบุรี",
+      "id": "f8ec03e8fb7e1a5e11d86a58",
+      "maskedId": "119xxxxxx3252",
+      "name": "นครินทร์ กำเนิดชาติ",
+      "province": "สระบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านลำ",
+      "district": "วิหารแดง",
+      "id": "8902f05899e14731d9e26c15",
+      "maskedId": "330xxxxxx8690",
+      "name": "นภัสนันท์ จิรกัณฑ์พสิษฐ์",
+      "province": "สระบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%9E%E0%B8%AA%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป๊อกแป๊ก",
+      "district": "เมืองสระบุรี",
+      "id": "c2731f82a135567698d0a587",
+      "maskedId": "119xxxxxx5421",
+      "name": "นฤมล แสงจันทร์",
+      "province": "สระบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองหมู",
+      "district": "วิหารแดง",
+      "id": "d87ec24a9e05819f8733c71b",
+      "maskedId": "119xxxxxx2772",
+      "name": "นันทพงศ์ ยอดจันทร์",
+      "province": "สระบุรี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลตลาดน้อย",
+      "district": "บ้านหมอ",
+      "id": "e1ff32fa456a500810736bc6",
+      "maskedId": "172xxxxxx0829",
+      "name": "นิธิพจน์ สีถันธนานนท์",
+      "province": "สระบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B5%E0%B8%96%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองหมู",
+      "district": "วิหารแดง",
+      "id": "b2bd9a962a484464c72ba29d",
+      "maskedId": "110xxxxxx1708",
+      "name": "บุษบา ชาวเขารักษ์",
+      "province": "สระบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%9A%E0%B8%B2-%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองแก",
+      "district": "พระพุทธบาท",
+      "id": "1feae4d1738e8f53413fc36b",
+      "maskedId": "146xxxxxx7974",
+      "name": "ปณิตา อยู่พิทักษ์สกุล",
+      "province": "สระบุรี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.มิตรภาพ",
+      "district": "มวกเหล็ก",
+      "id": "746c749daf1a035ceb73d5ae",
+      "maskedId": "134xxxxxx1741",
+      "name": "ปิยาพร วงศ์คูณ",
+      "province": "สระบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%84%E0%B8%B9%E0%B8%93",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบจ.สระบุรี",
+      "district": "เมืองสระบุรี",
+      "id": "6fc06aec5509b53571d9484d",
+      "maskedId": "133xxxxxx6616",
+      "name": "ปุณิดา พรมสุข",
+      "province": "สระบุรี",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชะอม",
+      "district": "แก่งคอย",
+      "id": "14fdb70dd0ebe2b2902bc2a9",
+      "maskedId": "110xxxxxx7634",
+      "name": "พนิดา ทองศฤงคลี",
+      "province": "สระบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%A4%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลกุดนกเปล้า",
+      "district": "เมืองสระบุรี",
+      "id": "c1903c218e9d1b6d3724b239",
+      "maskedId": "110xxxxxx6852",
+      "name": "พรพิชชา อ่อนพันธุ์",
+      "province": "สระบุรี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหินกอง",
+      "district": "หนองแค",
+      "id": "b9ca18e283029858e0921467",
+      "maskedId": "119xxxxxx5996",
+      "name": "พัชรีวรรณ มีแสง",
+      "province": "สระบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบจ.สระบุรี",
+      "district": "เมืองสระบุรี",
+      "id": "b832276b9429b151129e5002",
+      "maskedId": "130xxxxxx3712",
+      "name": "พิชญา ศิริพันธุ์",
+      "province": "สระบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหน้าพระลาน",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "4bb249e6a952da208e8d6b6f",
+      "maskedId": "112xxxxxx0657",
+      "name": "พิเชษฐ อดุลรัตนไพร",
+      "province": "สระบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%A9%E0%B8%90-%E0%B8%AD%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%84%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเสาไห้",
+      "district": "เสาไห้",
+      "id": "0e2fe7b7f8d7b225d19a056b",
+      "maskedId": "119xxxxxx3972",
+      "name": "พีรณัฏฐ์ คำพันธุ์",
+      "province": "สระบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B9%8C-%E0%B8%84%E0%B8%B3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตะกุด",
+      "district": "เมืองสระบุรี",
+      "id": "8717482763c4d61cc4430cff",
+      "maskedId": "119xxxxxx9244",
+      "name": "ภราดร กลางอรัญ",
+      "province": "สระบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A3%E0%B8%B2%E0%B8%94%E0%B8%A3-%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลตลาดน้อย",
+      "district": "บ้านหมอ",
+      "id": "230655c5bc0b23a4baa00974",
+      "maskedId": "130xxxxxx7152",
+      "name": "ภัทธมณ สวนสระน้อย",
+      "province": "สระบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%A1%E0%B8%93-%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกแย้",
+      "district": "หนองแค",
+      "id": "e195f8d4e6f327d4b384a50a",
+      "maskedId": "142xxxxxx8877",
+      "name": "ภัสสิตา เชื้อตาหมื่น",
+      "province": "สระบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%95%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุ่มหัก",
+      "district": "หนองแค",
+      "id": "24d34508df64b0f520775a04",
+      "maskedId": "113xxxxxx4937",
+      "name": "ภานุศิษฏ์ ธรรมสุธีร์",
+      "province": "สระบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%A8%E0%B8%B4%E0%B8%A9%E0%B8%8F%E0%B9%8C-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองแก่งคอย",
+      "district": "แก่งคอย",
+      "id": "d9232b599b60a2e6fa4ab0b0",
+      "maskedId": "132xxxxxx3196",
+      "name": "ภูมินทร์ สายลุน",
+      "province": "สระบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B8%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พุคําจาน",
+      "district": "พระพุทธบาท",
+      "id": "1bdc141eaa9c56accec415e2",
+      "maskedId": "110xxxxxx5180",
+      "name": "ภูวดล แผนจันทึก",
+      "province": "สระบุรี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A7%E0%B8%94%E0%B8%A5-%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองไข่น้ำ",
+      "district": "หนองแค",
+      "id": "ceac4334318f856cff5927f5",
+      "maskedId": "110xxxxxx9082",
+      "name": "มลธิรา จั่นทอง",
+      "province": "สระบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลป๊อกแป๊ก",
+      "district": "เมืองสระบุรี",
+      "id": "e5fbd0c7bccb34eadaf687a2",
+      "maskedId": "167xxxxxx9093",
+      "name": "มินตรา แสงรัตน์",
+      "province": "สระบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองหมู",
+      "district": "วิหารแดง",
+      "id": "b336456186b6ee8d19212e16",
+      "maskedId": "116xxxxxx9642",
+      "name": "ยลดา เจ๊กกลัด",
+      "province": "สระบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%81%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สองคอน",
+      "district": "แก่งคอย",
+      "id": "5006673b7cfd218708f98b68",
+      "maskedId": "131xxxxxx7216",
+      "name": "รติชา เกษมปุญญวรากุล",
+      "province": "สระบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%9B%E0%B8%B8%E0%B8%8D%E0%B8%8D%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลตะกุด",
+      "district": "เมืองสระบุรี",
+      "id": "4022afc5f09f450e8e11a7bd",
+      "maskedId": "146xxxxxx4720",
+      "name": "รัชดาวรรณ์ โชติบุญ",
+      "province": "สระบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินซ้อน",
+      "district": "แก่งคอย",
+      "id": "6fb0dfbcd6258e3d2efef70c",
+      "maskedId": "148xxxxxx1849",
+      "name": "วนัสนันท์ อุสันสา",
+      "province": "สระบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AD%E0%B8%B8%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวังม่วง",
+      "district": "วังม่วง",
+      "id": "533528980096105e2181a899",
+      "maskedId": "116xxxxxx5261",
+      "name": "วรวิทย์ ทองกล่ำ",
+      "province": "สระบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกแย้",
+      "district": "หนองแค",
+      "id": "6c8c71c059fb660ac4f37b8e",
+      "maskedId": "110xxxxxx4064",
+      "name": "วันชัย มหาโคตร",
+      "province": "สระบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาวง",
+      "district": "พระพุทธบาท",
+      "id": "366dd769bf42eb8e63a7df9a",
+      "maskedId": "180xxxxxx9833",
+      "name": "วัลลญา ห้องเม่ง",
+      "province": "สระบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%8D%E0%B8%B2-%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองแก่งคอย",
+      "district": "แก่งคอย",
+      "id": "d0f18a448c4ff66846b30d76",
+      "maskedId": "131xxxxxx3096",
+      "name": "วิชญ์สินี มุนิลธรณ์",
+      "province": "สระบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%98%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองแก",
+      "district": "พระพุทธบาท",
+      "id": "349dae3427476b5135984e06",
+      "maskedId": "130xxxxxx9431",
+      "name": "วิภาวรรณ วินฉิมพลี",
+      "province": "สระบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.หนองย่างเสือ",
+      "district": "มวกเหล็ก",
+      "id": "df5a9bbcb4d8f52e28323ab3",
+      "maskedId": "134xxxxxx8607",
+      "name": "วิมลสิริ โคจรโรจน์",
+      "province": "สระบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B9%82%E0%B8%84%E0%B8%88%E0%B8%A3%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสระบุรี",
+      "district": "เมืองสระบุรี",
+      "id": "604daa1df538d4527e11fce2",
+      "maskedId": "119xxxxxx7722",
+      "name": "ศุภามาศ ทิพยเศวต",
+      "province": "สระบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%80%E0%B8%A8%E0%B8%A7%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านลำ",
+      "district": "วิหารแดง",
+      "id": "cd42845ec9e5c354c1cc8438",
+      "maskedId": "326xxxxxx2281",
+      "name": "สนิษา สีไข่มุกข์",
+      "province": "สระบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%A1%E0%B8%B8%E0%B8%81%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสระบุรี",
+      "district": "เมืองสระบุรี",
+      "id": "57cd97d372c4a0e9e3f8954f",
+      "maskedId": "110xxxxxx2807",
+      "name": "สหรัฐ พัฒนะ",
+      "province": "สระบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%90-%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สระบุรี",
+      "district": "เมืองสระบุรี",
+      "id": "be10baf4475606e41486f120",
+      "maskedId": "172xxxxxx9371",
+      "name": "สามินี โมกกงจักร์",
+      "province": "สระบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B9%82%E0%B8%A1%E0%B8%81%E0%B8%81%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังม่วง",
+      "district": "วังม่วง",
+      "id": "c54cc7bae75b290e0c779b36",
+      "maskedId": "142xxxxxx1193",
+      "name": "สายใจ สุคงเจริญ",
+      "province": "สระบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%88-%E0%B8%AA%E0%B8%B8%E0%B8%84%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองแก่งคอย",
+      "district": "แก่งคอย",
+      "id": "7ee9cae75bd30220a91bc772",
+      "maskedId": "110xxxxxx9652",
+      "name": "สาวิณี ทองปราง",
+      "province": "สระบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองแขม",
+      "district": "หนองแค",
+      "id": "1bbc01a8b4a4cb4623c371ce",
+      "maskedId": "142xxxxxx0448",
+      "name": "สินีนาถ ชัยโยแสง",
+      "province": "สระบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%82%E0%B8%A2%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลตะกุด",
+      "district": "เมืองสระบุรี",
+      "id": "af635d1d2f16052f4638621f",
+      "maskedId": "110xxxxxx8441",
+      "name": "สุนันทา โพธิ์สุวรรณ์",
+      "province": "สระบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสร่างโศก",
+      "district": "บ้านหมอ",
+      "id": "e2e883075a8c3bb04c66c67b",
+      "maskedId": "119xxxxxx2093",
+      "name": "สุพัชชา บูรณศรี",
+      "province": "สระบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองแก่งคอย",
+      "district": "แก่งคอย",
+      "id": "eef389e03c2f0071c7468349",
+      "maskedId": "119xxxxxx5027",
+      "name": "สุภาพร เกษรทอง",
+      "province": "สระบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองแค",
+      "district": "หนองแค",
+      "id": "21ee41c78525238f3b0bb046",
+      "maskedId": "145xxxxxx1202",
+      "name": "สุมิสา ศรีสาคํา",
+      "province": "สระบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านลำ",
+      "district": "วิหารแดง",
+      "id": "8109c79093ebc79c3dd310f2",
+      "maskedId": "141xxxxxx4024",
+      "name": "สุริยน มงคลคําซาว",
+      "province": "สระบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%99-%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชําผักแพว",
+      "district": "แก่งคอย",
+      "id": "07b8b71cdb205bc2cf7460a4",
+      "maskedId": "141xxxxxx7828",
+      "name": "สุวัจน์ พิรุณทอง",
+      "province": "สระบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองแขม",
+      "district": "หนองแค",
+      "id": "4cb8ebe5caa369ad793b1e81",
+      "maskedId": "110xxxxxx0507",
+      "name": "อดิศักดิ์ สูงเนินหลง",
+      "province": "สระบุรี",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองแก",
+      "district": "พระพุทธบาท",
+      "id": "cdfcb24ba591e1caf45c9413",
+      "maskedId": "112xxxxxx2269",
+      "name": "อนุวัฒน์ แจ่มเหมือน",
+      "province": "สระบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.สองคอน",
+      "district": "แก่งคอย",
+      "id": "e12ab3bfd6091392a6eff974",
+      "maskedId": "130xxxxxx0932",
+      "name": "อมรรัตน์ ภูวนันท์นิจกุล",
+      "province": "สระบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C%E0%B8%99%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยขมิ้น",
+      "district": "หนองแค",
+      "id": "fd8b8bbb92a391fac1a33c43",
+      "maskedId": "319xxxxxx7792",
+      "name": "อรณิชชา อรุณเรืองดี",
+      "province": "สระบุรี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลหัวปลวก",
+      "district": "เสาไห้",
+      "id": "b81c78febfbeee7cf9768704",
+      "maskedId": "153xxxxxx8391",
+      "name": "อาทิตยา กุนทิพย์",
+      "province": "สระบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%81%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองหมู",
+      "district": "วิหารแดง",
+      "id": "02cf96041888f322bc1466db",
+      "maskedId": "119xxxxxx5017",
+      "name": "อารีรัตน์ กำลังวุธ",
+      "province": "สระบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%B8%E0%B8%98",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเมืองเก่า",
+      "district": "เสาไห้",
+      "id": "de2d35ddf5d7134a6e8866c0",
+      "maskedId": "130xxxxxx7995",
+      "name": "เกวลิณ ปิ่นสุวรรณ",
+      "province": "สระบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B8%93-%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เตาปูน",
+      "district": "แก่งคอย",
+      "id": "e969507aed1646826d5d65b9",
+      "maskedId": "140xxxxxx9063",
+      "name": "เขตต์ สีมาพล",
+      "province": "สระบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลหินกอง",
+      "district": "หนองแค",
+      "id": "bd1cb8d3911fcc2d4185eaab",
+      "maskedId": "345xxxxxx3658",
+      "name": "เครือวัลย์ พิลาทา",
+      "province": "สระบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ไก่เส่า",
+      "district": "หนองแซง",
+      "id": "976703365710ebd222687a8a",
+      "maskedId": "116xxxxxx7862",
+      "name": "เบญจวรรณ กล้วยดี",
+      "province": "สระบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองแค",
+      "district": "หนองแค",
+      "id": "e227ec30259189595d1bd79d",
+      "maskedId": "136xxxxxx3066",
+      "name": "เพชรลัดฎา ประนิตย์",
+      "province": "สระบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%8E%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชําผักแพว",
+      "district": "แก่งคอย",
+      "id": "bf1e98162c2de9311cddd7d6",
+      "maskedId": "110xxxxxx6669",
+      "name": "เพ็ญสุภา ทองปราง",
+      "province": "สระบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลกุดนกเปล้า",
+      "district": "เมืองสระบุรี",
+      "id": "c8731f7b73186c86982977e3",
+      "maskedId": "316xxxxxx6431",
+      "name": "เอกรัตน์ ชินบุตร",
+      "province": "สระบุรี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุ่มหัก",
+      "district": "หนองแค",
+      "id": "5d41624040045e4804b028e5",
+      "maskedId": "119xxxxxx8010",
+      "name": "แพรวพรรณ วงษ์ภมร",
+      "province": "สระบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B8%A7%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A0%E0%B8%A1%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

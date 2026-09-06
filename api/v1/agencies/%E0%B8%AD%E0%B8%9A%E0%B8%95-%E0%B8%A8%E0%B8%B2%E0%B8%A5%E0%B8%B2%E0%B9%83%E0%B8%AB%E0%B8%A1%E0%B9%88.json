@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.ศาลาใหม่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ศาลาใหม่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ศาลาใหม่",
+      "district": "ตากใบ",
+      "id": "68637f46b334de2d085cc0ab",
+      "maskedId": "195xxxxxx9184",
+      "name": "ธนพล หลิวชัยชาญ",
+      "province": "นราธิวาส",
+      "scoreChange": 72,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A5-%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%A7%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาใหม่",
+      "district": "ตากใบ",
+      "id": "8cdf342902c66df02f0f61cc",
+      "maskedId": "196xxxxxx2312",
+      "name": "นูรีสัน เจ๊ะโว๊ะ",
+      "province": "นราธิวาส",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B8%99-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B9%82%E0%B8%A7%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาใหม่",
+      "district": "ตากใบ",
+      "id": "7a69e8e7014587b672daf270",
+      "maskedId": "194xxxxxx5445",
+      "name": "อิลฟาน มามะ",
+      "province": "นราธิวาส",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%A5%E0%B8%9F%E0%B8%B2%E0%B8%99-%E0%B8%A1%E0%B8%B2%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาใหม่",
+      "district": "ตากใบ",
+      "id": "15779dfdab720cffb8aae1ee",
+      "maskedId": "194xxxxxx9835",
+      "name": "ไพสือรินทร์ ยุนุ",
+      "province": "นราธิวาส",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%9E%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A2%E0%B8%B8%E0%B8%99%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

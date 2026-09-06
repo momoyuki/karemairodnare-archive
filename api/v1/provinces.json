@@ -1,0 +1,474 @@
+{
+  "_meta": {
+    "count": 77,
+    "kind": "province",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "items": [
+    {
+      "count": 0,
+      "name": "กรุงเทพมหานคร",
+      "slug": "กรุงเทพมหานคร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3.json"
+    },
+    {
+      "count": 95,
+      "name": "สมุทรปราการ",
+      "slug": "สมุทรปราการ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3.json"
+    },
+    {
+      "count": 182,
+      "name": "นนทบุรี",
+      "slug": "นนทบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 181,
+      "name": "ปทุมธานี",
+      "slug": "ปทุมธานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 105,
+      "name": "พระนครศรีอยุธยา",
+      "slug": "พระนครศรีอยุธยา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2.json"
+    },
+    {
+      "count": 42,
+      "name": "อ่างทอง",
+      "slug": "อ่างทอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 73,
+      "name": "ลพบุรี",
+      "slug": "ลพบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A5%E0%B8%9E%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 24,
+      "name": "สิงห์บุรี",
+      "slug": "สิงห์บุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 23,
+      "name": "ชัยนาท",
+      "slug": "ชัยนาท",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B8%97.json"
+    },
+    {
+      "count": 91,
+      "name": "สระบุรี",
+      "slug": "สระบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 82,
+      "name": "ชลบุรี",
+      "slug": "ชลบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%8A%E0%B8%A5%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 59,
+      "name": "ระยอง",
+      "slug": "ระยอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 13,
+      "name": "จันทบุรี",
+      "slug": "จันทบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 6,
+      "name": "ตราด",
+      "slug": "ตราด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%94.json"
+    },
+    {
+      "count": 76,
+      "name": "ฉะเชิงเทรา",
+      "slug": "ฉะเชิงเทรา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%89%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%B2.json"
+    },
+    {
+      "count": 61,
+      "name": "ปราจีนบุรี",
+      "slug": "ปราจีนบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 16,
+      "name": "นครนายก",
+      "slug": "นครนายก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81.json"
+    },
+    {
+      "count": 31,
+      "name": "สระแก้ว",
+      "slug": "สระแก้ว",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7.json"
+    },
+    {
+      "count": 154,
+      "name": "นครราชสีมา",
+      "slug": "นครราชสีมา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2.json"
+    },
+    {
+      "count": 13,
+      "name": "บุรีรัมย์",
+      "slug": "บุรีรัมย์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C.json"
+    },
+    {
+      "count": 18,
+      "name": "สุรินทร์",
+      "slug": "สุรินทร์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C.json"
+    },
+    {
+      "count": 23,
+      "name": "ศรีสะเกษ",
+      "slug": "ศรีสะเกษ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%A9.json"
+    },
+    {
+      "count": 105,
+      "name": "อุบลราชธานี",
+      "slug": "อุบลราชธานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 10,
+      "name": "ยโสธร",
+      "slug": "ยโสธร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A2%E0%B9%82%E0%B8%AA%E0%B8%98%E0%B8%A3.json"
+    },
+    {
+      "count": 38,
+      "name": "ชัยภูมิ",
+      "slug": "ชัยภูมิ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4.json"
+    },
+    {
+      "count": 3,
+      "name": "อำนาจเจริญ",
+      "slug": "อำนาจเจริญ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AD%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%88%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D.json"
+    },
+    {
+      "count": 52,
+      "name": "หนองบัวลำภู",
+      "slug": "หนองบัวลำภู",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%B3%E0%B8%A0%E0%B8%B9.json"
+    },
+    {
+      "count": 45,
+      "name": "ขอนแก่น",
+      "slug": "ขอนแก่น",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99.json"
+    },
+    {
+      "count": 61,
+      "name": "อุดรธานี",
+      "slug": "อุดรธานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A3%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 16,
+      "name": "เลย",
+      "slug": "เลย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B9%80%E0%B8%A5%E0%B8%A2.json"
+    },
+    {
+      "count": 32,
+      "name": "หนองคาย",
+      "slug": "หนองคาย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 24,
+      "name": "มหาสารคาม",
+      "slug": "มหาสารคาม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 12,
+      "name": "ร้อยเอ็ด",
+      "slug": "ร้อยเอ็ด",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%94.json"
+    },
+    {
+      "count": 9,
+      "name": "กาฬสินธุ์",
+      "slug": "กาฬสินธุ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C.json"
+    },
+    {
+      "count": 42,
+      "name": "สกลนคร",
+      "slug": "สกลนคร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%81%E0%B8%A5%E0%B8%99%E0%B8%84%E0%B8%A3.json"
+    },
+    {
+      "count": 51,
+      "name": "นครพนม",
+      "slug": "นครพนม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9E%E0%B8%99%E0%B8%A1.json"
+    },
+    {
+      "count": 2,
+      "name": "มุกดาหาร",
+      "slug": "มุกดาหาร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A1%E0%B8%B8%E0%B8%81%E0%B8%94%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3.json"
+    },
+    {
+      "count": 42,
+      "name": "เชียงใหม่",
+      "slug": "เชียงใหม่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.json"
+    },
+    {
+      "count": 18,
+      "name": "ลำพูน",
+      "slug": "ลำพูน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A5%E0%B8%B3%E0%B8%9E%E0%B8%B9%E0%B8%99.json"
+    },
+    {
+      "count": 35,
+      "name": "ลำปาง",
+      "slug": "ลำปาง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A5%E0%B8%B3%E0%B8%9B%E0%B8%B2%E0%B8%87.json"
+    },
+    {
+      "count": 17,
+      "name": "อุตรดิตถ์",
+      "slug": "อุตรดิตถ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B8%96%E0%B9%8C.json"
+    },
+    {
+      "count": 4,
+      "name": "แพร่",
+      "slug": "แพร่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B9%88.json"
+    },
+    {
+      "count": 10,
+      "name": "น่าน",
+      "slug": "น่าน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99.json"
+    },
+    {
+      "count": 18,
+      "name": "พะเยา",
+      "slug": "พะเยา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2.json"
+    },
+    {
+      "count": 12,
+      "name": "เชียงราย",
+      "slug": "เชียงราย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2.json"
+    },
+    {
+      "count": 20,
+      "name": "แม่ฮ่องสอน",
+      "slug": "แม่ฮ่องสอน",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99.json"
+    },
+    {
+      "count": 13,
+      "name": "นครสวรรค์",
+      "slug": "นครสวรรค์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C.json"
+    },
+    {
+      "count": 19,
+      "name": "อุทัยธานี",
+      "slug": "อุทัยธานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 35,
+      "name": "กำแพงเพชร",
+      "slug": "กำแพงเพชร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%81%E0%B8%B3%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3.json"
+    },
+    {
+      "count": 49,
+      "name": "ตาก",
+      "slug": "ตาก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%95%E0%B8%B2%E0%B8%81.json"
+    },
+    {
+      "count": 32,
+      "name": "สุโขทัย",
+      "slug": "สุโขทัย",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%82%E0%B8%97%E0%B8%B1%E0%B8%A2.json"
+    },
+    {
+      "count": 39,
+      "name": "พิษณุโลก",
+      "slug": "พิษณุโลก",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8%E0%B9%82%E0%B8%A5%E0%B8%81.json"
+    },
+    {
+      "count": 65,
+      "name": "พิจิตร",
+      "slug": "พิจิตร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3.json"
+    },
+    {
+      "count": 78,
+      "name": "เพชรบูรณ์",
+      "slug": "เพชรบูรณ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C.json"
+    },
+    {
+      "count": 45,
+      "name": "ราชบุรี",
+      "slug": "ราชบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 69,
+      "name": "กาญจนบุรี",
+      "slug": "กาญจนบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 112,
+      "name": "สุพรรณบุรี",
+      "slug": "สุพรรณบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 90,
+      "name": "นครปฐม",
+      "slug": "นครปฐม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9B%E0%B8%90%E0%B8%A1.json"
+    },
+    {
+      "count": 80,
+      "name": "สมุทรสาคร",
+      "slug": "สมุทรสาคร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3.json"
+    },
+    {
+      "count": 25,
+      "name": "สมุทรสงคราม",
+      "slug": "สมุทรสงคราม",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1.json"
+    },
+    {
+      "count": 20,
+      "name": "เพชรบุรี",
+      "slug": "เพชรบุรี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.json"
+    },
+    {
+      "count": 20,
+      "name": "ประจวบคีรีขันธ์",
+      "slug": "ประจวบคีรีขันธ์",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C.json"
+    },
+    {
+      "count": 39,
+      "name": "นครศรีธรรมราช",
+      "slug": "นครศรีธรรมราช",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A.json"
+    },
+    {
+      "count": 115,
+      "name": "กระบี่",
+      "slug": "กระบี่",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B5%E0%B9%88.json"
+    },
+    {
+      "count": 0,
+      "name": "พังงา",
+      "slug": "พังงา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9E%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2.json"
+    },
+    {
+      "count": 108,
+      "name": "ภูเก็ต",
+      "slug": "ภูเก็ต",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95.json"
+    },
+    {
+      "count": 239,
+      "name": "สุราษฎร์ธานี",
+      "slug": "สุราษฎร์ธานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 94,
+      "name": "ระนอง",
+      "slug": "ระนอง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%AD%E0%B8%87.json"
+    },
+    {
+      "count": 84,
+      "name": "ชุมพร",
+      "slug": "ชุมพร",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A3.json"
+    },
+    {
+      "count": 68,
+      "name": "สงขลา",
+      "slug": "สงขลา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%87%E0%B8%82%E0%B8%A5%E0%B8%B2.json"
+    },
+    {
+      "count": 23,
+      "name": "สตูล",
+      "slug": "สตูล",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%AA%E0%B8%95%E0%B8%B9%E0%B8%A5.json"
+    },
+    {
+      "count": 72,
+      "name": "ตรัง",
+      "slug": "ตรัง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%87.json"
+    },
+    {
+      "count": 91,
+      "name": "พัทลุง",
+      "slug": "พัทลุง",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%A5%E0%B8%B8%E0%B8%87.json"
+    },
+    {
+      "count": 88,
+      "name": "ปัตตานี",
+      "slug": "ปัตตานี",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B2%E0%B8%99%E0%B8%B5.json"
+    },
+    {
+      "count": 32,
+      "name": "ยะลา",
+      "slug": "ยะลา",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%A2%E0%B8%B0%E0%B8%A5%E0%B8%B2.json"
+    },
+    {
+      "count": 62,
+      "name": "นราธิวาส",
+      "slug": "นราธิวาส",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%AA.json"
+    },
+    {
+      "count": 11,
+      "name": "บึงกาฬ",
+      "slug": "บึงกาฬ",
+      "url": "https://260816-karemairodnare.vercel.app/api/v1/provinces/%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%AC.json"
+    }
+  ]
+}

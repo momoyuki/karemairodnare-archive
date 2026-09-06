@@ -1,0 +1,558 @@
+{
+  "_meta": {
+    "count": 32,
+    "kind": "province",
+    "name": "ยะลา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ยะลา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครยะลา",
+      "district": "เมืองยะลา",
+      "id": "6fe8a5e192f9b15b892d6574",
+      "maskedId": "195xxxxxx4361",
+      "name": "กมลทิพย์ ณ พัทลุง",
+      "province": "ยะลา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%93-%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%A5%E0%B8%B8%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธารโต",
+      "district": "ธารโต",
+      "id": "ee3d356a1f8134d5b6c7cf74",
+      "maskedId": "195xxxxxx1401",
+      "name": "ขวัญฤดี ตั้งประสมสุข",
+      "province": "ยะลา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "6ac9c41abed6d0b09798990c",
+      "maskedId": "390xxxxxx4697",
+      "name": "จตุพร วงศ์จันทร์",
+      "province": "ยะลา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครยะลา",
+      "district": "เมืองยะลา",
+      "id": "b2e2a10055968f478e575d2e",
+      "maskedId": "390xxxxxx7786",
+      "name": "ชลธิชา นุ้ยสมัน",
+      "province": "ยะลา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบุดี",
+      "district": "เมืองยะลา",
+      "id": "aa5ccf94fa06f40b53ca99b1",
+      "maskedId": "195xxxxxx8202",
+      "name": "ชัยวัฒน์ สกุลทอง",
+      "province": "ยะลา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยะลา",
+      "district": "เมืองยะลา",
+      "id": "ec7cb428bb873e95800ba1c6",
+      "maskedId": "195xxxxxx5102",
+      "name": "ซัลบียะฮ์ ดือราแม",
+      "province": "ยะลา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B1%E0%B8%A5%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%B0%E0%B8%AE%E0%B9%8C-%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยะลา",
+      "district": "เมืองยะลา",
+      "id": "66a95c0a09178b6c5886884a",
+      "maskedId": "195xxxxxx3001",
+      "name": "ซํารี สีดง",
+      "province": "ยะลา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B9%8D%E0%B8%B2%E0%B8%A3%E0%B8%B5-%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลิดล",
+      "district": "เมืองยะลา",
+      "id": "aff59bafbf874ca67ea3637e",
+      "maskedId": "196xxxxxx2133",
+      "name": "นครินทร์ เจะแล",
+      "province": "ยะลา",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B9%81%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "บันนังสตา",
+      "id": "926989ab6100da2d5a0e73a6",
+      "maskedId": "195xxxxxx8134",
+      "name": "นัสรีย์ แวจูนา",
+      "province": "ยะลา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%A7%E0%B8%88%E0%B8%B9%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลบุดี",
+      "district": "เมืองยะลา",
+      "id": "b7d39c4ab54e836fa18f4006",
+      "maskedId": "195xxxxxx4067",
+      "name": "นิติธร สุยแก้ว",
+      "province": "ยะลา",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ถ้ําทะลุ",
+      "district": "บันนังสตา",
+      "id": "e2c01e72b09bba7420279373",
+      "maskedId": "195xxxxxx5485",
+      "name": "นิอานียะห์ สามะ",
+      "province": "ยะลา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครยะลา",
+      "district": "เมืองยะลา",
+      "id": "141da2f7fef3cbcb4f5aa2ac",
+      "maskedId": "195xxxxxx0903",
+      "name": "ปรมัตถ์ พูลศรี",
+      "province": "ยะลา",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C-%E0%B8%9E%E0%B8%B9%E0%B8%A5%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "6883475ce881e1e0f0f1273a",
+      "maskedId": "156xxxxxx6877",
+      "name": "ปิยานุช ไชยา",
+      "province": "ยะลา",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "64c111e59ec13318f571e5d2",
+      "maskedId": "190xxxxxx9680",
+      "name": "พงศรินทร์ คงสง",
+      "province": "ยะลา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลคอกช้าง",
+      "district": "ธารโต",
+      "id": "9291672caa56ef93345703c7",
+      "maskedId": "195xxxxxx1081",
+      "name": "พรหมภัสสร พรหมวาส",
+      "province": "ยะลา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%B2%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลลำใหม่",
+      "district": "เมืองยะลา",
+      "id": "9209401809f1cf285f98d736",
+      "maskedId": "396xxxxxx5930",
+      "name": "ฟาตีเมาะห์ ปลี",
+      "province": "ยะลา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%95%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%9B%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เปาะเส้ง",
+      "district": "เมืองยะลา",
+      "id": "42865b5e2c1bb9312466c740",
+      "maskedId": "194xxxxxx4810",
+      "name": "ฟาริสา ตามิง",
+      "province": "ยะลา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บาโร๊ะ",
+      "district": "ยะหา",
+      "id": "6ed89d43385b6caef8495f20",
+      "maskedId": "394xxxxxx1831",
+      "name": "มะยะเอะ มะเส็ง",
+      "province": "ยะลา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B0%E0%B8%A2%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B0-%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "d6d3d53b0a6f5cd276fa2bf8",
+      "maskedId": "195xxxxxx7263",
+      "name": "มะยากี มะเล๊าะ",
+      "province": "ยะลา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B5-%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B9%8A%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อาซ่อง",
+      "district": "รามัน",
+      "id": "9df6bf35d0223c6dbcc6e2f9",
+      "maskedId": "195xxxxxx3819",
+      "name": "มาหามะรอมลี สิมะยอ",
+      "province": "ยะลา",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%B0%E0%B8%A3%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B8%B5-%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%B0%E0%B8%A2%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครยะลา",
+      "district": "เมืองยะลา",
+      "id": "8861e6bc9d7aca5242346115",
+      "maskedId": "194xxxxxx9399",
+      "name": "มุสลิม ดีแม็ง",
+      "province": "ยะลา",
+      "scoreChange": 67,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B8%E0%B8%AA%E0%B8%A5%E0%B8%B4%E0%B8%A1-%E0%B8%94%E0%B8%B5%E0%B9%81%E0%B8%A1%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พร่อน",
+      "district": "เมืองยะลา",
+      "id": "90116b22269205ed9ffe1eac",
+      "maskedId": "195xxxxxx3705",
+      "name": "มูฮัมหมัดไซฟูซามัน สามะ",
+      "province": "ยะลา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B9%E0%B8%AE%E0%B8%B1%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%8B%E0%B8%9F%E0%B8%B9%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%99-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.ปุโรง",
+      "district": "กรงปินัง",
+      "id": "1ea93b15b9cc7421d56b590b",
+      "maskedId": "195xxxxxx6698",
+      "name": "รออีส ละใบซอ",
+      "province": "ยะลา",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%B5%E0%B8%AA-%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%9A%E0%B8%8B%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบาลอ",
+      "district": "รามัน",
+      "id": "d6a3add29d33d0b70cb909d5",
+      "maskedId": "194xxxxxx0048",
+      "name": "รอฮีหม๊ะ อีซอ",
+      "province": "ยะลา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AD%E0%B8%AE%E0%B8%B5%E0%B8%AB%E0%B8%A1%E0%B9%8A%E0%B8%B0-%E0%B8%AD%E0%B8%B5%E0%B8%8B%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "a132f8dbb1cd19862ab505e3",
+      "maskedId": "190xxxxxx6042",
+      "name": "วัชรินทร์ สมพงศ์",
+      "province": "ยะลา",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ยะลา",
+      "district": "เมืองยะลา",
+      "id": "fa892b7b1b49a3b1f848458a",
+      "maskedId": "195xxxxxx9340",
+      "name": "สิริมา แซ่ชั้น",
+      "province": "ยะลา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ยะลา",
+      "district": "เมืองยะลา",
+      "id": "c3a0d9452838ada9ac5d8b8f",
+      "maskedId": "190xxxxxx4981",
+      "name": "สุธาสินี กุ้งทุ่ม",
+      "province": "ยะลา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ละแอ",
+      "district": "ยะหา",
+      "id": "ae8c973170f156358b9522d5",
+      "maskedId": "195xxxxxx0927",
+      "name": "อดินันท์ เจ๊ะสมอเจ๊ะ",
+      "province": "ยะลา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบาลอ",
+      "district": "รามัน",
+      "id": "5f9d0a8c9339d4ce1f19c991",
+      "maskedId": "196xxxxxx7428",
+      "name": "อาอิซะฮ์ บินหะยีสือนิ",
+      "province": "ยะลา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%8B%E0%B8%B0%E0%B8%AE%E0%B9%8C-%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "บันนังสตา",
+      "id": "166f8794352460ef4217bfa9",
+      "maskedId": "194xxxxxx8010",
+      "name": "อิครอม สะมุดิง",
+      "province": "ยะลา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%A1-%E0%B8%AA%E0%B8%B0%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองเบตง",
+      "district": "เบตง",
+      "id": "f14767ee407047c353d064fb",
+      "maskedId": "195xxxxxx1828",
+      "name": "เสรี ดอแนเล๊าะ",
+      "province": "ยะลา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5-%E0%B8%94%E0%B8%AD%E0%B9%81%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B9%8A%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บาโร๊ะ",
+      "district": "ยะหา",
+      "id": "a93e01665d4163baa7fd7043",
+      "maskedId": "195xxxxxx4664",
+      "name": "ไซนัลอาบีดิน มาราสา",
+      "province": "ยะลา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "75_ยะลา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%8B%E0%B8%99%E0%B8%B1%E0%B8%A5%E0%B8%AD%E0%B8%B2%E0%B8%9A%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%99-%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "agency",
+    "name": "อบต.หนองทะเล",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-หนองทะเล",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.หนองทะเล",
+      "district": "เมืองกระบี่",
+      "id": "be71e5ac438951ab17fc9a3d",
+      "maskedId": "191xxxxxx4976",
+      "name": "กวีเนตร รอเกตุ",
+      "province": "กระบี่",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A7%E0%B8%B5%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3-%E0%B8%A3%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทะเล",
+      "district": "เมืองกระบี่",
+      "id": "2a1d34c20eed19c620e04143",
+      "maskedId": "193xxxxxx7659",
+      "name": "จุติมา ศรีนวนเอียด",
+      "province": "กระบี่",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทะเล",
+      "district": "เมืองกระบี่",
+      "id": "6ea7f143f1ffaadcba0de6da",
+      "maskedId": "194xxxxxx5369",
+      "name": "ฐิติมา โลหิตธาดา",
+      "province": "กระบี่",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B9%82%E0%B8%A5%E0%B8%AB%E0%B8%B4%E0%B8%95%E0%B8%98%E0%B8%B2%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทะเล",
+      "district": "เมืองกระบี่",
+      "id": "04e80a433bc4102927b8715f",
+      "maskedId": "180xxxxxx7634",
+      "name": "ณัฐวดี กัลปหา",
+      "province": "กระบี่",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%9B%E0%B8%AB%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทะเล",
+      "district": "เมืองกระบี่",
+      "id": "8d6e3f238672f44272e3afa4",
+      "maskedId": "193xxxxxx0805",
+      "name": "ผูกพงศ์ สุวรรณลิขิต",
+      "province": "กระบี่",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9C%E0%B8%B9%E0%B8%81%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A5%E0%B8%B4%E0%B8%82%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทะเล",
+      "district": "เมืองกระบี่",
+      "id": "f10efce866b3eb17bb0e94a4",
+      "maskedId": "180xxxxxx2104",
+      "name": "รักษณา ภู่พงษ์",
+      "province": "กระบี่",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B2-%E0%B8%A0%E0%B8%B9%E0%B9%88%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทะเล",
+      "district": "เมืองกระบี่",
+      "id": "c3ada2f4355154ee6ff471f2",
+      "maskedId": "193xxxxxx6331",
+      "name": "วัชระกร เพชรคง",
+      "province": "กระบี่",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทะเล",
+      "district": "เมืองกระบี่",
+      "id": "3da43a52d92641c3af1ec189",
+      "maskedId": "193xxxxxx8083",
+      "name": "สุภารัตน์ แซ่ซ้อง",
+      "province": "กระบี่",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%8B%E0%B9%89%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทะเล",
+      "district": "เมืองกระบี่",
+      "id": "36e08ac0025abb1990b02c88",
+      "maskedId": "194xxxxxx9278",
+      "name": "สุไรยา อาเย๊ะ",
+      "province": "กระบี่",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B9%84%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%A2%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองทะเล",
+      "district": "เมืองกระบี่",
+      "id": "1978db6a87cbf0bede5e08b5",
+      "maskedId": "180xxxxxx6966",
+      "name": "อัญชนันท์ สิทธิประการ",
+      "province": "กระบี่",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

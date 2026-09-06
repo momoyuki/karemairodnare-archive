@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "เขาพนม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เขาพนม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.พรุเตียว",
+      "district": "เขาพนม",
+      "id": "45201c2ad4ca5ebe84153f3b",
+      "maskedId": "193xxxxxx5829",
+      "name": "ชญาสินี คงนุรักษ์",
+      "province": "กระบี่",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%84%E0%B8%87%E0%B8%99%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเขาพนม",
+      "district": "เขาพนม",
+      "id": "1d26e50af1b9ae5b1ad2d3c7",
+      "maskedId": "180xxxxxx6374",
+      "name": "ชนากานต์ หนูนารถ",
+      "province": "กระบี่",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%96",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หน้าเขา",
+      "district": "เขาพนม",
+      "id": "b8142e29938b676e21e7192d",
+      "maskedId": "180xxxxxx2277",
+      "name": "ณัฐพล องอาจ",
+      "province": "กระบี่",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สินปุน",
+      "district": "เขาพนม",
+      "id": "1790a0a2b453cb9f53bf24fa",
+      "maskedId": "180xxxxxx0899",
+      "name": "มัณฑนา รัตนมณี",
+      "province": "กระบี่",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%99%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เขาพนม",
+      "district": "เขาพนม",
+      "id": "66f8c0ee86baf8be1c1c0bc8",
+      "maskedId": "181xxxxxx9361",
+      "name": "ยุทธชัย ชูศรี",
+      "province": "กระบี่",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%8A%E0%B8%B9%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกหาร",
+      "district": "เขาพนม",
+      "id": "a742183b6490b1bb21835d42",
+      "maskedId": "392xxxxxx0804",
+      "name": "สาลินี สรรพพันธ์",
+      "province": "กระบี่",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกหาร",
+      "district": "เขาพนม",
+      "id": "ee6b1f30d702be0c71e8c7c6",
+      "maskedId": "180xxxxxx6073",
+      "name": "เบญญาทิพย์ จันทร์เพ็ญ",
+      "province": "กระบี่",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาดิน",
+      "district": "เขาพนม",
+      "id": "76859b6431c589cc738965d1",
+      "maskedId": "180xxxxxx8247",
+      "name": "เพ็ญนภา จันแก้ว",
+      "province": "กระบี่",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "_meta": {
+    "count": 26,
+    "kind": "district",
+    "name": "เมืองระยอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองระยอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตะพง",
+      "district": "เมืองระยอง",
+      "id": "ba8d40aac657442637a0c0d9",
+      "maskedId": "110xxxxxx0638",
+      "name": "จริยา ทองระอา",
+      "province": "ระยอง",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทับมา",
+      "district": "เมืองระยอง",
+      "id": "a000fc7b1530db2535e072c3",
+      "maskedId": "132xxxxxx7812",
+      "name": "จิรัฐิกานต์ ชนะมาร",
+      "province": "ระยอง",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะพง",
+      "district": "เมืองระยอง",
+      "id": "bb4828e499968e228c1d9132",
+      "maskedId": "155xxxxxx9131",
+      "name": "ณัฐชนนท์ มาประจวบ",
+      "province": "ระยอง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%8A%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%A7%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "d2c3e27341a3c9e8c7de43e4",
+      "maskedId": "172xxxxxx9297",
+      "name": "ธนภัทร สาระวงษ์",
+      "province": "ระยอง",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทับมา",
+      "district": "เมืองระยอง",
+      "id": "4b5a677c149363ba81283a66",
+      "maskedId": "141xxxxxx4891",
+      "name": "ธนัชภรณ์ สุวรรณโคตร",
+      "province": "ระยอง",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "58d458e17b55da012179ddf8",
+      "maskedId": "130xxxxxx4509",
+      "name": "ธัชกรณ์ ตะโกมา",
+      "province": "ระยอง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8A%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%95%E0%B8%B0%E0%B9%82%E0%B8%81%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "02b1d0ea249d7903f9a9f9b9",
+      "maskedId": "110xxxxxx5612",
+      "name": "ธิดารัตน์ ชูเชื้อ",
+      "province": "ระยอง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "289e6f04921374ba314ae834",
+      "maskedId": "149xxxxxx0967",
+      "name": "ธีระยุทธ พิกุลศรี",
+      "province": "ระยอง",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครมาบตาพุด",
+      "district": "เมืองระยอง",
+      "id": "8a4596e48cdec6b1cadb6440",
+      "maskedId": "121xxxxxx8571",
+      "name": "นวพร แสนศิริ",
+      "province": "ระยอง",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A7%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "bf1b55a96525e16e954d001a",
+      "maskedId": "131xxxxxx1401",
+      "name": "ปัญญาพร รักงาม",
+      "province": "ระยอง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "5edf437ef12d8e67b1fda4dc",
+      "maskedId": "121xxxxxx8539",
+      "name": "ปาณิสรา พงษ์รามัญ",
+      "province": "ระยอง",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%B1%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "c5123d2f6c8d5c903aa8f923",
+      "maskedId": "131xxxxxx8354",
+      "name": "พิชญ์ชา บุญหลาย",
+      "province": "ระยอง",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C%E0%B8%8A%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครมาบตาพุด",
+      "district": "เมืองระยอง",
+      "id": "3fd0caa2bc59fd1f377e7fe2",
+      "maskedId": "140xxxxxx2425",
+      "name": "ภูมินทร์ ไชยบุรี",
+      "province": "ระยอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "b42b5cc88c5f42b8be941ff9",
+      "maskedId": "177xxxxxx8741",
+      "name": "ว่านหวาย เมืองนารถ",
+      "province": "ระยอง",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%A2-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%96",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "30391eaab2880fd4a65e2fbc",
+      "maskedId": "111xxxxxx3349",
+      "name": "ศาสตราวุธ ปรีชาผล",
+      "province": "ระยอง",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98-%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครมาบตาพุด",
+      "district": "เมืองระยอง",
+      "id": "1adb242f743092619d2ecd69",
+      "maskedId": "123xxxxxx3120",
+      "name": "ศิรินภา มณฑาสกุล",
+      "province": "ระยอง",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%93%E0%B8%91%E0%B8%B2%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "dee97f8c96f1bbdf3fc77632",
+      "maskedId": "131xxxxxx2621",
+      "name": "ศิริพร เกาะโค้ง",
+      "province": "ระยอง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครมาบตาพุด",
+      "district": "เมืองระยอง",
+      "id": "6c7d72e038ca63a03de5282a",
+      "maskedId": "364xxxxxx5487",
+      "name": "สติพงษ์ สิทธิคำฟู",
+      "province": "ระยอง",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%84%E0%B8%B3%E0%B8%9F%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "0870f2d8806e95632053221c",
+      "maskedId": "331xxxxxx9006",
+      "name": "สฤษดิ์ เสงี่ยมศักดิ์",
+      "province": "ระยอง",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A4%E0%B8%A9%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B8%87%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ระยอง",
+      "district": "เมืองระยอง",
+      "id": "fd1673364096996b01b473e6",
+      "maskedId": "130xxxxxx3904",
+      "name": "สาธิมา รติธรรมกุล",
+      "province": "ระยอง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเพ",
+      "district": "เมืองระยอง",
+      "id": "e257e8d3a158983ab42cbf3f",
+      "maskedId": "141xxxxxx1583",
+      "name": "สิฏฐเศรษฐ ยืนสุข",
+      "province": "ระยอง",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%8F%E0%B8%90%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90-%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาตาขวัญ",
+      "district": "เมืองระยอง",
+      "id": "f7604fa65a3d3995625a5ebb",
+      "maskedId": "132xxxxxx1315",
+      "name": "สินาธร มีสิทธิ์",
+      "province": "ระยอง",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%A3-%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครมาบตาพุด",
+      "district": "เมืองระยอง",
+      "id": "8bc5d225080ade8d978536cb",
+      "maskedId": "120xxxxxx0465",
+      "name": "อภิสรักษ์ เขียวสม",
+      "province": "ระยอง",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะพง",
+      "district": "เมืองระยอง",
+      "id": "032f2f00a8798a8ea725dd94",
+      "maskedId": "131xxxxxx1228",
+      "name": "อรอนงค์ แสนมณี",
+      "province": "ระยอง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแลง",
+      "district": "เมืองระยอง",
+      "id": "6adff28aa5530feaf57affe5",
+      "maskedId": "193xxxxxx8537",
+      "name": "เขตต์ เถื่อนเทพ",
+      "province": "ระยอง",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%96%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลนครระยอง",
+      "district": "เมืองระยอง",
+      "id": "fa9d18cc4889f1d26dadb742",
+      "maskedId": "137xxxxxx2356",
+      "name": "เบญจมาส กัลยารัตน์",
+      "province": "ระยอง",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%AA-%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

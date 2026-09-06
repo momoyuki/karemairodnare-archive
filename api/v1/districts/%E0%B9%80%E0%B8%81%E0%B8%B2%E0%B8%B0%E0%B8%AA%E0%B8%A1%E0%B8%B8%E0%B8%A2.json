@@ -1,0 +1,218 @@
+{
+  "_meta": {
+    "count": 12,
+    "kind": "district",
+    "name": "เกาะสมุย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เกาะสมุย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "b65e015b3c8e83bc896fbd3d",
+      "maskedId": "193xxxxxx7199",
+      "name": "กฤษฎา ชูรักษ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%8A%E0%B8%B9%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "7713088c7f139ba540c7e425",
+      "maskedId": "180xxxxxx6330",
+      "name": "กัญญาภัค รอบคอบ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%AD%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "f84950a8f31fa68f25cb3a10",
+      "maskedId": "171xxxxxx4433",
+      "name": "ชาคริต มีทรัพย์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%95-%E0%B8%A1%E0%B8%B5%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "a3dc0e4b4e9737f3e8b17ed2",
+      "maskedId": "173xxxxxx4688",
+      "name": "ณัฐดนัย วิเชียร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "df00a82669ed1159a564aff7",
+      "maskedId": "184xxxxxx3995",
+      "name": "ทิพย์สุดา ไสวพันธ์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B9%84%E0%B8%AA%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "37678d6ec0ae4d1dc13897f1",
+      "maskedId": "193xxxxxx1034",
+      "name": "ธีระพงค์ คงทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "46051f20f844f217cd38df37",
+      "maskedId": "180xxxxxx5214",
+      "name": "พิสิฐ รักษาแสง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%90-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "331e40ce1ee44c9c6f5f1dbb",
+      "maskedId": "184xxxxxx5051",
+      "name": "มนธวัล วิเชียร",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%A5-%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "9ee001c0bd3d6bd75dbbd0d2",
+      "maskedId": "293xxxxxx7032",
+      "name": "ยศยง เปียคง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%A8%E0%B8%A2%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "f24b74471dca8d8304c4da3e",
+      "maskedId": "190xxxxxx2051",
+      "name": "วันวิสาข์ สวนอินทร์",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "63b262901da20aae2d1da0ab",
+      "maskedId": "392xxxxxx0910",
+      "name": "วินัย ไกรทอง",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครเกาะสมุย",
+      "district": "เกาะสมุย",
+      "id": "b90a714124cce6feb65ffe67",
+      "maskedId": "195xxxxxx4191",
+      "name": "สาริศ หนูเจริญ",
+      "province": "สุราษฎร์ธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "67_สุราษฎร์ธานี.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A8-%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "_meta": {
+    "count": 27,
+    "kind": "district",
+    "name": "เมืองชลบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองชลบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "f46edab7ee5d8c5e636831b7",
+      "maskedId": "134xxxxxx2268",
+      "name": "กมลชนก รัตนสุภา",
+      "province": "ชลบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "7a97f526a260a39bc099fbac",
+      "maskedId": "137xxxxxx4322",
+      "name": "กมลวรรณ มูลเพ็ญ",
+      "province": "ชลบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "91b4f6323f4e4bf652452c63",
+      "maskedId": "120xxxxxx4121",
+      "name": "กมลวรรณ สืบญาติ",
+      "province": "ชลบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%8D%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหนองไม้แดง",
+      "district": "เมืองชลบุรี",
+      "id": "e7bb308fbb1abfc4910491fe",
+      "maskedId": "110xxxxxx9055",
+      "name": "กานต์ เหมริด",
+      "province": "ชลบุรี",
+      "scoreChange": 6,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "6daa6f39ebb5fc6f55525f80",
+      "maskedId": "110xxxxxx7004",
+      "name": "คุณากร ทิพวัตร",
+      "province": "ชลบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "b93900c3695929b803027281",
+      "maskedId": "137xxxxxx0522",
+      "name": "ชลสิทธิ์ วิสุทธยา",
+      "province": "ชลบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองตําหรุ",
+      "district": "เมืองชลบุรี",
+      "id": "07945924ce0cd2f92176a43f",
+      "maskedId": "130xxxxxx1289",
+      "name": "ณัฐณิชา ป้องภัย",
+      "province": "ชลบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองตําหรุ",
+      "district": "เมืองชลบุรี",
+      "id": "283a5a42d8d0e82f94015bae",
+      "maskedId": "110xxxxxx1944",
+      "name": "ทศพร หวังเย็นกลาง",
+      "province": "ชลบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%A3-%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองตําหรุ",
+      "district": "เมืองชลบุรี",
+      "id": "06e6c860db10a8c88fed3e13",
+      "maskedId": "134xxxxxx9161",
+      "name": "ธมนวรรณ จําศรี",
+      "province": "ชลบุรี",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%88%E0%B9%8D%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "0837cc7b7a1830cbd37129ea",
+      "maskedId": "134xxxxxx4461",
+      "name": "ปณิธิ จอกนาค",
+      "province": "ชลบุรี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%93%E0%B8%B4%E0%B8%98%E0%B8%B4-%E0%B8%88%E0%B8%AD%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "6e7409a8fdc807be54ccb170",
+      "maskedId": "141xxxxxx3832",
+      "name": "ปวันรัตน์ จันดาวาปี",
+      "province": "ชลบุรี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%9B%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองตําหรุ",
+      "district": "เมืองชลบุรี",
+      "id": "cf24a69fff87a47b72bda0e3",
+      "maskedId": "110xxxxxx7425",
+      "name": "ปุณยวัจน์ เชื้ออ่าว",
+      "province": "ชลบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "41f41daad2d3094490b33bb2",
+      "maskedId": "130xxxxxx2142",
+      "name": "พงศ์ธนนาถ นามโคตร",
+      "province": "ชลบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%98%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองตําหรุ",
+      "district": "เมืองชลบุรี",
+      "id": "b9c155f67f01e86033fb11a9",
+      "maskedId": "110xxxxxx7140",
+      "name": "พรพิมล เหลี่ยมวงษ์",
+      "province": "ชลบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "90689400d8023201d0c51326",
+      "maskedId": "116xxxxxx9733",
+      "name": "ภาณุพงศ์ เนระมา",
+      "province": "ชลบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%80%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "996065491897832a48cd67b2",
+      "maskedId": "144xxxxxx0981",
+      "name": "รุจิรา เอกศิริ",
+      "province": "ชลบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "aec9c694bfcabca3ac4a0ca8",
+      "maskedId": "320xxxxxx0478",
+      "name": "วรารัก ตั้งเซียน",
+      "province": "ชลบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "d2c70ec22a3fb6bd637a8f31",
+      "maskedId": "184xxxxxx1900",
+      "name": "วิพรรัตน์ นาคน้อย",
+      "province": "ชลบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "3e47063fc8ce71b554c54867",
+      "maskedId": "326xxxxxx6838",
+      "name": "สุทธิลักษณ์ ทองทรัพย์",
+      "province": "ชลบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "8074ab83779c23302f7d3db5",
+      "maskedId": "152xxxxxx5793",
+      "name": "หทัยรัตน์ ยะทุ่งตัน",
+      "province": "ชลบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A2%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "494f530af3429296cf368e09",
+      "maskedId": "341xxxxxx5340",
+      "name": "อรรถวิโรจน์ บุรีเพีย",
+      "province": "ชลบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96%E0%B8%A7%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "6deddf75ab49407d982841fb",
+      "maskedId": "147xxxxxx5699",
+      "name": "อัจฉสุดา พจนา",
+      "province": "ชลบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%88%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครบ้านสวน",
+      "district": "เมืองชลบุรี",
+      "id": "3e23125519555ea14a4cbeb5",
+      "maskedId": "193xxxxxx8117",
+      "name": "อาทิตยา ช่วยทอง",
+      "province": "ชลบุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "941df6c1440a3ca4440698b1",
+      "maskedId": "134xxxxxx6810",
+      "name": "เชิดสกุล ทุมเมฆ",
+      "province": "ชลบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%86",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชลบุรี",
+      "district": "เมืองชลบุรี",
+      "id": "9c75dd3e83b73d1bfc4f7edf",
+      "maskedId": "130xxxxxx0915",
+      "name": "เมวิกา ศรีปิยะพันธุ์",
+      "province": "ชลบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองดอนหัวฬ่อ",
+      "district": "เมืองชลบุรี",
+      "id": "f3b62d604694bab00d74165d",
+      "maskedId": "126xxxxxx4357",
+      "name": "เอกอนงค์ โกโสภา",
+      "province": "ชลบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AD%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B9%82%E0%B8%81%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สํานักบก",
+      "district": "เมืองชลบุรี",
+      "id": "4315340460a824104be6fcfa",
+      "maskedId": "140xxxxxx2312",
+      "name": "แสงตะวัน รัตนะ",
+      "province": "ชลบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "11_ชลบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

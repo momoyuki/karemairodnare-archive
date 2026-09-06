@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "agency",
+    "name": "อบจ.สมุทรสาคร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบจ-สมุทรสาคร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "d6a0699815322ef469788b9b",
+      "maskedId": "173xxxxxx3942",
+      "name": "กรีฑาทิพย์ เที่ยงน่วม",
+      "province": "สมุทรสาคร",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%91%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%99%E0%B9%88%E0%B8%A7%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "bf219e06a66dd1ce99ed12a1",
+      "maskedId": "176xxxxxx1924",
+      "name": "ชุติกาญจน์ เยี่ยมเพื่อน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "83213fb9a642e65927d8aafe",
+      "maskedId": "170xxxxxx8067",
+      "name": "นภาภรณ์ บุญวิเซ็นต์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "804fb7a620975b742168b597",
+      "maskedId": "172xxxxxx7882",
+      "name": "นิธิราพร ต่อสกุล",
+      "province": "สมุทรสาคร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "4fb0c86869ef0d2982e529bb",
+      "maskedId": "171xxxxxx9150",
+      "name": "พีรภัทร์ ใจเด็ด",
+      "province": "สมุทรสาคร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "b4974cd98d8e499794014043",
+      "maskedId": "170xxxxxx0968",
+      "name": "ภูเมธ ชื่นชวน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%A1%E0%B8%98-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%8A%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สมุทรสาคร",
+      "district": "เมืองสมุทรสาคร",
+      "id": "a52102010e993167ccc16621",
+      "maskedId": "171xxxxxx4959",
+      "name": "วิทวัส หอมทับคาง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A7%E0%B8%B1%E0%B8%AA-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

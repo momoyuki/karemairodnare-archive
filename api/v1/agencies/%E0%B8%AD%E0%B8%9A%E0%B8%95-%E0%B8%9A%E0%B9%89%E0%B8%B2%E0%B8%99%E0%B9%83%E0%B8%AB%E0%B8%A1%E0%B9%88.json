@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.บ้านใหม่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บ้านใหม่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านใหม่",
+      "district": "หนองบุญมาก",
+      "id": "344ef5c9766e281a2211c6ac",
+      "maskedId": "195xxxxxx8505",
+      "name": "ซูฮารี อับดุลลี",
+      "province": "นครราชสีมา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B9%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B8%B5-%E0%B8%AD%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านใหม่",
+      "district": "เมืองฉะเชิงเทรา",
+      "id": "c1650e37ba31da632e9ee83c",
+      "maskedId": "110xxxxxx2332",
+      "name": "ดนย์ ทักศินาวรรณ",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านใหม่",
+      "district": "หนองบุญมาก",
+      "id": "8be85526e5a7ccbe95fa2377",
+      "maskedId": "130xxxxxx0743",
+      "name": "ธัญญาเรศ ถินผักแว่น",
+      "province": "นครราชสีมา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%A8-%E0%B8%96%E0%B8%B4%E0%B8%99%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านใหม่",
+      "district": "หนองบุญมาก",
+      "id": "8dbeead3c8058341ddb716d7",
+      "maskedId": "131xxxxxx8493",
+      "name": "ลักขณา นาคเขียว",
+      "province": "นครราชสีมา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%93%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.บ้านใหม่",
+      "district": "หนองบุญมาก",
+      "id": "b601cd074822d925fb754400",
+      "maskedId": "130xxxxxx1200",
+      "name": "วารุณี ตงกระโทก",
+      "province": "นครราชสีมา",
+      "scoreChange": 2,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%97%E0%B8%81",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    }
+  ]
+}

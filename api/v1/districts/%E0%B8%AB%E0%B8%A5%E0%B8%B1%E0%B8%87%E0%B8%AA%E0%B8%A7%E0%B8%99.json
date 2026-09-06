@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "หลังสวน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "หลังสวน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลวังตะกอ",
+      "district": "หลังสวน",
+      "id": "c434b052c615ec2ce1af57d1",
+      "maskedId": "186xxxxxx6454",
+      "name": "จักรรินศ์ ทองระย้า",
+      "province": "ชุมพร",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A8%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านควน",
+      "district": "หลังสวน",
+      "id": "268481339f1da5459811a76c",
+      "maskedId": "186xxxxxx2306",
+      "name": "ชลธิชา ฉิมวารี",
+      "province": "ชุมพร",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%89%E0%B8%B4%E0%B8%A1%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.นาขา",
+      "district": "หลังสวน",
+      "id": "c41e2cfd2ed988fb49d7d8e7",
+      "maskedId": "152xxxxxx9731",
+      "name": "ธัญวรัตน์ โหนกลาง",
+      "province": "ชุมพร",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%AB%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาพญา",
+      "district": "หลังสวน",
+      "id": "5d8792d71872a0fc54b489b1",
+      "maskedId": "193xxxxxx8520",
+      "name": "ธีรารัตน์ บุตรทอง",
+      "province": "ชุมพร",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางน้ําจืด",
+      "district": "หลังสวน",
+      "id": "fd6cdb67f4c7463456c5b0ba",
+      "maskedId": "193xxxxxx7481",
+      "name": "ปาริสา รักทอง",
+      "province": "ชุมพร",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลปากน้ําหลังสวน",
+      "district": "หลังสวน",
+      "id": "08a121644d71d433e8e1a01e",
+      "maskedId": "186xxxxxx6632",
+      "name": "ศศิโสม พลประชิต",
+      "province": "ชุมพร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B9%82%E0%B8%AA%E0%B8%A1-%E0%B8%9E%E0%B8%A5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองหลังสวน",
+      "district": "หลังสวน",
+      "id": "64f7689b80b4786f0b92c6db",
+      "maskedId": "186xxxxxx1366",
+      "name": "ศิริพร เอี่ยมสะอาด",
+      "province": "ชุมพร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังตะกอ",
+      "district": "หลังสวน",
+      "id": "b45e006d6f0519035b1b0ad1",
+      "maskedId": "186xxxxxx9230",
+      "name": "สิทธิกานต์ อยู่ดำ",
+      "province": "ชุมพร",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "69_ชุมพร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "agency",
+    "name": "อบต.บางพลีใหญ่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางพลีใหญ่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "0c82a86bef2c5740ac103487",
+      "maskedId": "345xxxxxx2223",
+      "name": "ชิติพัทธ์ บุตรชน",
+      "province": "สมุทรปราการ",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%8A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "96302382ccd10723a83c3b4f",
+      "maskedId": "113xxxxxx4211",
+      "name": "ธัญภัทร แสงน้ํา",
+      "province": "สมุทรปราการ",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "2a62734c809669caa1f8234a",
+      "maskedId": "134xxxxxx4861",
+      "name": "ละอองดาว บุญประสิทธิ์",
+      "province": "สมุทรปราการ",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%A7-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "6909b7971d4de541da203fc4",
+      "maskedId": "111xxxxxx2376",
+      "name": "วาสนา พลเยี่ยม",
+      "province": "สมุทรปราการ",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2-%E0%B8%9E%E0%B8%A5%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "3d806973d5eabc34c179b696",
+      "maskedId": "111xxxxxx1007",
+      "name": "สิรภพ ชาญพานิช",
+      "province": "สมุทรปราการ",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%9E-%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางพลีใหญ่",
+      "district": "บางพลี",
+      "id": "92a80cd1135408af872ff148",
+      "maskedId": "311xxxxxx2357",
+      "name": "อภิชาติ ชิดสนิท",
+      "province": "สมุทรปราการ",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "02_สมุทรปราการ.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%97",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

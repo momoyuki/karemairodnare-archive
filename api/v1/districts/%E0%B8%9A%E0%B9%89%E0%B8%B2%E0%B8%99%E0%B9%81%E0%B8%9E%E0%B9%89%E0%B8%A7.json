@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "บ้านแพ้ว",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บ้านแพ้ว",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลเกษตรพัฒนา",
+      "district": "บ้านแพ้ว",
+      "id": "639308c3baf2084a89e5de10",
+      "maskedId": "173xxxxxx0801",
+      "name": "จีราภัทร์ ชาวนาวิก",
+      "province": "สมุทรสาคร",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกษตรพัฒนา",
+      "district": "บ้านแพ้ว",
+      "id": "108d76ff3bab5e394e64d89f",
+      "maskedId": "174xxxxxx7432",
+      "name": "ชวนากร เหี้ยมทับ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%AB%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%A1%E0%B8%97%E0%B8%B1%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักสอง",
+      "district": "บ้านแพ้ว",
+      "id": "374bd848fc80d8b03c828d44",
+      "maskedId": "175xxxxxx1093",
+      "name": "ณฐมน น้ําทอง",
+      "province": "สมุทรสาคร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%90%E0%B8%A1%E0%B8%99-%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักสาม",
+      "district": "บ้านแพ้ว",
+      "id": "5c99cdd559f26d2aaf67aff4",
+      "maskedId": "171xxxxxx3901",
+      "name": "ธมลลักษณ์ สบายยิ่งดลเดช",
+      "province": "สมุทรสาคร",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A1%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%94%E0%B8%A5%E0%B9%80%E0%B8%94%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เจ็ดริ้ว",
+      "district": "บ้านแพ้ว",
+      "id": "dc18d33125e72340a65f82d1",
+      "maskedId": "170xxxxxx8621",
+      "name": "นัฐวุฒิ วราสินธุ์",
+      "province": "สมุทรสาคร",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแพ้ว",
+      "district": "บ้านแพ้ว",
+      "id": "83e37461f3ec69a39e218de1",
+      "maskedId": "110xxxxxx4135",
+      "name": "วรวุฒิ สุวรรณปาน",
+      "province": "สมุทรสาคร",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9B%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเกษตรพัฒนา",
+      "district": "บ้านแพ้ว",
+      "id": "69838721947e6aa311da413f",
+      "maskedId": "176xxxxxx4641",
+      "name": "อัมพิกา ตะโกมา",
+      "province": "สมุทรสาคร",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%95%E0%B8%B0%E0%B9%82%E0%B8%81%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลักสอง",
+      "district": "บ้านแพ้ว",
+      "id": "701d65c6f6f12223f39f48bd",
+      "maskedId": "174xxxxxx8502",
+      "name": "เบญจพร ศรีสุดใจ",
+      "province": "สมุทรสาคร",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "59_สมุทรสาคร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%9E%E0%B8%A3-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

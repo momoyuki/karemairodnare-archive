@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "เหนือคลอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เหนือคลอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คลองเขม้า",
+      "district": "เหนือคลอง",
+      "id": "e0a4baf72cf244a09498cacf",
+      "maskedId": "192xxxxxx0321",
+      "name": "ณมล ทองอ่อน",
+      "province": "กระบี่",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%A1%E0%B8%A5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองขนาน",
+      "district": "เหนือคลอง",
+      "id": "17e5c803a07078158330ed0d",
+      "maskedId": "196xxxxxx0003",
+      "name": "ดันยา ลานง",
+      "province": "กระบี่",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B2-%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปกาสัย",
+      "district": "เหนือคลอง",
+      "id": "e10578a65738bbd55fb80185",
+      "maskedId": "192xxxxxx1720",
+      "name": "นลินทิพย์ เทพแก้ว",
+      "province": "กระบี่",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตลิ่งชัน",
+      "district": "เหนือคลอง",
+      "id": "c8af1c611ae53ff31fe1969b",
+      "maskedId": "190xxxxxx8762",
+      "name": "พิชธภาฎา หลับด้วง",
+      "province": "กระบี่",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%98%E0%B8%A0%E0%B8%B2%E0%B8%8E%E0%B8%B2-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.คลองเขม้า",
+      "district": "เหนือคลอง",
+      "id": "75b7086e922d238355a03c70",
+      "maskedId": "193xxxxxx3596",
+      "name": "พุทธชาติ เกลี้ยงอุบล",
+      "province": "กระบี่",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปกาสัย",
+      "district": "เหนือคลอง",
+      "id": "d36de86139f07f3c046b1fab",
+      "maskedId": "193xxxxxx2181",
+      "name": "รัชนีกร เกื้อทิพย์",
+      "province": "กระบี่",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B5%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะศรีบอยา",
+      "district": "เหนือคลอง",
+      "id": "ecadd8e588c7faa17d381575",
+      "maskedId": "190xxxxxx8041",
+      "name": "ลัจชมีย์ สะอีด",
+      "province": "กระบี่",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%88%E0%B8%8A%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B5%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเหนือคลอง",
+      "district": "เหนือคลอง",
+      "id": "afe80ccb7be7d01a052ff63f",
+      "maskedId": "190xxxxxx8666",
+      "name": "ศิฐานุช รอดอิน",
+      "province": "กระบี่",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "64_กระบี่.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%AD%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "เมืองกาญจนบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองกาญจนบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังด้ง",
+      "district": "เมืองกาญจนบุรี",
+      "id": "f1746791e0ef694ecd590ce0",
+      "maskedId": "171xxxxxx8002",
+      "name": "กุลธิดา พยัคฆวงค์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปากแพรก",
+      "district": "เมืองกาญจนบุรี",
+      "id": "dbe1a3d51e0c84ced809318a",
+      "maskedId": "170xxxxxx0970",
+      "name": "ฉัตรชัย ดาฉาว",
+      "province": "กาญจนบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%94%E0%B8%B2%E0%B8%89%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านเก่า",
+      "district": "เมืองกาญจนบุรี",
+      "id": "713d73a16eadc7911386f050",
+      "maskedId": "172xxxxxx6391",
+      "name": "ณัฐพล ปทุมสูตร",
+      "province": "กาญจนบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลเมืองปากแพรก",
+      "district": "เมืองกาญจนบุรี",
+      "id": "8a88577e56b79ef98e145a2a",
+      "maskedId": "336xxxxxx9731",
+      "name": "นฤมล ทองระย้า",
+      "province": "กาญจนบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านเก่า",
+      "district": "เมืองกาญจนบุรี",
+      "id": "092da2007eb3d044701352f8",
+      "maskedId": "171xxxxxx9520",
+      "name": "ปภาวรินท์ ทองพูนรักษ์",
+      "province": "กาญจนบุรี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เกาะสําโรง",
+      "district": "เมืองกาญจนบุรี",
+      "id": "01f9ceeb93460d3cdd9c1d9b",
+      "maskedId": "171xxxxxx0881",
+      "name": "สุธิวัตร ฝักบัว",
+      "province": "กาญจนบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%9D%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B8%B1%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.กาญจนบุรี",
+      "district": "เมืองกาญจนบุรี",
+      "id": "0ee9716767daf19b9330cb97",
+      "maskedId": "141xxxxxx2259",
+      "name": "สุริยา แท่งทองหลาง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B9%81%E0%B8%97%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะสําโรง",
+      "district": "เมืองกาญจนบุรี",
+      "id": "63cb65432d53f4334c061ebc",
+      "maskedId": "171xxxxxx2546",
+      "name": "อัจฉรา จานทอง",
+      "province": "กาญจนบุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B2-%E0%B8%88%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านเก่า",
+      "district": "เมืองกาญจนบุรี",
+      "id": "2a1902abf3c5009077ac603e",
+      "maskedId": "171xxxxxx7298",
+      "name": "ไอญาดา อาชวพิสิฐ",
+      "province": "กาญจนบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%AD%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

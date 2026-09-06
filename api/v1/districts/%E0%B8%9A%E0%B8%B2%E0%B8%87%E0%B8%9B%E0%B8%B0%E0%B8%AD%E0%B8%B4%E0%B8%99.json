@@ -1,0 +1,405 @@
+{
+  "_meta": {
+    "count": 23,
+    "kind": "district",
+    "name": "บางปะอิน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางปะอิน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางประแดง",
+      "district": "บางปะอิน",
+      "id": "cfcb9d34d33fe4750c0c9318",
+      "maskedId": "110xxxxxx1122",
+      "name": "กาญจนา นิลชัย",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วัดยม",
+      "district": "บางปะอิน",
+      "id": "9ee202b5ae878cc01ba3c8a5",
+      "maskedId": "112xxxxxx3481",
+      "name": "กานต์รวี สุธรรม",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%A3%E0%B8%A7%E0%B8%B5-%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางกระสั้น",
+      "district": "บางปะอิน",
+      "id": "346e7781bebb5f2ba19e4ef0",
+      "maskedId": "112xxxxxx0722",
+      "name": "จักกฤษ ทรัพย์คต",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%A4%E0%B8%A9-%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%84%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านสร้าง",
+      "district": "บางปะอิน",
+      "id": "b615fe2b838f180dbc383772",
+      "maskedId": "119xxxxxx1823",
+      "name": "จิรัชญากาณต์ นวลจันทร์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%93%E0%B8%95%E0%B9%8C-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "บางปะอิน",
+      "id": "dcd67b7d784ce2b28684df90",
+      "maskedId": "110xxxxxx9711",
+      "name": "จิราพร ทีจันทึก",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%97%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "5932db76a02a5f897498cbfc",
+      "maskedId": "112xxxxxx3913",
+      "name": "ฉัตรชนก ไตรวงศ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะอิน",
+      "district": "บางปะอิน",
+      "id": "6ef5fb801694b5dae89b0811",
+      "maskedId": "190xxxxxx0731",
+      "name": "ณัฎฐรินันท์ นิลรัตน์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "c85fdcc856e9ac1e40150e7c",
+      "maskedId": "140xxxxxx3708",
+      "name": "ทัศนีย์ หลวงยา",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านสร้าง",
+      "district": "บางปะอิน",
+      "id": "8b8031d9f9b6c4e8b1866158",
+      "maskedId": "119xxxxxx0139",
+      "name": "ธวัชชัย มาเสถียร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%96%E0%B8%B5%E0%B8%A2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วัดยม",
+      "district": "บางปะอิน",
+      "id": "fac8b44da58a796ece521d32",
+      "maskedId": "112xxxxxx7655",
+      "name": "ปิยะพงษ์ ปัญจมณี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%93%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดเกรียบ",
+      "district": "บางปะอิน",
+      "id": "345ae7b811916a266e1ace96",
+      "maskedId": "131xxxxxx7591",
+      "name": "ปิ่นสุดา พลพฤกษ์",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A5%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดเกรียบ",
+      "district": "บางปะอิน",
+      "id": "bece79c494b0c20a749e1e5c",
+      "maskedId": "113xxxxxx5339",
+      "name": "พัฒนพงศ์ ประสาททอง",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%97%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "d2acd8c3504382e25f1dfa98",
+      "maskedId": "110xxxxxx7383",
+      "name": "ภิเษก สมคิด",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B4%E0%B9%80%E0%B8%A9%E0%B8%81-%E0%B8%AA%E0%B8%A1%E0%B8%84%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านหว้า",
+      "district": "บางปะอิน",
+      "id": "68225e3576b783ab57f25c97",
+      "maskedId": "110xxxxxx0891",
+      "name": "มัณฑนา วงศ์เงิน",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%99%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเชียงรากน้อย",
+      "district": "บางปะอิน",
+      "id": "ae7133daa90b68f98882ea54",
+      "maskedId": "110xxxxxx9396",
+      "name": "รัชชานนท์ นาคประดิษฐ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 3,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตลาดเกรียบ",
+      "district": "บางปะอิน",
+      "id": "64fd63a00c5726599f18a9eb",
+      "maskedId": "110xxxxxx4786",
+      "name": "วรรณรัตน์ รอดเจริญ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "บางปะอิน",
+      "id": "f99e44592e0350fa42ef5e5b",
+      "maskedId": "110xxxxxx0037",
+      "name": "ศรัณยู นะราศรี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B8%B9-%E0%B8%99%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "บางปะอิน",
+      "id": "8e71a6f03a9261d84ab66546",
+      "maskedId": "130xxxxxx8308",
+      "name": "สุธิดา โคตรโนนกอก",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B9%82%E0%B8%99%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วัดยม",
+      "district": "บางปะอิน",
+      "id": "b80a2c0863d7c948135150ce",
+      "maskedId": "110xxxxxx9523",
+      "name": "สุภาพร วงศ์ดี",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางปะอิน",
+      "district": "บางปะอิน",
+      "id": "38d3e62755b0b329ee261150",
+      "maskedId": "154xxxxxx9401",
+      "name": "อมลวรรณ ลือโลก",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%A5%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านสร้าง",
+      "district": "บางปะอิน",
+      "id": "300aa243c94eb88af71b786e",
+      "maskedId": "110xxxxxx5655",
+      "name": "อัจฉราพร วิชาพร",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคลองจิก",
+      "district": "บางปะอิน",
+      "id": "6300bcc699006a255358b5f5",
+      "maskedId": "114xxxxxx6481",
+      "name": "อารยา เข็มนาค",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%82%E0%B9%87%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปราสาททอง",
+      "district": "บางปะอิน",
+      "id": "229365d3a75780d0753b6485",
+      "maskedId": "173xxxxxx0116",
+      "name": "เมญาดา พงค์รัชทัศ",
+      "province": "พระนครศรีอยุธยา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "05_พระนครศรีอยุธยา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A1%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%97%E0%B8%B1%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

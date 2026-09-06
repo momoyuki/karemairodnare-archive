@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "วิเศษชัยชาญ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "วิเศษชัยชาญ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลบางจัก",
+      "district": "วิเศษชัยชาญ",
+      "id": "8b3c0d27c0baac38ae61e105",
+      "maskedId": "143xxxxxx0545",
+      "name": "จิราภรณ์ สุพานพิมพ์",
+      "province": "อ่างทอง",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสาวร้องไห้",
+      "district": "วิเศษชัยชาญ",
+      "id": "117231dc06664d8b3d1bcf92",
+      "maskedId": "144xxxxxx5906",
+      "name": "ฐิติธัญญ์ รัตนไชยสีมา",
+      "province": "อ่างทอง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางจัก",
+      "district": "วิเศษชัยชาญ",
+      "id": "587f2af00618341c53c06666",
+      "maskedId": "110xxxxxx7230",
+      "name": "ณัฎฐรีณีย์ อินท่าเสา",
+      "province": "อ่างทอง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8E%E0%B8%90%E0%B8%A3%E0%B8%B5%E0%B8%93%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองขนาก",
+      "district": "วิเศษชัยชาญ",
+      "id": "7523373ab594ef37cd7771a7",
+      "maskedId": "177xxxxxx1739",
+      "name": "ณัฐศักดิ์ สุขสม",
+      "province": "อ่างทอง",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลเจ้าโรงทอง",
+      "district": "วิเศษชัยชาญ",
+      "id": "b6f8cb98bd3cafbdb409f4e4",
+      "maskedId": "143xxxxxx8549",
+      "name": "นริศรา พิมสอน",
+      "province": "อ่างทอง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไผ่วง",
+      "district": "วิเศษชัยชาญ",
+      "id": "24bb28bb19f4bfcb65754245",
+      "maskedId": "172xxxxxx5432",
+      "name": "ภาณุวัฒน์ สมงาม",
+      "province": "อ่างทอง",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางจัก",
+      "district": "วิเศษชัยชาญ",
+      "id": "277bcd1c83be510c89eed710",
+      "maskedId": "172xxxxxx9924",
+      "name": "สุภาพร อรุณโชติ",
+      "province": "อ่างทอง",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางจัก",
+      "district": "วิเศษชัยชาญ",
+      "id": "a92f1cfd112742ef5f3ca782",
+      "maskedId": "112xxxxxx0972",
+      "name": "ไพรัช ทองเรือง",
+      "province": "อ่างทอง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "06_อ่างทอง.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%B1%E0%B8%8A-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

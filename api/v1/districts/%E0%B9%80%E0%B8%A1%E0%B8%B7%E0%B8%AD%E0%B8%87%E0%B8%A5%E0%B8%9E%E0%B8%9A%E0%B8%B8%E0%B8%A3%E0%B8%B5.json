@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "เมืองลพบุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองลพบุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านข่อย",
+      "district": "เมืองลพบุรี",
+      "id": "162229c58954da9b59c80e40",
+      "maskedId": "117xxxxxx4141",
+      "name": "จิราวัฒน์ แสวงเจริญ",
+      "province": "ลพบุรี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกลําพาน",
+      "district": "เมืองลพบุรี",
+      "id": "cca6430d02e527b47c228343",
+      "maskedId": "170xxxxxx3256",
+      "name": "จุฬาลักษณ์ แสนทวีสุข",
+      "province": "ลพบุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โก่งธนู",
+      "district": "เมืองลพบุรี",
+      "id": "7589c6571ea6b7b0b82e90b3",
+      "maskedId": "132xxxxxx3339",
+      "name": "ธีรภัทร ทองเงิน",
+      "province": "ลพบุรี",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกกโก",
+      "district": "เมืองลพบุรี",
+      "id": "a89be3b452cdd2e088e99336",
+      "maskedId": "110xxxxxx9976",
+      "name": "นนทนันทน์ วรรณแมน",
+      "province": "ลพบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โก่งธนู",
+      "district": "เมืองลพบุรี",
+      "id": "d992997fe06914d7b51e4ffb",
+      "maskedId": "116xxxxxx6834",
+      "name": "ปัทมวรรณ ลอยพูล",
+      "province": "ลพบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%97%E0%B8%A1%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%9E%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โก่งธนู",
+      "district": "เมืองลพบุรี",
+      "id": "0a0b0c3cf0b6d0a50f522d38",
+      "maskedId": "116xxxxxx9963",
+      "name": "ศุภวิชญ์ วงษ์สุวรรณ์",
+      "province": "ลพบุรี",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนโพธิ์",
+      "district": "เมืองลพบุรี",
+      "id": "534978cd312f8a767638b624",
+      "maskedId": "310xxxxxx0312",
+      "name": "สุภาวดี รัตนกําเนิด",
+      "province": "ลพบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%81%E0%B9%8D%E0%B8%B2%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าแค",
+      "district": "เมืองลพบุรี",
+      "id": "646f3c06d6c49db9f84d6165",
+      "maskedId": "146xxxxxx8276",
+      "name": "อริยา ยี่สารพัฒน์",
+      "province": "ลพบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าแค",
+      "district": "เมืองลพบุรี",
+      "id": "4d49e9f34a408a16532416ee",
+      "maskedId": "116xxxxxx0421",
+      "name": "อุไรวรรณ คำนันท์",
+      "province": "ลพบุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B9%84%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "count": 6,
+    "kind": "district",
+    "name": "ทับคล้อ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ทับคล้อ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เขาทราย",
+      "district": "ทับคล้อ",
+      "id": "b9ce901ef625757641a5839f",
+      "maskedId": "167xxxxxx2261",
+      "name": "กัญญาณัฐ ทัตเศษ",
+      "province": "พิจิตร",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%97%E0%B8%B1%E0%B8%95%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาเจ็ดลูก",
+      "district": "ทับคล้อ",
+      "id": "8276640cc3701a57b337be36",
+      "maskedId": "167xxxxxx5771",
+      "name": "พัขราภา ลัดลงเมือง",
+      "province": "พิจิตร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%82%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%A5%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท้ายทุ่ง",
+      "district": "ทับคล้อ",
+      "id": "187e43998405543471a47021",
+      "maskedId": "142xxxxxx5477",
+      "name": "ภูริชญา สีแก้ว",
+      "province": "พิจิตร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาทราย",
+      "district": "ทับคล้อ",
+      "id": "49f66fce5099ffb2ab60922a",
+      "maskedId": "163xxxxxx2688",
+      "name": "วริศรา คําสา",
+      "province": "พิจิตร",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทับคล้อ",
+      "district": "ทับคล้อ",
+      "id": "25a316fb5f5802363cea641f",
+      "maskedId": "167xxxxxx1480",
+      "name": "วัชรพงศ์ แย้มจันทร์",
+      "province": "พิจิตร",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาทราย",
+      "district": "ทับคล้อ",
+      "id": "f26bfec4147dacf319e2c543",
+      "maskedId": "167xxxxxx0920",
+      "name": "อนุชิต อุ่นทรัพย์",
+      "province": "พิจิตร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%B4%E0%B8%95-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

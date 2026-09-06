@@ -1,0 +1,422 @@
+{
+  "_meta": {
+    "count": 24,
+    "kind": "province",
+    "name": "สิงห์บุรี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สิงห์บุรี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองบางระจัน",
+      "district": "บางระจัน",
+      "id": "168cc0c98e0bbb94e3f5a390",
+      "maskedId": "117xxxxxx0620",
+      "name": "จิรัชญา เดชสุวรรณ",
+      "province": "สิงห์บุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสิงห์บุรี",
+      "district": "เมืองสิงห์บุรี",
+      "id": "7b4b1662c6f7ac23ea23f93a",
+      "maskedId": "117xxxxxx3607",
+      "name": "ณัฐวุติ สุวรรณดี",
+      "province": "สิงห์บุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%95%E0%B8%B4-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทองเอน",
+      "district": "อินทร์บุรี",
+      "id": "37d0762f905a90c6df651e31",
+      "maskedId": "186xxxxxx2716",
+      "name": "ธนากร รุ่งแสง",
+      "province": "สิงห์บุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โรงช้าง",
+      "district": "พรหมบุรี",
+      "id": "239eeb54a9ef29578bfa9815",
+      "maskedId": "160xxxxxx1461",
+      "name": "ธมณ สนธิโพธิ์",
+      "province": "สิงห์บุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A1%E0%B8%93-%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองสิงห์บุรี",
+      "district": "เมืองสิงห์บุรี",
+      "id": "174afa6f895cf41f7c85ecef",
+      "maskedId": "115xxxxxx0461",
+      "name": "นันทวัน คํากุลมี",
+      "province": "สิงห์บุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สิงห์บุรี",
+      "district": "เมืองสิงห์บุรี",
+      "id": "a1f7d124c1357e4635d9d705",
+      "maskedId": "160xxxxxx1798",
+      "name": "นุชจรีย์ ขันบุรี",
+      "province": "สิงห์บุรี",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%88%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สิงห์บุรี",
+      "district": "เมืองสิงห์บุรี",
+      "id": "c262b7470465322e448cf416",
+      "maskedId": "312xxxxxx9817",
+      "name": "บุสรา นาคสุขปาน",
+      "province": "สิงห์บุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%9B%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สิงห์บุรี",
+      "district": "เมืองสิงห์บุรี",
+      "id": "24f2ed1606e14ac35629bcc5",
+      "maskedId": "110xxxxxx9202",
+      "name": "พัณธาวรรณ เมฆเกลื่อน",
+      "province": "สิงห์บุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%93%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสิงห์บุรี",
+      "district": "เมืองสิงห์บุรี",
+      "id": "ef1459386cfa7922ef288e1a",
+      "maskedId": "118xxxxxx5273",
+      "name": "พิมพ์ศิริ ม่วงบาง",
+      "province": "สิงห์บุรี",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สิงห์บุรี",
+      "district": "เมืองสิงห์บุรี",
+      "id": "1d20a7926fc02c4f16363062",
+      "maskedId": "110xxxxxx1278",
+      "name": "รัฐพล ชูสันตินิรันดร์",
+      "province": "สิงห์บุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%8A%E0%B8%B9%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ต้นโพธิ์",
+      "district": "เมืองสิงห์บุรี",
+      "id": "6241f769d016e183b4160fa3",
+      "maskedId": "172xxxxxx6101",
+      "name": "รุจิรา ยอดฉัตร",
+      "province": "สิงห์บุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางน้ําเชี่ยว",
+      "district": "พรหมบุรี",
+      "id": "f45c9c80b0ca83165292cd96",
+      "maskedId": "140xxxxxx1388",
+      "name": "วิภาฎา หงอกชัย",
+      "province": "สิงห์บุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%8E%E0%B8%B2-%E0%B8%AB%E0%B8%87%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "พรหมบุรี",
+      "id": "ecff888a42c804b38a376bc6",
+      "maskedId": "110xxxxxx6198",
+      "name": "ศิริชัย ศรีสุนทร",
+      "province": "สิงห์บุรี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองกระทุ่ม",
+      "district": "ค่ายบางระจัน",
+      "id": "c86d91e40edc6a1087aa9492",
+      "maskedId": "110xxxxxx8034",
+      "name": "ศิริพร ประภารัตน์",
+      "province": "สิงห์บุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ต้นโพธิ์",
+      "district": "เมืองสิงห์บุรี",
+      "id": "b44e219036c430194874e716",
+      "maskedId": "114xxxxxx0873",
+      "name": "สิริยากร จิตรีงาม",
+      "province": "สิงห์บุรี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พักทัน",
+      "district": "บางระจัน",
+      "id": "85bc9b06bfeda59a17ddb895",
+      "maskedId": "117xxxxxx7166",
+      "name": "สุชาดา สุทธิประภา",
+      "province": "สิงห์บุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสิงห์บุรี",
+      "district": "เมืองสิงห์บุรี",
+      "id": "8b0d833ee1f55b46ab580f37",
+      "maskedId": "117xxxxxx2640",
+      "name": "สุภาภัทร ตะระสุภณ",
+      "province": "สิงห์บุรี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%95%E0%B8%B0%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ลา",
+      "district": "บางระจัน",
+      "id": "50f2cd27df94d70456ed8595",
+      "maskedId": "116xxxxxx4541",
+      "name": "สุวนันท์ พวงชาติ",
+      "province": "สิงห์บุรี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.งิ้วราย",
+      "district": "อินทร์บุรี",
+      "id": "eb7a9367a940d45eb5404565",
+      "maskedId": "141xxxxxx4558",
+      "name": "อนุชิต ผาจวง",
+      "province": "สิงห์บุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%B4%E0%B8%95-%E0%B8%9C%E0%B8%B2%E0%B8%88%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านแป้ง",
+      "district": "พรหมบุรี",
+      "id": "0bed305eb0c43d2a7a72a1f0",
+      "maskedId": "217xxxxxx1039",
+      "name": "อรวรรณ วรรณรัตน์",
+      "province": "สิงห์บุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองสิงห์บุรี",
+      "district": "เมืองสิงห์บุรี",
+      "id": "bc52e0ac104319e362e50810",
+      "maskedId": "117xxxxxx5623",
+      "name": "อัษฎายุธ สกุลงาม",
+      "province": "สิงห์บุรี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A9%E0%B8%8E%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%98-%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางระจัน",
+      "district": "บางระจัน",
+      "id": "f49816bda25e98b701aaffda",
+      "maskedId": "130xxxxxx4231",
+      "name": "อารีรัตน์ พรหมนิล",
+      "province": "สิงห์บุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลทับยา",
+      "district": "อินทร์บุรี",
+      "id": "a369ce655f3b92975c4e9bcf",
+      "maskedId": "122xxxxxx3060",
+      "name": "อาวีณา หริ่งรอด",
+      "province": "สิงห์บุรี",
+      "scoreChange": 2,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B8%B2-%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.สิงห์บุรี",
+      "district": "เมืองสิงห์บุรี",
+      "id": "f5c043885a22f4a0dc8a5cae",
+      "maskedId": "118xxxxxx3689",
+      "name": "เบญญาภา แสนรส",
+      "province": "สิงห์บุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "08_สิงห์บุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A3%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

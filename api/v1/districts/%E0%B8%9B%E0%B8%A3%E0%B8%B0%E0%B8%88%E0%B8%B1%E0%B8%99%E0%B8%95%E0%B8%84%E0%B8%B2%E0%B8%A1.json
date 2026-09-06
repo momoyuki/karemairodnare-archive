@@ -1,0 +1,184 @@
+{
+  "_meta": {
+    "count": 10,
+    "kind": "district",
+    "name": "ประจันตคาม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ประจันตคาม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ประจันตคาม",
+      "district": "ประจันตคาม",
+      "id": "d2491f90473377b4c7712026",
+      "maskedId": "133xxxxxx8890",
+      "name": "ชินลดา อุทัยชิน",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพธิ์งาม",
+      "district": "ประจันตคาม",
+      "id": "c8df9351c02555e6a5774313",
+      "maskedId": "110xxxxxx2032",
+      "name": "ณัฐจิโรจน์ หมวกกลั่น",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%88%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%81%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําโตนด",
+      "district": "ประจันตคาม",
+      "id": "6d7010ba08b1861b68bdaff6",
+      "maskedId": "152xxxxxx8351",
+      "name": "ตรีชนนท์ พิทยาธำรง",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%98%E0%B8%B3%E0%B8%A3%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําโตนด",
+      "district": "ประจันตคาม",
+      "id": "fae8a9cb24cde662fe99e667",
+      "maskedId": "125xxxxxx3775",
+      "name": "ถาวรีย์ อ่อนเกิด",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําโตนด",
+      "district": "ประจันตคาม",
+      "id": "23d3723070848b068832e8ed",
+      "maskedId": "119xxxxxx8759",
+      "name": "พงศธร แพทย์เจริญ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%98%E0%B8%A3-%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําโตนด",
+      "district": "ประจันตคาม",
+      "id": "a3b8951e81006217957e0032",
+      "maskedId": "126xxxxxx2944",
+      "name": "มินตรา ทองพุ่ม",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประจันตคาม",
+      "district": "ประจันตคาม",
+      "id": "deda1638f54fc21f26c455b2",
+      "maskedId": "126xxxxxx2711",
+      "name": "วีรนุช วิกสิต",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพธิ์งาม",
+      "district": "ประจันตคาม",
+      "id": "3f01c9d1bd088c7fcafa576a",
+      "maskedId": "110xxxxxx7252",
+      "name": "ศุภาวรรณ พูลเจริญ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประจันตคาม",
+      "district": "ประจันตคาม",
+      "id": "27c398a04101a118df1c207d",
+      "maskedId": "126xxxxxx1571",
+      "name": "สุกาญจนา จันวัตร์",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองแสง",
+      "district": "ประจันตคาม",
+      "id": "81e8fee6e31f084a9d3505ba",
+      "maskedId": "125xxxxxx9686",
+      "name": "อมรรัตน์ อ่อนอรรถ",
+      "province": "ปราจีนบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "16_ปราจีนบุรี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B8%A3%E0%B8%96",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "agency",
+    "name": "อบต.เกาะพยาม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-เกาะพยาม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เกาะพยาม",
+      "district": "เมืองระนอง",
+      "id": "f194e2d61adc1b52e2bdfb17",
+      "maskedId": "290xxxxxx2853",
+      "name": "กัณฑ์ชรี บริรักษ์",
+      "province": "ระนอง",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%8A%E0%B8%A3%E0%B8%B5-%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะพยาม",
+      "district": "เมืองระนอง",
+      "id": "04ff8a719c26b9a21fa334ab",
+      "maskedId": "190xxxxxx7925",
+      "name": "กิติยา ศิริอนันต์",
+      "province": "ระนอง",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะพยาม",
+      "district": "เมืองระนอง",
+      "id": "ecccf7effd9323c524557287",
+      "maskedId": "195xxxxxx8566",
+      "name": "ทิวัตถ์ ทัศนลีลพร",
+      "province": "ระนอง",
+      "scoreChange": 66,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C-%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B8%A5%E0%B8%B5%E0%B8%A5%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะพยาม",
+      "district": "เมืองระนอง",
+      "id": "9986de96f29db7f629b1b650",
+      "maskedId": "190xxxxxx2025",
+      "name": "นลินทิพย์ ยังช่วย",
+      "province": "ระนอง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกาะพยาม",
+      "district": "เมืองระนอง",
+      "id": "a1dc6e5c5594c8e1b63378be",
+      "maskedId": "186xxxxxx7753",
+      "name": "ปริชญา เล่งระบำ",
+      "province": "ระนอง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "68_ระนอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "เมืองตรัง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองตรัง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.น้ําผุด",
+      "district": "เมืองตรัง",
+      "id": "120b121be8379d1a6190af64",
+      "maskedId": "190xxxxxx6341",
+      "name": "ชวัลนุช สุขพรหม",
+      "province": "ตรัง",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.นาท่ามใต้",
+      "district": "เมืองตรัง",
+      "id": "d48ba8f349a9015ed3d46d78",
+      "maskedId": "191xxxxxx9415",
+      "name": "ทิพย์ธิยา หมาดเต๊ะ",
+      "province": "ตรัง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%98%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%95%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ควนปริง",
+      "district": "เมืองตรัง",
+      "id": "a3b3d518d956522d689f8a01",
+      "maskedId": "191xxxxxx7216",
+      "name": "นิสารัตน์ สอนคง",
+      "province": "ตรัง",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาโยงใต้",
+      "district": "เมืองตรัง",
+      "id": "6ef6aa2a7913931ef62390fb",
+      "maskedId": "191xxxxxx4350",
+      "name": "บัณฑิต หลังเศษ",
+      "province": "ตรัง",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาบินหลา",
+      "district": "เมืองตรัง",
+      "id": "78135be39c53d90866d510c7",
+      "maskedId": "191xxxxxx5882",
+      "name": "ปรีดารัตน์ แก้ววารี",
+      "province": "ตรัง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางรัก",
+      "district": "เมืองตรัง",
+      "id": "87fbe6be9ab128454a857cdb",
+      "maskedId": "190xxxxxx6166",
+      "name": "พลอยไพลิน ศัทโธ",
+      "province": "ตรัง",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B9%84%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%99-%E0%B8%A8%E0%B8%B1%E0%B8%97%E0%B9%82%E0%B8%98",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.น้ําผุด",
+      "district": "เมืองตรัง",
+      "id": "8a7bbb35d1d8e102fb8cb490",
+      "maskedId": "195xxxxxx3288",
+      "name": "ภัทราวดี ศรีประชุม",
+      "province": "ตรัง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.บางรัก",
+      "district": "เมืองตรัง",
+      "id": "b6b4084d662fe72666da96b3",
+      "maskedId": "192xxxxxx6822",
+      "name": "วรวรรณ วิสุทธิกาญจน์",
+      "province": "ตรัง",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ควนปริง",
+      "district": "เมืองตรัง",
+      "id": "450d8b09120412d9a589f8d4",
+      "maskedId": "195xxxxxx9348",
+      "name": "สุภิญญา สามห้วย",
+      "province": "ตรัง",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

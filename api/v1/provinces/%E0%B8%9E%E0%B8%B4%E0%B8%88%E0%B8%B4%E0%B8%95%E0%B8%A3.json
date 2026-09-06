@@ -1,0 +1,1119 @@
+{
+  "_meta": {
+    "count": 65,
+    "kind": "province",
+    "name": "พิจิตร",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พิจิตร",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ท่าบัว",
+      "district": "โพทะเล",
+      "id": "7e6bde6f8691a7b51f7815e4",
+      "maskedId": "160xxxxxx6911",
+      "name": "กมลชนก แจ้งจบ",
+      "province": "พิจิตร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%88%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาทราย",
+      "district": "ทับคล้อ",
+      "id": "b9ce901ef625757641a5839f",
+      "maskedId": "167xxxxxx2261",
+      "name": "กัญญาณัฐ ทัตเศษ",
+      "province": "พิจิตร",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%97%E0%B8%B1%E0%B8%95%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท้ายน้ำ",
+      "district": "โพทะเล",
+      "id": "4d235d6f0f31d8d826dea27f",
+      "maskedId": "110xxxxxx5548",
+      "name": "กิตติคุณ เผื่อนน้อย",
+      "province": "พิจิตร",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%B8%E0%B8%93-%E0%B9%80%E0%B8%9C%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "9702199f340c6f2ffc278f75",
+      "maskedId": "119xxxxxx2500",
+      "name": "กิตติยาภรณ์ วิภาจักษณกุล",
+      "province": "พิจิตร",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหัวดง",
+      "district": "เมืองพิจิตร",
+      "id": "7db46a2bbe34807c16217cdb",
+      "maskedId": "167xxxxxx5587",
+      "name": "คธาวุธ ขําบุญ",
+      "province": "พิจิตร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%98%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%98-%E0%B8%82%E0%B9%8D%E0%B8%B2%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังโมกข์",
+      "district": "วชิรบารมี",
+      "id": "1ee4018b7eb2894c158c62ba",
+      "maskedId": "154xxxxxx5509",
+      "name": "จณิสตา โฮ้งจิก",
+      "province": "พิจิตร",
+      "scoreChange": 12,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%93%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B8%B2-%E0%B9%82%E0%B8%AE%E0%B9%89%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังโมกข์",
+      "district": "วชิรบารมี",
+      "id": "17d1600715fe904aaab4b426",
+      "maskedId": "384xxxxxx0711",
+      "name": "จิรนัฏ ธรรมรักษา",
+      "province": "พิจิตร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%8F-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยร่วม",
+      "district": "ดงเจริญ",
+      "id": "ca11944165014dac9d5fe750",
+      "maskedId": "166xxxxxx4946",
+      "name": "จิรายุส บุญเอี่ยม",
+      "province": "พิจิตร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%AA-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.วังตะกู",
+      "district": "บางมูลนาก",
+      "id": "95503c1eb42db1d267a6cec5",
+      "maskedId": "166xxxxxx8130",
+      "name": "ชลธิชา คำเด่น",
+      "province": "พิจิตร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%84%E0%B8%B3%E0%B9%80%E0%B8%94%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองบางมูลนาก",
+      "district": "บางมูลนาก",
+      "id": "6516fa4f36241d153b5be54a",
+      "maskedId": "110xxxxxx1085",
+      "name": "ชลาลัย จันตะเภา",
+      "province": "พิจิตร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองทราย",
+      "district": "สากเหล็ก",
+      "id": "2f1214e254fdf89fe703b955",
+      "maskedId": "118xxxxxx1263",
+      "name": "ชัณยา เขียวผึ้ง",
+      "province": "พิจิตร",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลเมืองบางมูลนาก",
+      "district": "บางมูลนาก",
+      "id": "96c36213a34d2c5f28768741",
+      "maskedId": "120xxxxxx2891",
+      "name": "ชุติพร เจือแสง",
+      "province": "พิจิตร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังงิ้ว",
+      "district": "ดงเจริญ",
+      "id": "18163b81d66a21ad104bb188",
+      "maskedId": "167xxxxxx7991",
+      "name": "ชไมพร พลทอง",
+      "province": "พิจิตร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B9%84%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%A5%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหัวดง",
+      "district": "เมืองพิจิตร",
+      "id": "e9cc30e4673114b63fc57c48",
+      "maskedId": "166xxxxxx2961",
+      "name": "ฐิติวรดา ทองไพบูรณ์",
+      "province": "พิจิตร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%9E%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ท่านั่ง",
+      "district": "โพทะเล",
+      "id": "2588b2d072a51a89465eae05",
+      "maskedId": "162xxxxxx3838",
+      "name": "ณัฐพล กำแพงแก้ว",
+      "province": "พิจิตร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%81%E0%B8%B3%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "0309c4c7bc3c0d4ea025293b",
+      "maskedId": "116xxxxxx5791",
+      "name": "ณัฐพล สิทธิทูล",
+      "province": "พิจิตร",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%97%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวังบงค์",
+      "district": "ดงเจริญ",
+      "id": "810416c173c08799ad4bfff3",
+      "maskedId": "143xxxxxx6027",
+      "name": "ทวิปิญา โคมทอง",
+      "province": "พิจิตร",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A7%E0%B8%B4%E0%B8%9B%E0%B8%B4%E0%B8%8D%E0%B8%B2-%E0%B9%82%E0%B8%84%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพธิ์ประทับช้าง",
+      "district": "โพธิ์ประทับช้าง",
+      "id": "9a3b262e7eaf3a74c064c0d3",
+      "maskedId": "167xxxxxx4961",
+      "name": "ธัญจิรา บุตรา",
+      "province": "พิจิตร",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางไผ่",
+      "district": "บางมูลนาก",
+      "id": "b9f99cff36967993aece03a9",
+      "maskedId": "166xxxxxx5372",
+      "name": "ธัญชนก เชื้อวีระชน",
+      "province": "พิจิตร",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สามง่าม",
+      "district": "สามง่าม",
+      "id": "80939d0d0cc80e508bf9bc39",
+      "maskedId": "166xxxxxx7444",
+      "name": "ธัญชรินทร์ ธนศรีวิวัฒน์",
+      "province": "พิจิตร",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%98%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสากเหล็ก",
+      "district": "สากเหล็ก",
+      "id": "c31af76e79ae7e8684704b15",
+      "maskedId": "167xxxxxx8010",
+      "name": "ธันยนันท์ จันทร์ศรีนภา",
+      "province": "พิจิตร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองพระ",
+      "district": "วังทรายพูน",
+      "id": "1d9dc8652c0cfffa2b20d3bc",
+      "maskedId": "167xxxxxx1437",
+      "name": "นิศา ข่าวดี",
+      "province": "พิจิตร",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ท่าขมิ้น",
+      "district": "โพทะเล",
+      "id": "3b5a69330b4814bad4893fe4",
+      "maskedId": "160xxxxxx3085",
+      "name": "น้ําฝน ชัยโย",
+      "province": "พิจิตร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%9D%E0%B8%99-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%82%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังโมกข์",
+      "district": "วชิรบารมี",
+      "id": "378336b49eae386323b62a3d",
+      "maskedId": "166xxxxxx4611",
+      "name": "ปริญญา ขันทอง",
+      "province": "พิจิตร",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางไผ่",
+      "district": "บางมูลนาก",
+      "id": "bfe1a3865c49d1daa7d2595e",
+      "maskedId": "165xxxxxx4962",
+      "name": "พนิดา กวยทะวิมล",
+      "province": "พิจิตร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%81%E0%B8%A7%E0%B8%A2%E0%B8%97%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่ามะคาบ",
+      "district": "เมืองพิจิตร",
+      "id": "93e0e2358756bcb123945194",
+      "maskedId": "111xxxxxx6097",
+      "name": "พรรณรัตน์ รุ่งฉัตร",
+      "province": "พิจิตร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเนินมะกอก",
+      "district": "บางมูลนาก",
+      "id": "0c2e6911ac5cb14b7ede9b84",
+      "maskedId": "160xxxxxx4180",
+      "name": "พลากร อรุณโน",
+      "province": "พิจิตร",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%82%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาเจ็ดลูก",
+      "district": "ทับคล้อ",
+      "id": "8276640cc3701a57b337be36",
+      "maskedId": "167xxxxxx5771",
+      "name": "พัขราภา ลัดลงเมือง",
+      "province": "พิจิตร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%82%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%A5%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "39618c4b855bc06b81b26962",
+      "maskedId": "165xxxxxx0803",
+      "name": "พัชรนันท์ ทองสอน",
+      "province": "พิจิตร",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังกรด",
+      "district": "เมืองพิจิตร",
+      "id": "164c2e9840e1479606329637",
+      "maskedId": "167xxxxxx0001",
+      "name": "พัชรพล วงเวียน",
+      "province": "พิจิตร",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหอไกร",
+      "district": "บางมูลนาก",
+      "id": "88c979adc20556c631cce507",
+      "maskedId": "160xxxxxx8991",
+      "name": "พิชญาภา ศรีมาก",
+      "province": "พิจิตร",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%B2%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังโมกข์",
+      "district": "วชิรบารมี",
+      "id": "aced1cea2c2c32444a32d9a8",
+      "maskedId": "165xxxxxx9188",
+      "name": "พิพัฒน์ ทองทา",
+      "province": "พิจิตร",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "e7f04567af893adab139b5fa",
+      "maskedId": "167xxxxxx3281",
+      "name": "พิษณุ ทัตเศษ",
+      "province": "พิจิตร",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8-%E0%B8%97%E0%B8%B1%E0%B8%95%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "e27aa6b887aec839fea87451",
+      "maskedId": "367xxxxxx4062",
+      "name": "ภัทรภร ทัตเศษ",
+      "province": "พิจิตร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A0%E0%B8%A3-%E0%B8%97%E0%B8%B1%E0%B8%95%E0%B9%80%E0%B8%A8%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท้ายทุ่ง",
+      "district": "ทับคล้อ",
+      "id": "187e43998405543471a47021",
+      "maskedId": "142xxxxxx5477",
+      "name": "ภูริชญา สีแก้ว",
+      "province": "พิจิตร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองหญ้าไทร",
+      "district": "สากเหล็ก",
+      "id": "6c1556d4faaa8eee82710e2e",
+      "maskedId": "366xxxxxx0783",
+      "name": "รุ่งนภา ทองแก้ว",
+      "province": "พิจิตร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสากเหล็ก",
+      "district": "สากเหล็ก",
+      "id": "ac84bf269f7fc329e18355b3",
+      "maskedId": "114xxxxxx1908",
+      "name": "วรพงษ์ แจ่มเจริญ",
+      "province": "พิจิตร",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยร่วม",
+      "district": "ดงเจริญ",
+      "id": "f2d26b3da5a555c19cb82aaf",
+      "maskedId": "160xxxxxx3834",
+      "name": "วราภรณ์ สงวนกลิ่น",
+      "province": "พิจิตร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%87%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.เขาทราย",
+      "district": "ทับคล้อ",
+      "id": "49f66fce5099ffb2ab60922a",
+      "maskedId": "163xxxxxx2688",
+      "name": "วริศรา คําสา",
+      "province": "พิจิตร",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทับคล้อ",
+      "district": "ทับคล้อ",
+      "id": "25a316fb5f5802363cea641f",
+      "maskedId": "167xxxxxx1480",
+      "name": "วัชรพงศ์ แย้มจันทร์",
+      "province": "พิจิตร",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%81%E0%B8%A2%E0%B9%89%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองพระ",
+      "district": "วังทรายพูน",
+      "id": "2237ce81b3d442d3b3cdb23d",
+      "maskedId": "167xxxxxx0853",
+      "name": "วัชรวิทย์ ปังศรี",
+      "province": "พิจิตร",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งน้อย",
+      "district": "โพทะเล",
+      "id": "51df30af9a63633f7b2c82da",
+      "maskedId": "162xxxxxx7729",
+      "name": "วิชชากร เริงชัยภูมิ",
+      "province": "พิจิตร",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.คลองทราย",
+      "district": "สากเหล็ก",
+      "id": "062bfdbc89866cf1b8c7e3dc",
+      "maskedId": "110xxxxxx5438",
+      "name": "วิภารัตน์ พุ่มพูล",
+      "province": "พิจิตร",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "886847c2242df668fc69cf4a",
+      "maskedId": "161xxxxxx5036",
+      "name": "ศุภชัย สวัสดี",
+      "province": "พิจิตร",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พิจิตร",
+      "district": "เมืองพิจิตร",
+      "id": "f700f83968fd0cac6f67c0dd",
+      "maskedId": "165xxxxxx4393",
+      "name": "ศุภณัฐ เอี่ยมรอด",
+      "province": "พิจิตร",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.รังนก",
+      "district": "สามง่าม",
+      "id": "e2ed34dfbb943a85a4f86a47",
+      "maskedId": "140xxxxxx2501",
+      "name": "สยาม สายคํา",
+      "province": "พิจิตร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางมูลนาก",
+      "district": "บางมูลนาก",
+      "id": "e863a4f51886d51ecd8c2a60",
+      "maskedId": "142xxxxxx4633",
+      "name": "สาโรช วังคีรี",
+      "province": "พิจิตร",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B8%8A-%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังกรด",
+      "district": "เมืองพิจิตร",
+      "id": "faefd7f0ea127a55cf4b59cb",
+      "maskedId": "167xxxxxx6348",
+      "name": "สิรวิชญ์ ศรีสีฐาน",
+      "province": "พิจิตร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B5%E0%B8%90%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังงิ้ว",
+      "district": "ดงเจริญ",
+      "id": "fab6765572c42d8a6b06fdab",
+      "maskedId": "160xxxxxx3341",
+      "name": "สิรินภา ดำนงค์",
+      "province": "พิจิตร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%94%E0%B8%B3%E0%B8%99%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังโมกข์",
+      "district": "วชิรบารมี",
+      "id": "f1556a7ac2fcfbc1c69c4028",
+      "maskedId": "110xxxxxx4663",
+      "name": "สุดาทิพย์ อินแสง",
+      "province": "พิจิตร",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังหว้า",
+      "district": "ตะพานหิน",
+      "id": "7c7fcb3bbf96e7c60f520e22",
+      "maskedId": "167xxxxxx9242",
+      "name": "สุทธิชัย มาตย์ประสงค์",
+      "province": "พิจิตร",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังโมกข์",
+      "district": "วชิรบารมี",
+      "id": "3dcd6a3f7d469d3eb33df51b",
+      "maskedId": "162xxxxxx5162",
+      "name": "สุธิดา บุญเอี่ยม",
+      "province": "พิจิตร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองตะพานหิน",
+      "district": "ตะพานหิน",
+      "id": "3d9cd3e3c4255848c86af512",
+      "maskedId": "167xxxxxx3670",
+      "name": "สุพรรษา แสงจันดา",
+      "province": "พิจิตร",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%A9%E0%B8%B2-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังสําโรง",
+      "district": "ตะพานหิน | บางมูลนาก",
+      "id": "849bd861dbfc06ffefbd0fca",
+      "maskedId": "166xxxxxx9187",
+      "name": "สุภาวดี สุทธมนัสวงษ์",
+      "province": "พิจิตร",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%AA%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลสามง่าม",
+      "district": "สามง่าม",
+      "id": "9a0bff9c031f21d22ba83fc0",
+      "maskedId": "166xxxxxx5234",
+      "name": "สุมิตรา บุญเอี่ยม",
+      "province": "พิจิตร",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านน้อย",
+      "district": "โพทะเล",
+      "id": "98da9567ab16aae98bf82231",
+      "maskedId": "160xxxxxx0951",
+      "name": "หทัยชนก ช่วยไทย",
+      "province": "พิจิตร",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาทราย",
+      "district": "ทับคล้อ",
+      "id": "f26bfec4147dacf319e2c543",
+      "maskedId": "167xxxxxx0920",
+      "name": "อนุชิต อุ่นทรัพย์",
+      "province": "พิจิตร",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%B4%E0%B8%95-%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าขมิ้น",
+      "district": "โพทะเล",
+      "id": "13e688816679604848fb185d",
+      "maskedId": "166xxxxxx4771",
+      "name": "อริสรา นรัญรักษ์",
+      "province": "พิจิตร",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าบัว",
+      "district": "โพทะเล",
+      "id": "f45c0060708e97cd5331a4c4",
+      "maskedId": "567xxxxxx1176",
+      "name": "อัญชลี ฝ่ายสงฆ์",
+      "province": "พิจิตร",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A5%E0%B8%B5-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%87%E0%B8%86%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองทราย",
+      "district": "สากเหล็ก",
+      "id": "ce028178d8ce0224dcf98420",
+      "maskedId": "165xxxxxx8762",
+      "name": "อาภัสรา ชื่นอารมย์",
+      "province": "พิจิตร",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B8%B2-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ท่านั่ง",
+      "district": "โพทะเล",
+      "id": "b070c964f61c2b7c172eafc7",
+      "maskedId": "166xxxxxx9740",
+      "name": "อาริษา กีสด",
+      "province": "พิจิตร",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%81%E0%B8%B5%E0%B8%AA%E0%B8%94",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลบางคลาน",
+      "district": "โพทะเล",
+      "id": "7d1091c0633e563cc751e768",
+      "maskedId": "160xxxxxx8877",
+      "name": "อารียา ชื่นศรีนวล",
+      "province": "พิจิตร",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลไผ่รอบ",
+      "district": "โพธิ์ประทับช้าง",
+      "id": "a91b004ab28f273732902d7b",
+      "maskedId": "160xxxxxx0461",
+      "name": "เกศริน มูลจรัส",
+      "province": "พิจิตร",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A8%E0%B8%A3%E0%B8%B4%E0%B8%99-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลําประดา",
+      "district": "บางมูลนาก",
+      "id": "31571b7da36ec0e72ee174d9",
+      "maskedId": "360xxxxxx3814",
+      "name": "เบญจมาศ เครือคํา",
+      "province": "พิจิตร",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%84%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังงิ้ว",
+      "district": "ดงเจริญ",
+      "id": "355d2c5a4b9c043b6e0e9727",
+      "maskedId": "160xxxxxx3256",
+      "name": "เอกภพ สุขอ่ํา",
+      "province": "พิจิตร",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "53_พิจิตร.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A0%E0%B8%9E-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AD%E0%B9%88%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

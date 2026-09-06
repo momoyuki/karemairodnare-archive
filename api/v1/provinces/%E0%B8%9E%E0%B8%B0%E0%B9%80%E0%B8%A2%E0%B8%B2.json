@@ -1,0 +1,320 @@
+{
+  "_meta": {
+    "count": 18,
+    "kind": "province",
+    "name": "พะเยา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "พะเยา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลป่าแฝก",
+      "district": "แม่ใจ",
+      "id": "dec56276ed10e07353a8bde2",
+      "maskedId": "156xxxxxx1991",
+      "name": "กมลทิพย์ ช่างคำ",
+      "province": "พะเยา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ป่าซาง",
+      "district": "ดอกคำใต้",
+      "id": "6b5a98ce5734573ed1c32c53",
+      "maskedId": "184xxxxxx4206",
+      "name": "จตุรณต์ ขันธนิเทศ",
+      "province": "พะเยา",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%93%E0%B8%95%E0%B9%8C-%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%97%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ร่มเย็น",
+      "district": "เชียงคำ",
+      "id": "40f91c2183497b4c8ecc22a8",
+      "maskedId": "155xxxxxx2069",
+      "name": "จิรภัทร วงศ์ใจ",
+      "province": "พะเยา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่ใจ",
+      "district": "แม่ใจ",
+      "id": "cf7f709559e55842e9841b5f",
+      "maskedId": "154xxxxxx4920",
+      "name": "ชวิศา เทพนามวงศ์",
+      "province": "พะเยา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองพะเยา",
+      "district": "เมืองพะเยา",
+      "id": "bff574581c2d6faacbc85fb4",
+      "maskedId": "156xxxxxx5167",
+      "name": "ณัชชา ต่อด่านกลาง",
+      "province": "พะเยา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลดงเจน",
+      "district": "ภูกามยาว",
+      "id": "2f53e6682a6ba5aa59a840b9",
+      "maskedId": "156xxxxxx0184",
+      "name": "ดลภัทร เรือนสอน",
+      "province": "พะเยา",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%A5%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ร่มเย็น",
+      "district": "เชียงคำ",
+      "id": "19617c291335163bec52292a",
+      "maskedId": "156xxxxxx3989",
+      "name": "ธนวินท์ มาสุข",
+      "province": "พะเยา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองพะเยา",
+      "district": "เมืองพะเยา",
+      "id": "5e85d6dcebb4f4e6e6132dd8",
+      "maskedId": "150xxxxxx4509",
+      "name": "ปาริชาติ กันทะวงค์",
+      "province": "พะเยา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลฝายกวาง",
+      "district": "เชียงคำ",
+      "id": "17329eeee86d71a2ab1a1660",
+      "maskedId": "156xxxxxx4778",
+      "name": "รดิวันต์ เผ่าแสง",
+      "province": "พะเยา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.พะเยา",
+      "district": "เมืองพะเยา",
+      "id": "624b071783222c0bb7e757b4",
+      "maskedId": "150xxxxxx8652",
+      "name": "รัชนี รักษากิจ",
+      "province": "พะเยา",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B5-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งรวงทอง",
+      "district": "จุน",
+      "id": "4eda0b359abd05f8f5907bb9",
+      "maskedId": "156xxxxxx8193",
+      "name": "วัชรพล ธรรมสอน",
+      "province": "พะเยา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A5-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลห้วยลาน",
+      "district": "ดอกคำใต้",
+      "id": "a6fecfd7393b24d694ba310e",
+      "maskedId": "152xxxxxx9239",
+      "name": "วิทยา รูปงาม",
+      "province": "พะเยา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลห้วยลาน",
+      "district": "ดอกคำใต้",
+      "id": "1ba104bfae8d2083e54e5eed",
+      "maskedId": "156xxxxxx7614",
+      "name": "วุฒยาภรณ์ ปัญญา",
+      "province": "พะเยา",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเชียงม่วน",
+      "district": "เชียงม่วน",
+      "id": "82b6c184d4390a8466717dab",
+      "maskedId": "254xxxxxx5225",
+      "name": "ศรัณย์พงศ์ สะเอียบคง",
+      "province": "พะเยา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%93%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%AA%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%9A%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลรวมใจพัฒนา",
+      "district": "แม่ใจ",
+      "id": "72a533e4fe8cf8edfe105b01",
+      "maskedId": "152xxxxxx5467",
+      "name": "ศศิธร ตุทานนท์",
+      "province": "พะเยา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B8%95%E0%B8%B8%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลห้วยลาน",
+      "district": "ดอกคำใต้",
+      "id": "6e58a1d7f8dbbf581fc1de3d",
+      "maskedId": "151xxxxxx7482",
+      "name": "ศิวนาถ นันตา",
+      "province": "พะเยา",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%96-%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลศรีถ้อย",
+      "district": "แม่ใจ",
+      "id": "b959bd443bb92e15a0c2891b",
+      "maskedId": "156xxxxxx1033",
+      "name": "สุณิสา ธิอินโต",
+      "province": "พะเยา",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%93%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%98%E0%B8%B4%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลจุน",
+      "district": "จุน",
+      "id": "fca646b5dae82e4035aedec8",
+      "maskedId": "156xxxxxx6880",
+      "name": "เจนจิรา รินยานนท์",
+      "province": "พะเยา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "44_พะเยา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

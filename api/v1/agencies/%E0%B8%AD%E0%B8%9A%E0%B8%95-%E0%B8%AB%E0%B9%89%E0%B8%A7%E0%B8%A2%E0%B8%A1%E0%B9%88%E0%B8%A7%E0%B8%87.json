@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "อบต.ห้วยม่วง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ห้วยม่วง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "1b90743a5286f18ddbf9607f",
+      "maskedId": "170xxxxxx9938",
+      "name": "ขจรศักดิ์ จันทร์ดี",
+      "province": "นครปฐม",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%88%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "e4fb211ee487cd15a00c2709",
+      "maskedId": "171xxxxxx8923",
+      "name": "ปิยะวัฒน์ เห็นประเสริฐ",
+      "province": "นครปฐม",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "7a3bdeb45e907e83dde0fd7f",
+      "maskedId": "166xxxxxx6619",
+      "name": "พรพิมล จิรวัฒน์จันทร์",
+      "province": "นครปฐม",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ห้วยม่วง",
+      "district": "กำแพงแสน",
+      "id": "32c80bfe581d2eda5460ac4e",
+      "maskedId": "172xxxxxx0167",
+      "name": "สุวัฒน์ พฤกษาโชติรัตน์",
+      "province": "นครปฐม",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "58_นครปฐม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

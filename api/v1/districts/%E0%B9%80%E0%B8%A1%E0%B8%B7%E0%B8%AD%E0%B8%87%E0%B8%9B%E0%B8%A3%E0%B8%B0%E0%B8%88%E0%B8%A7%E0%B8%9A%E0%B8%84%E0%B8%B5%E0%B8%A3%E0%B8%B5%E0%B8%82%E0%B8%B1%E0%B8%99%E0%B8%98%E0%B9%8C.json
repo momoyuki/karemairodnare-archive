@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "district",
+    "name": "เมืองประจวบคีรีขันธ์",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองประจวบคีรีขันธ์",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบจ.ประจวบคีรีขันธ์",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "id": "88dddcd38bc194f52e90520d",
+      "maskedId": "177xxxxxx6462",
+      "name": "มนัส สีเมฆ",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%AA-%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%86",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ประจวบคีรีขันธ์",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "id": "abf781705f0cc4838b42b10a",
+      "maskedId": "176xxxxxx5003",
+      "name": "วราลี ทรัพย์สิน",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B8%B5-%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ประจวบคีรีขันธ์",
+      "district": "เมืองประจวบคีรีขันธ์",
+      "id": "d43fd5beff0ebca1dda12445",
+      "maskedId": "170xxxxxx7090",
+      "name": "ไชยทัศน์ ศศิกาญจน์สกุล",
+      "province": "ประจวบคีรีขันธ์",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "62_ประจวบคีรีขันธ์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

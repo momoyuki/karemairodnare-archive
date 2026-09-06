@@ -1,0 +1,354 @@
+{
+  "_meta": {
+    "count": 20,
+    "kind": "province",
+    "name": "แม่ฮ่องสอน",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "แม่ฮ่องสอน",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.เมืองแปง",
+      "district": "ปาย",
+      "id": "4ca3c6eb8be9ac55bd67bdad",
+      "maskedId": "158xxxxxx3229",
+      "name": "ชัชวาล ต้าวแอ้ม",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%A7%E0%B8%B2%E0%B8%A5-%E0%B8%95%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%AD%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ยวมน้อย",
+      "district": "ขุนยวม",
+      "id": "350504d1291c1934f1bf05c0",
+      "maskedId": "158xxxxxx5303",
+      "name": "ฐาปนพงค์ กัณฑศรีมา",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B2%E0%B8%9B%E0%B8%99%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%81%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ลาหลวง",
+      "district": "แม่ลาน้อย",
+      "id": "cf610b05b81edd1e5e7edda5",
+      "maskedId": "152xxxxxx7096",
+      "name": "ณัฐธกา วังกาวี",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%81%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่สวด",
+      "district": "สบเมย",
+      "id": "0903fc98dd1000cde911e3af",
+      "maskedId": "158xxxxxx2152",
+      "name": "ณิชาภัทร แพทย์ชายแดน",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปาย",
+      "district": "ปาย",
+      "id": "b370b42ab810a663880e924d",
+      "maskedId": "158xxxxxx8518",
+      "name": "ดาราณี นาวี",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่สวด",
+      "district": "สบเมย",
+      "id": "bb2f0e52bad8f69c2797ec84",
+      "maskedId": "150xxxxxx6525",
+      "name": "ธนัชพร จินดาปุก",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8A%E0%B8%9E%E0%B8%A3-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%9B%E0%B8%B8%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปางหมู",
+      "district": "เมืองแม่ฮ่องสอน",
+      "id": "1e4919a13cd292a6bbfd5fc0",
+      "maskedId": "158xxxxxx1521",
+      "name": "ธนาภา มูลลา",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปาย",
+      "district": "ปาย",
+      "id": "ee74d9298f276d2e6c156815",
+      "maskedId": "158xxxxxx1291",
+      "name": "นิชาภา พรมจักร",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.แม่ฮ่องสอน",
+      "district": "เมืองแม่ฮ่องสอน",
+      "id": "e64e32d772f683591d99c9e8",
+      "maskedId": "152xxxxxx2285",
+      "name": "ภูมิหทัยรัตน์ สืบธรรมกูร",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B9%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ลาหลวง",
+      "district": "แม่ลาน้อย",
+      "id": "e3fd64821f376fc560aab960",
+      "maskedId": "158xxxxxx1761",
+      "name": "รินพร ไพรสงเคราะห์",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%A3-%E0%B9%84%E0%B8%9E%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่ยวม",
+      "district": "แม่สะเรียง",
+      "id": "6d9a30b52964f692bfdf4f82",
+      "maskedId": "150xxxxxx8098",
+      "name": "วรฉัตร ลิ้มเลิศ",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยห้อม",
+      "district": "แม่ลาน้อย",
+      "id": "d602f39fa814705aa1cc901a",
+      "maskedId": "158xxxxxx7304",
+      "name": "วิทยา ญาติมาก",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%8D%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%81",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ปางมะผ้า",
+      "district": "ปางมะผ้า",
+      "id": "8270bcef2c13a2beac369183",
+      "maskedId": "157xxxxxx7175",
+      "name": "ศิริขวัญ นามลังก๋า",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B9%8B%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปางมะผ้า",
+      "district": "ปางมะผ้า",
+      "id": "652de8eaaf8cb0d9d1f27f58",
+      "maskedId": "158xxxxxx4556",
+      "name": "สมัชญ์ เลาหมู่",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B9%80%E0%B8%A5%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ลาหลวง",
+      "district": "แม่ลาน้อย",
+      "id": "2711b7cdd7e1172967ba8a3e",
+      "maskedId": "154xxxxxx7930",
+      "name": "สุภาพร ปินใจ",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%B4%E0%B8%99%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแม่ยวม",
+      "district": "แม่สะเรียง",
+      "id": "170cb35cfc008412679d9e23",
+      "maskedId": "158xxxxxx8533",
+      "name": "สุใจ ปกป้องพนา",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B9%83%E0%B8%88-%E0%B8%9B%E0%B8%81%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านกาศ",
+      "district": "แม่สะเรียง",
+      "id": "7f9a516199e8edca3e9f0d83",
+      "maskedId": "158xxxxxx5470",
+      "name": "อภิรักษ์ ประจักษ์เมธี",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลปาย",
+      "district": "ปาย",
+      "id": "a4d59513f1c182be5178ee37",
+      "maskedId": "158xxxxxx5450",
+      "name": "อัมฤทธิ์ จารุศิลป์สรกุล",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C%E0%B8%AA%E0%B8%A3%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เวียงใต้",
+      "district": "ปาย",
+      "id": "e303e63bd98c052716085448",
+      "maskedId": "158xxxxxx1310",
+      "name": "เกริกชัย จองส่า",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B9%88%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แม่ฮี้",
+      "district": "ปาย",
+      "id": "b79cc8122a66838cd25e66b9",
+      "maskedId": "110xxxxxx0366",
+      "name": "เอกศิษฐ์ อนรรฆนนท์",
+      "province": "แม่ฮ่องสอน",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "46_แม่ฮ่องสอน.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A8%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%A3%E0%B8%86%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

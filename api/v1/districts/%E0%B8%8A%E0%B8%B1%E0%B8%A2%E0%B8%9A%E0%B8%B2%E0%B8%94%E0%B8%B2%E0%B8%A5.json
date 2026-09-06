@@ -1,0 +1,286 @@
+{
+  "_meta": {
+    "count": 16,
+    "kind": "district",
+    "name": "ชัยบาดาล",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ชัยบาดาล",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ท่ามะนาว",
+      "district": "ชัยบาดาล",
+      "id": "961455cb7079d44f4efcdd88",
+      "maskedId": "344xxxxxx5344",
+      "name": "กนกวรรณ พันธ์ชมภู",
+      "province": "ลพบุรี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%8A%E0%B8%A1%E0%B8%A0%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านใหม่สามัคคี",
+      "district": "ชัยบาดาล",
+      "id": "5f787b1991aec387cf462428",
+      "maskedId": "130xxxxxx1071",
+      "name": "จิตติมา เปล่งรัศมี",
+      "province": "ลพบุรี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าดินดำ",
+      "district": "ชัยบาดาล",
+      "id": "85a4d72dace97c7ffb042c37",
+      "maskedId": "132xxxxxx9507",
+      "name": "ทรงอภินันท์ เหนือโท",
+      "province": "ลพบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%97",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "e933ab5f3f92b46f8e61735b",
+      "maskedId": "170xxxxxx5016",
+      "name": "ธนัญญา รงค์ทอง",
+      "province": "ลพบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "d8ac90f2dd67c7dd05770108",
+      "maskedId": "140xxxxxx5438",
+      "name": "นภัสวรรณ หารวาระ",
+      "province": "ลพบุรี",
+      "scoreChange": 3,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "7ada8ff69841dad0345405be",
+      "maskedId": "131xxxxxx9301",
+      "name": "นําโชค ชานก",
+      "province": "ลพบุรี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B9%8D%E0%B8%B2%E0%B9%82%E0%B8%8A%E0%B8%84-%E0%B8%8A%E0%B8%B2%E0%B8%99%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าดินดำ",
+      "district": "ชัยบาดาล",
+      "id": "0347bc38b57733835bd87e54",
+      "maskedId": "113xxxxxx3549",
+      "name": "บุญสุภา ศรีกอง",
+      "province": "ลพบุรี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%81%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "7f94918efd46251c1b76b393",
+      "maskedId": "167xxxxxx9602",
+      "name": "ปนิดา ลัดลงเมือง",
+      "province": "ลพบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%A5%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "8ab8e90495dd7b97191674ad",
+      "maskedId": "163xxxxxx9432",
+      "name": "พงศ์ภัค พนาน",
+      "province": "ลพบุรี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%A0%E0%B8%B1%E0%B8%84-%E0%B8%9E%E0%B8%99%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ม่วงค่อม",
+      "district": "ชัยบาดาล",
+      "id": "38af617bd0e62e4be2b23635",
+      "maskedId": "110xxxxxx9282",
+      "name": "พิชญานันท์ สิงห์สาย",
+      "province": "ลพบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%AA%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาแหลม",
+      "district": "ชัยบาดาล",
+      "id": "fc66899d54a8f0cf2b7b96d1",
+      "maskedId": "130xxxxxx1787",
+      "name": "พิสุทธิ์ ศะศิงาม",
+      "province": "ลพบุรี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%A8%E0%B8%B0%E0%B8%A8%E0%B8%B4%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชัยบาดาล",
+      "district": "ชัยบาดาล",
+      "id": "73280fa74bd42d148e575daa",
+      "maskedId": "141xxxxxx4703",
+      "name": "ภาณุทัตต์ มังคละแสน",
+      "province": "ลพบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B9%8C-%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%B0%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บัวชุม",
+      "district": "ชัยบาดาล",
+      "id": "0cabe967c8a61d42b427fde1",
+      "maskedId": "136xxxxxx8523",
+      "name": "มัทนา หูชัยภูมิ",
+      "province": "ลพบุรี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%99%E0%B8%B2-%E0%B8%AB%E0%B8%B9%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองยายโต๊ะ",
+      "district": "ชัยบาดาล",
+      "id": "fb11cee9a24dad360a4828cd",
+      "maskedId": "143xxxxxx3395",
+      "name": "สุธินี เชื้อหอม",
+      "province": "ลพบุรี",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นิคมลำนารายณ์",
+      "district": "ชัยบาดาล",
+      "id": "12198b1afb454fee2156696b",
+      "maskedId": "191xxxxxx6831",
+      "name": "อาภาวรรณ สุวรรณชนะ",
+      "province": "ลพบุรี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%8A%E0%B8%99%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่ามะนาว",
+      "district": "ชัยบาดาล",
+      "id": "7cbce355795a874ffff39fd1",
+      "maskedId": "110xxxxxx8041",
+      "name": "เกษมณี ปานเจริญ",
+      "province": "ลพบุรี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "07_ลพบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%93%E0%B8%B5-%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

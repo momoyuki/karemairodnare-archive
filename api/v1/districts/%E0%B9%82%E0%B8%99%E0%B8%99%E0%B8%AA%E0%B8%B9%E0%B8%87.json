@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "district",
+    "name": "โนนสูง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "โนนสูง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.จันอัด",
+      "district": "โนนสูง",
+      "id": "d4f92fc575541933e1d697b6",
+      "maskedId": "144xxxxxx0755",
+      "name": "ณัฐพงษ์ ชูศรีวาส",
+      "province": "นครราชสีมา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B2%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลุมข้าว",
+      "district": "โนนสูง",
+      "id": "6761034598cada3cc74471e3",
+      "maskedId": "136xxxxxx1631",
+      "name": "นิติยา ผ่านภูเขียว",
+      "province": "นครราชสีมา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เมืองปราสาท",
+      "district": "โนนสูง",
+      "id": "e9e599aed9081f89ef39b9b5",
+      "maskedId": "130xxxxxx6081",
+      "name": "วาสนา แคล้วสูงเนิน",
+      "province": "นครราชสีมา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2-%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลใหม่",
+      "district": "โนนสูง",
+      "id": "3c4034199d0d4f228c56bbe8",
+      "maskedId": "346xxxxxx1586",
+      "name": "วิจิตรา รัตนบุรัมย์",
+      "province": "นครราชสีมา",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลดอนหวาย",
+      "district": "โนนสูง",
+      "id": "35906d39e829e309de30b2e2",
+      "maskedId": "145xxxxxx5406",
+      "name": "วุฒินัน ทิพกรณ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนชมพู",
+      "district": "โนนสูง",
+      "id": "5a0cfce553919cc00d2760da",
+      "maskedId": "140xxxxxx8291",
+      "name": "สุดารัตน์ ดรปัดสา",
+      "province": "นครราชสีมา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%94%E0%B8%A3%E0%B8%9B%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลใหม่",
+      "district": "โนนสูง",
+      "id": "2fb1e1a50b93644acf7e9f55",
+      "maskedId": "314xxxxxx1498",
+      "name": "สุรัตกุล รื่นพืชน์",
+      "province": "นครราชสีมา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B8%8A%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จันอัด",
+      "district": "โนนสูง",
+      "id": "534673f6fbc3f6fe2aecf353",
+      "maskedId": "130xxxxxx2081",
+      "name": "อธิพร ปะทักขินัง",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลใหม่",
+      "district": "โนนสูง",
+      "id": "074017f69e3b62d1611bd12b",
+      "maskedId": "311xxxxxx2321",
+      "name": "เขมศิตราญ์ พึ่งสวัสดิ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%8D%E0%B9%8C-%E0%B8%9E%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

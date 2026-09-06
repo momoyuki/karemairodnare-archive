@@ -1,0 +1,1799 @@
+{
+  "_meta": {
+    "count": 105,
+    "kind": "province",
+    "name": "อุบลราชธานี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อุบลราชธานี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.คำหว้า",
+      "district": "ตาลสุม",
+      "id": "cfad446c5908d160ab10aa16",
+      "maskedId": "134xxxxxx5093",
+      "name": "กชกร เสนคราม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนามแท่ง",
+      "district": "ศรีเมืองใหม่",
+      "id": "d5576950b44471c5edcfce0b",
+      "maskedId": "145xxxxxx9261",
+      "name": "กนกพงษ์ ภูมิเรศสุนทร",
+      "province": "อุบลราชธานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตาลสุม",
+      "district": "ตาลสุม",
+      "id": "7dbb65bb091225e97a3df61c",
+      "maskedId": "146xxxxxx3210",
+      "name": "กัญญารัตน์ ฤทธิ์ธรรม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สงยาง",
+      "district": "ศรีเมืองใหม่",
+      "id": "5af64ea632045eac36439a10",
+      "maskedId": "140xxxxxx8258",
+      "name": "กัลย์ชลิดา บุดดี",
+      "province": "อุบลราชธานี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%94%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลโพธิ์ไทร",
+      "district": "พิบูลมังสาหาร | โพธิ์ไทร",
+      "id": "612e184c42acbd8249d94278",
+      "maskedId": "134xxxxxx1408",
+      "name": "กาญจนา วงษาเสน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บัวงาม",
+      "district": "เดชอุดม | บุณฑริก",
+      "id": "974c3dd5f1a1c990de7f99bd",
+      "maskedId": "134xxxxxx2522",
+      "name": "กิตติธัช ปัญญาดา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%98%E0%B8%B1%E0%B8%8A-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านด่านโขงเจียม",
+      "district": "โขงเจียม",
+      "id": "faa2c4afc2075e76ab3f0135",
+      "maskedId": "132xxxxxx4993",
+      "name": "กีรติ ทิพยมงคลกุล",
+      "province": "อุบลราชธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B5%E0%B8%A3%E0%B8%95%E0%B8%B4-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดุมใหญ่",
+      "district": "ม่วงสามสิบ",
+      "id": "0a82e4fdf687cfeab0260478",
+      "maskedId": "145xxxxxx5911",
+      "name": "ขวัญแข เนตรวงค์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B9%81%E0%B8%82-%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองเมือง",
+      "district": "ม่วงสามสิบ",
+      "id": "aa820b1640f35304835488ed",
+      "maskedId": "134xxxxxx4456",
+      "name": "จิรกฤต คําแสน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โนนกลาง",
+      "district": "พิบูลมังสาหาร | สำโรง",
+      "id": "8f56dd9c106188c4c327864a",
+      "maskedId": "149xxxxxx3162",
+      "name": "จิรพัฒน์ วงษ์กาฬสินธุ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองเมือง",
+      "district": "ม่วงสามสิบ",
+      "id": "f12469c75a4cbdfb87af4d17",
+      "maskedId": "134xxxxxx6749",
+      "name": "จิราพัชร จุรุเทียบ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B8%88%E0%B8%B8%E0%B8%A3%E0%B8%B8%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%9A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาดี",
+      "district": "นาเยีย",
+      "id": "4a1cb47dc3431c7ba1be32ac",
+      "maskedId": "135xxxxxx2212",
+      "name": "ฉัตราภรณ์ กิตติพร",
+      "province": "อุบลราชธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองทันน้ํา",
+      "district": "กุดข้าวปุ้น",
+      "id": "0d0b332b238d8760f872bc3b",
+      "maskedId": "133xxxxxx1508",
+      "name": "ชลดา พรหมทา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บัวงาม",
+      "district": "เดชอุดม | บุณฑริก",
+      "id": "80c4d8c83e6f2b87a89d5609",
+      "maskedId": "134xxxxxx5977",
+      "name": "ชลิตา นามวงศ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองบก",
+      "district": "เหล่าเสือโก้ก",
+      "id": "75f5f17d139d92c9a47d66f8",
+      "maskedId": "134xxxxxx9653",
+      "name": "ชัชวาลย์ อัจฉฤกษ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สําโรง",
+      "district": "โพธิ์ไทร",
+      "id": "34ef92bb7345d55854a92ee5",
+      "maskedId": "134xxxxxx4855",
+      "name": "ชาญณรงค์ ทองบุ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B8",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.เป้า",
+      "district": "ตระการพืชผล",
+      "id": "2f27b5ee178b393c419d2d23",
+      "maskedId": "334xxxxxx0946",
+      "name": "ชํานาญ ไชยศร",
+      "province": "อุบลราชธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B9%8D%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%8D-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกุดชมภู",
+      "district": "พิบูลมังสาหาร",
+      "id": "f5caef2ed1fed8819ca09486",
+      "maskedId": "134xxxxxx1386",
+      "name": "ญาณัจฉรา คำหล้า",
+      "province": "อุบลราชธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B2-%E0%B8%84%E0%B8%B3%E0%B8%AB%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนใหญ่",
+      "district": "ศรีเมืองใหม่",
+      "id": "95d39b2370de17895fd83a8d",
+      "maskedId": "145xxxxxx9726",
+      "name": "ฐาปนา ตาลวาวแวว",
+      "province": "อุบลราชธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B2%E0%B8%9B%E0%B8%99%E0%B8%B2-%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%A7%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%A7%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.แก้งเหนือ",
+      "district": "เขมราฐ",
+      "id": "4ef18c70b95c7544ea1d5149",
+      "maskedId": "148xxxxxx5707",
+      "name": "ฐาปนีย์ บุตรม่วง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B2%E0%B8%9B%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาพิน",
+      "district": "ตระการพืชผล",
+      "id": "f15bf2295e3433dd0ac1fd00",
+      "maskedId": "134xxxxxx3100",
+      "name": "ณัชชา วงศ์เพ็ญ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาจะหลวย",
+      "district": "นาจะหลวย",
+      "id": "537617fa8d186f511b79c14d",
+      "maskedId": "134xxxxxx7014",
+      "name": "ณัฐณิชา ศรีแก้ว",
+      "province": "อุบลราชธานี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนก่อ",
+      "district": "สิรินธร",
+      "id": "cf034c23e66e1560af7a2251",
+      "maskedId": "145xxxxxx3129",
+      "name": "ณัฐธิดา คณาศรี",
+      "province": "อุบลราชธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%84%E0%B8%93%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเดชอุดม",
+      "district": "เดชอุดม",
+      "id": "163bf4c86bdd090636d9a5ce",
+      "maskedId": "134xxxxxx1080",
+      "name": "ณัฐพงษ์ แก้วสิงห์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลภูจองนายอย",
+      "district": "นาจะหลวย",
+      "id": "4253dce354333176e2f30617",
+      "maskedId": "110xxxxxx1421",
+      "name": "ณัฐเดช ประสพสุข",
+      "province": "อุบลราชธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9E%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อ่างศิลา",
+      "district": "พิบูลมังสาหาร",
+      "id": "656e0716dfaf7f5388bbe569",
+      "maskedId": "132xxxxxx6813",
+      "name": "ณัลช์วีณา คุณภัทรโภควินท์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%A5%E0%B8%8A%E0%B9%8C%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B9%82%E0%B8%A0%E0%B8%84%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "บุณฑริก",
+      "id": "17262a115efc788e074f49c2",
+      "maskedId": "145xxxxxx5650",
+      "name": "ณิชาภัทร บุญสินชัย",
+      "province": "อุบลราชธานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากหน้าบุคลากรทางการ"
+    },
+    {
+      "agency": "อบต.ค้อน้อย",
+      "district": "สำโรง",
+      "id": "988c4ec39dbdb606e2bd640f",
+      "maskedId": "134xxxxxx0402",
+      "name": "ทรรศรานันท์ สิงห์ศร",
+      "province": "อุบลราชธานี",
+      "scoreChange": 11,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยไผ่",
+      "district": "โขงเจียม",
+      "id": "2fa12052066fd1ac5b349f8e",
+      "maskedId": "134xxxxxx8201",
+      "name": "ธนกฤต โอสถศรี",
+      "province": "อุบลราชธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%81%E0%B8%A4%E0%B8%95-%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%96%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองแจระแม",
+      "district": "เมืองอุบลราชธานี",
+      "id": "3201918f770a0dfcf38de15a",
+      "maskedId": "148xxxxxx7361",
+      "name": "ธนัยรัศม์ ฝากไธสงเดชกุล",
+      "province": "อุบลราชธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B9%8C-%E0%B8%9D%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแขม",
+      "district": "พิบูลมังสาหาร",
+      "id": "ef826063964044d1f91c9a6e",
+      "maskedId": "133xxxxxx3625",
+      "name": "ธัญญารัตน์ ชิณวงศ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B4%E0%B8%93%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขามเปี้ย",
+      "district": "ตระการพืชผล",
+      "id": "a270745fb35d5e1cf712bb08",
+      "maskedId": "145xxxxxx8783",
+      "name": "ธัญวรัตน์ ประดับเสริฐ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.พะลาน",
+      "district": "นาตาล",
+      "id": "fb3b594818f36c2436d11800",
+      "maskedId": "145xxxxxx0692",
+      "name": "ธีระศักดิ์ ศิริวงศ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านแขม",
+      "district": "พิบูลมังสาหาร",
+      "id": "9b69e9ab39059f5b98c30be7",
+      "maskedId": "134xxxxxx0198",
+      "name": "ธีรารัตน์ อัจฉฤกษ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาเกษม",
+      "district": "ทุ่งศรีอุดม",
+      "id": "1650a40efc43064c698e652f",
+      "maskedId": "134xxxxxx1554",
+      "name": "นนทกานต์ เต็มเกษม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองผือ",
+      "district": "เขมราฐ",
+      "id": "e605a8ae2859557b064b6694",
+      "maskedId": "110xxxxxx9512",
+      "name": "นพัตธร อะมะมูล",
+      "province": "อุบลราชธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%98%E0%B8%A3-%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นาดี",
+      "district": "นาเยีย",
+      "id": "5ef1e000d19762a04e1f8e3f",
+      "maskedId": "133xxxxxx9102",
+      "name": "นฤมล จันทร์เพ็ง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาเลิง",
+      "district": "ม่วงสามสิบ",
+      "id": "2f75cab475450651e767ea36",
+      "maskedId": "145xxxxxx8469",
+      "name": "นฤมล ศรีประเสริฐ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A4%E0%B8%A1%E0%B8%A5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลบุ่งไหม",
+      "district": "วารินชำราบ",
+      "id": "740e6e6c2e93b56b41aa074f",
+      "maskedId": "334xxxxxx3942",
+      "name": "นัทธา สบายใจ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B2-%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ระเว",
+      "district": "พิบูลมังสาหาร",
+      "id": "976db7fa86632e0c205442c9",
+      "maskedId": "157xxxxxx2500",
+      "name": "นาแก วันนาพ่อ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%81-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองเมือง",
+      "district": "ม่วงสามสิบ",
+      "id": "b410c97805ba335db5c93644",
+      "maskedId": "134xxxxxx8477",
+      "name": "บังอร พันตัน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%A3-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.โพนงาม",
+      "district": "บุณฑริก",
+      "id": "55c6cc2432486d6a265b22b2",
+      "maskedId": "133xxxxxx1642",
+      "name": "ปฏิภาณ แก้วเหลา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%93-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลกุดข้าวปุ้น",
+      "district": "กุดข้าวปุ้น",
+      "id": "cca9d61eed2f58460154deec",
+      "maskedId": "134xxxxxx2058",
+      "name": "ปรัชญา สุขภาค",
+      "province": "อุบลราชธานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลนาส่วง",
+      "district": "เดชอุดม",
+      "id": "fd6e1d451eefb04d1775c1ab",
+      "maskedId": "134xxxxxx0551",
+      "name": "ปราณิสา หมวกทอง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%AA%E0%B8%B2-%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%81%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาพิน",
+      "district": "ตระการพืชผล",
+      "id": "adafa6e2adc3dd3cd3c72659",
+      "maskedId": "134xxxxxx1616",
+      "name": "ปริญญาดา จะปะกิยา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B8%B0%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเทพวงศา",
+      "district": "เขมราฐ",
+      "id": "40042b3158fd6cf4eb2666fb",
+      "maskedId": "134xxxxxx7818",
+      "name": "ปองพล วิชาพรม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A5-%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองเมือง",
+      "district": "ม่วงสามสิบ",
+      "id": "8b1d8d4226e9e327e897b953",
+      "maskedId": "134xxxxxx1928",
+      "name": "ปิยะนุช ท้าวแปง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%81%E0%B8%9B%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองสะโน",
+      "district": "บุณฑริก",
+      "id": "5987f5266dbdb53abbf559bf",
+      "maskedId": "149xxxxxx4698",
+      "name": "ปิยะราช แสนศรี",
+      "province": "อุบลราชธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยฝ้ายพัฒนา",
+      "district": "ตระการพืชผล",
+      "id": "d3a31963139f51e1e3fd85a9",
+      "maskedId": "134xxxxxx1050",
+      "name": "พรพิมล โพทะจันทร์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B9%82%E0%B8%9E%E0%B8%97%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เก่าขาม",
+      "district": "น้ำยืน",
+      "id": "b92a67c1f7dd8d5dfcac74cc",
+      "maskedId": "133xxxxxx6601",
+      "name": "พัฒน์ธีรา ภาสดา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B2-%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองสะโน",
+      "district": "บุณฑริก",
+      "id": "2f22579ec7370a55ad3b6197",
+      "maskedId": "134xxxxxx8851",
+      "name": "พิชญาภา เนื้ออ่อน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เหล่างาม",
+      "district": "โพธิ์ไทร",
+      "id": "9a5012116d29c178d0b0c19f",
+      "maskedId": "173xxxxxx2078",
+      "name": "พิยาดา ภูมิเรศสุนทร",
+      "province": "อุบลราชธานี",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าเมือง",
+      "district": "ดอนมดแดง",
+      "id": "b6365fb1ef57da6a492d5a95",
+      "maskedId": "134xxxxxx7631",
+      "name": "พีรวิชญ์ สุโภภาค",
+      "province": "อุบลราชธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%A0%E0%B8%A0%E0%B8%B2%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกุดประทาย",
+      "district": "เดชอุดม",
+      "id": "12befdd85305670cc78c882d",
+      "maskedId": "334xxxxxx0444",
+      "name": "ภมรมาศ พันธุ์เพ็ง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%A1%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสารภี",
+      "district": "โพธิ์ไทร",
+      "id": "19c1bd795ebd36174ea1268b",
+      "maskedId": "130xxxxxx1475",
+      "name": "ภาณุพงศ์ ล้อจิโรภาส",
+      "province": "อุบลราชธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%88%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%AA",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โนนกาหลง",
+      "district": "พิบูลมังสาหาร",
+      "id": "8715b8111b6f8408d1b9499f",
+      "maskedId": "146xxxxxx4250",
+      "name": "ภาณุวิชญ์ จุฬารี",
+      "province": "อุบลราชธานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พังเคน",
+      "district": "นาตาล",
+      "id": "1d3ddc53bbbe27a86d5dcd47",
+      "maskedId": "145xxxxxx9774",
+      "name": "ภูธเนศ ขจรสมบัติ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%98%E0%B9%80%E0%B8%99%E0%B8%A8-%E0%B8%82%E0%B8%88%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาห่อม",
+      "district": "ทุ่งศรีอุดม",
+      "id": "5c7e096601dee8de82ceccc8",
+      "maskedId": "133xxxxxx1040",
+      "name": "ภูมินันท์ ทองศรี",
+      "province": "อุบลราชธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาเลิง",
+      "district": "ม่วงสามสิบ",
+      "id": "5563bf0f79bf6b1c5a6e891a",
+      "maskedId": "134xxxxxx2676",
+      "name": "มนตริน ทิมา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B4%E0%B8%99-%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เก่าขาม",
+      "district": "น้ำยืน",
+      "id": "1a2264cc822f212fc0ae747e",
+      "maskedId": "133xxxxxx5355",
+      "name": "มนตรี สายแก้ว",
+      "province": "อุบลราชธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธาตุน้อย",
+      "district": "เขื่องใน",
+      "id": "b4ae2b0b8de7d53d7681ef0b",
+      "maskedId": "134xxxxxx2751",
+      "name": "มะขิ่น แสงใบ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B0%E0%B8%82%E0%B8%B4%E0%B9%88%E0%B8%99-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%83%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเทิง",
+      "district": "เดชอุดม",
+      "id": "d2bd29666f22f1179c4afcd4",
+      "maskedId": "134xxxxxx2341",
+      "name": "มุทิตา อินสอน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ข้าวปุ้น",
+      "district": "กุดข้าวปุ้น",
+      "id": "3f3240581daa018a30eed221",
+      "maskedId": "145xxxxxx7583",
+      "name": "ยศวดี ขาวผ่อง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%A8%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตบหู",
+      "district": "เดชอุดม",
+      "id": "07d4ba86bd6e8bf24461ccbc",
+      "maskedId": "134xxxxxx5308",
+      "name": "รณชัย ราชประทุม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%93%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านไทย",
+      "district": "เขื่องใน",
+      "id": "9f29ed251f3a67f23819c6bd",
+      "maskedId": "134xxxxxx5275",
+      "name": "รณสฤษฏิ์ จักษุอินทร์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%93%E0%B8%AA%E0%B8%A4%E0%B8%A9%E0%B8%8F%E0%B8%B4%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B8%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลแก่งโดม",
+      "district": "สว่างวีระวงศ์",
+      "id": "ac8d14fecf7a99d1685beb7e",
+      "maskedId": "134xxxxxx8052",
+      "name": "รังสินี ผลชะอุ่ม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%9C%E0%B8%A5%E0%B8%8A%E0%B8%B0%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บัวงาม",
+      "district": "เดชอุดม | บุณฑริก",
+      "id": "43ee702807a85d0f5aa09fc0",
+      "maskedId": "134xxxxxx1153",
+      "name": "รัชฎา บุญจุล",
+      "province": "อุบลราชธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8E%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%88%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนก่อ",
+      "district": "สิรินธร",
+      "id": "e9863e6b26736a5e7f715f56",
+      "maskedId": "132xxxxxx9060",
+      "name": "รัตนาวดี อินทรารักษ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุศกร",
+      "district": "ตระการพืชผล",
+      "id": "014f015f733f3349f3b400b3",
+      "maskedId": "145xxxxxx6494",
+      "name": "ลัดดาวรรณ เนินแสง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตากแดด",
+      "district": "ตระการพืชผล",
+      "id": "0789cc908ca49595fdbf30f5",
+      "maskedId": "145xxxxxx8815",
+      "name": "วยุรี กระอาจ",
+      "province": "อุบลราชธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A2%E0%B8%B8%E0%B8%A3%E0%B8%B5-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%88",
+      "verificationSource": "ยืนยันจากหน้าบุคลากรทางการ"
+    },
+    {
+      "agency": "อบต.บุเปือย",
+      "district": "น้ำยืน",
+      "id": "ff64f5b6e0ab64930c18a9f4",
+      "maskedId": "133xxxxxx7922",
+      "name": "วรจิต ศรีปรัง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%88%E0%B8%B4%E0%B8%95-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กลาง",
+      "district": "เดชอุดม",
+      "id": "9bb28c32fd10b9fc4b890a6b",
+      "maskedId": "149xxxxxx1901",
+      "name": "วรรณยุพา แซ่ลิ้ม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A2%E0%B8%B8%E0%B8%9E%E0%B8%B2-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านกอก",
+      "district": "เขื่องใน",
+      "id": "202ed43eeb2868f494aaad09",
+      "maskedId": "133xxxxxx8762",
+      "name": "วรวุฒิ บุญราช",
+      "province": "อุบลราชธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลศรีสุข",
+      "district": "เขื่องใน",
+      "id": "b4856a8f1efc93408665d4f2",
+      "maskedId": "134xxxxxx3379",
+      "name": "วรัณญา ชาสุรีย์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%93%E0%B8%8D%E0%B8%B2-%E0%B8%8A%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาเกษม",
+      "district": "ทุ่งศรีอุดม",
+      "id": "525ca7a57980130cc8a01e65",
+      "maskedId": "334xxxxxx3739",
+      "name": "วันเพ็ญ บุญผ่อง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เก่าขาม",
+      "district": "น้ำยืน",
+      "id": "069cffa07e350f7d4c39c906",
+      "maskedId": "134xxxxxx2492",
+      "name": "วีรภัทร ดาวัน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทุ่งเทิง",
+      "district": "เดชอุดม",
+      "id": "6e0f9db3c911a93a7f9549de",
+      "maskedId": "233xxxxxx1713",
+      "name": "วีระชาติ สายสินธุ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านตูม",
+      "district": "นาจะหลวย",
+      "id": "ebc465908fd39f7588f9c057",
+      "maskedId": "134xxxxxx3564",
+      "name": "ศศิประภา ทองอุทุม",
+      "province": "อุบลราชธานี",
+      "scoreChange": 5,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B8%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธาตุน้อย",
+      "district": "เขื่องใน",
+      "id": "6cfef89e7b9b251e4fec7b87",
+      "maskedId": "135xxxxxx1327",
+      "name": "ศักดิ์ชัย แนวน้อย",
+      "province": "อุบลราชธานี",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คอนสาย",
+      "district": "ตระการพืชผล",
+      "id": "cbbf67617468be8938918ee7",
+      "maskedId": "133xxxxxx6564",
+      "name": "ศิริลักษณ์ ปริวันทะโก",
+      "province": "อุบลราชธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0%E0%B9%82%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สมสะอาด",
+      "district": "เดชอุดม",
+      "id": "b337f6a02a6e5e7d515fb4fb",
+      "maskedId": "145xxxxxx6844",
+      "name": "ศิริลักษณ์ แวงวาสิต",
+      "province": "อุบลราชธานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%95",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ธาตุน้อย",
+      "district": "เขื่องใน",
+      "id": "1bd9736295ed77bdbc6691c9",
+      "maskedId": "334xxxxxx4243",
+      "name": "ศิริวรรณ วงษ์พานิชย์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ระเว",
+      "district": "พิบูลมังสาหาร",
+      "id": "af28e6f1acdad63deafa829e",
+      "maskedId": "534xxxxxx5608",
+      "name": "ศิวปรียา ศรัทธาพันธ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คําไหล",
+      "district": "ศรีเมืองใหม่",
+      "id": "423f19ed6f3c4570ad61a7c5",
+      "maskedId": "145xxxxxx8852",
+      "name": "ศุภชัย ไชยนาแพง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B9%81%E0%B8%9E%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลขามป้อม",
+      "district": "เขมราฐ",
+      "id": "414e52edf3e7b31396b4a519",
+      "maskedId": "149xxxxxx9223",
+      "name": "สาวิกา คําลือชัย",
+      "province": "อุบลราชธานี",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B2-%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลห้วยเรือ",
+      "district": "เขื่องใน",
+      "id": "bc038f3d6614f6b1920a703f",
+      "maskedId": "333xxxxxx0041",
+      "name": "สุกัญญา วสุธนากานต์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พะลาน",
+      "district": "นาตาล",
+      "id": "4eef2e28e6e0c84fe44b8761",
+      "maskedId": "145xxxxxx7360",
+      "name": "สุธิดา อินทรกัมพล",
+      "province": "อุบลราชธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เป้า",
+      "district": "ตระการพืชผล",
+      "id": "8ef565fe0d30a37eef54770f",
+      "maskedId": "110xxxxxx9982",
+      "name": "สุนีย์ หัดนอก",
+      "province": "อุบลราชธานี",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยข่า",
+      "district": "บุณฑริก",
+      "id": "d98ff4022b4dcf958299f7b7",
+      "maskedId": "133xxxxxx6065",
+      "name": "สุพัตรา ทองเพชร",
+      "province": "อุบลราชธานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพือ",
+      "district": "ตระการพืชผล",
+      "id": "1e70cd01a9a973937fed545c",
+      "maskedId": "334xxxxxx2551",
+      "name": "สุพิชฌาย์ แสงหิน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8C%E0%B8%B2%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AB%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเทพวงศา",
+      "district": "เขมราฐ",
+      "id": "5412f96a8a687758d781bbb2",
+      "maskedId": "134xxxxxx0365",
+      "name": "สุภัสสร บุญทรง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%97%E0%B8%A3%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านด่านโขงเจียม",
+      "district": "โขงเจียม",
+      "id": "604d41cc058064f9c6fd1b82",
+      "maskedId": "147xxxxxx3924",
+      "name": "อนุศาสน์ สมหนองบัว",
+      "province": "อุบลราชธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนจิก",
+      "district": "พิบูลมังสาหาร",
+      "id": "dfeb05a211f9afaf215e5ab5",
+      "maskedId": "130xxxxxx1916",
+      "name": "อนุสรณ์ โทแหล่ง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%82%E0%B8%97%E0%B9%81%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาห่อม",
+      "district": "ทุ่งศรีอุดม",
+      "id": "d8a946d822ad1f71ccbeea68",
+      "maskedId": "133xxxxxx9133",
+      "name": "อภิญญา มั่นเปี้ย",
+      "province": "อุบลราชธานี",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลขามป้อม",
+      "district": "เขมราฐ",
+      "id": "690555e7e37b5befcd1a9a45",
+      "maskedId": "146xxxxxx9793",
+      "name": "อภินันท์ แสวงวงษ์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ค้อน้อย",
+      "district": "สำโรง",
+      "id": "08542148398c80ae2c0ab35b",
+      "maskedId": "133xxxxxx0764",
+      "name": "อภิวัฒน์ ไชยมา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนาเรือง",
+      "district": "นาเยีย",
+      "id": "0300ec26ce751b8b786fd73f",
+      "maskedId": "134xxxxxx9881",
+      "name": "อรุณรัตน์ ชนะกุล",
+      "province": "อุบลราชธานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%81%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไผ่ใหญ่",
+      "district": "ม่วงสามสิบ",
+      "id": "c7c2a3e4fc2da2b498e1a4b1",
+      "maskedId": "135xxxxxx4495",
+      "name": "อินทุอร ชูรัตน์",
+      "province": "อุบลราชธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B8%AD%E0%B8%A3-%E0%B8%8A%E0%B8%B9%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ค้อน้อย",
+      "district": "สำโรง",
+      "id": "a7e623855e02344f73d15519",
+      "maskedId": "134xxxxxx3564",
+      "name": "อิสระพงศ์ สดชื่น",
+      "province": "อุบลราชธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%AA%E0%B8%94%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สะพือ",
+      "district": "ตระการพืชผล",
+      "id": "79d3a58a8a4bc42d21a586f3",
+      "maskedId": "334xxxxxx3601",
+      "name": "อุรารักษ์ โพธา",
+      "province": "อุบลราชธานี",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองเมือง",
+      "district": "ม่วงสามสิบ",
+      "id": "1dd880fd7988e4902a39af3d",
+      "maskedId": "117xxxxxx0817",
+      "name": "เจริณี เสือโต",
+      "province": "อุบลราชธานี",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ท่าไห",
+      "district": "เขื่องใน",
+      "id": "90d5854b2be96d80cf9ace54",
+      "maskedId": "134xxxxxx9907",
+      "name": "เจษฎา ประกอบแสง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%88%E0%B8%A9%E0%B8%8E%E0%B8%B2-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลทุ่งศรีอุดม",
+      "district": "ทุ่งศรีอุดม",
+      "id": "2e48b9dbd9863ec133557df0",
+      "maskedId": "134xxxxxx8879",
+      "name": "เบญจวรรณ ธานี",
+      "province": "อุบลราชธานี",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านไทย",
+      "district": "เขื่องใน",
+      "id": "a94add58e72c4b63016531eb",
+      "maskedId": "134xxxxxx4371",
+      "name": "แพรวพรรณ ทองอ่อน",
+      "province": "อุบลราชธานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B8%A7%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านไทย",
+      "district": "เขื่องใน",
+      "id": "13d2af35e5f73430bd09a5a0",
+      "maskedId": "134xxxxxx8401",
+      "name": "ไกรศร ทาทอง",
+      "province": "อุบลราชธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "23_อุบลราชธานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A8%E0%B8%A3-%E0%B8%97%E0%B8%B2%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

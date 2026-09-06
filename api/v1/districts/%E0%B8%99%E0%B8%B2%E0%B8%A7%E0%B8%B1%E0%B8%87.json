@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "นาวัง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นาวัง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นาแก",
+      "district": "นาวัง",
+      "id": "5de21fb500987d7c76744d24",
+      "maskedId": "143xxxxxx8976",
+      "name": "กล้าณรงค์ เจริญจิตร",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาแก",
+      "district": "นาวัง",
+      "id": "10217ddc0123ba8b53a5c2e0",
+      "maskedId": "141xxxxxx2531",
+      "name": "ณัฐพล ควรชม",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%8A%E0%B8%A1",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.นาแก",
+      "district": "นาวัง",
+      "id": "4e327e0b11634e638e017fb8",
+      "maskedId": "110xxxxxx3770",
+      "name": "ณัฐพล มั่นคง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A5-%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังทอง",
+      "district": "นาวัง",
+      "id": "773d38edd3da7d3e8c6be017",
+      "maskedId": "142xxxxxx5035",
+      "name": "ธนศักดิ์ นามวงษ์",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นาแก",
+      "district": "นาวัง",
+      "id": "ba1eb551c48644dde6e749e5",
+      "maskedId": "140xxxxxx4730",
+      "name": "ปรียาพร เครือชารี",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังทอง",
+      "district": "นาวัง",
+      "id": "a662dc9a2b7c224313fe95a1",
+      "maskedId": "141xxxxxx9746",
+      "name": "สุภาพ ศิริทน",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%97%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นาแก",
+      "district": "นาวัง",
+      "id": "ba60b524c3a3c25fa95dcae5",
+      "maskedId": "142xxxxxx4631",
+      "name": "อิสระ มีแพง",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B0-%E0%B8%A1%E0%B8%B5%E0%B9%81%E0%B8%9E%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.วังปลาป้อม",
+      "district": "นาวัง",
+      "id": "b1d89cf6cd42953a11f223f8",
+      "maskedId": "148xxxxxx2663",
+      "name": "ไพบูรณ์ วรรัตน์คุณานนท์",
+      "province": "หนองบัวลำภู",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "27_หนองบัวลำภู.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%9E%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

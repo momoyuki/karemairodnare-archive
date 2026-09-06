@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.บางปอ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บางปอ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บางปอ",
+      "district": "เมืองนราธิวาส",
+      "id": "597603968ba9d709a86f92a8",
+      "maskedId": "195xxxxxx0799",
+      "name": "ชฎาพร รัตนบุญ",
+      "province": "นราธิวาส",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8E%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางปอ",
+      "district": "เมืองนราธิวาส",
+      "id": "d82201985af0de6601adb162",
+      "maskedId": "394xxxxxx0294",
+      "name": "ตุแวสากีเราะ แดงงาม",
+      "province": "นราธิวาส",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%B0-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางปอ",
+      "district": "เมืองนราธิวาส",
+      "id": "5e68d5cb134621a44c96a433",
+      "maskedId": "396xxxxxx1558",
+      "name": "อับดุลการิม สือรียาดี",
+      "province": "นราธิวาส",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A1-%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "_meta": {
+    "count": 12,
+    "kind": "district",
+    "name": "ห้วยยอด",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ห้วยยอด",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังคีรี",
+      "district": "ห้วยยอด",
+      "id": "7f56b15baef96cdf93fbaefa",
+      "maskedId": "194xxxxxx0511",
+      "name": "กันตพงศ์ ศรีทองนวล",
+      "province": "ตรัง",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B8%A7%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ในเตา",
+      "district": "ห้วยยอด",
+      "id": "281c5541a0e2e1ac3be3ca66",
+      "maskedId": "396xxxxxx3482",
+      "name": "กาสือเร๊าะ สบูดิง",
+      "province": "ตรัง",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B9%8A%E0%B8%B2%E0%B8%B0-%E0%B8%AA%E0%B8%9A%E0%B8%B9%E0%B8%94%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางดี",
+      "district": "ห้วยยอด",
+      "id": "d716a138dd6fc41922cc53c4",
+      "maskedId": "193xxxxxx6227",
+      "name": "ชนิตา ไชยด้วง",
+      "province": "ตรัง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาวง",
+      "district": "ห้วยยอด",
+      "id": "9a78032dec69503675701b5f",
+      "maskedId": "196xxxxxx2974",
+      "name": "ชยพล วุฒิพงศ์",
+      "province": "ตรัง",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A2%E0%B8%9E%E0%B8%A5-%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลลําภูรา",
+      "district": "ห้วยยอด",
+      "id": "e23ec64117e01e564d7e37b1",
+      "maskedId": "191xxxxxx9701",
+      "name": "ธริตา บาโหง้ย",
+      "province": "ตรัง",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%A3%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%9A%E0%B8%B2%E0%B9%82%E0%B8%AB%E0%B8%87%E0%B9%89%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ในเตา",
+      "district": "ห้วยยอด",
+      "id": "5cca8250fbc83145c49cbb04",
+      "maskedId": "194xxxxxx4728",
+      "name": "นูรีซัน เต็มโมะ",
+      "province": "ตรัง",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B8%99-%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%A1%E0%B9%82%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.วังคีรี",
+      "district": "ห้วยยอด",
+      "id": "2a7515e92895b80d4acd0587",
+      "maskedId": "196xxxxxx8564",
+      "name": "ปภังกร ชูถึง",
+      "province": "ตรัง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A0%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3-%E0%B8%8A%E0%B8%B9%E0%B8%96%E0%B8%B6%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขากอบ",
+      "district": "ห้วยยอด",
+      "id": "87efcd9ef903419fb9784718",
+      "maskedId": "193xxxxxx5781",
+      "name": "ปราชญา ธรรมรังษี",
+      "province": "ตรัง",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A9%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาวง",
+      "district": "ห้วยยอด",
+      "id": "d501c1130d791d264517edfa",
+      "maskedId": "180xxxxxx7771",
+      "name": "พีรกานต์ เสียงหอม",
+      "province": "ตรัง",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AB%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.นาวง",
+      "district": "ห้วยยอด",
+      "id": "dbb62164b9d1bd514ae14a9f",
+      "maskedId": "190xxxxxx7130",
+      "name": "ฟารีด้า รอดกุบ",
+      "province": "ตรัง",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B9%89%E0%B8%B2-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%B8%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ในเตา",
+      "district": "ห้วยยอด",
+      "id": "0e9f10d0dfc741fce8aa4749",
+      "maskedId": "193xxxxxx2513",
+      "name": "สุดารัตน์ รักษ์จุล",
+      "province": "ตรัง",
+      "scoreChange": 64,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%88%E0%B8%B8%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขากอบ",
+      "district": "ห้วยยอด",
+      "id": "13c596d71033bbfdad47e21d",
+      "maskedId": "396xxxxxx1939",
+      "name": "ฮามีดะห์ หะแวบือเจาะ",
+      "province": "ตรัง",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "72_ตรัง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%94%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%AB%E0%B8%B0%E0%B9%81%E0%B8%A7%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

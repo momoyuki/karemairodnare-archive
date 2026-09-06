@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "สังคม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สังคม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แก้งไก่",
+      "district": "สังคม",
+      "id": "c49a924e52bde5a0e790a98b",
+      "maskedId": "143xxxxxx7462",
+      "name": "ขวัญชีวา ศรีภา",
+      "province": "หนองคาย",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แก้งไก่",
+      "district": "สังคม",
+      "id": "765858ee695e3a8fc581dd60",
+      "maskedId": "142xxxxxx5497",
+      "name": "วชิรพันธ์ ไชยป้อง",
+      "province": "หนองคาย",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%8A%E0%B8%B4%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แก้งไก่",
+      "district": "สังคม",
+      "id": "3954ac62d493eaf1aeb964f8",
+      "maskedId": "143xxxxxx6406",
+      "name": "ศศิวิมล เภาพาน",
+      "province": "หนองคาย",
+      "scoreChange": 10,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5-%E0%B9%80%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แก้งไก่",
+      "district": "สังคม",
+      "id": "0bcf438a941fc7c4dacd4930",
+      "maskedId": "142xxxxxx7779",
+      "name": "เพชรชนก จัวฮอม",
+      "province": "หนองคาย",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "31_หนองคาย.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%88%E0%B8%B1%E0%B8%A7%E0%B8%AE%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "ไม้แก่น",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ไม้แก่น",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ตะโละไกรทอง",
+      "district": "ไม้แก่น",
+      "id": "a3d3f826f886550ef082b794",
+      "maskedId": "296xxxxxx6675",
+      "name": "นิรันดร์ รอยา",
+      "province": "ปัตตานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%A3%E0%B9%8C-%E0%B8%A3%E0%B8%AD%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโละไกรทอง",
+      "district": "ไม้แก่น",
+      "id": "154a6ab0eba9f20aa068f4ed",
+      "maskedId": "196xxxxxx0611",
+      "name": "อาฟีซัน มิง",
+      "province": "ปัตตานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%9F%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B8%99-%E0%B8%A1%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

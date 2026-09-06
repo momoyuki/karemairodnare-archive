@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "แกลง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "แกลง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.วังหว้า",
+      "district": "แกลง",
+      "id": "3de9d51b4c120756fafa75bd",
+      "maskedId": "121xxxxxx3883",
+      "name": "กุลนิภา กวางทอง",
+      "province": "ระยอง",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2-%E0%B8%81%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลสองสลึง",
+      "district": "แกลง",
+      "id": "6ef1ba1f8ca67f8433ca7d5a",
+      "maskedId": "121xxxxxx9638",
+      "name": "จันทนา ตันประยูร",
+      "province": "ระยอง",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%99%E0%B8%B2-%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B9%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเมืองแกลง",
+      "district": "แกลง",
+      "id": "0191274a25b2101f9431ac40",
+      "maskedId": "121xxxxxx2452",
+      "name": "จิรภิญญา บุญบรรจง",
+      "province": "ระยอง",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านนา",
+      "district": "แกลง",
+      "id": "b0b37ebf49562e62d82951ec",
+      "maskedId": "142xxxxxx9662",
+      "name": "นริศรา วังคีรี",
+      "province": "ระยอง",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B5%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตําบลกองดิน",
+      "district": "แกลง",
+      "id": "6344d3c5f9906e5c543fd203",
+      "maskedId": "131xxxxxx3722",
+      "name": "นุพงษ์ แว่วบุตร",
+      "province": "ระยอง",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%81%E0%B8%A7%E0%B9%88%E0%B8%A7%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทางเกวียน",
+      "district": "แกลง",
+      "id": "4e0d6ef4c35534d15f9344f6",
+      "maskedId": "110xxxxxx6431",
+      "name": "พุทธิตา ศรีประสม",
+      "province": "ระยอง",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทางเกวียน",
+      "district": "แกลง",
+      "id": "9d8cc4d533c7f469f2e7a3f8",
+      "maskedId": "133xxxxxx8990",
+      "name": "อังคทิวา บุญศักดิ์",
+      "province": "ระยอง",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "12_ระยอง.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%97%E0%B8%B4%E0%B8%A7%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

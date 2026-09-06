@@ -1,0 +1,218 @@
+{
+  "_meta": {
+    "count": 12,
+    "kind": "agency",
+    "name": "เทศบาลเมืองปัตตานี",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองปัตตานี",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "772a5103d00ea85c854e6312",
+      "maskedId": "190xxxxxx0438",
+      "name": "กัญญภรณ์ จารุรักษา",
+      "province": "ปัตตานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "43dae48902770c4c060c1bc8",
+      "maskedId": "195xxxxxx3154",
+      "name": "กีสตี ลาวัลย์วุธ",
+      "province": "ปัตตานี",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B5%E0%B8%AA%E0%B8%95%E0%B8%B5-%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%A7%E0%B8%B8%E0%B8%98",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "c406635bdda29b35f6a753f2",
+      "maskedId": "196xxxxxx1543",
+      "name": "ช่อฤดี ใสสุข",
+      "province": "ปัตตานี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%A4%E0%B8%94%E0%B8%B5-%E0%B9%83%E0%B8%AA%E0%B8%AA%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "145eb2b073d41660a885d010",
+      "maskedId": "195xxxxxx8264",
+      "name": "ณัฐนันท์ อาแว",
+      "province": "ปัตตานี",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%AD%E0%B8%B2%E0%B9%81%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "1d51893a23b62373665a97ad",
+      "maskedId": "396xxxxxx2982",
+      "name": "ปัทมา โดวาเห็ง",
+      "province": "ปัตตานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B1%E0%B8%97%E0%B8%A1%E0%B8%B2-%E0%B9%82%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "3ef7643719aeaeb937457a19",
+      "maskedId": "194xxxxxx8182",
+      "name": "รอฮีหม๊ะ บือแน",
+      "province": "ปัตตานี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AD%E0%B8%AE%E0%B8%B5%E0%B8%AB%E0%B8%A1%E0%B9%8A%E0%B8%B0-%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "f08b0b658fcb85f86521aa56",
+      "maskedId": "191xxxxxx1031",
+      "name": "วรรณา นุ้ยดำ",
+      "province": "ปัตตานี",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2-%E0%B8%99%E0%B8%B8%E0%B9%89%E0%B8%A2%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "1e57282af9e32fee83cc382f",
+      "maskedId": "194xxxxxx7151",
+      "name": "วัชระ พรหมจันทร์",
+      "province": "ปัตตานี",
+      "scoreChange": 68,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B0-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "3a64cad5ee90f0c274139cfc",
+      "maskedId": "391xxxxxx0471",
+      "name": "สายใจ ปรังเจะ",
+      "province": "ปัตตานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%88-%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "f5b951c2018a191cca140716",
+      "maskedId": "193xxxxxx7536",
+      "name": "สุรศักดิ์ แก้วรุ่ง",
+      "province": "ปัตตานี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "081e1b2d2afb77d2649f758e",
+      "maskedId": "194xxxxxx2647",
+      "name": "สุไรยา หะยีบือราเฮง",
+      "province": "ปัตตานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B9%84%E0%B8%A3%E0%B8%A2%E0%B8%B2-%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปัตตานี",
+      "district": "เมืองปัตตานี",
+      "id": "78a39b4908b6b5538b29f108",
+      "maskedId": "195xxxxxx9356",
+      "name": "อดุลย์ แอดำ",
+      "province": "ปัตตานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%AD%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "district",
+    "name": "สังขะ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "สังขะ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ขอนแตก",
+      "district": "สังขะ",
+      "id": "40e65ec1e22e9d3d1da3f175",
+      "maskedId": "148xxxxxx9260",
+      "name": "ชูชาติ ฝ่ายสงค์",
+      "province": "สุรินทร์",
+      "scoreChange": 6,
+      "sources": [
+        {
+          "file": "21_สุรินทร์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B9%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขอนแตก",
+      "district": "สังขะ",
+      "id": "de602646c47296e3893262e1",
+      "maskedId": "133xxxxxx8241",
+      "name": "สุรสิทธิ์ เสาร์โมก",
+      "province": "สุรินทร์",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "21_สุรินทร์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%A1%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

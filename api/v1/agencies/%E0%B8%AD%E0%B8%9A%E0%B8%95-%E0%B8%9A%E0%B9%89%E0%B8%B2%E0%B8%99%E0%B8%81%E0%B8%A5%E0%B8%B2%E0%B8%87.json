@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "count": 9,
+    "kind": "agency",
+    "name": "อบต.บ้านกลาง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-บ้านกลาง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "3b9265fccace745d24c34b09",
+      "maskedId": "195xxxxxx9943",
+      "name": "จุฑาภรณ์ สุวรรณชาติ",
+      "province": "ปัตตานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "b1cbb16a8f40fce5b4ee3f0d",
+      "maskedId": "143xxxxxx8197",
+      "name": "ณัฏฐิดา ศรีพรหมทัศน์",
+      "province": "ปัตตานี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "25c17bd74479ed653dc16fb0",
+      "maskedId": "195xxxxxx9365",
+      "name": "นราธิป เพ็ชรรัตน์ทอง",
+      "province": "ปัตตานี",
+      "scoreChange": 70,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8A%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "f5509b834284413c7945695b",
+      "maskedId": "194xxxxxx4795",
+      "name": "นูรมัน อูแม",
+      "province": "ปัตตานี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%A1%E0%B8%B1%E0%B8%99-%E0%B8%AD%E0%B8%B9%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "วังทอง",
+      "id": "87a4f1e057eaf8b85585c20f",
+      "maskedId": "167xxxxxx0938",
+      "name": "พิมพ์นารา จงเจริญ",
+      "province": "พิษณุโลก",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "52_พิษณุโลก.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2-%E0%B8%88%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "7465ba2f8e0069b8ce7f7169",
+      "maskedId": "193xxxxxx2163",
+      "name": "ภานุวัฒน์ ขาวสุด",
+      "province": "ปัตตานี",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%94",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "84a02fe8a5ed45987ab32056",
+      "maskedId": "167xxxxxx6081",
+      "name": "สิรินทรา เสาดี",
+      "province": "ปัตตานี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "f5fd78f0f65384c17bb3ccb9",
+      "maskedId": "396xxxxxx3024",
+      "name": "สุรีนา อูเซ็ง",
+      "province": "ปัตตานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B2-%E0%B8%AD%E0%B8%B9%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านกลาง",
+      "district": "ปะนาเระ",
+      "id": "898f6487e222f49d94ce8dd9",
+      "maskedId": "141xxxxxx9658",
+      "name": "เนตรนภา ศรีหริ่ง",
+      "province": "ปัตตานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

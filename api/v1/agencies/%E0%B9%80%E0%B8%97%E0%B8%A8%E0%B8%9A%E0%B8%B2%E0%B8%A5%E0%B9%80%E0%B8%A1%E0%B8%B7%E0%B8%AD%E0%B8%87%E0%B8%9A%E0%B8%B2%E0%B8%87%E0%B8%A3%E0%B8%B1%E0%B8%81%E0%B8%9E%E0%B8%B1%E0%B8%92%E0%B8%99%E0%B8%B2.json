@@ -1,0 +1,218 @@
+{
+  "_meta": {
+    "count": 12,
+    "kind": "agency",
+    "name": "เทศบาลเมืองบางรักพัฒนา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลเมืองบางรักพัฒนา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "88a41a9850f3f77dd0d29643",
+      "maskedId": "135xxxxxx5718",
+      "name": "กนกวรรณ แสงอุ่น",
+      "province": "นนทบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "d9d6244a777d6b6f6c5e452b",
+      "maskedId": "110xxxxxx0908",
+      "name": "กฤตธนา รักแจ้ง",
+      "province": "นนทบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%98%E0%B8%99%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "66326ec9822f6eb74363b30a",
+      "maskedId": "175xxxxxx8979",
+      "name": "กิตตินนท์ ช่างเขียน",
+      "province": "นนทบุรี",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "562657fb1281371f415e125a",
+      "maskedId": "110xxxxxx6832",
+      "name": "นิรัญ ฤกษ์งามชัย",
+      "province": "นนทบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D-%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "d2e062ae9a4f2ebae36d3f6b",
+      "maskedId": "112xxxxxx2002",
+      "name": "ปุณญนัฐพร ปิ่นทอง",
+      "province": "นนทบุรี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B8%8D%E0%B8%99%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "debace269513b6d2b24b08d8",
+      "maskedId": "173xxxxxx1296",
+      "name": "ภีมศรันย์ อุบลแก้วศิริ",
+      "province": "นนทบุรี",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B5%E0%B8%A1%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "e671e69907f06c05194496b0",
+      "maskedId": "110xxxxxx2867",
+      "name": "วรดล โอเต็ง",
+      "province": "นนทบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%94%E0%B8%A5-%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "26ad97c5fda58c49034aa1e7",
+      "maskedId": "111xxxxxx1746",
+      "name": "ศศิมาภรณ์ ทรงพุฒิ",
+      "province": "นนทบุรี",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%B8%E0%B8%92%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "e2cb461e3b18d2e4f3645257",
+      "maskedId": "111xxxxxx8674",
+      "name": "ศักดิ์นรินทร์ บุญประสาน",
+      "province": "นนทบุรี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "2e4b49406f85398dfca0e562",
+      "maskedId": "110xxxxxx7685",
+      "name": "สุกานดา จันทสาร",
+      "province": "นนทบุรี",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "675bd4a519d46c93e9397e09",
+      "maskedId": "145xxxxxx3725",
+      "name": "สุดาพร ใจถวิล",
+      "province": "นนทบุรี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%83%E0%B8%88%E0%B8%96%E0%B8%A7%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางรักพัฒนา",
+      "district": "บางบัวทอง",
+      "id": "679655453008d5150d4cd39a",
+      "maskedId": "110xxxxxx7881",
+      "name": "อติญา วงษ์ศรีจันทร์",
+      "province": "นนทบุรี",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B8%8D%E0%B8%B2-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

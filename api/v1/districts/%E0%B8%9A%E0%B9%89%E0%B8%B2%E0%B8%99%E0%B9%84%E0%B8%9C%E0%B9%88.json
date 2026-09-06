@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "บ้านไผ่",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บ้านไผ่",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลแคนเหนือ",
+      "district": "บ้านไผ่",
+      "id": "b8d8c903830619f4c39f8af9",
+      "maskedId": "131xxxxxx9984",
+      "name": "กัญญา แก้วศรี",
+      "province": "ขอนแก่น",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านไผ่",
+      "district": "บ้านไผ่",
+      "id": "76e4a5693bee7ded934f1d00",
+      "maskedId": "146xxxxxx9942",
+      "name": "จุฑารัตน์ โพธิ์สุวรรณ",
+      "province": "ขอนแก่น",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านไผ่",
+      "district": "บ้านไผ่",
+      "id": "28d6cc9575625c23d009222a",
+      "maskedId": "340xxxxxx1675",
+      "name": "ธัญญกานต์ สันเพาะ",
+      "province": "ขอนแก่น",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านไผ่",
+      "district": "บ้านไผ่",
+      "id": "a553428c3bc219114ddba356",
+      "maskedId": "140xxxxxx2460",
+      "name": "พิพิธพร พร้อมพรั่ง",
+      "province": "ขอนแก่น",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หินตั้ง",
+      "district": "บ้านไผ่",
+      "id": "144ac7988c6de40505806bfc",
+      "maskedId": "131xxxxxx5556",
+      "name": "รุ่งนภา ศรีวิศร",
+      "province": "ขอนแก่น",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%99%E0%B8%A0%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A3",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ป่าปอ",
+      "district": "บ้านไผ่",
+      "id": "7c0c1f4ede032cd672491802",
+      "maskedId": "140xxxxxx8487",
+      "name": "วันเพ็ญ พงษ์เพียจันทร์",
+      "province": "ขอนแก่น",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบ้านไผ่",
+      "district": "บ้านไผ่",
+      "id": "b9cb98afcafc5dc99465f801",
+      "maskedId": "140xxxxxx4133",
+      "name": "สุริชา หลอดสว่าง",
+      "province": "ขอนแก่น",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

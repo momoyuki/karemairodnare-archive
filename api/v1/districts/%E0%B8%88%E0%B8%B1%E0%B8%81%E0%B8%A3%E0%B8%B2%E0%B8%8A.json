@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "จักราช",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "จักราช",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.จักราช",
+      "district": "จักราช",
+      "id": "ffcbe727dcc4b6ae958452b6",
+      "maskedId": "110xxxxxx7570",
+      "name": "ณัฐวุฒิ ประทุมชาติ",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีละกอ",
+      "district": "จักราช",
+      "id": "a5936e31da62dca642bf43ae",
+      "maskedId": "131xxxxxx3358",
+      "name": "พีระศักดิ์ พวงเกษ",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองขาม",
+      "district": "จักราช",
+      "id": "468bc6a4d5d755d8034866db",
+      "maskedId": "131xxxxxx4621",
+      "name": "ยุพารัตน์ ไชยเชาวน์",
+      "province": "นครราชสีมา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B9%80%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ศรีละกอ",
+      "district": "จักราช",
+      "id": "b71083f4fbcbac8022f1dca2",
+      "maskedId": "145xxxxxx3326",
+      "name": "อรพรรณ สวัสดิ์พุทรา",
+      "province": "นครราชสีมา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองขาม",
+      "district": "จักราช",
+      "id": "d88d723f7d6f3f822c9afc4e",
+      "maskedId": "131xxxxxx4498",
+      "name": "แววยา มีชั้นช่วง",
+      "province": "นครราชสีมา",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%A7%E0%B8%A7%E0%B8%A2%E0%B8%B2-%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

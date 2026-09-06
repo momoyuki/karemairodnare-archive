@@ -1,0 +1,65 @@
+{
+  "_meta": {
+    "count": 3,
+    "kind": "agency",
+    "name": "อบต.ทุ่งทอง",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-ทุ่งทอง",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ทุ่งทอง",
+      "district": "ท่าม่วง",
+      "id": "1e7091ad3ac0f530b5a1ebc6",
+      "maskedId": "170xxxxxx8337",
+      "name": "กันติญาน์ ลิ้มปรีดีชัย",
+      "province": "กาญจนบุรี",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "56_กาญจนบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B9%8C-%E0%B8%A5%E0%B8%B4%E0%B9%89%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B5%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.ทุ่งทอง",
+      "district": "หนองบัว",
+      "id": "7d7c83ad77f5bc7569df0457",
+      "maskedId": "133xxxxxx1059",
+      "name": "จักรี คงโนนกอก",
+      "province": "นครสวรรค์",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B5-%E0%B8%84%E0%B8%87%E0%B9%82%E0%B8%99%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งทอง",
+      "district": "หนองบัว",
+      "id": "193b6fa09aa18b444152b1e5",
+      "maskedId": "167xxxxxx5505",
+      "name": "ภาสินี ลาดลา",
+      "province": "นครสวรรค์",
+      "scoreChange": 13,
+      "sources": [
+        {
+          "file": "47_นครสวรรค์.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

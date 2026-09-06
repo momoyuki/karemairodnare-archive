@@ -1,0 +1,1068 @@
+{
+  "_meta": {
+    "count": 62,
+    "kind": "province",
+    "name": "นราธิวาส",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นราธิวาส",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "24a96c6bcad9e12f2d9d20ed",
+      "maskedId": "196xxxxxx9645",
+      "name": "กะลินทิพย์ ฮกฮิ้น",
+      "province": "นราธิวาส",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B0%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B8%AE%E0%B8%81%E0%B8%AE%E0%B8%B4%E0%B9%89%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จะแนะ",
+      "district": "จะแนะ",
+      "id": "5722f57c9bce4b56ba8a593f",
+      "maskedId": "194xxxxxx9391",
+      "name": "กามารีนา เจะแมง",
+      "province": "นราธิวาส",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ภูเขาทอง",
+      "district": "สุคิริน",
+      "id": "d888c5668983bd30aed91da7",
+      "maskedId": "194xxxxxx1873",
+      "name": "คอลดา สาและ",
+      "province": "นราธิวาส",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%84%E0%B8%AD%E0%B8%A5%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "03cf688550f7ba8ed4ebab18",
+      "maskedId": "195xxxxxx8105",
+      "name": "ฆอยราณี เจ๊ะแม",
+      "province": "นราธิวาส",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%86%E0%B8%AD%E0%B8%A2%E0%B8%A3%E0%B8%B2%E0%B8%93%E0%B8%B5-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "40a473f98fb357488ae445b9",
+      "maskedId": "110xxxxxx1014",
+      "name": "จักรกฤษณ์ จุลเทพ",
+      "province": "นราธิวาส",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%88%E0%B8%B8%E0%B8%A5%E0%B9%80%E0%B8%97%E0%B8%9E",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางปอ",
+      "district": "เมืองนราธิวาส",
+      "id": "597603968ba9d709a86f92a8",
+      "maskedId": "195xxxxxx0799",
+      "name": "ชฎาพร รัตนบุญ",
+      "province": "นราธิวาส",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%8E%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนราธิวาส",
+      "district": "เมืองนราธิวาส",
+      "id": "231147672e01e35b316a48e7",
+      "maskedId": "195xxxxxx7455",
+      "name": "ชไมพร สรรพสิน",
+      "province": "นราธิวาส",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B9%84%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ละหาร",
+      "district": "ยี่งอ",
+      "id": "f09806e21cd17c963c6bfd3b",
+      "maskedId": "194xxxxxx5101",
+      "name": "ซูฮาดา สนิ",
+      "province": "นราธิวาส",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B9%E0%B8%AE%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%99%E0%B8%B4",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บางขุนทอง",
+      "district": "ตากใบ",
+      "id": "36bfd192d4bb8320c25820d7",
+      "maskedId": "196xxxxxx0767",
+      "name": "ณัฐพงศ์ ทองคุปต์",
+      "province": "นราธิวาส",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%9B%E0%B8%95%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "123ee5663ae7193d5d895926",
+      "maskedId": "196xxxxxx4282",
+      "name": "ณัฐวุฒิ มะโนภักดิ์",
+      "province": "นราธิวาส",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%A1%E0%B8%B0%E0%B9%82%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "661949ce5650556a3f4d8cc0",
+      "maskedId": "195xxxxxx0419",
+      "name": "ณัสลีมินทร์ ดือรามะ",
+      "province": "นราธิวาส",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%AA%E0%B8%A5%E0%B8%B5%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางปอ",
+      "district": "เมืองนราธิวาส",
+      "id": "d82201985af0de6601adb162",
+      "maskedId": "394xxxxxx0294",
+      "name": "ตุแวสากีเราะ แดงงาม",
+      "province": "นราธิวาส",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B8%B8%E0%B9%81%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%B0-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "704df8717978be2fd23a926d",
+      "maskedId": "394xxxxxx5363",
+      "name": "ต่วนนูรฮายาตี วาบา",
+      "province": "นราธิวาส",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%95%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%AE%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%95%E0%B8%B5-%E0%B8%A7%E0%B8%B2%E0%B8%9A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนราธิวาส",
+      "district": "เมืองนราธิวาส",
+      "id": "279c446195741ae4baee3162",
+      "maskedId": "190xxxxxx8955",
+      "name": "ธนทร กิจตินันท์",
+      "province": "นราธิวาส",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%97%E0%B8%A3-%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาใหม่",
+      "district": "ตากใบ",
+      "id": "68637f46b334de2d085cc0ab",
+      "maskedId": "195xxxxxx9184",
+      "name": "ธนพล หลิวชัยชาญ",
+      "province": "นราธิวาส",
+      "scoreChange": 72,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%A5-%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%A7%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกเคียน",
+      "district": "เมืองนราธิวาส",
+      "id": "c9212734e1cb6cd079b61735",
+      "maskedId": "396xxxxxx9015",
+      "name": "ธัญลักษณ์ เอียดเหิน",
+      "province": "นราธิวาส",
+      "scoreChange": 68,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B9%80%E0%B8%AB%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ริโก๋",
+      "district": "สุไหงปาดี",
+      "id": "ed055d4a9e304159cd8f197f",
+      "maskedId": "194xxxxxx7150",
+      "name": "นัธธิมา สังข์แก้ว",
+      "province": "นราธิวาส",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%98%E0%B8%98%E0%B8%B4%E0%B8%A1%E0%B8%B2-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มะรือโบออก",
+      "district": "เจาะไอร้อง",
+      "id": "55bbe2af7ef74ba9617b0b77",
+      "maskedId": "196xxxxxx4958",
+      "name": "นาเดีย มีนา",
+      "province": "นราธิวาส",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2-%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ฆอเลาะ",
+      "district": "แว้ง",
+      "id": "c046c65e305a60fcea002662",
+      "maskedId": "196xxxxxx1862",
+      "name": "นูรมานีย๊ะ เจ๊ะอาแซ",
+      "province": "นราธิวาส",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%8A%E0%B8%B0-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B9%81%E0%B8%8B",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนราธิวาส",
+      "district": "เมืองนราธิวาส",
+      "id": "517a25bf3969e45b6dcd7353",
+      "maskedId": "194xxxxxx7761",
+      "name": "นูรีดา เจ๊ะมะ",
+      "province": "นราธิวาส",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาใหม่",
+      "district": "ตากใบ",
+      "id": "8cdf342902c66df02f0f61cc",
+      "maskedId": "196xxxxxx2312",
+      "name": "นูรีสัน เจ๊ะโว๊ะ",
+      "province": "นราธิวาส",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B8%99-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B9%82%E0%B8%A7%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กาเยาะมาตี",
+      "district": "บาเจาะ",
+      "id": "2d37bd1bd734329764054d44",
+      "maskedId": "196xxxxxx9401",
+      "name": "นูฮูดา สะแลแม",
+      "province": "นราธิวาส",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B8%AE%E0%B8%B9%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%B0%E0%B9%81%E0%B8%A5%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนราธิวาส",
+      "district": "เมืองนราธิวาส",
+      "id": "d37e45ef2722812ce20ce90c",
+      "maskedId": "194xxxxxx0082",
+      "name": "นูเรีย มามะ",
+      "province": "นราธิวาส",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B9%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2-%E0%B8%A1%E0%B8%B2%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ริโก๋",
+      "district": "สุไหงปาดี",
+      "id": "2fb9af291c8556bfb7391516",
+      "maskedId": "196xxxxxx7114",
+      "name": "ปิยธิดา เจียรวณิชชา",
+      "province": "นราธิวาส",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%A7%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สุคิริน",
+      "district": "สุคิริน",
+      "id": "497bb659b82a154886bfde9f",
+      "maskedId": "195xxxxxx7379",
+      "name": "พงศกร ยี่โป้",
+      "province": "นราธิวาส",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%81%E0%B8%A3-%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B9%82%E0%B8%9B%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "715c3c953ba1d38515f570d9",
+      "maskedId": "196xxxxxx3136",
+      "name": "พงศ์สุธร บุญช่วย",
+      "province": "นราธิวาส",
+      "scoreChange": 69,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "f1db29d4f5f9435552116fad",
+      "maskedId": "110xxxxxx8808",
+      "name": "พงษ์ธร พรหมมาดา",
+      "province": "นราธิวาส",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%98%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกียร์",
+      "district": "สุคิริน",
+      "id": "8b55663c5602b5c8af56f125",
+      "maskedId": "396xxxxxx1881",
+      "name": "พิพัฒน์ ชิณพงศ์",
+      "province": "นราธิวาส",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B4%E0%B8%93%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตันหยงมัส",
+      "district": "ระแงะ",
+      "id": "496d46d87e50c551c304ec05",
+      "maskedId": "394xxxxxx3814",
+      "name": "ฟาติน ปีแนบาโง",
+      "province": "นราธิวาส",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9F%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%99-%E0%B8%9B%E0%B8%B5%E0%B9%81%E0%B8%99%E0%B8%9A%E0%B8%B2%E0%B9%82%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีสาคร",
+      "district": "ศรีสาคร",
+      "id": "39cf77d8bb69425342e84483",
+      "maskedId": "195xxxxxx3970",
+      "name": "ภานุพงค์ ไชยแพทย์",
+      "province": "นราธิวาส",
+      "scoreChange": 62,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "eec278af9c31c3b2a1c587a0",
+      "maskedId": "195xxxxxx3785",
+      "name": "ภูริรัตน์ เลี่ยมเส้ง",
+      "province": "นราธิวาส",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B9%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนราธิวาส",
+      "district": "เมืองนราธิวาส",
+      "id": "7a2fb620949af7a51d03dc15",
+      "maskedId": "194xxxxxx5315",
+      "name": "มะอามิง วาเยะ",
+      "province": "นราธิวาส",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%87-%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เอราวัณ",
+      "district": "แว้ง",
+      "id": "c02f81b4b674a9ebd2a851d6",
+      "maskedId": "394xxxxxx3762",
+      "name": "มัสณา หะยีเมาะสาแม",
+      "province": "นราธิวาส",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B1%E0%B8%AA%E0%B8%93%E0%B8%B2-%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนราธิวาส",
+      "district": "เมืองนราธิวาส",
+      "id": "ee106775a333ebf68ad25c9e",
+      "maskedId": "194xxxxxx2874",
+      "name": "มาซีเต๊าะ สามะ",
+      "province": "นราธิวาส",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%8B%E0%B8%B5%E0%B9%80%E0%B8%95%E0%B9%8A%E0%B8%B2%E0%B8%B0-%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตันหยงลิมอ",
+      "district": "ระแงะ",
+      "id": "532ce4ae1f5a250565e738fb",
+      "maskedId": "196xxxxxx7707",
+      "name": "มามูนา ดุลยดากูล",
+      "province": "นราธิวาส",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B8%99%E0%B8%B2-%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A2%E0%B8%94%E0%B8%B2%E0%B8%81%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนราธิวาส",
+      "district": "เมืองนราธิวาส",
+      "id": "6676105b21802dd4b110c692",
+      "maskedId": "194xxxxxx8781",
+      "name": "มูณีเราะห์ บือราเฮง",
+      "province": "นราธิวาส",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A1%E0%B8%B9%E0%B8%93%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกเคียน",
+      "district": "เมืองนราธิวาส",
+      "id": "4cf233b02c961de5f263f8f5",
+      "maskedId": "195xxxxxx0717",
+      "name": "ยุวดี นวลเขียน",
+      "province": "นราธิวาส",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลตําบลปาเสมัส",
+      "district": "สุไหงโก-ลก",
+      "id": "6ad4af494191347b6f76112d",
+      "maskedId": "196xxxxxx6797",
+      "name": "รอฮีมะห์ นิยิ",
+      "province": "นราธิวาส",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%AD%E0%B8%AE%E0%B8%B5%E0%B8%A1%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตันหยงมัส",
+      "district": "ระแงะ",
+      "id": "d72294f82106c4e8de533195",
+      "maskedId": "196xxxxxx3111",
+      "name": "ลักษณา จันทร",
+      "province": "นราธิวาส",
+      "scoreChange": 57,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เกียร์",
+      "district": "สุคิริน",
+      "id": "9b0d3f9bf60979597fb32bc9",
+      "maskedId": "293xxxxxx2943",
+      "name": "วัชรพงษ์ วัชรจิรโสภณ",
+      "province": "นราธิวาส",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ละหาร",
+      "district": "ยี่งอ",
+      "id": "2b34ac6ec3ad97fc4984bfc3",
+      "maskedId": "195xxxxxx2072",
+      "name": "วันฟาดิล แวเด็ง",
+      "province": "นราธิวาส",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9F%E0%B8%B2%E0%B8%94%E0%B8%B4%E0%B8%A5-%E0%B9%81%E0%B8%A7%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%87",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.โต๊ะเด็ง",
+      "district": "สุไหงปาดี",
+      "id": "a0da533a48743db98413f949",
+      "maskedId": "196xxxxxx8538",
+      "name": "วิชญาดา บุญให้",
+      "province": "นราธิวาส",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B8%B2%E0%B8%94%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%83%E0%B8%AB%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "c0445a5c3236d8c6e1d1d038",
+      "maskedId": "296xxxxxx9335",
+      "name": "วิรัตน์ บุญให้",
+      "province": "นราธิวาส",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%83%E0%B8%AB%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "2f067e22862d3365449853c1",
+      "maskedId": "390xxxxxx5362",
+      "name": "ศิริพร ไฝเสน",
+      "province": "นราธิวาส",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B9%84%E0%B8%9D%E0%B9%80%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "c0d2b1d7e7b5aad41e52142f",
+      "maskedId": "196xxxxxx5871",
+      "name": "สาธิยา เภาประดิษฐ์",
+      "province": "นราธิวาส",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%A0%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จะแนะ",
+      "district": "จะแนะ",
+      "id": "35f54f73e569991beb5580a1",
+      "maskedId": "196xxxxxx9091",
+      "name": "สุรยุทธ์ อัศวนุรักษ์",
+      "province": "นราธิวาส",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%AD%E0%B8%B1%E0%B8%A8%E0%B8%A7%E0%B8%99%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนราธิวาส",
+      "district": "เมืองนราธิวาส",
+      "id": "74b49ccf0c0ae78e1097f0da",
+      "maskedId": "196xxxxxx4134",
+      "name": "สุรวุธ เจ๊ะบือราเฮง",
+      "province": "นราธิวาส",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%98-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%B0%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ลําภู",
+      "district": "เมืองนราธิวาส",
+      "id": "98c4e9c3b1fb71e50ccdecde",
+      "maskedId": "196xxxxxx1412",
+      "name": "สุไวบะห์ หามะ",
+      "province": "นราธิวาส",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B9%84%E0%B8%A7%E0%B8%9A%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%AB%E0%B8%B2%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางปอ",
+      "district": "เมืองนราธิวาส",
+      "id": "5e68d5cb134621a44c96a433",
+      "maskedId": "396xxxxxx1558",
+      "name": "อับดุลการิม สือรียาดี",
+      "province": "นราธิวาส",
+      "scoreChange": 52,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A1-%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีสาคร",
+      "district": "ศรีสาคร",
+      "id": "87229ba4c97b009599baeada",
+      "maskedId": "196xxxxxx5657",
+      "name": "อัยการ เจะซอ",
+      "province": "นราธิวาส",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%8B%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีสาคร",
+      "district": "ศรีสาคร",
+      "id": "f3dd3318e7aab32ba13995a2",
+      "maskedId": "196xxxxxx2968",
+      "name": "อาซีย๊ะ มิง",
+      "province": "นราธิวาส",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B9%8A%E0%B8%B0-%E0%B8%A1%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จะแนะ",
+      "district": "จะแนะ",
+      "id": "0b07fa5ad7b019a107018d63",
+      "maskedId": "194xxxxxx4885",
+      "name": "อานิส ดายะ",
+      "province": "นราธิวาส",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%AA-%E0%B8%94%E0%B8%B2%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ภูเขาทอง",
+      "district": "สุคิริน",
+      "id": "49d4f1a2567b17868f14d7b6",
+      "maskedId": "194xxxxxx2109",
+      "name": "อายียะห์ หะยีมะสะแม",
+      "province": "นราธิวาส",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B5%E0%B8%A2%E0%B8%B0%E0%B8%AB%E0%B9%8C-%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B8%A1%E0%B8%B0%E0%B8%AA%E0%B8%B0%E0%B9%81%E0%B8%A1",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลเมืองสุไหงโก-ลก",
+      "district": "สุไหงโก-ลก",
+      "id": "7bfff2b3e7930c0666d7adf5",
+      "maskedId": "194xxxxxx4458",
+      "name": "อาเซีย นิแว",
+      "province": "นราธิวาส",
+      "scoreChange": 8,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2-%E0%B8%99%E0%B8%B4%E0%B9%81%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาใหม่",
+      "district": "ตากใบ",
+      "id": "7a69e8e7014587b672daf270",
+      "maskedId": "194xxxxxx5445",
+      "name": "อิลฟาน มามะ",
+      "province": "นราธิวาส",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%A5%E0%B8%9F%E0%B8%B2%E0%B8%99-%E0%B8%A1%E0%B8%B2%E0%B8%A1%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองนราธิวาส",
+      "district": "เมืองนราธิวาส",
+      "id": "600daecd7794bf762f9497a8",
+      "maskedId": "396xxxxxx1091",
+      "name": "ฮันจีเรีย หะยีอีแต",
+      "province": "นราธิวาส",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B1%E0%B8%99%E0%B8%88%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2-%E0%B8%AB%E0%B8%B0%E0%B8%A2%E0%B8%B5%E0%B8%AD%E0%B8%B5%E0%B9%81%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ภูเขาทอง",
+      "district": "สุคิริน",
+      "id": "28a5d8f62e62bded0ef16519",
+      "maskedId": "194xxxxxx9459",
+      "name": "ฮัสนีดา เจะนิ",
+      "province": "นราธิวาส",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AE%E0%B8%B1%E0%B8%AA%E0%B8%99%E0%B8%B5%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%88%E0%B8%B0%E0%B8%99%E0%B8%B4",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.โคกเคียน",
+      "district": "เมืองนราธิวาส",
+      "id": "fd49daa804eb114f2c5e7bb4",
+      "maskedId": "193xxxxxx6268",
+      "name": "เกตุมณี ตงเยต",
+      "province": "นราธิวาส",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%A1%E0%B8%93%E0%B8%B5-%E0%B8%95%E0%B8%87%E0%B9%80%E0%B8%A2%E0%B8%95",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.ปะลุรู",
+      "district": "สุไหงปาดี",
+      "id": "625a5bb8c262514b885ee5c2",
+      "maskedId": "190xxxxxx8025",
+      "name": "เพียรพิณ สุภาพาบ",
+      "province": "นราธิวาส",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%93-%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%B2%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กะลุวอ",
+      "district": "เมืองนราธิวาส",
+      "id": "65fe37ef3fa0dadf0815d276",
+      "maskedId": "196xxxxxx3842",
+      "name": "โซเฟียณี มะสาและ",
+      "province": "นราธิวาส",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%8B%E0%B9%80%E0%B8%9F%E0%B8%B5%E0%B8%A2%E0%B8%93%E0%B8%B5-%E0%B8%A1%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลปาเสมัส",
+      "district": "สุไหงโก-ลก",
+      "id": "d6a1f13de67a455d6613366b",
+      "maskedId": "196xxxxxx4549",
+      "name": "โนรมาลา อาแว",
+      "province": "นราธิวาส",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%99%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2-%E0%B8%AD%E0%B8%B2%E0%B9%81%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศาลาใหม่",
+      "district": "ตากใบ",
+      "id": "15779dfdab720cffb8aae1ee",
+      "maskedId": "194xxxxxx9835",
+      "name": "ไพสือรินทร์ ยุนุ",
+      "province": "นราธิวาส",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "76_นราธิวาส.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%84%E0%B8%9E%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A2%E0%B8%B8%E0%B8%99%E0%B8%B8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

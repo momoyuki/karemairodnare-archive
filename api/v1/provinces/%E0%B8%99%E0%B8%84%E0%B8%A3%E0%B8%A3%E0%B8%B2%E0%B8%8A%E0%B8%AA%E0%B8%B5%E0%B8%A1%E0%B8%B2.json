@@ -1,0 +1,2632 @@
+{
+  "_meta": {
+    "count": 154,
+    "kind": "province",
+    "name": "นครราชสีมา",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "นครราชสีมา",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลนครนครราชสีมา",
+      "district": "เมืองนครราชสีมา",
+      "id": "0459167852eda8aecb810d1d",
+      "maskedId": "145xxxxxx6267",
+      "name": "กนกรัตน์ สิมพิลา",
+      "province": "นครราชสีมา",
+      "scoreChange": 17,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลท่าช้าง",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "a71d909f7cb96c97c2f21872",
+      "maskedId": "146xxxxxx4631",
+      "name": "กนกวรรณ พิณสา",
+      "province": "นครราชสีมา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B4%E0%B8%93%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองปากช่อง",
+      "district": "ปากช่อง",
+      "id": "40b7b3ac97f4e4ba25303190",
+      "maskedId": "147xxxxxx7229",
+      "name": "กนกวรรณ รูทา",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%81%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A3%E0%B8%B9%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าลาดขาว",
+      "district": "โชคชัย",
+      "id": "f2e5ce2e73dfd6980322e0ed",
+      "maskedId": "134xxxxxx5545",
+      "name": "กนิษฐา เครือชารี",
+      "province": "นครราชสีมา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%B2-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พลับพลา",
+      "district": "โชคชัย",
+      "id": "e65bd3dc5949ac6155aa5589",
+      "maskedId": "130xxxxxx3918",
+      "name": "กมลชนก จอดนอก",
+      "province": "นครราชสีมา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%88%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองหัวแรต",
+      "district": "หนองบุญมาก",
+      "id": "41fbe4a4da03ce762825b122",
+      "maskedId": "137xxxxxx6188",
+      "name": "กมลรัตน์ มูลเหลา",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านปรางค์",
+      "district": "คง",
+      "id": "2537282503846dcf2c4b5cfd",
+      "maskedId": "130xxxxxx7950",
+      "name": "กรณัฐเดชน์ มงคล",
+      "province": "นครราชสีมา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%99%E0%B9%8C-%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองพลวง",
+      "district": "จักราช | ประทาย",
+      "id": "c9e442a196e347bc1964b92b",
+      "maskedId": "131xxxxxx2114",
+      "name": "กรรณิการ์ ขวางรัมย์",
+      "province": "นครราชสีมา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C-%E0%B8%82%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สระตะเคียน",
+      "district": "เสิงสาง",
+      "id": "6e18b12383caf0c6d74d1d42",
+      "maskedId": "231xxxxxx2722",
+      "name": "กฤติยาภรณ์ กุลสิงห์",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหนองหัวฟาน",
+      "district": "ขามสะแกแสง",
+      "id": "1280ba06687fe9fe6e3efef5",
+      "maskedId": "148xxxxxx1781",
+      "name": "กฤติยาภรณ์ ไชยต้นเทือก",
+      "province": "นครราชสีมา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B7%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ในเมือง",
+      "district": "พิมาย",
+      "id": "e9df94c5513a2e4b0d00f2c6",
+      "maskedId": "131xxxxxx8306",
+      "name": "กฤตเมธ เจือทอง",
+      "province": "นครราชสีมา",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B9%80%E0%B8%A1%E0%B8%98-%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "เทศบาลตําบลพุดซา",
+      "district": "เมืองนครราชสีมา",
+      "id": "90ea1c5e25dbc86752447f86",
+      "maskedId": "130xxxxxx5327",
+      "name": "กฤษณะ กลางนอก",
+      "province": "นครราชสีมา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%B0-%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปากช่อง",
+      "district": "ปากช่อง",
+      "id": "be9d1e02c7da4deaadc2316f",
+      "maskedId": "130xxxxxx1604",
+      "name": "กลวัชร ไสยาสน์",
+      "province": "นครราชสีมา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A5%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B9%84%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตะขบ",
+      "district": "ปักธงชัย",
+      "id": "939e2b01aba85a1250c7bf3e",
+      "maskedId": "134xxxxxx5704",
+      "name": "กัญชรส สายธนู",
+      "province": "นครราชสีมา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%A3%E0%B8%AA-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B8%98%E0%B8%99%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไทยเจริญ",
+      "district": "หนองบุญมาก",
+      "id": "27c239cf5d4ed5bd461b7019",
+      "maskedId": "130xxxxxx6930",
+      "name": "กัญญาพัชร เรียมริมมะดัน",
+      "province": "นครราชสีมา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลแหลมทอง",
+      "district": "หนองบุญมาก",
+      "id": "11ae89f10cfbef836a35c5a7",
+      "maskedId": "331xxxxxx4691",
+      "name": "กัญญาภัทร จินดาขันธ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลด่านขุนทด",
+      "district": "ด่านขุนทด",
+      "id": "f263bfb20c3945c80d6223e1",
+      "maskedId": "136xxxxxx6834",
+      "name": "กันตพงศ์ พรมวันนา",
+      "province": "นครราชสีมา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คลองม่วง",
+      "district": "ปากช่อง",
+      "id": "0659eecf41db1503b24ffb1d",
+      "maskedId": "130xxxxxx8217",
+      "name": "กันตพงศ์ อรุณาภา",
+      "province": "นครราชสีมา",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%A0%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุดจิก",
+      "district": "สูงเนิน",
+      "id": "3558b97d1bcac51d5f797f76",
+      "maskedId": "130xxxxxx2463",
+      "name": "กาญจนา ปลอดกระโทก",
+      "province": "นครราชสีมา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2-%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%97%E0%B8%81",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.โบสถ์",
+      "district": "พิมาย",
+      "id": "9c710421506273651f86f4f7",
+      "maskedId": "134xxxxxx0646",
+      "name": "ก้องภพ กุศลคุณ",
+      "province": "นครราชสีมา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%9E-%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5%E0%B8%84%E0%B8%B8%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านปรางค์",
+      "district": "คง",
+      "id": "893065d1e6120b6777ff3f17",
+      "maskedId": "140xxxxxx8402",
+      "name": "จักรกฤษณ์ ภูมิคอนสาร",
+      "province": "นครราชสีมา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยยาง",
+      "district": "บัวใหญ่",
+      "id": "0ea8ca7e0d412278bb7249cb",
+      "maskedId": "110xxxxxx8706",
+      "name": "จักรีวุฒิ ทิมเชียงราก",
+      "province": "นครราชสีมา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%81",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตำบลครบุรีใต้",
+      "district": "ครบุรี",
+      "id": "b3c99db1f065ba762438d04d",
+      "maskedId": "146xxxxxx0020",
+      "name": "จันทร์จิรา เครือสุวรรณ",
+      "province": "นครราชสีมา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนตูม",
+      "district": "ชุมพวง",
+      "id": "78a846d2d11278ff32db7355",
+      "maskedId": "131xxxxxx6808",
+      "name": "จารุวรรณ ชนะรัมย์",
+      "province": "นครราชสีมา",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเมืองปัก",
+      "district": "ปักธงชัย",
+      "id": "c82d6926603409d9e72e7887",
+      "maskedId": "367xxxxxx7126",
+      "name": "จารุวรรณ หาญรักษ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AB%E0%B8%B2%E0%B8%8D%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองสาหร่าย",
+      "district": "ปากช่อง",
+      "id": "3ce6a05287c06d46e0144588",
+      "maskedId": "131xxxxxx2961",
+      "name": "จิณัฐตา เสไธสง",
+      "province": "นครราชสีมา",
+      "scoreChange": 46,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%95%E0%B8%B2-%E0%B9%80%E0%B8%AA%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลขามสะแกแสง",
+      "district": "ขามสะแกแสง",
+      "id": "5b70a45e831642170281e125",
+      "maskedId": "137xxxxxx9179",
+      "name": "จิรวรรณ์ ร่วมทอง",
+      "province": "นครราชสีมา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลนกออก",
+      "district": "ปักธงชัย",
+      "id": "32c8d68dcda5c32dd4f31735",
+      "maskedId": "145xxxxxx6531",
+      "name": "จิรศักดิ์ สายเชื้อ",
+      "province": "นครราชสีมา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลแหลมทอง",
+      "district": "หนองบุญมาก",
+      "id": "931564b5d0f1683feae331f3",
+      "maskedId": "131xxxxxx8695",
+      "name": "จิระญา ศรีอํานาจ",
+      "province": "นครราชสีมา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B0%E0%B8%8D%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B9%8D%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสมาใหญ่",
+      "district": "บัวใหญ่",
+      "id": "7c56a2494f6a32ecb0f12c54",
+      "maskedId": "144xxxxxx7186",
+      "name": "จิราภรณ์ แก้วกันยา",
+      "province": "นครราชสีมา",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโก",
+      "district": "ห้วยแถลง",
+      "id": "fc23e6813bc3de7ff1090527",
+      "maskedId": "186xxxxxx4484",
+      "name": "ชณัฏฐา ศิลปสุวรรณ",
+      "province": "นครราชสีมา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%93%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B8%B2-%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองหลัก",
+      "district": "ชุมพวง",
+      "id": "f2b8c37fdc1187c8ca804094",
+      "maskedId": "140xxxxxx4745",
+      "name": "ชมพูนุช ศาสตรา",
+      "province": "นครราชสีมา",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองสีคิ้ว",
+      "district": "สีคิ้ว",
+      "id": "72853ccc4bbc09caa55a155d",
+      "maskedId": "126xxxxxx3543",
+      "name": "ชวกานต์ สวัสดิ์พุทรา",
+      "province": "นครราชสีมา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปากช่อง",
+      "district": "ปากช่อง",
+      "id": "ece3f05b75eb48cf54914d07",
+      "maskedId": "132xxxxxx7555",
+      "name": "ชวิศา สนองชาติ",
+      "province": "นครราชสีมา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%B2-%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองกราด",
+      "district": "ด่านขุนทด",
+      "id": "fe4703934dba1ed17ddc16da",
+      "maskedId": "130xxxxxx0335",
+      "name": "ชารดา อ่อนน้อม",
+      "province": "นครราชสีมา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังไทร",
+      "district": "ปากช่อง",
+      "id": "a95eb5cf5257615a06843899",
+      "maskedId": "140xxxxxx1476",
+      "name": "ชุดาภา ไหมหรือ",
+      "province": "นครราชสีมา",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A0%E0%B8%B2-%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านใหม่",
+      "district": "หนองบุญมาก",
+      "id": "344ef5c9766e281a2211c6ac",
+      "maskedId": "195xxxxxx8505",
+      "name": "ซูฮารี อับดุลลี",
+      "province": "นครราชสีมา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B9%E0%B8%AE%E0%B8%B2%E0%B8%A3%E0%B8%B5-%E0%B8%AD%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A5%E0%B8%B5",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.คลองม่วง",
+      "district": "ปากช่อง",
+      "id": "455ec82a5f6508edf9152a4c",
+      "maskedId": "132xxxxxx7587",
+      "name": "ฐิตาพร รอดเลิศ",
+      "province": "นครราชสีมา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านใน",
+      "district": "ด่านขุนทด",
+      "id": "b4844627b20d5fd8ed0c8112",
+      "maskedId": "130xxxxxx8076",
+      "name": "ฐิติพงศ์ เปลี่ยนสันเทียะ",
+      "province": "นครราชสีมา",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เมืองเกษตร",
+      "district": "ขามสะแกแสง",
+      "id": "e2fe217858c304ba018e9bbb",
+      "maskedId": "146xxxxxx8399",
+      "name": "ณัฐฐาพร ภูต้อม",
+      "province": "นครราชสีมา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%90%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%A0%E0%B8%B9%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกุดจิก",
+      "district": "สูงเนิน",
+      "id": "f46cdc48cf3d3667748c2ce9",
+      "maskedId": "130xxxxxx4671",
+      "name": "ณัฐฐาภรณ์ รานจันทึก",
+      "province": "นครราชสีมา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%90%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ธงชัยเหนือ",
+      "district": "ปักธงชัย",
+      "id": "0ca1d230cb3e49e67394e046",
+      "maskedId": "132xxxxxx9085",
+      "name": "ณัฐณิชา ชุ่มเจริญ",
+      "province": "นครราชสีมา",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B8%8A%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสีมามงคล",
+      "district": "ปากช่อง",
+      "id": "7d2a60b93cc94475edc53dec",
+      "maskedId": "130xxxxxx4336",
+      "name": "ณัฐณิชา เลขาโชค",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%B2%E0%B9%82%E0%B8%8A%E0%B8%84",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.นครราชสีมา",
+      "district": "เมืองนครราชสีมา",
+      "id": "c765a1a283e21f79ea994a0f",
+      "maskedId": "131xxxxxx1027",
+      "name": "ณัฐณิชา ไชยสุวรรณ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%93%E0%B8%B4%E0%B8%8A%E0%B8%B2-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จันอัด",
+      "district": "โนนสูง",
+      "id": "d4f92fc575541933e1d697b6",
+      "maskedId": "144xxxxxx0755",
+      "name": "ณัฐพงษ์ ชูศรีวาส",
+      "province": "นครราชสีมา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%8A%E0%B8%B9%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B2%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.คูขาด",
+      "district": "คง",
+      "id": "8a6c4b553cc392ef5db12d82",
+      "maskedId": "146xxxxxx7239",
+      "name": "ณัฐพันธุ์ ถิตย์รัศมี",
+      "province": "นครราชสีมา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C-%E0%B8%96%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จักราช",
+      "district": "จักราช",
+      "id": "ffcbe727dcc4b6ae958452b6",
+      "maskedId": "110xxxxxx7570",
+      "name": "ณัฐวุฒิ ประทุมชาติ",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เมืองคง",
+      "district": "คง",
+      "id": "7fcdb18a6d74250d841a973b",
+      "maskedId": "125xxxxxx2791",
+      "name": "ดุลยวัตร์ จตุเทน",
+      "province": "นครราชสีมา",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B9%8C-%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B9%80%E0%B8%97%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ปากช่อง",
+      "district": "ปากช่อง",
+      "id": "1005ab30bde22df43170b183",
+      "maskedId": "130xxxxxx8500",
+      "name": "ธงชัย ตรีแก้ว",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.บ้านปรางค์",
+      "district": "คง",
+      "id": "5b94336f6d76e37eb62ac0b5",
+      "maskedId": "136xxxxxx9632",
+      "name": "ธนกุล วสุวัฒนะพงศ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ห้วยแคน",
+      "district": "ห้วยแถลง",
+      "id": "cb44131ea7f6045025b603de",
+      "maskedId": "130xxxxxx9731",
+      "name": "ธนพงศ์ จินดามาตย์",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ด่านขุนทด",
+      "district": "ด่านขุนทด",
+      "id": "70998275c87c7cc03864f6df",
+      "maskedId": "145xxxxxx5456",
+      "name": "ธนาวัฒน์ ภักดีสมุทร",
+      "province": "นครราชสีมา",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองหลัก",
+      "district": "ชุมพวง",
+      "id": "df7e0bf5273d12c66a6f5329",
+      "maskedId": "144xxxxxx6047",
+      "name": "ธัญญวรรณ วงษ์ช่าง",
+      "province": "นครราชสีมา",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.บ้านใหม่",
+      "district": "หนองบุญมาก",
+      "id": "8be85526e5a7ccbe95fa2377",
+      "maskedId": "130xxxxxx0743",
+      "name": "ธัญญาเรศ ถินผักแว่น",
+      "province": "นครราชสีมา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%A8-%E0%B8%96%E0%B8%B4%E0%B8%99%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B9%81%E0%B8%A7%E0%B9%88%E0%B8%99",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเหลื่อม",
+      "district": "บ้านเหลื่อม",
+      "id": "8f31bb85c74b0ebc2b81925a",
+      "maskedId": "111xxxxxx6949",
+      "name": "ธีรกานต์ ตากิ่มนอก",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%95%E0%B8%B2%E0%B8%81%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองหลัก",
+      "district": "ชุมพวง",
+      "id": "071e010277cfe8d74ccddbcd",
+      "maskedId": "147xxxxxx8056",
+      "name": "ธีรพงษ์ วงศ์กาฬสินธุ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.ไทยเจริญ",
+      "district": "หนองบุญมาก",
+      "id": "d894e60e43ef48148b79d95b",
+      "maskedId": "130xxxxxx5158",
+      "name": "ธีรพงษ์ เอี่ยมสูงเนิน",
+      "province": "นครราชสีมา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลเสิงสาง",
+      "district": "เสิงสาง",
+      "id": "5017252cc8ff3b843c802c39",
+      "maskedId": "131xxxxxx7620",
+      "name": "ธีรวัฒน์ เทพธี",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%98%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองสรวง",
+      "district": "ขามทะเลสอ",
+      "id": "3e8e4da0b7aeaf1368bf4469",
+      "maskedId": "146xxxxxx2741",
+      "name": "นลธวัช ศิลาดร",
+      "province": "นครราชสีมา",
+      "scoreChange": 8,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A5%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A-%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%A3",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลวังไทร",
+      "district": "ปากช่อง",
+      "id": "3f93de50c652531271ef628e",
+      "maskedId": "144xxxxxx8741",
+      "name": "นันทพงศ์ แสนเย็น",
+      "province": "นครราชสีมา",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ประสุข",
+      "district": "ชุมพวง",
+      "id": "884de75739cde90007c1b4a1",
+      "maskedId": "331xxxxxx2875",
+      "name": "นารี โค่นถอน",
+      "province": "นครราชสีมา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B5-%E0%B9%82%E0%B8%84%E0%B9%88%E0%B8%99%E0%B8%96%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หลุมข้าว",
+      "district": "โนนสูง",
+      "id": "6761034598cada3cc74471e3",
+      "maskedId": "136xxxxxx1631",
+      "name": "นิติยา ผ่านภูเขียว",
+      "province": "นครราชสีมา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B2-%E0%B8%9C%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.กระเบื้องนอก",
+      "district": "เมืองยาง",
+      "id": "4afd33643a01678a94593a7e",
+      "maskedId": "145xxxxxx9602",
+      "name": "นุชนาฎ สิทธิศาสตร์",
+      "province": "นครราชสีมา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%8E-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองแวง",
+      "district": "เทพารักษ์",
+      "id": "357c9ad9c6289f5ad4424095",
+      "maskedId": "130xxxxxx4983",
+      "name": "บารมี วิริยะไชโย",
+      "province": "นครราชสีมา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B5-%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B9%84%E0%B8%8A%E0%B9%82%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ทุ่งอรุณ",
+      "district": "โชคชัย",
+      "id": "5d40c4eb023165d9a4cd8bb9",
+      "maskedId": "142xxxxxx5463",
+      "name": "บุษบาวรรณ ดึนกระโทก",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B8%E0%B8%A9%E0%B8%9A%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%94%E0%B8%B6%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%97%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากช่อง",
+      "district": "ปากช่อง",
+      "id": "c874573d8e17b627b6b460b1",
+      "maskedId": "183xxxxxx8259",
+      "name": "ปรภรณ์ ก้อนอินทร์",
+      "province": "นครราชสีมา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A3%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "อบต.หนองไม้ไผ่",
+      "district": "หนองบุญมาก",
+      "id": "e47b164152ac17692fe49e25",
+      "maskedId": "130xxxxxx8956",
+      "name": "ปวีณา แทนกระโทก",
+      "province": "นครราชสีมา",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%A7%E0%B8%B5%E0%B8%93%E0%B8%B2-%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%97%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลสีมามงคล",
+      "district": "ปากช่อง",
+      "id": "6347ced2150ce4f417eb5c86",
+      "maskedId": "130xxxxxx7045",
+      "name": "ปิติพงษ์ สาครินทร์",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโนนเมือง",
+      "district": "ขามสะแกแสง",
+      "id": "eb798a72d43f2614b11aa40d",
+      "maskedId": "146xxxxxx4871",
+      "name": "ปิยะดา พยุพล",
+      "province": "นครราชสีมา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%94%E0%B8%B2-%E0%B8%9E%E0%B8%A2%E0%B8%B8%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองเมืองปัก",
+      "district": "ปักธงชัย",
+      "id": "f5e8d4e31a3fba5f816fe99d",
+      "maskedId": "132xxxxxx4918",
+      "name": "ปิ่นนรา ยลถวิล",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%99%E0%B8%A3%E0%B8%B2-%E0%B8%A2%E0%B8%A5%E0%B8%96%E0%B8%A7%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สาหร่าย",
+      "district": "ชุมพวง",
+      "id": "d1a22fca940d1cdd99274106",
+      "maskedId": "110xxxxxx4207",
+      "name": "พนธกร ชัยบุญทา",
+      "province": "นครราชสีมา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%98%E0%B8%81%E0%B8%A3-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%97%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระทุ่มราย",
+      "district": "ประทาย",
+      "id": "b5c4cbb2f48dddb92cd63f0b",
+      "maskedId": "130xxxxxx1454",
+      "name": "พรชัย นาคขํา",
+      "province": "นครราชสีมา",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%82%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองตาดใหญ่",
+      "district": "สีดา",
+      "id": "db83439e314597b2615bebd8",
+      "maskedId": "140xxxxxx7254",
+      "name": "พรรณิดา นาที",
+      "province": "นครราชสีมา",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%97%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองหอย",
+      "district": "พระทองคำ",
+      "id": "09a6cdb8b632ae93046da7c6",
+      "maskedId": "130xxxxxx2698",
+      "name": "พรรธน์ชญมน สีดำ",
+      "province": "นครราชสีมา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%98%E0%B8%99%E0%B9%8C%E0%B8%8A%E0%B8%8D%E0%B8%A1%E0%B8%99-%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มาบกราด",
+      "district": "พระทองคำ",
+      "id": "c9b92c3ae2350b0a1894e624",
+      "maskedId": "145xxxxxx6848",
+      "name": "พรสุดา เวฬุวนารักษ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2-%E0%B9%80%E0%B8%A7%E0%B8%AC%E0%B8%B8%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านปรางค์",
+      "district": "คง",
+      "id": "8fdb7a62765202c67b23f1dd",
+      "maskedId": "136xxxxxx6220",
+      "name": "พัชรินทร์ หาญพยัคฆ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%AB%E0%B8%B2%E0%B8%8D%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุดโบสถ์",
+      "district": "เสิงสาง",
+      "id": "90bea2aafb2f27fec20eb0b2",
+      "maskedId": "130xxxxxx6539",
+      "name": "พิทยา เชื้อจอหอ",
+      "province": "นครราชสีมา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%88%E0%B8%AD%E0%B8%AB%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขามทะเลสอ",
+      "district": "ขามทะเลสอ",
+      "id": "0e45fa8c61fefa7bc4496483",
+      "maskedId": "140xxxxxx7241",
+      "name": "พิทักษ์พงศ์ พงษ์เพียจันทร์",
+      "province": "นครราชสีมา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าจะหลุง",
+      "district": "โชคชัย",
+      "id": "04c1fd179f6f9e80c7317e0f",
+      "maskedId": "131xxxxxx4831",
+      "name": "พีรภาว์ สวัสดิ์มั่นคง",
+      "province": "นครราชสีมา",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B9%8C-%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%A1%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%84%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีละกอ",
+      "district": "จักราช",
+      "id": "a5936e31da62dca642bf43ae",
+      "maskedId": "131xxxxxx3358",
+      "name": "พีระศักดิ์ พวงเกษ",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังไทร",
+      "district": "ปากช่อง",
+      "id": "5a4f8f5e7f254b5faa61c524",
+      "maskedId": "141xxxxxx4935",
+      "name": "ภคภรณ์ ภูมิประหมัน",
+      "province": "นครราชสีมา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%84%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โคกกระเบื้อง",
+      "district": "บ้านเหลื่อม",
+      "id": "fcad9eb8c8802eaf3410b94f",
+      "maskedId": "136xxxxxx4290",
+      "name": "ภัทรวดี เรณู",
+      "province": "นครราชสีมา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B9%80%E0%B8%A3%E0%B8%93%E0%B8%B9",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองขาม",
+      "district": "จักราช",
+      "id": "468bc6a4d5d755d8034866db",
+      "maskedId": "131xxxxxx4621",
+      "name": "ยุพารัตน์ ไชยเชาวน์",
+      "province": "นครราชสีมา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A2%E0%B8%B8%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B9%80%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ขนงพระ",
+      "district": "ปากช่อง",
+      "id": "c72e3ac66e3ebbe6d9577064",
+      "maskedId": "147xxxxxx3726",
+      "name": "รัชนีภรณ์ ป้อมไชยา",
+      "province": "นครราชสีมา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%99%E0%B8%B5%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โบสถ์",
+      "district": "พิมาย",
+      "id": "29f7e9fdae0851c7c6647ffc",
+      "maskedId": "146xxxxxx2450",
+      "name": "รัตนาภรณ์ กุลเกลี้ยง",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังไทร",
+      "district": "ปากช่อง",
+      "id": "73e4191fbfd05287f22237f7",
+      "maskedId": "144xxxxxx2366",
+      "name": "รัตน์ตะวัน โพธิ์ศรี",
+      "province": "นครราชสีมา",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนรัง",
+      "district": "ชุมพวง",
+      "id": "447f0522febe2c321797c454",
+      "maskedId": "130xxxxxx9921",
+      "name": "รัตยา หินโม",
+      "province": "นครราชสีมา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%B2-%E0%B8%AB%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%A1",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.ตะโก",
+      "district": "ห้วยแถลง",
+      "id": "0d741a1f2ed1f571940e4310",
+      "maskedId": "186xxxxxx7593",
+      "name": "ลลิดา ชั่งสัจจา",
+      "province": "นครราชสีมา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%94%E0%B8%B2-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.บ้านใหม่",
+      "district": "หนองบุญมาก",
+      "id": "8dbeead3c8058341ddb716d7",
+      "maskedId": "131xxxxxx8493",
+      "name": "ลักขณา นาคเขียว",
+      "province": "นครราชสีมา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%93%E0%B8%B2-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.บ้านปรางค์",
+      "district": "คง",
+      "id": "4aeaef8983860c4aabe258c3",
+      "maskedId": "140xxxxxx9389",
+      "name": "ลินธภัสร์ โสภาบับ",
+      "province": "นครราชสีมา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B9%8C-%E0%B9%82%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9A%E0%B8%B1%E0%B8%9A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลนครนครราชสีมา",
+      "district": "เมืองนครราชสีมา",
+      "id": "0787a5bccd369d67a3309966",
+      "maskedId": "134xxxxxx6964",
+      "name": "วรรณศิริ โคตรหา",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโก",
+      "district": "ห้วยแถลง",
+      "id": "e0b75ab15a1152a5459c855b",
+      "maskedId": "110xxxxxx7961",
+      "name": "วรันธร มหาพรหม",
+      "province": "นครราชสีมา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A3-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองตาดใหญ่",
+      "district": "สีดา",
+      "id": "d7b8ca179f53dd1e95b99e5b",
+      "maskedId": "146xxxxxx6104",
+      "name": "วสุรัตน์ ภูอังคะ",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ชีวาน",
+      "district": "พิมาย",
+      "id": "887a271272bffc20c4314444",
+      "maskedId": "130xxxxxx9845",
+      "name": "วัชระ กระฉอดนอก",
+      "province": "นครราชสีมา",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B8%B0-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%89%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สัมฤทธิ์",
+      "district": "พิมาย",
+      "id": "31e184ce1baa9587d7f47aa8",
+      "maskedId": "140xxxxxx1878",
+      "name": "วันเฉลิม แพงดาน",
+      "province": "นครราชสีมา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1-%E0%B9%81%E0%B8%9E%E0%B8%87%E0%B8%94%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนประดู่",
+      "district": "สีดา",
+      "id": "653cbcd715f16e59638216b3",
+      "maskedId": "145xxxxxx3001",
+      "name": "วารินทร์ หล่มวงษ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%A1%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านใหม่",
+      "district": "หนองบุญมาก",
+      "id": "b601cd074822d925fb754400",
+      "maskedId": "130xxxxxx1200",
+      "name": "วารุณี ตงกระโทก",
+      "province": "นครราชสีมา",
+      "scoreChange": 2,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%B5-%E0%B8%95%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%97%E0%B8%81",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    },
+    {
+      "agency": "อบต.โนนสําราญ",
+      "district": "แก้งสนามนาง",
+      "id": "9d1fd1670b6827f27cd633a8",
+      "maskedId": "140xxxxxx7471",
+      "name": "วาศณีรัตน์ ต่านุแฮ",
+      "province": "นครราชสีมา",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%A8%E0%B8%93%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B9%81%E0%B8%AE",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.เมืองปราสาท",
+      "district": "โนนสูง",
+      "id": "e9e599aed9081f89ef39b9b5",
+      "maskedId": "130xxxxxx6081",
+      "name": "วาสนา แคล้วสูงเนิน",
+      "province": "นครราชสีมา",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2-%E0%B9%81%E0%B8%84%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลใหม่",
+      "district": "โนนสูง",
+      "id": "3c4034199d0d4f228c56bbe8",
+      "maskedId": "346xxxxxx1586",
+      "name": "วิจิตรา รัตนบุรัมย์",
+      "province": "นครราชสีมา",
+      "scoreChange": 63,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองบุนนาก",
+      "district": "หนองบุญมาก",
+      "id": "d52ddac2b63db91c080c9543",
+      "maskedId": "132xxxxxx0801",
+      "name": "วิภาวี เป็งหน้อย",
+      "province": "นครราชสีมา",
+      "scoreChange": 58,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B5-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เมืองพะไล",
+      "district": "บัวลาย",
+      "id": "8347684809e75f5af0bf141a",
+      "maskedId": "130xxxxxx1205",
+      "name": "วิริยะ พงค์ศาสตร์",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0-%E0%B8%9E%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โบสถ์",
+      "district": "พิมาย",
+      "id": "a004bb50c39b61167a5a66b9",
+      "maskedId": "144xxxxxx0133",
+      "name": "วีรดา ศรีมะโรง",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A1%E0%B8%B0%E0%B9%82%E0%B8%A3%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลดอนหวาย",
+      "district": "โนนสูง",
+      "id": "35906d39e829e309de30b2e2",
+      "maskedId": "145xxxxxx5406",
+      "name": "วุฒินัน ทิพกรณ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขามทะเลสอ",
+      "district": "ขามทะเลสอ",
+      "id": "3ab05c86079c128e4a03119b",
+      "maskedId": "140xxxxxx6071",
+      "name": "ศศิธร เค้าคำ",
+      "province": "นครราชสีมา",
+      "scoreChange": 41,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A8%E0%B8%B4%E0%B8%98%E0%B8%A3-%E0%B9%80%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โชคชัย",
+      "district": "โชคชัย",
+      "id": "cdc0a42d1372d77794988b88",
+      "maskedId": "130xxxxxx5386",
+      "name": "ศักรินทร์ แหวนมุข",
+      "province": "นครราชสีมา",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B9%81%E0%B8%AB%E0%B8%A7%E0%B8%99%E0%B8%A1%E0%B8%B8%E0%B8%82",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.ลําเพียก",
+      "district": "ครบุรี",
+      "id": "4adbc54ebbfecd84debc6cbc",
+      "maskedId": "130xxxxxx6207",
+      "name": "ศุภกานต์ ดอกไม้",
+      "province": "นครราชสีมา",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองแวง",
+      "district": "เทพารักษ์",
+      "id": "87d250cdbe3740baebabd9b9",
+      "maskedId": "125xxxxxx1781",
+      "name": "ศุภณัฐ มีงิ้วราย",
+      "province": "นครราชสีมา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%A1%E0%B8%B5%E0%B8%87%E0%B8%B4%E0%B9%89%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลเมืองปากช่อง",
+      "district": "ปากช่อง",
+      "id": "e643516259e93c29e8061e34",
+      "maskedId": "140xxxxxx7325",
+      "name": "ศุภวิชญ์ โคตรพันธ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองพลวง",
+      "district": "จักราช | ประทาย",
+      "id": "f9d70173916d52e61d7293a3",
+      "maskedId": "181xxxxxx6396",
+      "name": "สตรีรัตน์ ไววิลาศ",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%84%E0%B8%A7%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B2%E0%B8%A8",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลหมูสี",
+      "district": "ปากช่อง",
+      "id": "23a2fff0983a058a0277d443",
+      "maskedId": "140xxxxxx1986",
+      "name": "สิทธิพล อุปถัมภ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A5-%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%96%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองสาหร่าย",
+      "district": "ปากช่อง",
+      "id": "52605c6f889e00bda30c5e46",
+      "maskedId": "184xxxxxx1396",
+      "name": "สิริกาญจน์ มีลักษณ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%A1%E0%B8%B5%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.พระพุทธ",
+      "district": "เฉลิมพระเกียรติ",
+      "id": "a93d2cef6f1b8a452b40e79a",
+      "maskedId": "133xxxxxx1907",
+      "name": "สิริพร แดงงาม",
+      "province": "นครราชสีมา",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B9%81%E0%B8%94%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเหลื่อม",
+      "district": "บ้านเหลื่อม",
+      "id": "572ea883b0984ab27dee07ce",
+      "maskedId": "110xxxxxx6399",
+      "name": "สุกัญญา พากุดเลาะ",
+      "province": "นครราชสีมา",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลตูม",
+      "district": "ปักธงชัย",
+      "id": "8714696e4f936b70b0365977",
+      "maskedId": "134xxxxxx0371",
+      "name": "สุชญา คุณารัตน์",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%8D%E0%B8%B2-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนชมพู",
+      "district": "โนนสูง",
+      "id": "5a0cfce553919cc00d2760da",
+      "maskedId": "140xxxxxx8291",
+      "name": "สุดารัตน์ ดรปัดสา",
+      "province": "นครราชสีมา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%94%E0%B8%A3%E0%B8%9B%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเสิงสาง",
+      "district": "เสิงสาง",
+      "id": "4068a10fbea61b997463a319",
+      "maskedId": "144xxxxxx0594",
+      "name": "สุดารัตน์ เดชไธสง",
+      "province": "นครราชสีมา",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองพลวง",
+      "district": "จักราช | ประทาย",
+      "id": "9d9f369159531b5dc2252ebc",
+      "maskedId": "130xxxxxx1559",
+      "name": "สุดารัตน์ เลิศนา",
+      "province": "นครราชสีมา",
+      "scoreChange": 20,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุดโบสถ์",
+      "district": "เสิงสาง",
+      "id": "59a3fdb4958153134d0de5b3",
+      "maskedId": "180xxxxxx8777",
+      "name": "สุทธินนท์ บุญโต",
+      "province": "นครราชสีมา",
+      "scoreChange": 34,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%82%E0%B8%95",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลพระทองคํา",
+      "district": "พระทองคำ",
+      "id": "cf45d2de3b1074a002a7da00",
+      "maskedId": "140xxxxxx9522",
+      "name": "สุทธิพงษ์ นามศรี",
+      "province": "นครราชสีมา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านเหลื่อม",
+      "district": "บ้านเหลื่อม",
+      "id": "fcd45e454f80602ffe35086d",
+      "maskedId": "146xxxxxx7504",
+      "name": "สุธาสินี ภูชํานิ",
+      "province": "นครราชสีมา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%B5-%E0%B8%A0%E0%B8%B9%E0%B8%8A%E0%B9%8D%E0%B8%B2%E0%B8%99%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุดโบสถ์",
+      "district": "เสิงสาง",
+      "id": "f3dcd40dacd145fb337c6cdc",
+      "maskedId": "153xxxxxx0591",
+      "name": "สุพัตรา วิชัย",
+      "province": "นครราชสีมา",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สามเมือง",
+      "district": "สีดา",
+      "id": "77ba192658cc35a7fa4a5ff1",
+      "maskedId": "130xxxxxx2678",
+      "name": "สุพัตรา สุรพยัคฆพงษ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สีสุก",
+      "district": "แก้งสนามนาง | จักราช",
+      "id": "ee89aa5febeca1a0a7732397",
+      "maskedId": "130xxxxxx6361",
+      "name": "สุภาพร เลิศนา",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 5
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตะโก",
+      "district": "ห้วยแถลง",
+      "id": "0fb5b4f712148fb96aa9704b",
+      "maskedId": "131xxxxxx0072",
+      "name": "สุภาวดี ม่วงพาชี",
+      "province": "นครราชสีมา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%B2%E0%B8%8A%E0%B8%B5",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลอรพิมพ์",
+      "district": "ครบุรี",
+      "id": "dea9b1456cb64e63df0f23a0",
+      "maskedId": "186xxxxxx4681",
+      "name": "สุมิตรา บุญผุย",
+      "province": "นครราชสีมา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9C%E0%B8%B8%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลโนนสมบูรณ์",
+      "district": "เสิงสาง",
+      "id": "90f3580a5e8b62e20326bdd9",
+      "maskedId": "231xxxxxx9884",
+      "name": "สุรศักดิ์ ยอดไฟอินทร์",
+      "province": "นครราชสีมา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%9F%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    },
+    {
+      "agency": "เทศบาลตำบลใหม่",
+      "district": "โนนสูง",
+      "id": "2fb1e1a50b93644acf7e9f55",
+      "maskedId": "314xxxxxx1498",
+      "name": "สุรัตกุล รื่นพืชน์",
+      "province": "นครราชสีมา",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B8%8A%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บ้านเหลื่อม",
+      "district": "บ้านเหลื่อม",
+      "id": "cc1b0654949c8802cf58d4a6",
+      "maskedId": "147xxxxxx1143",
+      "name": "สุรีวรรณ พันธุ์ศิริ",
+      "province": "นครราชสีมา",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กระชอน",
+      "district": "พิมาย",
+      "id": "a748e87e57f0111b95466ad2",
+      "maskedId": "144xxxxxx8473",
+      "name": "สุวนันท์ แก้วอาสา",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขามทะเลสอ",
+      "district": "ขามทะเลสอ",
+      "id": "402b3ac2a6ea91a1844c3af5",
+      "maskedId": "130xxxxxx3632",
+      "name": "หทัยกมลรดี มงคล",
+      "province": "นครราชสีมา",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AB%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%A3%E0%B8%94%E0%B8%B5-%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.จันอัด",
+      "district": "โนนสูง",
+      "id": "534673f6fbc3f6fe2aecf353",
+      "maskedId": "130xxxxxx2081",
+      "name": "อธิพร ปะทักขินัง",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%82%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลอรพิมพ์",
+      "district": "ครบุรี",
+      "id": "b848362901c2829f470012b6",
+      "maskedId": "110xxxxxx5641",
+      "name": "อธิวัฒน์ ศรีแก้ว",
+      "province": "นครราชสีมา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ขามทะเลสอ",
+      "district": "ขามทะเลสอ",
+      "id": "1a9e127704a6362bd632ca42",
+      "maskedId": "131xxxxxx1187",
+      "name": "อนุรัตน์ ดวงเดือน",
+      "province": "นครราชสีมา",
+      "scoreChange": 39,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.กุดโบสถ์",
+      "district": "เสิงสาง",
+      "id": "eb381bb6fd3251eda809eed6",
+      "maskedId": "131xxxxxx3281",
+      "name": "อภิวัฒน์ อยู่เย็น",
+      "province": "นครราชสีมา",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ทับสวาย",
+      "district": "ห้วยแถลง",
+      "id": "eb0172e0b8f5a56850f52ac5",
+      "maskedId": "131xxxxxx3246",
+      "name": "อรพรรณ วงษ์งอ",
+      "province": "นครราชสีมา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%87%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ศรีละกอ",
+      "district": "จักราช",
+      "id": "b71083f4fbcbac8022f1dca2",
+      "maskedId": "145xxxxxx3326",
+      "name": "อรพรรณ สวัสดิ์พุทรา",
+      "province": "นครราชสีมา",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สามเมือง",
+      "district": "สีดา",
+      "id": "22d018f772227415935a5003",
+      "maskedId": "345xxxxxx7404",
+      "name": "อรวรรณ วิถาทานัง",
+      "province": "นครราชสีมา",
+      "scoreChange": 54,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A3%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B8%A7%E0%B8%B4%E0%B8%96%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ธงชัยเหนือ",
+      "district": "ปักธงชัย",
+      "id": "db8c775dad0ac74ffc4b9164",
+      "maskedId": "130xxxxxx7032",
+      "name": "อลงกรณ์ ระดมผล",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%A1%E0%B8%9C%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลเสิงสาง",
+      "district": "เสิงสาง",
+      "id": "57f5ca1691fe00f0db9fe25b",
+      "maskedId": "140xxxxxx1322",
+      "name": "อัจฉราลักษณ์ พวกเมืองพล",
+      "province": "นครราชสีมา",
+      "scoreChange": 28,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A7%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.โนนสําราญ",
+      "district": "แก้งสนามนาง",
+      "id": "6fe3c717528b2d8cf15d83ae",
+      "maskedId": "136xxxxxx9792",
+      "name": "อาภาภรณ์ ปัดชา",
+      "province": "นครราชสีมา",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9B%E0%B8%B1%E0%B8%94%E0%B8%8A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตําบลแหลมทอง",
+      "district": "หนองบุญมาก",
+      "id": "4fc54780e060efafa2ae45c3",
+      "maskedId": "130xxxxxx3718",
+      "name": "อิทธิพัทธ์ สุรินทร์ต๊ะ",
+      "province": "นครราชสีมา",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%8A%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ปากช่อง",
+      "district": "ปากช่อง",
+      "id": "42a09397d0ded11595ed05a4",
+      "maskedId": "130xxxxxx2172",
+      "name": "อินทุอร ธงศิลา",
+      "province": "นครราชสีมา",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B8%AD%E0%B8%A3-%E0%B8%98%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หนองสาหร่าย",
+      "district": "ปากช่อง",
+      "id": "b7bfc1864b0c2cea4508f37a",
+      "maskedId": "145xxxxxx0532",
+      "name": "อิสระพงษ์ ชื่นชม",
+      "province": "นครราชสีมา",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%8A%E0%B8%A1",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.ดงใหญ่",
+      "district": "พิมาย",
+      "id": "80cd2b8dac30cb49ef5440c7",
+      "maskedId": "131xxxxxx4054",
+      "name": "อโนเชาว์ ชาติไธสง",
+      "province": "นครราชสีมา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B9%82%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%8C-%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B9%84%E0%B8%98%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.โนนประดู่",
+      "district": "สีดา",
+      "id": "f4c04f171c235f37e13afcc9",
+      "maskedId": "140xxxxxx4989",
+      "name": "เกตุวดี ขันมัง",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%95%E0%B8%B8%E0%B8%A7%E0%B8%94%E0%B8%B5-%E0%B8%82%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลใหม่",
+      "district": "โนนสูง",
+      "id": "074017f69e3b62d1611bd12b",
+      "maskedId": "311xxxxxx2321",
+      "name": "เขมศิตราญ์ พึ่งสวัสดิ์",
+      "province": "นครราชสีมา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%8D%E0%B9%8C-%E0%B8%9E%E0%B8%B6%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลกงรถ",
+      "district": "ห้วยแถลง",
+      "id": "e318305502c582ad22eb6548",
+      "maskedId": "131xxxxxx5135",
+      "name": "เดชาธร เการัมย์",
+      "province": "นครราชสีมา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%B2%E0%B8%98%E0%B8%A3-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ท่าลาด",
+      "district": "ชุมพวง",
+      "id": "20863e52781afa58f05b8432",
+      "maskedId": "146xxxxxx5342",
+      "name": "เบญจมาภรณ์ จุฑาผาด",
+      "province": "นครราชสีมา",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%9C%E0%B8%B2%E0%B8%94",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "เทศบาลตําบลเสิงสาง",
+      "district": "เสิงสาง",
+      "id": "eab1aaf9442623ad4e549fd4",
+      "maskedId": "231xxxxxx5432",
+      "name": "เปรมวไลลักษณ์ พรพัฒน์ธารา",
+      "province": "นครราชสีมา",
+      "scoreChange": 61,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B8%A7%E0%B9%84%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.พังเทียม",
+      "district": "พระทองคำ",
+      "id": "6cab354ad5094e70bc768c88",
+      "maskedId": "140xxxxxx7599",
+      "name": "เศกสรรค์ แสนกันหา",
+      "province": "นครราชสีมา",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 3
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A8%E0%B8%81%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลด่านขุนทด",
+      "district": "ด่านขุนทด",
+      "id": "3403793ca7c2fe9ab822a00a",
+      "maskedId": "131xxxxxx4624",
+      "name": "เอกวิทย์ แผ้วพลสง",
+      "province": "นครราชสีมา",
+      "scoreChange": 49,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%9C%E0%B9%89%E0%B8%A7%E0%B8%9E%E0%B8%A5%E0%B8%AA%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หนองขาม",
+      "district": "จักราช",
+      "id": "d88d723f7d6f3f822c9afc4e",
+      "maskedId": "131xxxxxx4498",
+      "name": "แววยา มีชั้นช่วง",
+      "province": "นครราชสีมา",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%81%E0%B8%A7%E0%B8%A7%E0%B8%A2%E0%B8%B2-%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "เทศบาลตำบลสุขไพบูลย์",
+      "district": "เสิงสาง",
+      "id": "cdcd8ea70ff9d055289ca74c",
+      "maskedId": "131xxxxxx5312",
+      "name": "โอฬาร สุขสบาย",
+      "province": "นครราชสีมา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "19_นครราชสีมา.pdf",
+          "page": 4
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%AD%E0%B8%AC%E0%B8%B2%E0%B8%A3-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

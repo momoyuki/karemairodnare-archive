@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "district",
+    "name": "เมืองขอนแก่น",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เมืองขอนแก่น",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.แดงใหญ่",
+      "district": "เมืองขอนแก่น",
+      "id": "c5177a4e48e84cb8603408af",
+      "maskedId": "344xxxxxx8400",
+      "name": "กมลพิชญ์ สุรินทราช",
+      "province": "ขอนแก่น",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A1%E0%B8%A5%E0%B8%9E%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบจ.ขอนแก่น",
+      "district": "เมืองขอนแก่น",
+      "id": "26547d98dab0cabef58b02c3",
+      "maskedId": "143xxxxxx0263",
+      "name": "ธัญญาลักษณ์ เหล่าสุวรรณ",
+      "province": "ขอนแก่น",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ขอนแก่น",
+      "district": "เมืองขอนแก่น",
+      "id": "21101ebac23ea708eef1e545",
+      "maskedId": "133xxxxxx1878",
+      "name": "นภสร น้ําหวาน",
+      "province": "ขอนแก่น",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%AA%E0%B8%A3-%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.แดงใหญ่",
+      "district": "เมืองขอนแก่น",
+      "id": "adad666367b3b794f375d31d",
+      "maskedId": "130xxxxxx7750",
+      "name": "รัชดาภรณ์ การัมย์",
+      "province": "ขอนแก่น",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "28_ขอนแก่น.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%94%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    }
+  ]
+}

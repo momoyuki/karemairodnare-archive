@@ -1,0 +1,99 @@
+{
+  "_meta": {
+    "count": 5,
+    "kind": "district",
+    "name": "บ้านผือ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บ้านผือ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตําบลเมืองพาน",
+      "district": "บ้านผือ",
+      "id": "04bdeaf973a3902c6a8bb19a",
+      "maskedId": "557xxxxxx8271",
+      "name": "บรรจง ย่อลึ",
+      "province": "อุดรธานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%87-%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A5%E0%B8%B6",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.หายโศก",
+      "district": "บ้านผือ",
+      "id": "6965eb40f8676b67095af35f",
+      "maskedId": "335xxxxxx9714",
+      "name": "พัสเกนทร์ วงษา",
+      "province": "อุดรธานี",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%81%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B8%B2",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองแวง",
+      "district": "บ้านผือ",
+      "id": "ad06447ccc285bb22dfad088",
+      "maskedId": "147xxxxxx4133",
+      "name": "รุ้งฟ้า สีพิมเมือง",
+      "province": "อุดรธานี",
+      "scoreChange": 44,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A3%E0%B8%B8%E0%B9%89%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.หนองหัวคู",
+      "district": "บ้านผือ",
+      "id": "4c2b348b41d0479ef886ec03",
+      "maskedId": "141xxxxxx6591",
+      "name": "วันวิสาข์ บุญสาร",
+      "province": "อุดรธานี",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B8%B2%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลคําบง",
+      "district": "บ้านผือ",
+      "id": "8f32ae6a7caad3112717b6cb",
+      "maskedId": "143xxxxxx7109",
+      "name": "สุพัตรา ศรีทะนีทอก",
+      "province": "อุดรธานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "29_อุดรธานี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%B0%E0%B8%99%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%81",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    }
+  ]
+}

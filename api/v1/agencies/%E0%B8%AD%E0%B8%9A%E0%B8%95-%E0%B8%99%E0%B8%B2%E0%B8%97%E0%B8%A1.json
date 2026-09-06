@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "count": 2,
+    "kind": "agency",
+    "name": "อบต.นาทม",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "อบต-นาทม",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.นาทม",
+      "district": "นาทม",
+      "id": "cbba0c1eff3949bad0a30bad",
+      "maskedId": "143xxxxxx3999",
+      "name": "ธนัต ทุยหล้า",
+      "province": "นครพนม",
+      "scoreChange": 38,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%99%E0%B8%B1%E0%B8%95-%E0%B8%97%E0%B8%B8%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B9%89%E0%B8%B2",
+      "verificationSource": "ยืนยันจากชื่อหน่วยงานและที่ตั้งหน่วยงานอย่างเป็นทางการ"
+    },
+    {
+      "agency": "อบต.นาทม",
+      "district": "นาทม",
+      "id": "7422cd5471cb6107b363fe52",
+      "maskedId": "143xxxxxx9536",
+      "name": "อชิตะ กะริอุณะ",
+      "province": "นครพนม",
+      "scoreChange": 9,
+      "sources": [
+        {
+          "file": "36_นครพนม.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%B0-%E0%B8%81%E0%B8%B0%E0%B8%A3%E0%B8%B4%E0%B8%AD%E0%B8%B8%E0%B8%93%E0%B8%B0",
+      "verificationSource": "ยืนยันจากคำสั่ง/เอกสารราชการ"
+    }
+  ]
+}

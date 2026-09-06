@@ -1,0 +1,133 @@
+{
+  "_meta": {
+    "count": 7,
+    "kind": "district",
+    "name": "หนองจิก",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "หนองจิก",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.ดาโต๊ะ",
+      "district": "หนองจิก",
+      "id": "93b93bd603acdfb98c9dee80",
+      "maskedId": "194xxxxxx7530",
+      "name": "ซีตีฟาตีเมาะ สวยงาม",
+      "province": "ปัตตานี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8B%E0%B8%B5%E0%B8%95%E0%B8%B5%E0%B8%9F%E0%B8%B2%E0%B8%95%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B2%E0%B8%B0-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดาโต๊ะ",
+      "district": "หนองจิก",
+      "id": "45caab4c8f2736f54d53b7a2",
+      "maskedId": "195xxxxxx5688",
+      "name": "บือราเฮง ดะแซ",
+      "province": "ปัตตานี",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9A%E0%B8%B7%E0%B8%AD%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AE%E0%B8%87-%E0%B8%94%E0%B8%B0%E0%B9%81%E0%B8%8B",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางตาวา",
+      "district": "หนองจิก",
+      "id": "add35ec4db01eb6b766bbe22",
+      "maskedId": "194xxxxxx3263",
+      "name": "อนันต์ กูปาเนาะ",
+      "province": "ปัตตานี",
+      "scoreChange": 65,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%81%E0%B8%B9%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%B0",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนรัก",
+      "district": "หนองจิก",
+      "id": "1ebcb0c95048eeeb4a31ed90",
+      "maskedId": "194xxxxxx7207",
+      "name": "อับดุลรอมัน โตะฮิง",
+      "province": "ปัตตานี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A3%E0%B8%AD%E0%B8%A1%E0%B8%B1%E0%B8%99-%E0%B9%82%E0%B8%95%E0%B8%B0%E0%B8%AE%E0%B8%B4%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ตุยง",
+      "district": "หนองจิก",
+      "id": "c2274dc4c2cb39ab6220453d",
+      "maskedId": "194xxxxxx6671",
+      "name": "อัสมีน อาแว",
+      "province": "ปัตตานี",
+      "scoreChange": 53,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B1%E0%B8%AA%E0%B8%A1%E0%B8%B5%E0%B8%99-%E0%B8%AD%E0%B8%B2%E0%B9%81%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ดอนรัก",
+      "district": "หนองจิก",
+      "id": "01d402133cc8485aceca0f40",
+      "maskedId": "394xxxxxx3605",
+      "name": "อามีนา สือแปง",
+      "province": "ปัตตานี",
+      "scoreChange": 40,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B2%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B2-%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%9B%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ยาบี",
+      "district": "หนองจิก",
+      "id": "5628ab7554fd3d8be6bb2b07",
+      "maskedId": "195xxxxxx1314",
+      "name": "เกษรา นวลนิล",
+      "province": "ปัตตานี",
+      "scoreChange": 59,
+      "sources": [
+        {
+          "file": "74_ปัตตานี.pdf",
+          "page": 2
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%B2-%E0%B8%99%E0%B8%A7%E0%B8%A5%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

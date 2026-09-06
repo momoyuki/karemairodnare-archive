@@ -1,0 +1,405 @@
+{
+  "_meta": {
+    "count": 23,
+    "kind": "province",
+    "name": "ชัยนาท",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "ชัยนาท",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "อบต.อู่ตะเภา",
+      "district": "มโนรมย์",
+      "id": "0ea17051b88b51b3c299b588",
+      "maskedId": "547xxxxxx7195",
+      "name": "กฤษณะ อินธิโส",
+      "province": "ชัยนาท",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%B0-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B4%E0%B9%82%E0%B8%AA",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลหาดท่าเสา",
+      "district": "เมืองชัยนาท",
+      "id": "c039016bc102a1e39fb8ce01",
+      "maskedId": "172xxxxxx0876",
+      "name": "กฤษณะ แก้วศรีงาม",
+      "province": "ชัยนาท",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%93%E0%B8%B0-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยนาท",
+      "district": "เมืองชัยนาท",
+      "id": "552ebd794eaccdb21e9273b1",
+      "maskedId": "136xxxxxx4732",
+      "name": "กิตติพงษ์ บุตรวัง",
+      "province": "ชัยนาท",
+      "scoreChange": 51,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%B1%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลโพนางดําตก",
+      "district": "สรรพยา",
+      "id": "8b58fdcfc2b0c08c581eb0a3",
+      "maskedId": "117xxxxxx6867",
+      "name": "จิตตราภรณ์ พรภักดี",
+      "province": "ชัยนาท",
+      "scoreChange": 37,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลเจ้าพระยา",
+      "district": "สรรพยา",
+      "id": "074e0b558bc3ea5a56d9b0f7",
+      "maskedId": "112xxxxxx8669",
+      "name": "จุฑามาศ ชมภูนุช",
+      "province": "ชัยนาท",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%88%E0%B8%B8%E0%B8%91%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A8-%E0%B8%8A%E0%B8%A1%E0%B8%A0%E0%B8%B9%E0%B8%99%E0%B8%B8%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลดงคอน",
+      "district": "สรรคบุรี",
+      "id": "9c45b9fbacbea5b6460b5f16",
+      "maskedId": "130xxxxxx5263",
+      "name": "ชุติมันต์ วิชัยรัมย์",
+      "province": "ชัยนาท",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B8%E0%B8%95%E0%B8%B4%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังตะเคียน",
+      "district": "หนองมะโมง",
+      "id": "ef185883a34c12a0cbffafa6",
+      "maskedId": "112xxxxxx1279",
+      "name": "ณัฐกานต์ เรืองศรี",
+      "province": "ชัยนาท",
+      "scoreChange": 16,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%93%E0%B8%B1%E0%B8%90%E0%B8%81%E0%B8%B2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%A3%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ่อแร่",
+      "district": "วัดสิงห์",
+      "id": "5fa5c22617b40e7209d84b52",
+      "maskedId": "118xxxxxx7351",
+      "name": "ธิตินันท์ ใจแสน",
+      "province": "ชัยนาท",
+      "scoreChange": 47,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B9%83%E0%B8%88%E0%B9%81%E0%B8%AA%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลแพรกศรีราชา",
+      "district": "สรรคบุรี",
+      "id": "4a1dbc98822b3c9f3f544c92",
+      "maskedId": "117xxxxxx6938",
+      "name": "พงศธร เจริญ",
+      "province": "ชัยนาท",
+      "scoreChange": 42,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%98%E0%B8%A3-%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไพรนกยูง",
+      "district": "หันคา",
+      "id": "959237bd789d161b90606e76",
+      "maskedId": "110xxxxxx4593",
+      "name": "พงษ์รวี ชาวบ้านกร่าง",
+      "province": "ชัยนาท",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%A3%E0%B8%A7%E0%B8%B5-%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลมโนรมย์",
+      "district": "มโนรมย์",
+      "id": "fe680601693f608e6f3d3e7b",
+      "maskedId": "112xxxxxx9255",
+      "name": "พชรพร วงศ์บุญเหลือ",
+      "province": "ชัยนาท",
+      "scoreChange": 50,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9E%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบจ.ชัยนาท",
+      "district": "เมืองชัยนาท",
+      "id": "97f0a1bd20b680c51d29643f",
+      "maskedId": "115xxxxxx3419",
+      "name": "พนธวิชญ์ พลมาลา",
+      "province": "ชัยนาท",
+      "scoreChange": 21,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%9E%E0%B8%A5%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลวัดสิงห์",
+      "district": "วัดสิงห์",
+      "id": "8894d9e40bea2599fc4ea082",
+      "maskedId": "113xxxxxx5253",
+      "name": "พิเชษฐ์ สนใจยิ่ง",
+      "province": "ชัยนาท",
+      "scoreChange": 25,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองชัยนาท",
+      "district": "เมืองชัยนาท",
+      "id": "09e92e902148e9180b9af9f6",
+      "maskedId": "325xxxxxx6621",
+      "name": "วรรณภา วาริชา",
+      "province": "ชัยนาท",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A0%E0%B8%B2-%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%8A%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตําบลวังตะเคียน",
+      "district": "หนองมะโมง",
+      "id": "08d5d74fca5483949296add0",
+      "maskedId": "152xxxxxx0906",
+      "name": "วิริญญา ขัติยะราช",
+      "province": "ชัยนาท",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%82%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.อู่ตะเภา",
+      "district": "มโนรมย์",
+      "id": "e0e0a5540bf7bc80311aa5f0",
+      "maskedId": "110xxxxxx8865",
+      "name": "สรัญญา พุฒพันธ์",
+      "province": "ชัยนาท",
+      "scoreChange": 14,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%9E%E0%B8%B8%E0%B8%92%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลห้วยกรด",
+      "district": "สรรคบุรี",
+      "id": "a8d8166cbf9eb377648466ce",
+      "maskedId": "172xxxxxx0636",
+      "name": "สิริขวัญ เยาวโรจน์",
+      "province": "ชัยนาท",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D-%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลห้วยกรด",
+      "district": "สรรคบุรี",
+      "id": "fc56042695834be0826d3ab4",
+      "maskedId": "172xxxxxx1707",
+      "name": "สุวนันท์ ศรีเงินงาม",
+      "province": "ชัยนาท",
+      "scoreChange": 43,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%A1",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลห้วยกรด",
+      "district": "สรรคบุรี",
+      "id": "13bc8baa74387e2f2039678e",
+      "maskedId": "118xxxxxx2085",
+      "name": "อนัญพร พรหมมา",
+      "province": "ชัยนาท",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%9E%E0%B8%A3-%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A1%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สุขเดือนห้า",
+      "district": "เนินขาม",
+      "id": "60496cdd8f2d2bb9228703a8",
+      "maskedId": "172xxxxxx1444",
+      "name": "อนุชิต ช้างวงศ์",
+      "province": "ชัยนาท",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%8A%E0%B8%B4%E0%B8%95-%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.ไร่พัฒนา",
+      "district": "มโนรมย์",
+      "id": "cdc32c35c413e09e38ee621f",
+      "maskedId": "118xxxxxx4589",
+      "name": "อลงกต ดํานิล",
+      "province": "ชัยนาท",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%95-%E0%B8%94%E0%B9%8D%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เขาแก้ว",
+      "district": "สรรพยา",
+      "id": "159fade1cdaedd6d05542038",
+      "maskedId": "117xxxxxx9185",
+      "name": "อุเทน วังยาว",
+      "province": "ชัยนาท",
+      "scoreChange": 19,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%B8%E0%B9%80%E0%B8%97%E0%B8%99-%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากเว็บไซต์หน่วยงาน"
+    },
+    {
+      "agency": "อบต.มะขามเฒ่า",
+      "district": "วัดสิงห์",
+      "id": "785b0402bd66d82ec68d2261",
+      "maskedId": "118xxxxxx9965",
+      "name": "เยาวพร ชื่นสัมพันธ์",
+      "province": "ชัยนาท",
+      "scoreChange": 27,
+      "sources": [
+        {
+          "file": "09_ชัยนาท.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%A3-%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

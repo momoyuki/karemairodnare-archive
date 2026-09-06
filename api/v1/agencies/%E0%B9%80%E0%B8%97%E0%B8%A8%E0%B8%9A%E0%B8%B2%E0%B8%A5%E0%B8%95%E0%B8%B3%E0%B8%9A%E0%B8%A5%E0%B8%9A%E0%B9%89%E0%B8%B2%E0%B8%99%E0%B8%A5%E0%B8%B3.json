@@ -1,0 +1,82 @@
+{
+  "_meta": {
+    "count": 4,
+    "kind": "agency",
+    "name": "เทศบาลตำบลบ้านลำ",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "เทศบาลตำบลบ้านลำ",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลบ้านลำ",
+      "district": "วิหารแดง",
+      "id": "989d1d4717219bc48a5c46c8",
+      "maskedId": "110xxxxxx7665",
+      "name": "ธันวา สีดวงแก้ว",
+      "province": "สระบุรี",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านลำ",
+      "district": "วิหารแดง",
+      "id": "8902f05899e14731d9e26c15",
+      "maskedId": "330xxxxxx8690",
+      "name": "นภัสนันท์ จิรกัณฑ์พสิษฐ์",
+      "province": "สระบุรี",
+      "scoreChange": 56,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%9E%E0%B8%AA%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านลำ",
+      "district": "วิหารแดง",
+      "id": "cd42845ec9e5c354c1cc8438",
+      "maskedId": "326xxxxxx2281",
+      "name": "สนิษา สีไข่มุกข์",
+      "province": "สระบุรี",
+      "scoreChange": 36,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%B2-%E0%B8%AA%E0%B8%B5%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%A1%E0%B8%B8%E0%B8%81%E0%B8%82%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบ้านลำ",
+      "district": "วิหารแดง",
+      "id": "8109c79093ebc79c3dd310f2",
+      "maskedId": "141xxxxxx4024",
+      "name": "สุริยน มงคลคําซาว",
+      "province": "สระบุรี",
+      "scoreChange": 48,
+      "sources": [
+        {
+          "file": "10_สระบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%99-%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%84%E0%B9%8D%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%A7",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

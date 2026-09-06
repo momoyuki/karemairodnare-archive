@@ -1,0 +1,201 @@
+{
+  "_meta": {
+    "count": 11,
+    "kind": "district",
+    "name": "บางกรวย",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางกรวย",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลเมืองปลายบาง",
+      "district": "บางกรวย",
+      "id": "7c84966e40de13bc80967852",
+      "maskedId": "110xxxxxx1941",
+      "name": "กชกร แสงเปล่งปลั่ง",
+      "province": "นนทบุรี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%8A%E0%B8%81%E0%B8%A3-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปลายบาง",
+      "district": "บางกรวย",
+      "id": "27b8d352309260e42bd69138",
+      "maskedId": "110xxxxxx2171",
+      "name": "กรกฤช วงศ์ดี",
+      "province": "นนทบุรี",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%8A-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มหาสวัสดิ์",
+      "district": "บางกรวย",
+      "id": "7aa425b716df5a6e5d2f99f5",
+      "maskedId": "184xxxxxx2198",
+      "name": "กฤษพัฒน์ เข็มเพชร",
+      "province": "นนทบุรี",
+      "scoreChange": 15,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%81%E0%B8%A4%E0%B8%A9%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%82%E0%B9%87%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางขนุน",
+      "district": "บางกรวย",
+      "id": "06439208c363f4a952c530cc",
+      "maskedId": "112xxxxxx1570",
+      "name": "ชาญณรงค์ ดำสุวรรณ",
+      "province": "นนทบุรี",
+      "scoreChange": 55,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%94%E0%B8%B3%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปลายบาง",
+      "district": "บางกรวย",
+      "id": "094a01753c62043e9e04325d",
+      "maskedId": "110xxxxxx6398",
+      "name": "นภัสนันท์ ชัยชาญ",
+      "province": "นนทบุรี",
+      "scoreChange": 24,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%B2%E0%B8%8D",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกรวย",
+      "district": "บางกรวย",
+      "id": "67fef86500de0d66874e975d",
+      "maskedId": "136xxxxxx8126",
+      "name": "ปิยรัตน์ ชาวสวน",
+      "province": "นนทบุรี",
+      "scoreChange": 29,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%A7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.มหาสวัสดิ์",
+      "district": "บางกรวย",
+      "id": "8f4afcdad6bbe9a2ecf7a8bd",
+      "maskedId": "110xxxxxx0263",
+      "name": "ภัทรานิษฐ์ โชคอภิวงศ์",
+      "province": "นนทบุรี",
+      "scoreChange": 60,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B9%82%E0%B8%8A%E0%B8%84%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปลายบาง",
+      "district": "บางกรวย",
+      "id": "77e23976417ac111e9cc40f5",
+      "maskedId": "110xxxxxx3801",
+      "name": "วราพร นพกิจ",
+      "province": "นนทบุรี",
+      "scoreChange": 45,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%99%E0%B8%9E%E0%B8%81%E0%B8%B4%E0%B8%88",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองบางกรวย",
+      "district": "บางกรวย",
+      "id": "5c839bdfe17b0a1d2ef0433a",
+      "maskedId": "110xxxxxx2211",
+      "name": "อนัญญา เล็กนิกร",
+      "province": "นนทบุรี",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%81%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปลายบาง",
+      "district": "บางกรวย",
+      "id": "79a6cd1d69a09b6c8230573e",
+      "maskedId": "110xxxxxx7320",
+      "name": "อนุสิษฐ์ มากมูล",
+      "province": "นนทบุรี",
+      "scoreChange": 35,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%A1%E0%B8%B9%E0%B8%A5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลเมืองปลายบาง",
+      "district": "บางกรวย",
+      "id": "36a4f3a3d0ff4773372f0c21",
+      "maskedId": "110xxxxxx6561",
+      "name": "โชษิตา มุกดาสนิท",
+      "province": "นนทบุรี",
+      "scoreChange": 30,
+      "sources": [
+        {
+          "file": "03_นนทบุรี.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B9%82%E0%B8%8A%E0%B8%A9%E0%B8%B4%E0%B8%95%E0%B8%B2-%E0%B8%A1%E0%B8%B8%E0%B8%81%E0%B8%94%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%97",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    }
+  ]
+}

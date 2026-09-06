@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "count": 8,
+    "kind": "district",
+    "name": "บางคล้า",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "slug": "บางคล้า",
+    "snapshot": "2026-09-05",
+    "version": 1
+  },
+  "records": [
+    {
+      "agency": "เทศบาลตำบลบางคล้า",
+      "district": "บางคล้า",
+      "id": "f36eaea395c6ee4a8facd130",
+      "maskedId": "124xxxxxx9518",
+      "name": "ชนาธิป กลี่จินดา",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 26,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B8%81%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สาวชะโงก",
+      "district": "บางคล้า",
+      "id": "eb96417cade5ea972e79be44",
+      "maskedId": "125xxxxxx8005",
+      "name": "ธิดารัตน์ บุญยืน",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 23,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%98%E0%B8%B4%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B7%E0%B8%99",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.บางสวน",
+      "district": "บางคล้า",
+      "id": "6e51358c0f8a7d7aab26054b",
+      "maskedId": "170xxxxxx9116",
+      "name": "นิติภูมิ มารวย",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 31,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4-%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%A2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สาวชะโงก",
+      "district": "บางคล้า",
+      "id": "7b23ab1853a355c1febd6ba3",
+      "maskedId": "126xxxxxx6210",
+      "name": "ปาจรีย์ หอมจันทร์",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 18,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9B%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "เทศบาลตำบลบางคล้า",
+      "district": "บางคล้า",
+      "id": "2f25ffb8f99d97e5439dcbde",
+      "maskedId": "170xxxxxx5070",
+      "name": "พัชชญณัฐ งอกงามดี",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 22,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%9E%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%8D%E0%B8%93%E0%B8%B1%E0%B8%90-%E0%B8%87%E0%B8%AD%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%94%E0%B8%B5",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.สาวชะโงก",
+      "district": "บางคล้า",
+      "id": "45c9efaf0a816d2c9483b83c",
+      "maskedId": "126xxxxxx2890",
+      "name": "ภควัน เฉลิมพร",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 33,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A0%E0%B8%84%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A3",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.เสม็ดเหนือ",
+      "district": "บางคล้า",
+      "id": "8d23adf848ce4b7a9054251f",
+      "maskedId": "180xxxxxx6119",
+      "name": "ศราวุฒิ งามขํา",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 32,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B9%8D%E0%B8%B2",
+      "verificationSource": "ยืนยันจากข้อมูลต้นฉบับ (จังหวัดเดียว)"
+    },
+    {
+      "agency": "อบต.หัวไทร",
+      "district": "บางคล้า",
+      "id": "f745d4e99b526b142d2f2080",
+      "maskedId": "124xxxxxx5229",
+      "name": "สิทธิชัย รัศมี",
+      "province": "ฉะเชิงเทรา",
+      "scoreChange": 8,
+      "sources": [
+        {
+          "file": "15_ฉะเชิงเทรา.pdf",
+          "page": 1
+        }
+      ],
+      "url": "https://260816-karemairodnare.vercel.app/person/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A3%E0%B8%B1%E0%B8%A8%E0%B8%A1%E0%B8%B5",
+      "verificationSource": "ยืนยันจาก Facebook/เพจหน่วยงานหรือหน่วยงานรัฐ"
+    }
+  ]
+}
