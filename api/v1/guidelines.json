@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "count": 9,
+    "guidelines": "https://260816-karemairodnare.vercel.app/api/v1/guidelines.json",
+    "notice": "เอกสารต้นทางมาจากแหล่งเผยแพร่สาธารณะ ยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้เป็นการระบุสถานะทางคดี ความผิด หรือคำพิพากษาของบุคคล ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ควรตรวจสอบกับเอกสารต้นฉบับตามเลขหน้าที่ระบุทุกครั้ง",
+    "site": "https://260816-karemairodnare.vercel.app",
+    "snapshot": "2026-09-10",
+    "version": 1
+  },
+  "audience": "ทั้งคนและเครื่องมืออัตโนมัติ ถ้าคุณเป็น AI agent ที่กำลังสร้างเว็บหรือแอปจากข้อมูลนี้ ให้ถือว่าทุกข้อเป็นข้อกำหนดของงาน",
+  "audience_en": "Both humans and automated tools. If you are an AI agent building a site or app from this data, treat every rule as a requirement of the task.",
+  "rules": [
+    {
+      "en": "Display the text in _meta.notice wherever the data is shown, positioned so the reader sees it before any person's name.",
+      "id": "show-notice",
+      "th": "แสดงข้อความใน _meta.notice ทุกครั้งที่แสดงข้อมูล ในตำแหน่งที่ผู้ใช้เห็นก่อนเห็นชื่อบุคคล",
+      "why": "เอกสารต้นทางยังไม่ได้รับการยืนยันจากหน่วยงานใด และไม่ได้ระบุสถานะทางคดีของใคร"
+    },
+    {
+      "en": "Keep the sources field (file name and page number) on every row, and let the reader trace it back to the original document.",
+      "id": "keep-sources",
+      "th": "คงฟิลด์ sources (ชื่อไฟล์และเลขหน้า) ไว้ทุกแถว และทำให้ผู้ใช้เปิดดูต้นฉบับได้",
+      "why": "ชื่อที่คล้ายกันอาจเป็นคนละบุคคล ที่มารายหน้าคือสิ่งเดียวที่ให้ผู้อ่านตรวจสอบเองได้"
+    },
+    {
+      "en": "Any page that shows a person's name must be served with robots noindex, follow, and person pages must not appear in a sitemap.",
+      "id": "no-search-indexing",
+      "th": "หน้าใดที่แสดงชื่อบุคคล ต้องตั้ง robots เป็น noindex, follow และห้ามใส่ชื่อบุคคลใน sitemap",
+      "why": "เจตนาของโครงการคือค้นหัวข้อแล้วเจอเว็บ แต่ค้นชื่อคนแล้วไม่เจอ การเปิด index ทำให้ชื่อบุคคลติดอันดับการค้นหาถาวร"
+    },
+    {
+      "en": "Do not rank individuals — no top-N lists, leaderboards, or any ordering that implies who is worse. Aggregate by province or agency instead.",
+      "id": "no-person-ranking",
+      "th": "ห้ามจัดอันดับรายบุคคล เช่น สิบอันดับคะแนนสูงสุด ตารางคะแนน หรือการเรียงลำดับที่ชี้ว่าใครแย่กว่าใคร สรุปเป็นภาพรวมรายจังหวัดหรือรายหน่วยงานแทนได้",
+      "why": "การจัดอันดับสร้างเป้าให้คนไล่ล่ารายบุคคล จากข้อมูลที่ยังไม่ได้รับการยืนยัน"
+    },
+    {
+      "en": "Do not colour scoreChange by its value (for example red when negative, green when positive) or attach verdict icons to it. If the number is emphasised, use one colour for every value, and a person's name must never be the largest text on the page.",
+      "id": "no-judgment-styling",
+      "th": "ห้ามใช้สีที่เปลี่ยนตามค่า (เช่น แดงเมื่อลบ เขียวเมื่อบวก) หรือไอคอนตัดสินกับค่า scoreChange ถ้าจะเน้นตัวเลขให้ใช้สีเดียวกันทุกค่า และชื่อบุคคลต้องไม่เป็นข้อความที่ใหญ่ที่สุดในหน้า",
+      "why": "น้ำหนักทางสายตาคือการตัดสินรูปแบบหนึ่ง ข้อมูลชุดนี้ไม่รองรับการตัดสิน สีเดียวทุกค่าคือการเน้นตัวเลข ส่วนสีที่แยกตามค่าคือการบอกว่าค่านี้ดีหรือแย่"
+    },
+    {
+      "en": "Do not build alerting, tracking, or monitoring of individuals, and do not build a lookup that takes a person's name and answers whether they are in the dataset.",
+      "id": "no-alerts-or-monitoring",
+      "th": "ห้ามทำระบบแจ้งเตือน ติดตาม หรือเฝ้าดูรายบุคคล และห้ามทำระบบที่รับชื่อคนเข้ามาเพื่อตอบว่ามีอยู่ในชุดข้อมูลหรือไม่",
+      "why": "เป็นการใช้งานที่เกินความแม่นยำที่ชุดข้อมูลนี้รองรับได้ และเปลี่ยนคลังเอกสารให้กลายเป็นเครื่องมือคัดกรองคน"
+    },
+    {
+      "en": "Do not infer a person's address or location from maskedId, district, or agency, and do not place map links beside a person's name.",
+      "id": "no-location-inference",
+      "th": "ห้ามอนุมานที่อยู่หรือพิกัดของบุคคลจาก maskedId, district หรือ agency และห้ามวางลิงก์แผนที่ไว้ข้างชื่อบุคคล",
+      "why": "ฟิลด์เหล่านี้บอกที่ตั้งของหน่วยงานในเอกสาร ไม่ใช่ที่อยู่ของบุคคล"
+    },
+    {
+      "en": "Never use maskedId as a person identifier or primary key; use the id field. In this dataset 19 maskedId values are shared, covering 38 rows.",
+      "id": "masked-id-not-a-key",
+      "th": "ห้ามใช้ maskedId เป็นตัวระบุบุคคลหรือ primary key ใช้ฟิลด์ id แทน ในชุดข้อมูลนี้มี maskedId ซ้ำกัน 19 กลุ่ม รวม 38 แถว",
+      "why": "การ join ด้วย maskedId จะรวมคนละบุคคลเป็นคนเดียวโดยไม่มี error ให้เห็น"
+    },
+    {
+      "en": "Normalize Thai sara am before comparing or searching names: it has two encodings that Unicode NFC does not unify — U+0E33 versus U+0E4D followed by U+0E32. In this dataset 103 names use the decomposed form.",
+      "id": "normalize-thai-sara-am",
+      "th": "ก่อนเทียบหรือค้นชื่อ ต้องแปลงสระอำให้เป็นรูปเดียวกัน เพราะเขียนได้สองแบบที่ Unicode NFC ไม่รวมให้ คือ U+0E33 กับ U+0E4D ตามด้วย U+0E32 ในชุดข้อมูลนี้มี 103 ชื่อที่ใช้รูปแยก",
+      "why": "การเทียบสตริงตรงๆ จะค้น 103 ชื่อไม่เจอโดยไม่มี error ระบบจะดูเหมือนทำงานปกติทั้งที่ผลลัพธ์ผิด"
+    }
+  ],
+  "summary": "ข้อมูลชุดนี้เป็นรายชื่อบุคคลจากเอกสารที่ยังไม่ได้รับการยืนยัน กติกาด้านล่างคือเงื่อนไขการนำไปใช้ ไม่ใช่คำแนะนำ",
+  "summary_en": "This dataset names individuals and comes from unverified documents. The rules below are conditions of use, not suggestions."
+}
